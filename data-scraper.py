@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import cloudscraper
+import numpy as np
+import pandas as pd
 
 '''
 PropertyGuru project query filter format:
@@ -22,11 +24,13 @@ STATE:
 johor, kedah, kelantan, melaka, ns, pahang, penang, perak, perlis, selangor, terengganu,
 sabah, sarawak, kl, labuan, putrajaya, other
 
+Gross Loan Repayment Rate:
+RM404 monthly /RM100k selling price (90% loan)
 '''
 
 MARKET = 'residential'
-TYPE = 'bungalow'
-STATE = 'kedah'
+TYPE = 'condo'
+STATE = 'penang'
 WITH_PRICE = 1
 FILE_NAME = ''
 
@@ -69,7 +73,7 @@ def BS_Prep(URL):
             time.sleep(0.1)
     return soup
 
-def Link_Scrapper(soup, with_price):
+def Link_Scraper(soup, with_price):
     wrapper = soup.find(id="wrapper-inner")
     projects = wrapper.find_all("div", itemtype="https://schema.org/Place")
     links = []
@@ -92,8 +96,38 @@ def Pagination(soup):
         pages = int(pagination.find_all("a")[-2]['data-page'])
         print(str(pages)+' pages will be scrapped.')
     return pages
-    
 
+def Property_Scraper(soup, link):
+    propname = soup.find("h1", class_="h2 text-transform-none").text.strip()
+    minsale = soup.find("span", class_="element-label price", itemprop="lowPrice")
+    maxsale = soup.find("span", class_="element-label price", itemprop="highPrice")
+    if maxsale:
+        maxsale = int(maxsale['content'])
+    else:
+        maxsale = np.nan
+    if minsale:
+        minsale = int(minsale['content'])
+    else:
+        minsale = maxsale
+    '''
+    if sale:
+        minsale = int(soup.find("span", class_="element-label price", itemprop="lowPrice").text.strip().replace(',',''))
+        maxsale = int(soup.find("span", class_="element-label price", itemprop="highPrice").text.strip().replace(',',''))
+    else:
+        minsale, maxsale = np.nan, np.nan
+    '''
+    rental = soup.find("div", class_="price-overview-row rentals")
+    if rental:
+        rentals = [int(r.text.strip().replace(',','')) for r in rental.find_all("span", class_="element-label price")]
+        if len(rentals)==2:
+            minrental, maxrental = rentals
+        else:
+            minrental, maxrental = rentals[0], rentals[0]
+    else:
+        minrental, maxrental = np.nan, np.nan
+    propinfo = [propname, minsale, maxsale, minrental, maxrental, HEADER2+link]
+    return propinfo
+'''
 HEADER = 'https://www.propertyguru.com.my/condo/search-project'
 QUERY = '?limit=500&market='+MARKET+property_type[TYPE]+state[STATE]+'&newProject=all'
 
@@ -101,15 +135,28 @@ soup = BS_Prep(HEADER+QUERY)
 pages = Pagination(soup)
 
 links = []
-links += Link_Scrapper(soup, WITH_PRICE)
+links += Link_Scraper(soup, WITH_PRICE)
 print('\rPage 1 done.', flush=True)
 
 for page in range(2,pages+1):
     page_URL = HEADER+'/'+str(page)+QUERY
     soup = BS_Prep(page_URL)
-    links += Link_Scrapper(soup, WITH_PRICE)
+    links += Link_Scraper(soup, WITH_PRICE)
     print('\rPage '+str(page)+' done.', flush=True)
 
-print(links)
 print(str(len(links))+' property links generated!')
-
+'''
+links = ['/condo/abel-residence-condominium-7937']
+HEADER2 = 'https://www.propertyguru.com.my'
+proplist = []
+for link in links:
+    soup = BS_Prep(HEADER2+link)
+    print(HEADER2+link+' loaded.')
+    propinfo = Property_Scraper(soup, link)
+    proplist.append(propinfo)
+df = pd.DataFrame(proplist, columns=['Name','MinSale','MaxSale','MinRental','MaxRental', 'URL'])
+print(df)
+#df.dropna(inplace=True)
+df.insert(5, 'Min % Coverage', df.MinSale/100000*404/df.MinRental*100)
+df.insert(6, 'Max % Coverage', df.MaxSale/100000*404/df.MaxRental*100)
+print(df)
