@@ -199,8 +199,8 @@ print(data)
 # Result into DataFrame and Analysis
 df = pd.DataFrame(data, columns=['PropertyName','MeanSale','MedianSale', 'NSale', 'MeanRental','MedianRental', 'NRental', 'URL'])
 df.dropna(inplace=True)
-df.insert(7, 'Mean%Coverage', df.MeanSale/100000*404/df.MeanRental*100)
-df.insert(8, 'Median%Coverage', df.MedianSale/100000*404/df.MedianRental*100)
+df.insert(7, 'Mean%Coverage', df.MeanRental*100/df.MeanSale/100000*404)
+df.insert(8, 'Median%Coverage', df.MedianRental*100/df.MedianSale/100000*404)
 
 # Data save to file
 df.to_csv(FILENAME, index=False)
