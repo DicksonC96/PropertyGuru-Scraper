@@ -31,9 +31,9 @@ sabah, sarawak, kl, labuan, putrajaya, other
 '''
 # Initialize your Query selection here:
 MARKET = 'residential'
-TYPE = 'bungalow'
+TYPE = 'condo'
 STATE = 'penang'
-FILE_NAME = ''
+FILE_NAME = 'example-output.csv'
 
 property_type = {'all':'',
         'bungalow':'&property_type_code%5B%5D=BUNG&property_type_code%5B%5D=LBUNG&property_type_code%5B%5D=ZBUNG&property_type_code%5B%5D=TWINV&property_type_code%5B%5D=TWINC&property_type=B',
@@ -62,16 +62,23 @@ state = {'all':'',
         'other':'&region_code=MY99'}
 
 def BS_Prep(URL):
-    exit_code = 1
-    while exit_code == 1:
+    trial = 0
+    while trial < 10:
         scraper = cloudscraper.create_scraper()
         s = scraper.get(URL)
         soup = BeautifulSoup(s.content, 'html.parser')
-        if "captcha" not in soup.text:
-            exit_code = 0
-        else:
-            print('Retrying...')
+        if "captcha" in soup.text:
+            trial += 1
+            print('Retrying ('+str(trial)+'/10)...')
             time.sleep(0.1)
+            continue
+        elif "No Results" in soup.text:
+            print('Invalid URL, skipping '+URL)
+            trial = 99
+        else:
+            trial = 99
+    if trial == 10:
+        print('Trial exceeded, skipping '+URL)
     return soup
 
 def Link_Scraper(soup, with_price):
@@ -136,16 +143,28 @@ def Listing_Link_Scraper(soup):
         prop = unit.find("a", class_="nav-link")
         sale = unit.find("a", class_="btn btn-primary-outline units_for_sale")["href"]
         rent = unit.find("a", class_="btn btn-primary-outline units_for_rent")["href"]
-        links.append((prop['title'],prop["href"],sale,rent))
+        links.append((prop['title'],prop["href"]))
     return(links)
 
 def Listing_Price_Scrapper(prop):
-    pname, plink, sale, rent = prop
-    sale_soup = BS_Prep(HEADER+sale+'?limit=500')
-    sale_list = [int(s.text.replace(',','').strip()) for s in sale_soup.find_all("span", class_="price")]
-    rent_soup = BS_Prep(HEADER+rent+'?limit=500')
-    rent_list = [int(r.text.replace(',','').strip()) for r in rent_soup.find_all("span", class_="price")]
-    return [pname, np.mean(sale_list), np.median(sale_list), len(sale_list), np.mean(rent_list), np.median(rent_list), len(rent_list), HEADER+plink]
+    pname, plink= prop
+    print('Scraping '+pname+' for sale...')
+    sale_soup = BS_Prep(HEADER+plink.replace('/condo/', '/property-for-sale/at-')+'?limit=500')
+    sale_list = []
+    for s in sale_soup.find_all("span", class_="price"):
+        try:
+            sale_list.append(float(s.text.split(' ')[-1].replace(',','').strip()))
+        except:
+            sale_list.append(np.nan)
+    print('Scraping '+pname+' for rent...')
+    rent_soup = BS_Prep(HEADER+plink.replace('/condo/', '/property-for-rent/at-')+'?limit=500')
+    rent_list = []
+    for r in rent_soup.find_all("span", class_="price"):
+        try:
+            rent_list.append(float(r.text.split(' ')[0].replace(',','').strip()))
+        except:
+            rent_list.append(np.nan)
+    return [pname, np.nanmean(sale_list), np.nanmedian(sale_list), len(sale_list), np.nanmean(rent_list), np.nanmedian(rent_list), len(rent_list), HEADER+plink]
 
 # Initialize URL
 HEADER = 'https://www.propertyguru.com.my'
@@ -164,20 +183,25 @@ print('\rPage 1 done.', flush=True)
 # Scrape subsequent pages
 for page in range(2, pages+1):
     soup = BS_Prep(HEADER+KEY+'/'+str(page)+QUERY)
-    props.append(Listing_Link_Scraper(soup))
+    props += Listing_Link_Scraper(soup)
     print('\rPage '+str(page)+' done.', flush=True)
 
 # Scrape prices for sale and rental of each properties
 data = []
-for prop in props:
-    print('Scraping '+prop[0]+'...')
-    data.append(Listing_Price_Scrapper(prop))
+print('A total of '+str(len(props))+' properties will be scraped.')
+for i, prop in enumerate(props):
+    p = Listing_Price_Scrapper(prop)
+    print(p)
+    print(str(i+1)+'/'+str(len(props))+' done!')
+    data.append(p)
 print(data)
 
 # Result into DataFrame and Analysis
 df = pd.DataFrame(data, columns=['PropertyName','MeanSale','MedianSale', 'NSale', 'MeanRental','MedianRental', 'NRental', 'URL'])
+df.dropna(inplace=True)
 df.insert(7, 'Mean%Coverage', df.MeanSale/100000*404/df.MeanRental*100)
 df.insert(8, 'Median%Coverage', df.MedianSale/100000*404/df.MedianRental*100)
 
 # Data save to file
-df.to_csv('example-output.csv', index=False)
+df.to_csv(FILENAME, index=False)
+print('Output file saved to /'+FILENAME)
