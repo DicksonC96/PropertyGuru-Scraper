@@ -1,4 +1,3 @@
-import requests
 from bs4 import BeautifulSoup
 import time
 import cloudscraper
@@ -6,7 +5,7 @@ import numpy as np
 import pandas as pd
 
 '''
-PropertyGuru project query filter format:
+##PropertyGuru project query filter format:
 
 MARKET (required):
 residential
@@ -24,14 +23,16 @@ STATE:
 johor, kedah, kelantan, melaka, ns, pahang, penang, perak, perlis, selangor, terengganu,
 sabah, sarawak, kl, labuan, putrajaya, other
 
-Gross Loan Repayment Rate:
-RM404 monthly /RM100k selling price (90% loan)
-'''
+##Script limitations:
+1. Only those properties with both sale and rental listed will be selected.
+2. Gross Loan Repayment Rate are pre-calculated as: RM404 monthly /RM100k selling price (90% loan, 3.5% IR, 30yrs)
+3. Rarely rental price will produce NaN failed to be scraped (will be fixed soon)
 
+'''
+# Initialize your Query selection here:
 MARKET = 'residential'
-TYPE = 'condo'
+TYPE = 'bungalow'
 STATE = 'penang'
-WITH_PRICE = 1
 FILE_NAME = ''
 
 property_type = {'all':'',
@@ -109,13 +110,7 @@ def Property_Scraper(soup, link):
         minsale = int(minsale['content'])
     else:
         minsale = maxsale
-    '''
-    if sale:
-        minsale = int(soup.find("span", class_="element-label price", itemprop="lowPrice").text.strip().replace(',',''))
-        maxsale = int(soup.find("span", class_="element-label price", itemprop="highPrice").text.strip().replace(',',''))
-    else:
-        minsale, maxsale = np.nan, np.nan
-    '''
+
     rental = soup.find("div", class_="price-overview-row rentals")
     if rental:
         rentals = [int(r.text.strip().replace(',','')) for r in rental.find_all("span", class_="element-label price")]
@@ -125,38 +120,64 @@ def Property_Scraper(soup, link):
             minrental, maxrental = rentals[0], rentals[0]
     else:
         minrental, maxrental = np.nan, np.nan
+
+    
+    
     propinfo = [propname, minsale, maxsale, minrental, maxrental, HEADER2+link]
     return propinfo
-'''
-HEADER = 'https://www.propertyguru.com.my/condo/search-project'
+
+def Listing_Link_Scraper(soup):
+    links = []
+    units = soup.find_all("div", itemtype="https://schema.org/Place")
+    for unit in units:
+        if unit.find("a", class_="btn btn-primary-outline units_for_sale disabled") or unit.find("a", class_="btn btn-primary-outline units_for_rent disabled"):
+            continue
+        #print(unit.find("a", class_="btn btn-primary-outline units_for_sale"), unit.find("a", class_="btn btn-primary-outline units_for_rent"))
+        prop = unit.find("a", class_="nav-link")
+        sale = unit.find("a", class_="btn btn-primary-outline units_for_sale")["href"]
+        rent = unit.find("a", class_="btn btn-primary-outline units_for_rent")["href"]
+        links.append((prop['title'],prop["href"],sale,rent))
+    return(links)
+
+def Listing_Price_Scrapper(prop):
+    pname, plink, sale, rent = prop
+    sale_soup = BS_Prep(HEADER+sale+'?limit=500')
+    sale_list = [int(s.text.replace(',','').strip()) for s in sale_soup.find_all("span", class_="price")]
+    rent_soup = BS_Prep(HEADER+rent+'?limit=500')
+    rent_list = [int(r.text.replace(',','').strip()) for r in rent_soup.find_all("span", class_="price")]
+    return [pname, np.mean(sale_list), np.median(sale_list), len(sale_list), np.mean(rent_list), np.median(rent_list), len(rent_list), HEADER+plink]
+
+# Initialize URL
+HEADER = 'https://www.propertyguru.com.my'
+KEY = '/condo/search-project'
 QUERY = '?limit=500&market='+MARKET+property_type[TYPE]+state[STATE]+'&newProject=all'
 
-soup = BS_Prep(HEADER+QUERY)
+# Load first page with Query and scrape no. of pages
+soup = BS_Prep(HEADER+KEY+QUERY)
 pages = Pagination(soup)
 
-links = []
-links += Link_Scraper(soup, WITH_PRICE)
+# Scrape links from first page for properties with both sale and rental listing
+props = []
+props += Listing_Link_Scraper(soup)
 print('\rPage 1 done.', flush=True)
 
-for page in range(2,pages+1):
-    page_URL = HEADER+'/'+str(page)+QUERY
-    soup = BS_Prep(page_URL)
-    links += Link_Scraper(soup, WITH_PRICE)
+# Scrape subsequent pages
+for page in range(2, pages+1):
+    soup = BS_Prep(HEADER+KEY+'/'+str(page)+QUERY)
+    props.append(Listing_Link_Scraper(soup))
     print('\rPage '+str(page)+' done.', flush=True)
 
-print(str(len(links))+' property links generated!')
-'''
-links = ['/condo/abel-residence-condominium-7937']
-HEADER2 = 'https://www.propertyguru.com.my'
-proplist = []
-for link in links:
-    soup = BS_Prep(HEADER2+link)
-    print(HEADER2+link+' loaded.')
-    propinfo = Property_Scraper(soup, link)
-    proplist.append(propinfo)
-df = pd.DataFrame(proplist, columns=['Name','MinSale','MaxSale','MinRental','MaxRental', 'URL'])
-print(df)
-#df.dropna(inplace=True)
-df.insert(5, 'Min % Coverage', df.MinSale/100000*404/df.MinRental*100)
-df.insert(6, 'Max % Coverage', df.MaxSale/100000*404/df.MaxRental*100)
-print(df)
+# Scrape prices for sale and rental of each properties
+data = []
+for prop in props:
+    print('Scraping '+prop[0]+'...')
+    data.append(Listing_Price_Scrapper(prop))
+print(data)
+
+# Result into DataFrame and Analysis
+df = pd.DataFrame(data, columns=['PropertyName','MeanSale','MedianSale', 'NSale', 'MeanRental','MedianRental', 'NRental', 'URL'])
+df.insert(7, 'Mean%Coverage', df.MeanSale/100000*404/df.MeanRental*100)
+df.insert(8, 'Median%Coverage', df.MedianSale/100000*404/df.MedianRental*100)
+
+# Data save to file
+df.to_csv('example-output.csv', index=False)
