@@ -30,7 +30,7 @@ jobs:
       run: |
         git config --local user.name github-actions
         git config --local user.email "action@github.com"
-        git add data/*.csv
+        git add *.csv
         if [[ $(git diff-index --cached HEAD) ]]; then
           git commit -m "Bimonthly data update"
           git tag -a `date "+v%Y%m%d"` -m "Bimonthly data update"
