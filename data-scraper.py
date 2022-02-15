@@ -4,36 +4,17 @@ import cloudscraper
 import numpy as np
 import pandas as pd
 
-'''
-##PropertyGuru project query filter format:
-
-MARKET (required):
-residential
-commercial
-
-PROPERTY_TYPE:
-all
-bungalow(Bungalow / Villa)
-condo(Apartment / Condo / Service Residence)
-semid(Semi-Detached House)
-terrace(Terrace / Link House)
-land(Residential Land)
-
-STATE:
-johor, kedah, kelantan, melaka, ns, pahang, penang, perak, perlis, selangor, terengganu,
-sabah, sarawak, kl, labuan, putrajaya, other
-
-##Script limitations:
-1. Only those properties with both sale and rental listed will be selected.
-2. Gross Loan Repayment Rate are pre-calculated as: RM404 monthly /RM100k selling price (90% loan, 3.5% IR, 30yrs)
-3. Rarely rental price will produce NaN failed to be scraped (will be fixed soon)
-
-'''
 # Initialize your Query selection here:
 MARKET = 'residential'
-TYPE = 'condo'
-STATE = 'penang'
-FILE_NAME = 'example-output.csv'
+TYPE = 'terrace'
+STATE = 'kl'
+
+# Initialize filenames (leave empty if not generating):
+PROPERTY_LIST = ''
+RAW_DATA = ''
+ANALYZED_DATA = 'terrace-kl-analyzed.csv' #'{}-{}-analyzed.csv'.format(TYPE,STATE)
+
+### CODE STARTS FROM HERE ###
 
 property_type = {'all':'',
         'bungalow':'&property_type_code%5B%5D=BUNG&property_type_code%5B%5D=LBUNG&property_type_code%5B%5D=ZBUNG&property_type_code%5B%5D=TWINV&property_type_code%5B%5D=TWINC&property_type=B',
@@ -69,7 +50,7 @@ def BS_Prep(URL):
         soup = BeautifulSoup(s.content, 'html.parser')
         if "captcha" in soup.text:
             trial += 1
-            print('Retrying ('+str(trial)+'/10)...')
+            print('Retrying ('+str(trial)+'/10) ...')
             time.sleep(0.1)
             continue
         elif "No Results" in soup.text:
@@ -99,10 +80,8 @@ def Pagination(soup):
     pagination = wrapper.find("ul", class_="pagination")
     if pagination.find_all("li", class_="pagination-next disabled"):
         pages = int(pagination.find_all("a")[0]['data-page'])
-        print(str(pages)+' page will be scrapped.')
     else:
         pages = int(pagination.find_all("a")[-2]['data-page'])
-        print(str(pages)+' pages will be scrapped.')
     return pages
 
 def Property_Scraper(soup, link):
@@ -139,32 +118,32 @@ def Listing_Link_Scraper(soup):
     for unit in units:
         if unit.find("a", class_="btn btn-primary-outline units_for_sale disabled") or unit.find("a", class_="btn btn-primary-outline units_for_rent disabled"):
             continue
-        #print(unit.find("a", class_="btn btn-primary-outline units_for_sale"), unit.find("a", class_="btn btn-primary-outline units_for_rent"))
         prop = unit.find("a", class_="nav-link")
-        sale = unit.find("a", class_="btn btn-primary-outline units_for_sale")["href"]
-        rent = unit.find("a", class_="btn btn-primary-outline units_for_rent")["href"]
-        links.append((prop['title'],prop["href"]))
+        links.append((prop['title'],HEADER+prop["href"]))
     return(links)
 
 def Listing_Price_Scrapper(prop):
     pname, plink= prop
-    print('Scraping '+pname+' for sale...')
-    sale_soup = BS_Prep(HEADER+plink.replace('/condo/', '/property-for-sale/at-')+'?limit=500')
+    #print('Scraping '+pname+' for sale ...')
+    error_counter = 0
+    sale_soup = BS_Prep(plink.replace('/condo/', '/property-for-sale/at-')+'?limit=500')
     sale_list = []
     for s in sale_soup.find_all("span", class_="price"):
         try:
             sale_list.append(float(s.text.split(' ')[-1].replace(',','').strip()))
         except:
             sale_list.append(np.nan)
-    print('Scraping '+pname+' for rent...')
-    rent_soup = BS_Prep(HEADER+plink.replace('/condo/', '/property-for-rent/at-')+'?limit=500')
+            error_counter += 1
+    #print('Scraping '+pname+' for rent ...')
+    rent_soup = BS_Prep(plink.replace('/condo/', '/property-for-rent/at-')+'?limit=500')
     rent_list = []
     for r in rent_soup.find_all("span", class_="price"):
         try:
             rent_list.append(float(r.text.split(' ')[0].replace(',','').strip()))
         except:
             rent_list.append(np.nan)
-    return [pname, np.nanmean(sale_list), np.nanmedian(sale_list), len(sale_list), np.nanmean(rent_list), np.nanmedian(rent_list), len(rent_list), HEADER+plink]
+            error_counter += 1
+    return [pname, np.nanmean(sale_list), np.nanmedian(sale_list), np.nanmean(rent_list), np.nanmedian(rent_list), len(sale_list), len(rent_list), error_counter, plink]
 
 # Initialize URL
 HEADER = 'https://www.propertyguru.com.my'
@@ -172,36 +151,50 @@ KEY = '/condo/search-project'
 QUERY = '?limit=500&market='+MARKET+property_type[TYPE]+state[STATE]+'&newProject=all'
 
 # Load first page with Query and scrape no. of pages
+print('\n===================================================\nPropertyGuru Property Listing Scraper v1.0\nAuthor: DicksonC\n===================================================\n')
+time.sleep(2)
+print('Job initiated with query on {} in {}.'.format(TYPE, STATE))
+print('\nLoading '+HEADER+KEY+QUERY+' ...\n')
 soup = BS_Prep(HEADER+KEY+QUERY)
 pages = Pagination(soup)
+print(str(pages)+' page will be scrapped.\n')
 
 # Scrape links from first page for properties with both sale and rental listing
 props = []
 props += Listing_Link_Scraper(soup)
-print('\rPage 1 done.', flush=True)
+print('\rPage 1/{} done.'.format(str(pages)))
 
 # Scrape subsequent pages
 for page in range(2, pages+1):
     soup = BS_Prep(HEADER+KEY+'/'+str(page)+QUERY)
     props += Listing_Link_Scraper(soup)
-    print('\rPage '+str(page)+' done.', flush=True)
+    print('\rPage {}/{} done.'.format(str(page), str(pages)))
+
+if PROPERTY_LIST:
+    list_df = pd.DataFrame(props, columns=['PropertyName', 'URL'])
+    list_df.to_csv(PROPERTY_LIST, index=False)
+    print('\nProperty list saved to {}'.format(PROPERTY_LIST))
 
 # Scrape prices for sale and rental of each properties
 data = []
-print('A total of '+str(len(props))+' properties will be scraped.')
+print('\nA total of '+str(len(props))+' properties will be scraped.\n')
 for i, prop in enumerate(props):
     p = Listing_Price_Scrapper(prop)
-    print(p)
+    #print(p)
     print(str(i+1)+'/'+str(len(props))+' done!')
+    #print('')
     data.append(p)
-print(data)
 
 # Result into DataFrame and Analysis
-df = pd.DataFrame(data, columns=['PropertyName','MeanSale','MedianSale', 'NSale', 'MeanRental','MedianRental', 'NRental', 'URL'])
+df = pd.DataFrame(data, columns=['PropertyName','MeanSale','MedianSale','MeanRental','MedianRental','NSale','NRental','NError','URL'])
+if RAW_DATA:
+    df.to_csv(RAW_DATA, index=False)
+    print('Raw data saved to {}'.format(RAW_DATA))
+
 df.dropna(inplace=True)
-df.insert(7, 'Mean%Coverage', df.MeanRental*100/df.MeanSale/100000*404)
-df.insert(8, 'Median%Coverage', df.MedianRental*100/df.MedianSale/100000*404)
+#df.insert(5, 'Mean%Coverage', df.MeanRental*100/df.MeanSale/100000*404)
+df.insert(5, '%toBreakEven', df.MedianRental*100/df.MedianSale*100000/404)
 
 # Data save to file
-df.to_csv(FILENAME, index=False)
-print('Output file saved to /'+FILENAME)
+df.to_csv(ANALYZED_DATA, index=False)
+print('Analyzed data saved to {}\n\nDone scraping {} properties!'.format(ANALYZED_DATA,str(len(props))))
