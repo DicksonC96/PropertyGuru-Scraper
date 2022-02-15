@@ -4,6 +4,7 @@ import cloudscraper
 import numpy as np
 import pandas as pd
 
+### Section 1:Query Selection ###
 # Initialize your Query selection here:
 MARKET = 'residential'
 TYPE = 'terrace'
