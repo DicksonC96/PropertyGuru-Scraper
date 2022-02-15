@@ -1,0 +1,41 @@
+
+name: Data Updater
+
+on:
+  push:
+    paths:
+      - '.github/workflows/data-updater.yml'
+      - 'data-scraper.py'
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '0 8 1,15 * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: python -m pip install --upgrade pip
+    - name: Data scraping and export
+      run: python data-scraper.py
+    - name: Commit & push data updates
+      run: |
+        git config --local user.name github-actions
+        git config --local user.email "action@github.com"
+        git add data/*.csv
+        if [[ $(git diff-index --cached HEAD) ]]; then
+          git commit -m "Bimonthly data update"
+          git tag -a `date "+v%Y%m%d"` -m "Bimonthly data update"
+          git push origin master --tags
+        fi
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
