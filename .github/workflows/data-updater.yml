@@ -25,16 +25,16 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Data scraping and export
-      run: python data-scraper.py
+      run: python -u data-scraper.py
     - name: Commit & push data updates
       run: |
         git config --local user.name github-actions
         git config --local user.email "action@github.com"
         git add *.csv
         if [[ $(git diff-index --cached HEAD) ]]; then
-          git commit -m "Bimonthly data update"
+          git commit -m "Example data output"
           git tag -a `date "+v%Y%m%d"` -m "Bimonthly data update"
-          git push origin master --tags
+          git push origin main --follow-tags
         fi
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}

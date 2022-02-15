@@ -6,11 +6,14 @@
 - Any suggestions/collabs are very much welcomed!
 
 ## Instruction:
-Simple! Just modify the Query Selection value of your choices. (Default: Residential Terraces in KL)  
-P/S: Refer to documentation below for the keywords
+1. Download [data-scraper.py](https://raw.githubusercontent.com/DicksonC96/PropertyGuru-Scraper/main/data-scraper.py) (right-click and download).
+2. Modify __Section 1:Query Selection__ with keywords of your choice. (default: Residential Terraces in KL).
+3. Run the script with [python](https://www.python.org/).
+4. Enjoyy!
+P/S: Refer documentation below for the keywords
 
 ## Documentation:
-### Query filter keywords (select one for each category):
+### Query selection keywords (select one for each category):
 |Category|Keywords|
 |--|--|
 |MARKET|residential, commercial (not tested)|
@@ -26,3 +29,16 @@ P/S: Refer to documentation below for the keywords
 5. Rental-installment break-even percentage formula:
 > Break-even = ( rental / (sale/100k*404) ) * 100 %
 
+### Data Analysis
+|Column|Description|
+|--|--|
+|PropertyName|Name of the property|
+|MeanSale|Mean of the listed selling prices|
+|MedianSale|Median of the listed selling prices|
+|MeanRental|Mean of the listed rental prices|
+|MedianRental|Median of the listed rental prices|
+|%toBreakEven|Rental-installment break-even percentage based on median|
+|NSale|Number of properties for sale listed|
+|NRental|Number of properties for rent listed|
+|NError|Number of listings with invalid price stated|
+|URL|Direct link to the property site on PropertyGuru.com|
