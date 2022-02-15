@@ -34,9 +34,7 @@ jobs:
         if [[ $(git diff-index --cached HEAD) ]]; then
           git commit -m "Example data output"
           git tag -a `date "+v%Y%m%d"` -m "Bimonthly data update"
-          BRANCH = $(git branch)
-          echo $BRANCH
-          git push origin master --follow-tags
+          git push origin main --follow-tags
         fi
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
