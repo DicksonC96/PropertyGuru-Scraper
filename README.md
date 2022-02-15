@@ -20,8 +20,9 @@ P/S: Refer to documentation below for the keywords
 ### Quick Notes:
 1. The degree of high-balling are assumed to be the same for both selling and renting prices scraped.
 2. Only those properties with both sale and rental listed will be selected.
-3. Rarely rental price will produce NaN failed to be scraped (will be fixed soon)
-4. Default analysis will remove NaN entries and calculate break-even % as followed:
-> Gross Rental-Installment Break-even Rate:
+3. Default analysis will remove NaN entries and calculate break-even percentages.
+4. Monthly installment assumption:
 > RM404 monthly installment /RM100k selling price (90% loan, 3.5% IR, 30yrs)
+5. Rental-installment break-even percentage formula:
+> Break-even = ( rental / (sale/100k*404) ) * 100 %
 
