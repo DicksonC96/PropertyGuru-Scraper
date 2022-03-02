@@ -14,7 +14,7 @@ STATE = 'kl'
 # Initialize filenames (leave empty if not generating):
 PROPERTY_LIST = ''
 RAW_DATA = ''
-ANALYZED_DATA = '{}-{}-{}.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
+ANALYZED_DATA = './data/{}-{}-{}.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
 
 ### CODE STARTS FROM HERE ###
 
