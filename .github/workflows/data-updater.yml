@@ -4,7 +4,7 @@ name: Data Updater
 on:
   push:
     paths:
-      - '.github/workflows/data-updater.yml'
+      #- '.github/workflows/data-updater.yml'
       - 'data-scraper.py'
   pull_request:
     branches: [ main ]
@@ -33,7 +33,7 @@ jobs:
         git pull
         git add *.csv
         if [[ $(git diff-index --cached HEAD) ]]; then
-          git commit -m "Example data output"
+          git commit -m "Monthly data update"
           git tag -a `date "+v%Y%m%d"` -m "Monthly data update"
           git push origin main --follow-tags
         fi
