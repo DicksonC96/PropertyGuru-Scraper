@@ -4,6 +4,7 @@
 - Currently supports state and property type filters only (ping me if you need more precise/personalized filters)
 - Strictly for educational purposes only.
 - Any suggestions/collabs are very much welcomed!
+- [Condo-KL datasets](https://github.com/DicksonC96/PropertyGuru-Scraper/tree/main/data) (updated monthly)
 
 ## Instruction:
 1. Download [data-scraper.py](https://raw.githubusercontent.com/DicksonC96/PropertyGuru-Scraper/main/data-scraper.py) (right-click and download).
