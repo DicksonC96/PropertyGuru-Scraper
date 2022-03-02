@@ -8,7 +8,7 @@
 
 ## Instruction:
 1. Download [data-scraper.py](https://raw.githubusercontent.com/DicksonC96/PropertyGuru-Scraper/main/data-scraper.py) (right-click and download).
-2. Modify __Section 1:Query Selection__ with keywords of your choice. (default: Residential Terraces in KL).
+2. Modify __Section 1:Query Selection__ with keywords of your choice. (default: Residential Highrises in KL).
 3. Run the script with [python](https://www.python.org/).
 4. Enjoyy!
 P/S: Refer documentation below for the keywords
