@@ -5,7 +5,7 @@ on:
   push:
     paths:
       #- '.github/workflows/data-updater.yml'
-      #- 'data-scraper.py'
+      - 'data-scraper.py'
   pull_request:
     branches: [ main ]
   schedule:
