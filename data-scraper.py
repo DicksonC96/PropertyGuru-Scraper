@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import time
+from datetime import date
 import cloudscraper
 import numpy as np
 import pandas as pd
@@ -7,13 +8,13 @@ import pandas as pd
 ### Section 1:Query Selection ###
 # Initialize your Query selection here:
 MARKET = 'residential'
-TYPE = 'terrace'
+TYPE = 'condo'
 STATE = 'kl'
 
 # Initialize filenames (leave empty if not generating):
 PROPERTY_LIST = ''
 RAW_DATA = ''
-ANALYZED_DATA = 'terrace-kl-analyzed.csv' #'{}-{}-analyzed.csv'.format(TYPE,STATE)
+ANALYZED_DATA = '{}-{}-{}.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
 
 ### CODE STARTS FROM HERE ###
 
@@ -62,19 +63,6 @@ def BS_Prep(URL):
     if trial == 10:
         print('Trial exceeded, skipping '+URL)
     return soup
-
-def Link_Scraper(soup, with_price):
-    wrapper = soup.find(id="wrapper-inner")
-    projects = wrapper.find_all("div", itemtype="https://schema.org/Place")
-    links = []
-    for project in projects:
-        if with_price==1:
-            if not project.find("span", class_="list-price__start"):
-                continue
-        info = project.find("a", class_="nav-link")
-        link = info["href"]
-        links.append(link)
-    return links
         
 def Pagination(soup):
     wrapper = soup.find(id="wrapper-inner")
@@ -84,34 +72,6 @@ def Pagination(soup):
     else:
         pages = int(pagination.find_all("a")[-2]['data-page'])
     return pages
-
-def Property_Scraper(soup, link):
-    propname = soup.find("h1", class_="h2 text-transform-none").text.strip()
-    minsale = soup.find("span", class_="element-label price", itemprop="lowPrice")
-    maxsale = soup.find("span", class_="element-label price", itemprop="highPrice")
-    if maxsale:
-        maxsale = int(maxsale['content'])
-    else:
-        maxsale = np.nan
-    if minsale:
-        minsale = int(minsale['content'])
-    else:
-        minsale = maxsale
-
-    rental = soup.find("div", class_="price-overview-row rentals")
-    if rental:
-        rentals = [int(r.text.strip().replace(',','')) for r in rental.find_all("span", class_="element-label price")]
-        if len(rentals)==2:
-            minrental, maxrental = rentals
-        else:
-            minrental, maxrental = rentals[0], rentals[0]
-    else:
-        minrental, maxrental = np.nan, np.nan
-
-    
-    
-    propinfo = [propname, minsale, maxsale, minrental, maxrental, HEADER2+link]
-    return propinfo
 
 def Listing_Link_Scraper(soup):
     links = []
@@ -125,7 +85,6 @@ def Listing_Link_Scraper(soup):
 
 def Listing_Price_Scrapper(prop):
     pname, plink= prop
-    #print('Scraping '+pname+' for sale ...')
     error_counter = 0
     sale_soup = BS_Prep(plink.replace('/condo/', '/property-for-sale/at-')+'?limit=500')
     sale_list = []
@@ -135,7 +94,6 @@ def Listing_Price_Scrapper(prop):
         except:
             sale_list.append(np.nan)
             error_counter += 1
-    #print('Scraping '+pname+' for rent ...')
     rent_soup = BS_Prep(plink.replace('/condo/', '/property-for-rent/at-')+'?limit=500')
     rent_list = []
     for r in rent_soup.find_all("span", class_="price"):
@@ -181,9 +139,7 @@ data = []
 print('\nA total of '+str(len(props))+' properties will be scraped.\n')
 for i, prop in enumerate(props):
     p = Listing_Price_Scrapper(prop)
-    #print(p)
     print(str(i+1)+'/'+str(len(props))+' done!')
-    #print('')
     data.append(p)
 
 # Result into DataFrame and Analysis
