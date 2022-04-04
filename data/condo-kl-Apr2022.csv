@@ -1,0 +1,695 @@
+PropertyName,MeanSale,MedianSale,MeanRental,MedianRental,%toBreakEven,NSale,NRental,NError,URL
+Bangsar Hill Park,1174200.0,835000.0,5000.0,5000.0,148.21841465583682,20,1,0,https://www.propertyguru.com.my/condo/bangsar-hill-park-16389
+Residential Parcel 3,770000.0,770000.0,2200.0,2200.0,70.72135785007072,1,1,0,https://www.propertyguru.com.my/condo/residential-parcel-3-17441
+M3 Residency,412250.0,435000.0,1305.0,1350.0,76.81802663024924,20,20,0,https://www.propertyguru.com.my/condo/m3-residency-4673
+UNIO Residence,663900.0,646000.0,1850.0,2000.0,76.63305030193422,20,12,0,https://www.propertyguru.com.my/condo/unio-residence-9795
+Pangsapuri Permai,226333.33333333334,190000.0,887.5,900.0,117.24856696195934,6,4,0,https://www.propertyguru.com.my/condo/pangsapuri-permai-16812
+Establishment Bangsar (Menara Teguh Bangsar),644500.0,624000.0,2062.5,1900.0,75.36811373445036,4,20,0,https://www.propertyguru.com.my/condo/establishment-bangsar-menara-teguh-bangsar-15504
+Sunway Velocity - Service Apartment,841300.0,836500.0,2540.0,2500.0,73.97631574275181,10,20,0,https://www.propertyguru.com.my/condo/sunway-velocity-service-apartment-14597
+United Garden (Taman Lee Yan Lian),2300000.0,2300000.0,1000.0,1000.0,10.761945759793372,1,1,0,https://www.propertyguru.com.my/condo/united-garden-taman-lee-yan-lian-17165
+Sri Harmonis Apartment,252000.0,250000.0,800.0,800.0,79.20792079207921,5,1,0,https://www.propertyguru.com.my/condo/sri-harmonis-apartment-2462
+Apartment Pantai Indah Fasa 1,295750.0,282500.0,1000.0,1000.0,87.61938140716727,4,1,0,https://www.propertyguru.com.my/condo/apartment-pantai-indah-fasa-1-16832
+Menara Bintang Goldhill,1192833.3333333333,919000.0,2550.0,2450.0,65.98864456630648,12,20,0,https://www.propertyguru.com.my/condo/menara-bintang-goldhill-14682
+Arte Plus Jalan Ampang,502435.0,495000.0,1682.5,1600.0,80.00800080008001,20,20,0,https://www.propertyguru.com.my/condo/arte-plus-jalan-ampang-6650
+Arte @ Kuchai Lama,806675.0,824000.0,2637.45,2700.0,81.10641161203499,20,20,0,https://www.propertyguru.com.my/condo/arte-kuchai-lama-6959
+Pavilion Suites,2646818.1818181816,2455000.0,5751.727272727273,4500.0,45.371135891593234,22,22,0,https://www.propertyguru.com.my/condo/pavilion-suites-9735
+Westside III,1313319.4,1335000.0,4589.4,4500.0,83.43530982311715,20,20,0,https://www.propertyguru.com.my/condo/westside-iii-9737
+The Holmes Bandar Tun Razak,465999.95,470000.0,1509.4285714285713,1599.0,84.21108068253635,20,21,0,https://www.propertyguru.com.my/condo/the-holmes-bandar-tun-razak-9596
+Casa Green @ Bukit Jalil,532599.85,527000.0,1713.45,1925.0,90.41463918687884,20,20,0,https://www.propertyguru.com.my/condo/casa-green-bukit-jalil-9632
+EkoCheras Service Apartment,533569.9047619047,500000.0,2089.95,2000.0,99.00990099009901,21,20,0,https://www.propertyguru.com.my/condo/ekocheras-service-apartment-9662
+Parc 3,665578.8947368421,650000.0,2138.0476190476193,2099.0,79.93145468392993,19,21,0,https://www.propertyguru.com.my/condo/parc-3-9654
+Kenwingston Avenue @ Sungai Besi,455649.9,415000.0,1822.5,1750.0,104.37790767028511,20,20,0,https://www.propertyguru.com.my/condo/kenwingston-avenue-sungai-besi-9657
+Residensi Rampai II,469800.0,480000.0,1577.3,1599.0,82.45668316831683,5,20,0,https://www.propertyguru.com.my/condo/residensi-rampai-ii-9686
+Residensi Ampang Tengah 6 (‘AT 6’),3793250.0,3573000.0,12750.0,12750.0,88.32747254574323,20,2,0,https://www.propertyguru.com.my/condo/residensi-ampang-tengah-6-at-6-9697
+Residensi Far East @ Kuchai Lama,598349.95,549999.5,2092.2,2199.5,98.98748872850011,20,20,0,https://www.propertyguru.com.my/condo/residensi-far-east-kuchai-lama-9702
+"Tropicana The Residences, KLCC",2633850.0,1700000.0,4495.0,3500.0,50.96097845078626,20,20,0,https://www.propertyguru.com.my/condo/tropicana-the-residences-klcc-9710
+"Ampang Puri, Ampang Hilir",3600000.0,3600000.0,4250.0,4250.0,29.22167216721672,1,2,0,https://www.propertyguru.com.my/condo/ampang-puri-ampang-hilir-8534
+"Boulevard Serviced Apartment, Jalan Ipoh",483400.0,487500.0,1254.4,1225.0,62.1985275450622,20,20,0,https://www.propertyguru.com.my/condo/boulevard-serviced-apartment-jalan-ipoh-8561
+"8 Kia Peng, KLCC",2702714.8,1530672.0,3662.5,3650.0,59.02409833946486,20,20,0,https://www.propertyguru.com.my/condo/8-kia-peng-klcc-8525
+"Desa Satu, Kepong",156200.0,154000.0,628.5,600.0,96.43821525009643,20,20,0,https://www.propertyguru.com.my/condo/desa-satu-kepong-8621
+"Enesta, Kepong",656000.0,595000.0,1109.9,1000.0,41.60079873533572,5,20,0,https://www.propertyguru.com.my/condo/enesta-kepong-8642
+"Fortune Court, Kepong",288583.3333333333,260000.0,923.5714285714286,1050.0,99.96191926884995,12,14,0,https://www.propertyguru.com.my/condo/fortune-court-kepong-8657
+"Kondo Rakyat, Pantai",213125.0,205000.0,750.0,750.0,90.55783627143202,8,1,0,https://www.propertyguru.com.my/condo/kondo-rakyat-pantai-8735
+"Lexa Residence @ The Quartz, Wangsa Maju",514544.4,495000.0,1894.85,1899.5,94.98449844984498,20,20,0,https://www.propertyguru.com.my/condo/lexa-residence-the-quartz-wangsa-maju-8774
+"Mutiara Apartment, Old Klang Road",240000.0,245000.0,910.0,900.0,90.92746009294807,11,3,0,https://www.propertyguru.com.my/condo/mutiara-apartment-old-klang-road-8819
+"Peninsular Residence, Damansara Heights",349333.3333333333,296500.0,1250.0,1250.0,104.35276242632695,6,1,0,https://www.propertyguru.com.my/condo/peninsular-residence-damansara-heights-8882
+"Pantai Permai, Pantai",233000.0,225000.0,1050.0,1050.0,115.51155115511551,6,2,0,https://www.propertyguru.com.my/condo/pantai-permai-pantai-8864
+"Sky Residence @ Shamelin, Cheras",466300.0,467500.0,1724.95,1700.0,90.00900090009002,20,20,0,https://www.propertyguru.com.my/condo/sky-residence-shamelin-cheras-8978
+"Taman LTAT, Bukit Jalil",265000.0,265000.0,1125.0,1125.0,105.08126284326546,2,2,0,https://www.propertyguru.com.my/condo/taman-ltat-bukit-jalil-9053
+"The Gardens, Mid Valley City",531454.5454545454,488000.0,4552.625,4368.0,221.55494237948383,11,8,0,https://www.propertyguru.com.my/condo/the-gardens-mid-valley-city-9092
+"The Ruma Residences, KLCC",2161999.8,1790000.0,5725.0,5000.0,69.14099231152164,20,20,0,https://www.propertyguru.com.my/condo/the-ruma-residences-klcc-9110
+"UBN Apartment, KLCC",1625000.0,1625000.0,3437.5,2400.0,36.55750190403656,2,16,0,https://www.propertyguru.com.my/condo/ubn-apartment-klcc-9128
+"Zen Suites @ ZetaPark, Setapak",314400.0,280000.0,1807.4,1799.5,159.07885431400283,20,20,0,https://www.propertyguru.com.my/condo/zen-suites-zetapark-setapak-9164
+"ARIA Luxury Residence, KLCC",1636758.9523809524,1549999.0,4890.0,4250.0,67.86973398175108,21,20,0,https://www.propertyguru.com.my/condo/aria-luxury-residence-klcc-9176
+"J.Dupion, Cheras",728944.3,675000.0,2269.75,2100.0,77.00770077007701,20,20,0,https://www.propertyguru.com.my/condo/j-dupion-cheras-9218
+"Section 2, Wangsa Maju",248750.0,245000.0,911.1111111111111,900.0,90.92746009294807,8,9,0,https://www.propertyguru.com.my/condo/section-2-wangsa-maju-9242
+"Sky Awani Residensi, Sentul",204400.0,204400.0,1317.5,1300.0,157.42768014570538,2,20,0,https://www.propertyguru.com.my/condo/sky-awani-residensi-sentul-9245
+"Sri Ampang Hilir, Desa Pandan",419250.0,400000.0,1654.5454545454545,1700.0,105.1980198019802,20,11,0,https://www.propertyguru.com.my/condo/sri-ampang-hilir-desa-pandan-9254
+"Sri TTDI, TTDI",840000.0,750000.0,2290.0,2300.0,75.9075907590759,5,5,0,https://www.propertyguru.com.my/condo/sri-ttdi-ttdi-9257
+"Wangsa 9 Residency, Wangsa Maju",1434785.0,1500000.0,3365.0,2800.0,46.20462046204621,20,20,0,https://www.propertyguru.com.my/condo/wangsa-9-residency-wangsa-maju-9287
+Platinum Teratai Residence,430340.0,438000.0,1587.35,1600.0,90.42000090420001,20,20,0,https://www.propertyguru.com.my/condo/platinum-teratai-residence-9756
+The Nest Residence @ Genting Klang,502793.4,495000.0,1687.4,1625.0,81.25812581258126,20,20,0,https://www.propertyguru.com.my/condo/the-nest-residence-genting-klang-9772
+GenKL,1035915.9,1021440.0,2804.75,3100.0,75.12205637857019,20,20,0,https://www.propertyguru.com.my/condo/genkl-9790
+Residensi Sefina Mont Kiara,1101165.0,947700.0,4202.45,3700.0,96.63834379639295,20,20,0,https://www.propertyguru.com.my/condo/residensi-sefina-mont-kiara-9800
+Kaleidoscope Residensi Setiawangsa,762105.2631578947,750000.0,2757.1428571428573,2800.0,92.40924092409242,20,7,1,https://www.propertyguru.com.my/condo/kaleidoscope-residensi-setiawangsa-9801
+Adora,1976300.0,2000000.0,5240.0,4500.0,55.693069306930695,20,5,0,https://www.propertyguru.com.my/condo/adora-9818
+Residensi Harmoni 2,801555.0,795500.0,2422.5,2350.0,73.12170563379405,20,20,0,https://www.propertyguru.com.my/condo/residensi-harmoni-2-9884
+M-Suite @ Bandar Manjalara,392800.0,370000.0,1467.8,1525.0,102.02033716885202,10,20,0,https://www.propertyguru.com.my/condo/m-suite-bandar-manjalara-9949
+Aurora Suites @ Bukit Jalil,433900.0,411500.0,1475.0,1500.0,90.22773480264188,10,20,0,https://www.propertyguru.com.my/condo/aurora-suites-bukit-jalil-9954
+Taman Daya,493464.0,393999.5,793.3333333333334,800.0,50.25889677022382,14,3,0,https://www.propertyguru.com.my/condo/taman-daya-9966
+Taman Mulia,1047500.0,1050000.0,1800.0,1800.0,42.43281471004243,6,1,0,https://www.propertyguru.com.my/condo/taman-mulia-12314
+Taman Sri Ehsan Apartment,257000.0,260000.0,900.0,900.0,85.68164508758568,4,1,0,https://www.propertyguru.com.my/condo/taman-sri-ehsan-apartment-12485
+Sri Jinjang Apartment (Pangsapuri Sri Jinjang),317950.0,330000.0,933.3333333333334,925.0,69.38193819381938,20,6,0,https://www.propertyguru.com.my/condo/sri-jinjang-apartment-pangsapuri-sri-jinjang-12480
+Kampung Datuk Keramat,7483333.333333333,8200000.0,1300.0,1300.0,3.924172905095388,6,3,0,https://www.propertyguru.com.my/condo/kampung-datuk-keramat-12722
+OG Court Pangsapuri Bukit Awansari,321800.0,292000.0,1311.0,1280.0,108.50400108504,20,9,0,https://www.propertyguru.com.my/condo/og-court-pangsapuri-bukit-awansari-12905
+Pinnacle,616500.0,600000.0,2189.95,2250.0,92.82178217821782,20,20,0,https://www.propertyguru.com.my/condo/pinnacle-13072
+M-Suites @ Embassy Row,670590.8,565000.0,2787.5,2175.0,95.28607728029439,15,4,0,https://www.propertyguru.com.my/condo/m-suites-embassy-row-13173
+Damai Residence @ Sungai Besi,491236.8,505434.0,1814.85,1825.0,89.37520492632603,20,20,0,https://www.propertyguru.com.my/condo/damai-residence-sungai-besi-13181
+Q SOVO,309500.0,309500.0,1400.0,1400.0,111.96596234744638,2,2,0,https://www.propertyguru.com.my/condo/q-sovo-13201
+pelangi condominium,440384.6153846154,405000.0,1675.0,1700.0,103.89927881677056,13,4,0,https://www.propertyguru.com.my/condo/pelangi-condominium-13441
+Bukit Prima Pelangi,1060818.1818181819,950000.0,2350.0,2350.0,61.229807191245435,11,1,0,https://www.propertyguru.com.my/condo/bukit-prima-pelangi-12191
+The Lumayan Apartment,358550.0,360000.0,1350.0,1350.0,92.82178217821782,20,4,0,https://www.propertyguru.com.my/condo/the-lumayan-apartment-12210
+Maxim Citylights,370889.5,355000.0,1489.9,1450.0,101.10165946172081,20,20,0,https://www.propertyguru.com.my/condo/maxim-citylights-12729
+Desa Pandan Apartment,311400.0,300000.0,916.6666666666666,900.0,74.25742574257426,20,3,0,https://www.propertyguru.com.my/condo/desa-pandan-apartment-13189
+Pangsa Murni Titiwangsa,350000.0,350000.0,1250.0,1250.0,88.40169731258841,1,1,0,https://www.propertyguru.com.my/condo/pangsa-murni-titiwangsa-13266
+V Residence 3 @ Sunway Velocity,1079394.95,1057025.0,2660.0,2400.0,56.201074330370055,20,20,0,https://www.propertyguru.com.my/condo/v-residence-3-sunway-velocity-13418
+Taman Setapak,678644.4,635000.0,2050.0,2050.0,79.90956575972557,20,2,0,https://www.propertyguru.com.my/condo/taman-setapak-13518
+Kiara East - DEX Suites,451600.0,425000.0,1563.5,1589.5,92.57425742574257,20,20,0,https://www.propertyguru.com.my/condo/kiara-east-dex-suites-13580
+Brem Park 2,425350.0,420000.0,1289.2857142857142,1250.0,73.66808109382367,20,14,0,https://www.propertyguru.com.my/condo/brem-park-2-13636
+Menara Damansara,443333.3333333333,415000.0,1520.0,1600.0,95.43122986997496,6,5,0,https://www.propertyguru.com.my/condo/menara-damansara-13799
+Mandarina Court,277400.0,272500.0,1124.75,1099.5,99.87283131982923,20,4,0,https://www.propertyguru.com.my/condo/mandarina-court-13801
+Astana Square,382000.0,382000.0,900.0,900.0,58.31735005961329,2,1,0,https://www.propertyguru.com.my/condo/astana-square-14051
+Pandan Terrace Apartment (Pandan Perdana),424666.6666666667,274000.0,933.3333333333334,1100.0,99.37125099371251,6,3,0,https://www.propertyguru.com.my/condo/pandan-terrace-apartment-pandan-perdana-14064
+Sunway Velocity TWO,672100.0,640000.0,2400.0,2300.0,88.95420792079207,20,10,0,https://www.propertyguru.com.my/condo/sunway-velocity-two-14103
+PV9 Residences @ Taman Melati,855000.0,855000.0,1300.0,1300.0,37.63534248161658,2,1,0,https://www.propertyguru.com.my/condo/pv9-residences-taman-melati-14162
+Vista Danau Kota Residensi Wilayah,400000.0,385000.0,1557.142857142857,1600.0,102.86742960010288,4,7,0,https://www.propertyguru.com.my/condo/vista-danau-kota-residensi-wilayah-14167
+UNA Serviced Apartment @ Jalan Peel,945562.0,893844.0,3142.5,3300.0,91.38414344878042,14,20,0,https://www.propertyguru.com.my/condo/una-serviced-apartment-jalan-peel-14175
+Infiniti3 Residences @ Wangsa Maju,769095.0,700000.0,2530.0,2400.0,84.86562942008486,20,20,0,https://www.propertyguru.com.my/condo/infiniti3-residences-wangsa-maju-14331
+3 Towers,643810.0,555000.0,1744.9,1499.5,66.87628222281688,20,20,0,https://www.propertyguru.com.my/condo/3-towers-14344
+Megan Setapak,180000.0,180000.0,850.0,850.0,116.88668866886688,1,1,0,https://www.propertyguru.com.my/condo/megan-setapak-16728
+Kapas Heights,5900000.0,5900000.0,15125.0,15000.0,62.9300218157409,1,8,0,https://www.propertyguru.com.my/condo/kapas-heights-16668
+Aira Residence,5811965.0,6565650.0,15545.0,15000.0,56.549942307748864,20,20,0,https://www.propertyguru.com.my/condo/aira-residence-15629
+12 Kapas,6600000.0,6200000.0,11000.0,11000.0,43.915681890769726,4,1,0,https://www.propertyguru.com.my/condo/12-kapas-16394
+Cheras Heights Condominium @ Taman Bukit Cheras,706600.0,630000.0,2000.0,2000.0,78.57928650007858,10,2,0,https://www.propertyguru.com.my/condo/cheras-heights-condominium-taman-bukit-cheras-16064
+Desa Petaling Flat,177055.55555555556,150000.0,716.6666666666666,750.0,123.76237623762377,9,3,0,https://www.propertyguru.com.my/condo/desa-petaling-flat-10292
+Trinity Lemanja,596597.5,550000.0,1462.5,1450.0,65.25652565256524,20,20,0,https://www.propertyguru.com.my/condo/trinity-lemanja-10289
+Avara Seputeh,683900.0,637000.0,2433.3333333333335,2500.0,97.1447223215257,20,3,0,https://www.propertyguru.com.my/condo/avara-seputeh-10395
+Taman Orkid Desa,605333.3333333334,565000.0,833.3333333333334,650.0,28.476298957329362,12,3,0,https://www.propertyguru.com.my/condo/taman-orkid-desa-10616
+Taman Sri Endah,821090.9090909091,1181000.0,800.0,800.0,16.76712971889907,11,1,0,https://www.propertyguru.com.my/condo/taman-sri-endah-11106
+Legend Height,618650.0,610000.0,1862.5,1900.0,77.09787372179841,20,20,0,https://www.propertyguru.com.my/condo/legend-height-11202
+Tuan Residency,531329.0,585000.0,1531.3,1565.0,66.21816027756621,20,20,0,https://www.propertyguru.com.my/condo/tuan-residency-11558
+ViiA Residence,1223057.4166666667,1225000.0,3714.5,3550.0,71.73166296221459,12,20,0,https://www.propertyguru.com.my/condo/viia-residence-11584
+Angkasa Impian 1,550461.6,599000.0,2204.85,1750.0,72.31524488008066,20,20,0,https://www.propertyguru.com.my/condo/angkasa-impian-1-11834
+Taman Bukit Desa,1142857.142857143,900000.0,2560.0,1800.0,49.504950495049506,7,5,0,https://www.propertyguru.com.my/condo/taman-bukit-desa-10062
+DC Residensi @ Damansara Heights,3592550.0,2550000.0,7160.0,5500.0,53.387691710347504,20,20,0,https://www.propertyguru.com.my/condo/dc-residensi-damansara-heights-10115
+Legasi Kampong Bharu,870255.75,850000.0,2799.9,2899.5,84.43506115317413,20,20,0,https://www.propertyguru.com.my/condo/legasi-kampong-bharu-10241
+1 Razak Mansion,318900.0,315000.0,1359.8,1599.0,125.64827911362565,10,5,0,https://www.propertyguru.com.my/condo/1-razak-mansion-10338
+Taman Sungai Besi,206666.5,212499.5,800.0,800.0,93.18600842834832,6,1,0,https://www.propertyguru.com.my/condo/taman-sungai-besi-10977
+Taman Setiawangsa,3100500.0,1220000.0,2700.0,2700.0,54.7800681707515,20,2,0,https://www.propertyguru.com.my/condo/taman-setiawangsa-10486
+Seksyen 10 Wangsa Maju,291950.0,267500.0,966.6666666666666,1100.0,101.7858795225317,8,3,0,https://www.propertyguru.com.my/condo/seksyen-10-wangsa-maju-11216
+Residensi Gembira 737,698000.0,698000.0,1277.45,1300.0,46.1005985985418,1,20,0,https://www.propertyguru.com.my/condo/residensi-gembira-737-11688
+Nidoz Residences @ Desa Petaling,771450.0,780000.0,2389.5,2750.0,87.26834221883728,20,20,0,https://www.propertyguru.com.my/condo/nidoz-residences-desa-petaling-11690
+PPR Raya Permai,169000.0,169000.0,650.0,650.0,95.2018278750952,1,2,0,https://www.propertyguru.com.my/condo/ppr-raya-permai-11745
+City Gardens Condominium,569818.1818181818,540000.0,2268.0,2294.0,105.15218188485515,11,16,0,https://www.propertyguru.com.my/condo/city-gardens-condominium-11788
+Residensi Jalan Jubilee,415000.0,415000.0,1500.0,1550.0,92.44900393653822,2,20,0,https://www.propertyguru.com.my/condo/residensi-jalan-jubilee-11814
+South Brooks,1060000.0,1045000.0,2878.5238095238096,2700.0,63.95376379743238,22,21,0,https://www.propertyguru.com.my/condo/south-brooks-10229
+TR Residence,671115.0,560000.0,1902.3333333333333,1800.0,79.56152758132957,20,21,0,https://www.propertyguru.com.my/condo/tr-residence-10228
+Taman Bukit Permai,756823.2941176471,900000.0,683.3333333333334,550.0,15.126512651265127,17,3,0,https://www.propertyguru.com.my/condo/taman-bukit-permai-10255
+Laman Tasik,506800.0,490000.0,2288.8888888888887,2300.0,116.18508789654476,20,9,0,https://www.propertyguru.com.my/condo/laman-tasik-10376
+Taman Angsana Hilir,442500.0,442500.0,1100.0,1100.0,61.531576886502215,2,1,0,https://www.propertyguru.com.my/condo/taman-angsana-hilir-11574
+Bandar Baru Sentul Flat,230833.33333333334,227500.0,962.4166666666666,949.5,103.3075835056033,6,12,0,https://www.propertyguru.com.my/condo/bandar-baru-sentul-flat-11600
+V Residence Suites @ Sunway Velocity,766752.5,775000.0,2190.0,2000.0,63.87735547748323,20,20,0,https://www.propertyguru.com.my/condo/v-residence-suites-sunway-velocity-11635
+Platinum Lake PV 21,438300.0,425000.0,1511.4,1475.0,85.90564938846825,20,20,0,https://www.propertyguru.com.my/condo/platinum-lake-pv-21-11636
+Sky Suites @ KLCC,1116354.4,1121500.0,2897.5,2950.0,65.10905214462596,20,20,0,https://www.propertyguru.com.my/condo/sky-suites-klcc-11800
+Residensi Alam Damai,413000.0,370000.0,1169.95,1100.0,73.58843992507359,6,20,0,https://www.propertyguru.com.my/condo/residensi-alam-damai-11829
+Desa Villa,619750.0,580000.0,1875.0,1800.0,76.81802663024924,20,10,0,https://www.propertyguru.com.my/condo/desa-villa-767
+The Meritz,1317250.0,1280000.0,3830.0,3550.0,68.64944306930693,20,20,0,https://www.propertyguru.com.my/condo/the-meritz-1004
+Merdeka Villa,315000.0,320000.0,1006.0,1000.0,77.35148514851485,20,5,0,https://www.propertyguru.com.my/condo/merdeka-villa-1017
+Pandan Court,327400.0,326500.0,1140.909090909091,1100.0,83.39271905751066,10,11,0,https://www.propertyguru.com.my/condo/pandan-court-1124
+Glenview Villa,389505.0,370000.0,1367.95,1300.0,86.96815627508698,20,20,0,https://www.propertyguru.com.my/condo/glenview-villa-1122
+Grandeur Tower,309898.9090909091,300000.0,1243.75,1250.0,103.13531353135315,11,8,0,https://www.propertyguru.com.my/condo/grandeur-tower-1123
+Taman Sri Sentosa,326428.4285714286,152500.0,830.0,800.0,129.84905047881838,14,5,0,https://www.propertyguru.com.my/condo/taman-sri-sentosa-1219
+Sentosa Court (Jalan Klang Lama),374000.0,374000.0,1100.0,1100.0,72.80139778683751,2,1,0,https://www.propertyguru.com.my/condo/sentosa-court-jalan-klang-lama-1276
+PPR Kampung Baru Air Panas,160000.0,160000.0,1164.2857142857142,1200.0,185.64356435643563,1,7,0,https://www.propertyguru.com.my/condo/ppr-kampung-baru-air-panas-16778
+Sucasa Corporate Apartments,494300.0,510000.0,1778.9473684210527,1800.0,87.361677344205,10,19,0,https://www.propertyguru.com.my/condo/sucasa-corporate-apartments-15198
+Skyville @ Benteng 8,521899.6,535000.0,1962.5,2000.0,92.53261774775609,5,12,0,https://www.propertyguru.com.my/condo/skyville-benteng-8-16460
+Royalle Condominium,548980.0,538585.0,2512.5,2225.0,102.2573176485468,16,4,0,https://www.propertyguru.com.my/condo/royalle-condominium-16430
+Bandar Tasik Selatan Low Cost Flat,194625.0,190000.0,950.0,950.0,123.76237623762377,8,2,0,https://www.propertyguru.com.my/condo/bandar-tasik-selatan-low-cost-flat-16444
+28 Residence @ Beverly Heights,1013000.0,1013000.0,4375.0,4375.0,106.90234867514393,2,2,0,https://www.propertyguru.com.my/condo/28-residence-beverly-heights-15632
+Pantai Indah Apartment (Fasa 2),295000.0,280000.0,1200.0,1200.0,106.08203677510608,5,1,0,https://www.propertyguru.com.my/condo/pantai-indah-apartment-fasa-2-16834
+The Ooak (Kiara 163),753988.8,749000.0,3062.5,3000.0,99.14209044402438,20,20,0,https://www.propertyguru.com.my/condo/the-ooak-kiara-163-9221
+"The Rainz, Bukit Jalil",1043900.0,995000.0,2983.0,3200.0,79.60595054480322,20,20,0,https://www.propertyguru.com.my/condo/the-rainz-bukit-jalil-9281
+Villa Ampang Condominium,549000.0,549000.0,1716.0,1780.0,80.25392703204747,2,5,0,https://www.propertyguru.com.my/condo/villa-ampang-condominium-62
+Vista Damai,738149.95,715000.0,2665.0,2400.0,83.08523160008309,20,20,0,https://www.propertyguru.com.my/condo/vista-damai-63
+Menara Bangsar,1502222.2222222222,1550000.0,4113.333333333333,4500.0,71.86202491216865,9,15,0,https://www.propertyguru.com.my/condo/menara-bangsar-101
+Sri Bayu (Bukit Bandaraya),1035000.0,985000.0,3000.0,3000.0,75.38824948484697,6,1,0,https://www.propertyguru.com.my/condo/sri-bayu-bukit-bandaraya-108
+Meadow Park 2,351449.9,349000.0,1196.5,1200.0,85.10879741269255,20,6,0,https://www.propertyguru.com.my/condo/meadow-park-2-381
+De Tropicana,315699.95,300000.0,1225.0,1225.0,101.07260726072607,20,20,0,https://www.propertyguru.com.my/condo/de-tropicana-363
+Villa Angsana,427550.0,395000.0,1387.5,1350.0,84.59706730166687,20,20,0,https://www.propertyguru.com.my/condo/villa-angsana-347
+Bukit OUG Condominiums,344050.0,360000.0,1222.45,1225.0,84.22717271727174,20,20,0,https://www.propertyguru.com.my/condo/bukit-oug-condominiums-358
+Nyaman Court,396666.6666666667,420000.0,1150.0,1150.0,67.77463460631779,3,2,0,https://www.propertyguru.com.my/condo/nyaman-court-384
+Stonor Park,3190612.5,3100000.0,8220.0,7480.0,59.72532737144683,20,8,0,https://www.propertyguru.com.my/condo/stonor-park-440
+The Westside One,1196523.8095238095,960000.0,4157.5,4075.0,105.06910066006601,21,20,0,https://www.propertyguru.com.my/condo/the-westside-one-470
+Vista Magna,296299.9,298500.0,1079.3529411764705,1000.0,82.9228651508367,20,17,0,https://www.propertyguru.com.my/condo/vista-magna-408
+Kiaramas Sutera,1194615.3846153845,1000000.0,3535.714285714286,3300.0,81.68316831683168,13,14,0,https://www.propertyguru.com.my/condo/kiaramas-sutera-461
+Enau Court,1043750.0,900000.0,3300.0,3300.0,90.75907590759076,8,1,0,https://www.propertyguru.com.my/condo/enau-court-428
+Kepong Central Condominium,280661.0,282500.0,1167.0,1150.0,100.76228861824235,20,20,0,https://www.propertyguru.com.my/condo/kepong-central-condominium-415
+Happy Court,192666.66666666666,178000.0,775.0,775.0,107.77060852152631,3,2,0,https://www.propertyguru.com.my/condo/happy-court-419
+Aman Satu,239714.2857142857,240000.0,986.1818181818181,1000.0,103.13531353135315,7,11,0,https://www.propertyguru.com.my/condo/aman-satu-411
+Setapak Ria,365000.0,349500.0,1221.357142857143,1100.0,77.9047861867732,20,14,0,https://www.propertyguru.com.my/condo/setapak-ria-574
+Platinum Lake PV 12,425649.95,427500.0,1689.9,1700.0,98.43089572115106,20,20,0,https://www.propertyguru.com.my/condo/platinum-lake-pv-12-568
+Langkawi Apartment,386666.6666666667,350000.0,1150.0,1150.0,81.32956152758132,3,2,0,https://www.propertyguru.com.my/condo/langkawi-apartment-551
+PV 10 Platinum Lake Condominium,415050.0,405000.0,1471.8,1500.0,91.67583425009167,20,20,0,https://www.propertyguru.com.my/condo/pv-10-platinum-lake-condominium-572
+Mahsuri Apartments,340352.9411764706,330000.0,1266.6666666666667,1200.0,90.00900090009002,17,3,0,https://www.propertyguru.com.my/condo/mahsuri-apartments-552
+Tar Villa,385000.0,385000.0,1400.0,1400.0,90.00900090009002,2,2,0,https://www.propertyguru.com.my/condo/tar-villa-588
+Vista Wira 1 & 2,386666.6666666667,340000.0,1161.111111111111,1000.0,72.80139778683751,3,9,0,https://www.propertyguru.com.my/condo/vista-wira-1-2-590
+Hartamas Regency I,904900.0,950000.0,3150.0,3000.0,78.1657113079729,20,20,0,https://www.propertyguru.com.my/condo/hartamas-regency-i-597
+Puncak Prima,557250.0,559500.0,2070.8333333333335,2000.0,88.48069793574533,16,12,0,https://www.propertyguru.com.my/condo/puncak-prima-603
+Endah Puri,529200.0,550000.0,1557.4,1500.0,67.50675067506751,20,20,0,https://www.propertyguru.com.my/condo/endah-puri-609
+Hartamas Regency II,1237300.0,1150000.0,3355.0,2900.0,62.41928540680154,20,20,0,https://www.propertyguru.com.my/condo/hartamas-regency-ii-598
+Mont Kiara Palma,1199550.0,937500.0,3055.0,3000.0,79.20792079207921,20,20,0,https://www.propertyguru.com.my/condo/mont-kiara-palma-601
+Windsor Tower,535049.9,484000.0,1757.4,1600.0,81.82636445462728,20,20,0,https://www.propertyguru.com.my/condo/windsor-tower-604
+Casa Desa Condominium,704094.4,665000.0,1880.0,1750.0,65.13809275664408,20,15,0,https://www.propertyguru.com.my/condo/casa-desa-condominium-613
+1 Desa Residence,1646666.6666666667,1595000.0,5500.0,5500.0,85.35336292249916,18,1,0,https://www.propertyguru.com.my/condo/1-desa-residence-612
+Endah Villa,379190.0,380000.0,1337.45,1399.5,91.1607608129234,20,20,0,https://www.propertyguru.com.my/condo/endah-villa-607
+Kiara View,1431750.0,1305000.0,3000.0,3000.0,56.902241948332765,12,3,0,https://www.propertyguru.com.my/condo/kiara-view-630
+Prima Court,722307.6923076923,720000.0,1300.0,1300.0,44.69196919691969,13,1,0,https://www.propertyguru.com.my/condo/prima-court-625
+Trellises,750000.0,750000.0,2150.0,2150.0,70.95709570957096,1,2,0,https://www.propertyguru.com.my/condo/trellises-634
+Pesona Villa,307750.0,310000.0,1149.842105263158,1200.0,95.81603321622485,20,19,0,https://www.propertyguru.com.my/condo/pesona-villa-624
+Kiara Park,994194.3,897444.0,2776.6666666666665,2800.0,77.22702552256108,20,15,0,https://www.propertyguru.com.my/condo/kiara-park-629
+Villa Flora  (TTDI),967857.1428571428,900000.0,2666.6666666666665,2800.0,77.00770077007701,14,9,0,https://www.propertyguru.com.my/condo/villa-flora-ttdi-627
+The Scott SOHO,446550.0,386000.0,1591.45,1500.0,96.18837531421536,20,20,0,https://www.propertyguru.com.my/condo/the-scott-soho-2729
+Arata @ Bukit Tunku,1642400.0,1475000.0,4857.142857142857,5500.0,92.2973653297533,20,7,0,https://www.propertyguru.com.my/condo/arata-bukit-tunku-2969
+Zenia Garden Condos,2799000.0,2850000.0,5716.666666666667,4800.0,41.688379364252214,20,12,0,https://www.propertyguru.com.my/condo/zenia-garden-condos-3035
+Sri Tunku Condominium,1200000.0,1200000.0,4000.0,4000.0,82.5082508250825,1,1,0,https://www.propertyguru.com.my/condo/sri-tunku-condominium-3077
+1C Pinang (Taman Sri Sentosa),265000.0,265000.0,465.0,465.0,43.433588641883055,1,2,0,https://www.propertyguru.com.my/condo/1c-pinang-taman-sri-sentosa-3971
+Fadason Service Apartments,369615.3846153846,360000.0,1100.0,1100.0,75.63256325632564,13,2,0,https://www.propertyguru.com.my/condo/fadason-service-apartments-4337
+Ria Apartment @ Sri Ehsan,275000.0,275000.0,950.0,950.0,85.5085508550855,2,3,0,https://www.propertyguru.com.my/condo/ria-apartment-sri-ehsan-4463
+Sri Ehsan Apartment,260450.0,257500.0,950.0,950.0,91.31981159280977,20,1,0,https://www.propertyguru.com.my/condo/sri-ehsan-apartment-4466
+Seri Riana Residence,968334.35,950000.0,3280.0,3200.0,83.37675872850443,20,20,0,https://www.propertyguru.com.my/condo/seri-riana-residence-4637
+Palace Court,503387.15,500000.0,1747.4,1749.5,86.60891089108911,20,20,0,https://www.propertyguru.com.my/condo/palace-court-4631
+Pangsapuri Berembang Indah,230727.27272727274,239000.0,1026.923076923077,1000.0,103.5668420398525,11,13,0,https://www.propertyguru.com.my/condo/pangsapuri-berembang-indah-4628
+Midah Ria Flat,191600.0,200000.0,816.6666666666666,800.0,99.00990099009901,5,3,0,https://www.propertyguru.com.my/condo/midah-ria-flat-4625
+D'Suria Condominium @ Duta Suria,801722.2222222222,865000.0,2333.3333333333335,1800.0,51.50804097750815,18,9,0,https://www.propertyguru.com.my/condo/d-suria-condominium-duta-suria-4667
+SAVILLE @ THE PARK Bangsar,1065560.0,830000.0,2277.4,2200.0,65.60897053560778,20,20,0,https://www.propertyguru.com.my/condo/saville-the-park-bangsar-4685
+Seringin Residences,1519749.9,1525000.0,3729.8,3300.0,53.56273332251258,20,20,0,https://www.propertyguru.com.my/condo/seringin-residences-4691
+Kiara Residence 1,553000.0,550000.0,1917.5,2150.0,96.75967596759678,20,20,0,https://www.propertyguru.com.my/condo/kiara-residence-1-4751
+Kenny Hills Residence,6484440.0,4399400.0,10620.0,8250.0,46.41722071011483,20,20,0,https://www.propertyguru.com.my/condo/kenny-hills-residence-4754
+Concerto North Kiara,1183646.0,1150000.0,3937.5,3900.0,83.94317692638828,20,20,0,https://www.propertyguru.com.my/condo/concerto-north-kiara-4811
+The Court @ Central Residence,570530.0,547500.0,1632.5,1600.0,72.33600072336,20,20,0,https://www.propertyguru.com.my/condo/the-court-central-residence-4778
+"The Veo, Kuala Lumpur",1555088.8,1050000.0,2405.0,1800.0,42.43281471004243,20,20,0,https://www.propertyguru.com.my/condo/the-veo-kuala-lumpur-4835
+Puncak Desa Apartment,205893.4,200000.0,793.3333333333334,750.0,92.82178217821782,20,9,0,https://www.propertyguru.com.my/condo/puncak-desa-apartment-4868
+Impiana Shop Apartment (Wangsa Permai),112000.0,118000.0,690.0,700.0,146.8367175700621,3,5,0,https://www.propertyguru.com.my/condo/impiana-shop-apartment-wangsa-permai-5006
+Taman Megah Kepong (Jalan Udang Harimau),1251799.95,1200000.0,3050.0,2300.0,47.442244224422446,20,5,0,https://www.propertyguru.com.my/condo/taman-megah-kepong-jalan-udang-harimau-5027
+Saujana Ria Aparment,165657.14285714287,170000.0,700.0,700.0,101.92195690157251,14,1,0,https://www.propertyguru.com.my/condo/saujana-ria-aparment-5123
+Platinum Lake Condominium PV 15,480500.0,470000.0,1855.0,1800.0,94.79671371392458,20,20,0,https://www.propertyguru.com.my/condo/platinum-lake-condominium-pv-15-5177
+Sri Saujana Apartment (Wangsa Permai),191000.0,199500.0,600.0,600.0,74.4435345790218,12,1,0,https://www.propertyguru.com.my/condo/sri-saujana-apartment-wangsa-permai-5126
+Flat Taman Desa Cheras (Blok 1 3 5 7),140200.0,147900.0,716.6666666666666,700.0,117.15167459950862,4,3,0,https://www.propertyguru.com.my/condo/flat-taman-desa-cheras-blok-1-3-5-7-5288
+Seksyen 2 Wangsa Maju Flat Block A,265600.0,250000.0,1000.0,850.0,84.15841584158416,5,5,0,https://www.propertyguru.com.my/condo/seksyen-2-wangsa-maju-flat-block-a-5348
+Seksyen 2 Wangsa Maju Flat Block C,238750.0,247500.0,856.0,900.0,90.00900090009002,4,5,0,https://www.propertyguru.com.my/condo/seksyen-2-wangsa-maju-flat-block-c-5354
+Seksyen 1 Wangsa Maju Flat Block D,240000.0,240000.0,810.0,800.0,82.5082508250825,2,5,0,https://www.propertyguru.com.my/condo/seksyen-1-wangsa-maju-flat-block-d-5378
+Seksyen 2 Wangsa Maju Flat Block G,200000.0,200000.0,811.1111111111111,800.0,99.00990099009901,2,9,0,https://www.propertyguru.com.my/condo/seksyen-2-wangsa-maju-flat-block-g-5366
+Seksyen 2 Wangsa Maju Flat Block B,229666.66666666666,230000.0,1075.0,1075.0,115.69091691777874,6,2,0,https://www.propertyguru.com.my/condo/seksyen-2-wangsa-maju-flat-block-b-5351
+Seksyen 2 Wangsa Maju Flat Block F,212000.0,210000.0,850.0,850.0,100.18859028760018,4,2,0,https://www.propertyguru.com.my/condo/seksyen-2-wangsa-maju-flat-block-f-5363
+Seksyen 1 Wangsa Maju Flat Block C,333412.5714285714,200000.0,800.0,800.0,99.00990099009901,7,1,0,https://www.propertyguru.com.my/condo/seksyen-1-wangsa-maju-flat-block-c-5375
+Seksyen 2 Wangsa Maju Flat Block E,235000.0,230000.0,933.3333333333334,850.0,91.47653895824365,13,3,0,https://www.propertyguru.com.my/condo/seksyen-2-wangsa-maju-flat-block-e-5360
+Seksyen 2 Wangsa Maju Flat Block D,225000.0,235000.0,900.0,900.0,94.79671371392458,9,14,0,https://www.propertyguru.com.my/condo/seksyen-2-wangsa-maju-flat-block-d-5357
+Seksyen 1 Wangsa Maju Flat Block E,240000.0,240000.0,790.0,790.0,81.47689768976898,1,2,0,https://www.propertyguru.com.my/condo/seksyen-1-wangsa-maju-flat-block-e-5381
+Seksyen 4 Wangsa Maju Flat Block B,207500.0,222500.0,900.0,850.0,94.56001779953276,4,5,0,https://www.propertyguru.com.my/condo/seksyen-4-wangsa-maju-flat-block-b-5390
+Tiara Mutiara,429938.75,399999.5,1447.5,1500.0,92.82189820559057,20,20,0,https://www.propertyguru.com.my/condo/tiara-mutiara-5423
+Danau Kota Flat,173209.16666666666,170000.0,854.2857142857143,850.0,123.76237623762377,18,7,0,https://www.propertyguru.com.my/condo/danau-kota-flat-5399
+Seksyen 4 Wangsa Maju Flat Block A,207500.0,207500.0,890.0,850.0,101.39568173684839,2,5,0,https://www.propertyguru.com.my/condo/seksyen-4-wangsa-maju-flat-block-a-5387
+Altitude 236 @ Bukit Manda'rina,812950.0,799500.0,2500.0,2400.0,74.3038656586109,20,20,0,https://www.propertyguru.com.my/condo/altitude-236-bukit-manda-rina-5414
+The Sentral Residences @ KL Sentral,1756999.95,1675000.0,4360.0,4000.0,59.11038865080538,20,20,0,https://www.propertyguru.com.my/condo/the-sentral-residences-kl-sentral-5441
+The BreezeWay Garden,2193400.0,1850000.0,4220.0,4000.0,53.51886540005352,20,20,0,https://www.propertyguru.com.my/condo/the-breezeway-garden-5435
+Seri Ampang Hilir Residences,2123000.0,2200000.0,6516.666666666667,6650.0,74.81998199819981,15,6,0,https://www.propertyguru.com.my/condo/seri-ampang-hilir-residences-5456
+Le Yuan Residence,864300.0,865000.0,6730.0,2800.0,80.12361929834601,20,20,0,https://www.propertyguru.com.my/condo/le-yuan-residence-5468
+St Regis The Residences,4978205.0,4800000.0,17033.75,13000.0,67.03795379537954,20,20,0,https://www.propertyguru.com.my/condo/st-regis-the-residences-5444
+OG Heights,379052.5789473684,340000.0,1353.4545454545455,1300.0,94.64181712288875,19,11,0,https://www.propertyguru.com.my/condo/og-heights-5480
+Madge Mansions,6805919.35,5075000.0,15550.0,15500.0,75.59869287421354,20,10,0,https://www.propertyguru.com.my/condo/madge-mansions-5528
+Soho Suites @ KLCC,948949.0,945000.0,2678.4,2650.0,69.41170307506941,20,20,0,https://www.propertyguru.com.my/condo/soho-suites-klcc-5570
+Zeta Deskye Residence,520625.0,510000.0,1474.55,1474.0,71.53950689186566,16,20,0,https://www.propertyguru.com.my/condo/zeta-deskye-residence-5540
+Desa Green Serviced Apartments,520500.0,540000.0,1677.5,1600.0,73.34066740007333,20,20,0,https://www.propertyguru.com.my/condo/desa-green-serviced-apartments-5579
+Scenaria @ North Kiara Hills,878700.0,735000.0,2014.95,1850.0,62.302148582205156,20,20,0,https://www.propertyguru.com.my/condo/scenaria-north-kiara-hills-5582
+Taman Pusat Kepong Shop Apartment,200592.53333333333,198000.0,844.5,850.0,106.26062606260625,15,20,0,https://www.propertyguru.com.my/condo/taman-pusat-kepong-shop-apartment-5597
+Flat Taman Bukit Angkasa,232500.0,237500.0,1160.0,1200.0,125.06513809275665,6,5,0,https://www.propertyguru.com.my/condo/flat-taman-bukit-angkasa-5576
+ViPod Residences @ KLCC,1570000.0,1535000.0,3560.0,3400.0,54.82632953849131,20,20,0,https://www.propertyguru.com.my/condo/vipod-residences-klcc-5573
+Bukit Cheras Apartment (Block 8 & 10),176000.0,190000.0,750.0,750.0,97.70713913496613,5,2,0,https://www.propertyguru.com.my/condo/bukit-cheras-apartment-block-8-10-5621
+Plaza Sinar Apartment,322285.71428571426,318000.0,1306.842105263158,1200.0,93.40556697179153,14,19,0,https://www.propertyguru.com.my/condo/plaza-sinar-apartment-5627
+Desa Aman Flat (Cheras),984000.0,984000.0,750.0,750.0,18.866215889881673,2,1,0,https://www.propertyguru.com.my/condo/desa-aman-flat-cheras-5603
+Platinum Hill PV 2,578050.0,525000.0,1827.5,1850.0,87.22300801508723,20,20,0,https://www.propertyguru.com.my/condo/platinum-hill-pv-2-5624
+Bukit Cheras Apartment (Block 1 & 3),201153.84615384616,200000.0,733.3333333333334,700.0,86.63366336633663,13,3,0,https://www.propertyguru.com.my/condo/bukit-cheras-apartment-block-1-3-5618
+Richmond @ Mont Kiara,768950.0,750000.0,3000.0,3000.0,99.00990099009901,20,2,0,https://www.propertyguru.com.my/condo/richmond-mont-kiara-5630
+Platinum Lake PV16,503900.0,480000.0,1947.95,2000.0,103.13531353135315,20,20,0,https://www.propertyguru.com.my/condo/platinum-lake-pv16-5639
+Nova I,312000.0,312000.0,1096.1538461538462,1100.0,87.26834221883728,2,13,0,https://www.propertyguru.com.my/condo/nova-i-5669
+"NK Residences, North Kiara",690000.0,690000.0,2300.0,2300.0,82.5082508250825,1,1,0,https://www.propertyguru.com.my/condo/nk-residences-north-kiara-14473
+Serene Mont Kiara,3766666.6666666665,4100000.0,16433.333333333332,14000.0,84.5206471866699,3,15,0,https://www.propertyguru.com.my/condo/serene-mont-kiara-14462
+Residensi Kerinchi,461750.0,460000.0,2252.5,2350.0,126.45286267757211,20,20,0,https://www.propertyguru.com.my/condo/residensi-kerinchi-10150
+Residensi Selayang Damai,280000.0,280000.0,1266.6666666666667,1200.0,106.08203677510608,1,3,0,https://www.propertyguru.com.my/condo/residensi-selayang-damai-16897
+Apartment Dahlia,311000.0,310000.0,1150.0,1150.0,91.82369849888214,5,4,0,https://www.propertyguru.com.my/condo/apartment-dahlia-16418
+Pangsapuri DBKL,195000.0,195000.0,815.0,815.0,103.45265295760346,4,2,0,https://www.propertyguru.com.my/condo/pangsapuri-dbkl-16512
+Prima Tiara 1,346333.3333333333,349000.0,1100.0,1100.0,78.0163976283015,3,5,0,https://www.propertyguru.com.my/condo/prima-tiara-1-15309
+Aman Putra Apartment,201750.0,202000.0,825.0,825.0,101.09303009508872,20,2,0,https://www.propertyguru.com.my/condo/aman-putra-apartment-1405
+Quarza,1200000.0,1200000.0,2525.0,2500.0,51.567656765676574,2,4,0,https://www.propertyguru.com.my/condo/quarza-15299
+"Impiana Sky Residensi, Bukit Jalil",501000.0,501000.0,1159.9,1100.0,54.346752040473504,1,20,0,https://www.propertyguru.com.my/condo/impiana-sky-residensi-bukit-jalil-15458
+Villa Mutiara @ Mutiara Complex,502142.85714285716,270000.0,970.0,900.0,82.5082508250825,14,5,0,https://www.propertyguru.com.my/condo/villa-mutiara-mutiara-complex-5738
+Residensi Solaris Parq,1256853.1578947369,1300000.0,2825.0,3000.0,57.12109672505712,20,4,1,https://www.propertyguru.com.my/condo/residensi-solaris-parq-9933
+Mutiara Fadason,146500.0,141500.0,700.0,700.0,122.45040758492812,6,6,0,https://www.propertyguru.com.my/condo/mutiara-fadason-13517
+Rimbun @ Embassy Row,9938839.105263159,5323000.0,16065.0,16250.0,75.56410347027564,20,20,1,https://www.propertyguru.com.my/condo/rimbun-embassy-row-5942
+2 Hampshire,3487220.0,2325000.0,7990.0,8000.0,85.16980730331098,20,20,0,https://www.propertyguru.com.my/condo/2-hampshire-29
+202 DC (Desa Cahaya),1145555.5555555555,1200000.0,3941.6666666666665,4000.0,82.5082508250825,18,12,0,https://www.propertyguru.com.my/condo/202-dc-desa-cahaya-30
+Angkasa Condominiums,394799.85,385000.0,1454.9,1449.5,93.19146200334319,20,20,0,https://www.propertyguru.com.my/condo/angkasa-condominiums-187
+The Pines,549000.0,545000.0,2083.3333333333335,2000.0,90.83477155054956,5,6,0,https://www.propertyguru.com.my/condo/the-pines-134
+Angkasa Impian 2,510122.9,468000.0,2175.0,2350.0,124.29127528137428,20,20,0,https://www.propertyguru.com.my/condo/angkasa-impian-2-146
+Palm Court Apartment,306000.0,306000.0,1612.5,1575.0,127.40244612696563,2,4,0,https://www.propertyguru.com.my/condo/palm-court-apartment-129
+Segar Apartments,318100.0,350000.0,903.2666666666667,950.0,67.18528995756718,20,15,0,https://www.propertyguru.com.my/condo/segar-apartments-177
+Segar Courts,583749.875,560000.0,1900.0,1900.0,83.98161244695898,8,3,0,https://www.propertyguru.com.my/condo/segar-courts-178
+Sri Bahagia Court,378857.14285714284,290000.0,805.0,800.0,68.28269033799931,7,20,0,https://www.propertyguru.com.my/condo/sri-bahagia-court-247
+Suria Kipark Damansara,344100.0,330000.0,1068.75,1100.0,82.5082508250825,20,16,0,https://www.propertyguru.com.my/condo/suria-kipark-damansara-315
+One Residency,900295.0,994000.0,2910.0,2700.0,67.23509373070104,20,20,0,https://www.propertyguru.com.my/condo/one-residency-284
+The Nomad SuCasa,543450.0,525000.0,1852.5,1750.0,82.5082508250825,20,20,0,https://www.propertyguru.com.my/condo/the-nomad-sucasa-257
+Nadia Parkhomes,1776750.0,1925000.0,2788.8888888888887,2650.0,34.07483605503407,20,18,0,https://www.propertyguru.com.my/condo/nadia-parkhomes-323
+Idaman Residence @ KLCC,1633400.0,1400000.0,4074.95,4000.0,70.72135785007072,20,20,0,https://www.propertyguru.com.my/condo/idaman-residence-klcc-266
+Apartment Bustan Shamelin,329000.0,329000.0,1305.0,1300.0,97.80613319690632,2,10,0,https://www.propertyguru.com.my/condo/apartment-bustan-shamelin-213
+1 Sentul,549800.0,550000.0,1726.2631578947369,1800.0,81.008100810081,20,19,0,https://www.propertyguru.com.my/condo/1-sentul-522
+Anggun Puri,487450.0,470000.0,1334.75,1349.5,71.07120286496733,20,20,0,https://www.propertyguru.com.my/condo/anggun-puri-505
+The Maple Condominium,996250.0,950000.0,4570.588235294118,3200.0,83.37675872850443,20,17,0,https://www.propertyguru.com.my/condo/the-maple-condominium-530
+Amandari,591550.0,594500.0,1737.5,1725.0,71.82173221527368,20,4,0,https://www.propertyguru.com.my/condo/amandari-504
+Changkat View Condominium,481250.0,450000.0,1405.0,1275.0,70.13201320132013,20,20,0,https://www.propertyguru.com.my/condo/changkat-view-condominium-506
+Sri Suajaya Condominiums,342300.0,345000.0,1524.9166666666667,1750.0,125.556033864256,20,12,0,https://www.propertyguru.com.my/condo/sri-suajaya-condominiums-529
+Kondo Bukit Robson,971850.0,999000.0,2210.5263157894738,2000.0,49.55450500004955,20,19,0,https://www.propertyguru.com.my/condo/kondo-bukit-robson-541
+Waizuri 2,373333.3333333333,380000.0,1600.0,1600.0,104.22094841063053,3,3,0,https://www.propertyguru.com.my/condo/waizuri-2-592
+Astana,2000000.0,2000000.0,8500.0,8500.0,105.1980198019802,1,1,0,https://www.propertyguru.com.my/condo/astana-595
+Dorchester Apartment,428500.0,440500.0,1260.0,1200.0,67.43012553241704,8,15,0,https://www.propertyguru.com.my/condo/dorchester-apartment-593
+Mont Kiara Pines,862849.95,805000.0,3050.0,3000.0,92.24524936965746,20,20,0,https://www.propertyguru.com.my/condo/mont-kiara-pines-602
+"Teratai Mewah (Block 15,17,19,21)",221875.0,219000.0,900.0,875.0,98.89687598896876,8,10,0,https://www.propertyguru.com.my/condo/teratai-mewah-block-15-17-19-21-589
+Mayfair Apartment (Sri Hartamas),283076.92307692306,290000.0,1206.6666666666667,1200.0,102.42403550699898,13,15,0,https://www.propertyguru.com.my/condo/mayfair-apartment-sri-hartamas-594
+Menara Hartamas,1180000.0,1180000.0,2318.3333333333335,2200.0,46.14868266487665,1,3,0,https://www.propertyguru.com.my/condo/menara-hartamas-600
+Endah Regal Condominium,351850.0,350000.0,1445.0,1500.0,106.08203677510608,20,20,0,https://www.propertyguru.com.my/condo/endah-regal-condominium-606
+Petaling Indah Condominiums,269094.35,266500.0,1074.9,1100.0,102.16781528058998,20,20,0,https://www.propertyguru.com.my/condo/petaling-indah-condominiums-608
+Melawati Hillside Apartment,374000.0,360000.0,1237.5,1250.0,85.94609460946094,20,8,0,https://www.propertyguru.com.my/condo/melawati-hillside-apartment-620
+Desa View Towers Apartment,275517.75,268000.0,1117.8181818181818,1050.0,96.97798138022759,20,11,0,https://www.propertyguru.com.my/condo/desa-view-towers-apartment-619
+Seri Duta I,1288315.7894736843,1250000.0,4300.0,4300.0,85.14851485148515,19,4,0,https://www.propertyguru.com.my/condo/seri-duta-i-616
+Endah Ria,344799.85,320000.0,1377.5,1300.0,100.5569306930693,20,20,0,https://www.propertyguru.com.my/condo/endah-ria-610
+Desa Permai,616898.9090909091,610000.0,1875.0,1950.0,79.12676513552995,11,8,0,https://www.propertyguru.com.my/condo/desa-permai-614
+Seri Duta II,1383333.3333333333,1380000.0,7000.0,7000.0,125.556033864256,3,1,0,https://www.propertyguru.com.my/condo/seri-duta-ii-617
+Kemensah Villa Condominium,426700.0,440000.0,1375.0,1350.0,75.94509450945095,20,4,0,https://www.propertyguru.com.my/condo/kemensah-villa-condominium-621
+Riana Green East,804650.0,740000.0,3412.5,2950.0,98.67540808134866,20,20,0,https://www.propertyguru.com.my/condo/riana-green-east-636
+Metroview Condominium,449650.0,420000.0,1435.0,1400.0,82.5082508250825,20,20,0,https://www.propertyguru.com.my/condo/metroview-condominium-635
+The Plaza Condominium,1499166.6666666667,1450000.0,3885.714285714286,4000.0,68.28269033799931,12,7,0,https://www.propertyguru.com.my/condo/the-plaza-condominium-632
+The Residence Condominium,1362500.0,1325000.0,3500.0,3500.0,65.38389688025406,4,1,0,https://www.propertyguru.com.my/condo/the-residence-condominium-633
+Villa Wangsamas,495250.0,487500.0,1780.0,1800.0,91.3937547600914,20,20,0,https://www.propertyguru.com.my/condo/villa-wangsamas-637
+Desa Dua Aman Puri,271849.95,270000.0,982.45,874.5,80.17051705170518,20,20,0,https://www.propertyguru.com.my/condo/desa-dua-aman-puri-1555
+Mutiara Magna,199349.95,200000.0,796.75,800.0,99.00990099009901,20,16,0,https://www.propertyguru.com.my/condo/mutiara-magna-1556
+Suria Jelatek Residence,492619.04761904763,490000.0,1910.0,1950.0,98.50474843402708,21,20,0,https://www.propertyguru.com.my/condo/suria-jelatek-residence-1564
+The Park Residences,1523044.4,1300000.0,4585.0,4500.0,85.68164508758568,20,20,0,https://www.propertyguru.com.my/condo/the-park-residences-1561
+Mandy Court,309909.0909090909,300000.0,1050.0,1050.0,86.63366336633663,11,1,0,https://www.propertyguru.com.my/condo/mandy-court-1557
+Pangsapuri Sentul Utara,170000.0,170000.0,1100.0,1100.0,160.16307513104252,2,2,0,https://www.propertyguru.com.my/condo/pangsapuri-sentul-utara-1558
+i-Zen Kiara II,1069150.0,924500.0,4450.0,4800.0,128.51474438952818,20,20,0,https://www.propertyguru.com.my/condo/i-zen-kiara-ii-1559
+Kiara Designer Suites,714400.0,695000.0,2747.5,2750.0,97.94144882114111,20,20,0,https://www.propertyguru.com.my/condo/kiara-designer-suites-1565
+The Troika,4616590.0,2890000.0,8215.0,8250.0,70.6601802048717,20,20,0,https://www.propertyguru.com.my/condo/the-troika-1570
+The Binjai,8053500.0,7000000.0,12350.0,12750.0,45.08486562942009,20,20,0,https://www.propertyguru.com.my/condo/the-binjai-1572
+Sunway Vivaldi,2773600.0,3090000.0,10425.0,10250.0,82.10772533564037,20,20,0,https://www.propertyguru.com.my/condo/sunway-vivaldi-1575
+Titiwangsa Sentral,663183.2,568888.0,1762.5,1800.0,78.31850108552923,20,20,0,https://www.propertyguru.com.my/condo/titiwangsa-sentral-1580
+Binjai 8,1101625.0,1000000.0,2725.0,2500.0,61.881188118811885,20,20,0,https://www.propertyguru.com.my/condo/binjai-8-1573
+Parkview Service Apartment,537800.0,525000.0,1789.85,1749.5,82.48467703913248,20,20,0,https://www.propertyguru.com.my/condo/parkview-service-apartment-1578
+Verticas Residensi,1493100.0,1570000.0,4910.0,4500.0,70.94658510437031,20,20,0,https://www.propertyguru.com.my/condo/verticas-residensi-1568
+St Mary Residences,2097000.0,1900000.0,4975.0,4750.0,61.881188118811885,20,20,0,https://www.propertyguru.com.my/condo/st-mary-residences-1567
+Cormar Suite,780541.8,787500.0,2225.85,1954.0,61.41757032846142,20,20,0,https://www.propertyguru.com.my/condo/cormar-suite-1569
+Panorama (KLCC),1313950.0,1475000.0,4224.85,4200.0,70.4816244336298,20,20,0,https://www.propertyguru.com.my/condo/panorama-klcc-1571
+One KL,3838585.7,3912500.0,12550.0,13000.0,82.24464618985861,20,20,0,https://www.propertyguru.com.my/condo/one-kl-1587
+Continental Heights,554993.7777777778,499500.0,2500.0,2500.0,123.8862625001239,18,1,0,https://www.propertyguru.com.my/condo/continental-heights-1592
+Bintang Goldhill,1531437.5,1004000.0,2724.4,2450.0,60.40195653031439,16,20,0,https://www.propertyguru.com.my/condo/bintang-goldhill-1588
+One Menerung,7316200.0,6475000.0,14562.5,13925.0,53.23215719255323,20,20,0,https://www.propertyguru.com.my/condo/one-menerung-1586
+1 Petaling,331849.8,312500.0,1328.7368421052631,1350.0,106.93069306930693,20,19,0,https://www.propertyguru.com.my/condo/1-petaling-1590
+Ceriaan Kiara,1004800.0,920000.0,3550.0,3500.0,94.167025398192,20,20,0,https://www.propertyguru.com.my/condo/ceriaan-kiara-1589
+Maytower,368700.0,335000.0,1282.45,1300.0,96.05438155755876,20,20,0,https://www.propertyguru.com.my/condo/maytower-1585
+Aston Kiara 3,876923.0769230769,610000.0,1967.5,2275.0,92.31455932478495,13,20,0,https://www.propertyguru.com.my/condo/aston-kiara-3-1582
+Platinum Hill PV 3,403349.95,398999.5,1392.1052631578948,1400.0,86.85089917790536,20,19,0,https://www.propertyguru.com.my/condo/platinum-hill-pv-3-1595
+Pantai Hillpark 2,456450.0,450000.0,1742.5,1750.0,96.25962596259626,20,20,0,https://www.propertyguru.com.my/condo/pantai-hillpark-2-1632
+Pantai Hillpark 5,403571.8,389999.5,1744.1176470588234,1700.0,107.89554325272745,20,17,0,https://www.propertyguru.com.my/condo/pantai-hillpark-5-1634
+Hampshire Place,1172000.0,1150000.0,3590.0,2950.0,63.49547998278089,20,20,0,https://www.propertyguru.com.my/condo/hampshire-place-1631
+Pantai Hillpark 3,700000.0,670000.0,2166.6666666666665,2200.0,81.2767843948574,8,9,0,https://www.propertyguru.com.my/condo/pantai-hillpark-3-1633
+Damansara Sutera,333461.53846153844,335000.0,1200.0,1100.0,81.2767843948574,13,8,0,https://www.propertyguru.com.my/condo/damansara-sutera-1657
+Mutiara Residency,1166832.142857143,1210000.0,2064.85,1950.0,39.8903526716308,14,20,0,https://www.propertyguru.com.my/condo/mutiara-residency-1652
+Apartmen Bukit Sri Bintang,238833.33333333334,240000.0,900.0,900.0,92.82178217821782,6,1,0,https://www.propertyguru.com.my/condo/apartmen-bukit-sri-bintang-1663
+Desa Angkasa,1401000.0,1330000.0,3670.0,3400.0,63.277004392168536,20,20,0,https://www.propertyguru.com.my/condo/desa-angkasa-1679
+Quadro Residences,2315390.0,2225000.0,6946.15,7000.0,77.87295583490933,20,20,0,https://www.propertyguru.com.my/condo/quadro-residences-1667
+Camellia Serviced Suites,725400.0,597500.0,2165.0,1900.0,78.71079995028792,20,20,0,https://www.propertyguru.com.my/condo/camellia-serviced-suites-1689
+Belvedere Condominium,1150000.0,1150000.0,3750.0,3750.0,80.71459319845027,1,2,0,https://www.propertyguru.com.my/condo/belvedere-condominium-1684
+Lumayan Apartment (Bdr Tasik Permaisuri),354357.14285714284,359500.0,1224.857142857143,1200.0,82.62300499869181,14,14,0,https://www.propertyguru.com.my/condo/lumayan-apartment-bdr-tasik-permaisuri-1692
+Platinum Victory Lake City PV 13,552150.0,535000.0,1985.0,2000.0,92.53261774775609,20,20,0,https://www.propertyguru.com.my/condo/platinum-victory-lake-city-pv-13-1678
+Sri Bukit Tunku,3778000.0,990000.0,3566.6666666666665,3500.0,87.50875087508751,5,9,0,https://www.propertyguru.com.my/condo/sri-bukit-tunku-1686
+Plaza Menjalara,528350.0,560000.0,1665.5,1699.5,75.11934229137199,20,16,0,https://www.propertyguru.com.my/condo/plaza-menjalara-1699
+Kristal Court Robson Heights,630000.0,630000.0,1800.0,1800.0,70.72135785007072,1,1,0,https://www.propertyguru.com.my/condo/kristal-court-robson-heights-1701
+Desa Eight,3741166.6666666665,2580000.0,9000.0,9000.0,86.34584388671425,6,1,0,https://www.propertyguru.com.my/condo/desa-eight-1709
+Sri Langit Kondominium,2168571.4285714286,2100000.0,6375.0,6000.0,70.72135785007072,7,12,0,https://www.propertyguru.com.my/condo/sri-langit-kondominium-1708
+Villa Puteri,1859300.0,530000.0,1857.25,1800.0,84.06501027461236,20,20,0,https://www.propertyguru.com.my/condo/villa-puteri-1718
+The Vistana Residences,546400.0,520000.0,1764.95,1775.0,84.49162223914699,20,20,0,https://www.propertyguru.com.my/condo/the-vistana-residences-1719
+The Palladium Condominium,490357.14285714284,450000.0,1712.5,1800.0,99.00990099009901,14,8,0,https://www.propertyguru.com.my/condo/the-palladium-condominium-1721
+Kondominium Bistari Begonia,436666.6666666667,430000.0,1900.0,1900.0,109.37140225650472,3,4,0,https://www.propertyguru.com.my/condo/kondominium-bistari-begonia-1714
+Kirana Residence,2896000.0,2000000.0,10300.0,8500.0,105.1980198019802,20,17,0,https://www.propertyguru.com.my/condo/kirana-residence-1725
+Menara City One Condominium,922142.8571428572,700000.0,2080.0,2000.0,70.72135785007072,7,5,0,https://www.propertyguru.com.my/condo/menara-city-one-condominium-1722
+Intan Apartment (Setiawangsa),339750.0,329000.0,1400.0,1400.0,105.32968190436064,8,1,0,https://www.propertyguru.com.my/condo/intan-apartment-setiawangsa-1729
+Sri Kia Peng,1633000.0,1560000.0,3971.4285714285716,3600.0,57.12109672505712,10,14,0,https://www.propertyguru.com.my/condo/sri-kia-peng-1733
+D'Mayang,1268333.3333333333,1290000.0,3265.0,2950.0,56.60449765906823,18,20,0,https://www.propertyguru.com.my/condo/d-mayang-1724
+Villa Putra,531800.0,439000.0,1633.3333333333333,1600.0,90.21403279280092,20,12,0,https://www.propertyguru.com.my/condo/villa-putra-1717
+Kenanga Point,454199.9,439999.5,1582.5,1625.0,91.41549542039871,10,20,0,https://www.propertyguru.com.my/condo/kenanga-point-1741
+Villa Inai,879999.0,879999.0,2500.0,2500.0,70.31961186184517,1,1,0,https://www.propertyguru.com.my/condo/villa-inai-1737
+Cheras Heights,574833.3333333334,595000.0,1600.0,1600.0,66.56127797653714,6,1,0,https://www.propertyguru.com.my/condo/cheras-heights-1730
+Impian Kota,157666.66666666666,153000.0,1000.0,1000.0,161.78088397075,3,1,0,https://www.propertyguru.com.my/condo/impian-kota-1738
+Sri Kenny,1608400.0,1465000.0,6155.0,5500.0,92.9273814753489,20,20,0,https://www.propertyguru.com.my/condo/sri-kenny-1732
+Menara Belfield Condominium,465000.0,465000.0,1625.0,1600.0,85.16980730331098,2,6,0,https://www.propertyguru.com.my/condo/menara-belfield-condominium-1739
+Ixora Apartment (Jalan Tun Razak),333588.17647058825,320000.0,1470.0,1450.0,112.15965346534654,17,20,0,https://www.propertyguru.com.my/condo/ixora-apartment-jalan-tun-razak-1742
+Menara Polo,528600.0,530000.0,1746.875,1675.0,78.22716233887539,20,16,0,https://www.propertyguru.com.my/condo/menara-polo-1744
+Casa Idaman,381550.0,386500.0,1375.0,1400.0,89.65967748133158,20,20,0,https://www.propertyguru.com.my/condo/casa-idaman-1755
+Bangunan Choo Cheng Khay,794749.875,550000.0,1619.923076923077,1580.0,71.10711071107112,8,13,0,https://www.propertyguru.com.my/condo/bangunan-choo-cheng-khay-1740
+Sri Mutiara,337937.5,338000.0,1233.1666666666667,1249.5,91.5036030230242,16,6,0,https://www.propertyguru.com.my/condo/sri-mutiara-1749
+Desa Pandan Delima Block J Apartment,328444.44444444444,330000.0,1270.0,1200.0,90.00900090009002,9,5,0,https://www.propertyguru.com.my/condo/desa-pandan-delima-block-j-apartment-1743
+Sri Jati II (OKR),454300.0,450000.0,1476.2941176470588,1400.0,77.00770077007701,20,17,0,https://www.propertyguru.com.my/condo/sri-jati-ii-okr-1758
+Pangsapuri Tulin,284583.3333333333,295000.0,1108.3333333333333,1125.0,94.39503272361134,12,6,0,https://www.propertyguru.com.my/condo/pangsapuri-tulin-1759
+"Bennington Residences @ SkyArena, Setapak",584263.1578947369,639000.0,2145.0,2100.0,81.3461627852926,20,20,1,https://www.propertyguru.com.my/condo/bennington-residences-skyarena-setapak-7499
+Vista Angkasa,373578.94736842107,380000.0,1825.0,1800.0,117.24856696195934,19,10,0,https://www.propertyguru.com.my/condo/vista-angkasa-1856
+Bukit Desa Condominium,1027777.7777777778,690000.0,4000.0,4000.0,143.49261013057827,9,2,0,https://www.propertyguru.com.my/condo/bukit-desa-condominium-1857
+28 Mont Kiara,2317857.1428571427,2050000.0,9047.619047619048,7500.0,90.55783627143202,21,21,0,https://www.propertyguru.com.my/condo/28-mont-kiara-1878
+9 Madge,3349132.0,3737250.0,9578.57142857143,9000.0,59.60860986760928,20,14,0,https://www.propertyguru.com.my/condo/9-madge-1881
+231 TR,550900.0,500000.0,1789.9,1700.0,84.15841584158416,20,20,0,https://www.propertyguru.com.my/condo/231-tr-1877
+11 Mont Kiara,3460600.0,2850000.0,9850.0,9750.0,84.67952058363731,20,20,0,https://www.propertyguru.com.my/condo/11-mont-kiara-1874
+Ampersand,3021944.761904762,2700000.0,8166.666666666667,7000.0,64.17308397506417,21,15,0,https://www.propertyguru.com.my/condo/ampersand-1884
+20trees (The Apartment),1161450.0,1100000.0,3200.0,3200.0,72.007200720072,20,2,0,https://www.propertyguru.com.my/condo/20trees-the-apartment-1875
+Seni Mont Kiara,2646000.0,2100000.0,9640.0,9500.0,111.97548326261197,20,20,0,https://www.propertyguru.com.my/condo/seni-mont-kiara-1890
+Brunsfield EmbassyView,2186428.5714285714,1600000.0,8415.0,4500.0,69.61633663366337,21,20,0,https://www.propertyguru.com.my/condo/brunsfield-embassyview-1888
+Covillea @ Bukit Jalil,921133.2,925000.0,2812.5,2900.0,77.6023548300776,20,20,0,https://www.propertyguru.com.my/condo/covillea-bukit-jalil-1891
+Bintang Fairlane,642100.0,580000.0,1862.45,1800.0,76.81802663024924,20,20,0,https://www.propertyguru.com.my/condo/bintang-fairlane-1887
+First Residence,484950.0,425000.0,1520.0,1550.0,90.27373325567851,20,20,0,https://www.propertyguru.com.my/condo/first-residence-1897
+Anggun Residences,1529388.8,1274500.0,3329.0,3350.0,65.06142964237577,20,20,0,https://www.propertyguru.com.my/condo/anggun-residences-1903
+Icon Residence (Mont Kiara),1239300.0,1149000.0,3405.0,3200.0,68.9363975562047,20,20,0,https://www.propertyguru.com.my/condo/icon-residence-mont-kiara-1902
+M City,706659.95,591600.0,2045.0,1875.0,78.44978209788525,20,20,0,https://www.propertyguru.com.my/condo/m-city-1907
+K Residence @ Jalan Ampang KLCC,3133887.5,3293900.0,8615.0,7750.0,58.23846600331426,20,20,0,https://www.propertyguru.com.my/condo/k-residence-jalan-ampang-klcc-1904
+Endah Promenade,531150.0,525000.0,1989.95,2000.0,94.29514380009428,20,20,0,https://www.propertyguru.com.my/condo/endah-promenade-1896
+Kiara 9,2118000.0,1665000.0,5725.0,5250.0,78.04834537507804,20,20,0,https://www.propertyguru.com.my/condo/kiara-9-1906
+Gallery @ U-Thant,3161500.0,3200000.0,11140.0,10000.0,77.35148514851485,20,20,0,https://www.propertyguru.com.my/condo/gallery-u-thant-1899
+Panorama Residences @ Sentul,416449.95,410000.0,1580.0,1400.0,84.5206471866699,20,20,0,https://www.propertyguru.com.my/condo/panorama-residences-sentul-1912
+The Elements @ Ampang,601550.0,650000.0,1622.5,1500.0,57.12109672505712,20,20,0,https://www.propertyguru.com.my/condo/the-elements-ampang-1927
+Royal Regent (Sri Putramas 3),641950.0,690000.0,2317.5,2475.0,88.7860525182953,20,20,0,https://www.propertyguru.com.my/condo/royal-regent-sri-putramas-3-1916
+The Pearl,4199360.0,3600000.0,9070.5,7400.0,50.880088008800875,20,20,0,https://www.propertyguru.com.my/condo/the-pearl-1928
+Swiss Garden Residences,563099.95,550000.0,1932.5,1800.0,81.008100810081,20,20,0,https://www.propertyguru.com.my/condo/swiss-garden-residences-1924
+Sixceylon Condominium,988050.0,844000.0,3079.95,3100.0,90.91548965323072,20,20,0,https://www.propertyguru.com.my/condo/sixceylon-condominium-1919
+Waldorf Tower,1159300.0,815000.0,2254.9,2300.0,69.85361112798395,20,20,0,https://www.propertyguru.com.my/condo/waldorf-tower-1935
+OUG Parklane,349499.95,351000.0,1230.0,1225.0,86.38684381258639,20,20,0,https://www.propertyguru.com.my/condo/oug-parklane-1938
+TTDI Plaza Condominium,1434000.0,1300000.0,4040.0,4200.0,79.96953541507997,5,5,0,https://www.propertyguru.com.my/condo/ttdi-plaza-condominium-1930
+Vue Residences,1432000.0,660000.0,1876.75,1900.0,71.25712571257127,20,20,0,https://www.propertyguru.com.my/condo/vue-residences-1934
+The Capers,836750.0,755000.0,2457.3,2350.0,77.04412825388498,20,20,0,https://www.propertyguru.com.my/condo/the-capers-1943
+Taragon Puteri KL,1130800.0,965000.0,2359.15,2300.0,58.995536859385425,10,20,0,https://www.propertyguru.com.my/condo/taragon-puteri-kl-1925
+The Greens @ TTDI,3786153.846153846,3600000.0,7317.588235294118,7000.0,48.12981298129813,13,17,0,https://www.propertyguru.com.my/condo/the-greens-ttdi-1944
+Kiaramas Danai,1853550.0,1800000.0,6165.0,6000.0,82.5082508250825,20,20,0,https://www.propertyguru.com.my/condo/kiaramas-danai-1972
+Gembira Residen (G Residence),788099.95,709000.0,2340.0,2300.0,80.29716935022134,20,20,0,https://www.propertyguru.com.my/condo/gembira-residen-g-residence-1971
+188 Suites (Fraser Residence),1229500.0,1150000.0,2918.4,2651.5,57.070598364184235,20,20,0,https://www.propertyguru.com.my/condo/188-suites-fraser-residence-1982
+Rosvilla Condominium,567750.0,530000.0,2000.0,1750.0,81.72987110031757,20,6,0,https://www.propertyguru.com.my/condo/rosvilla-condominium-1975
+222 Residency,724950.0,480000.0,1558.25,1500.0,77.35148514851485,20,12,0,https://www.propertyguru.com.my/condo/222-residency-1984
+288 Residency,824500.0,655000.0,1887.5,1800.0,68.02206938251078,20,20,0,https://www.propertyguru.com.my/condo/288-residency-1986
+8 Petaling,825150.0,778000.0,2470.0,2450.0,77.94802616508437,20,20,0,https://www.propertyguru.com.my/condo/8-petaling-1997
+Abadi Ria,987666.6666666666,999000.0,4000.0,4000.0,99.1090100000991,9,2,0,https://www.propertyguru.com.my/condo/abadi-ria-1998
+6 CapSquare,1119749.95,1099999.5,3482.95,3299.5,74.24620836573827,20,20,0,https://www.propertyguru.com.my/condo/6-capsquare-1990
+Acacia @ The Park Residences,1525000.0,1525000.0,4450.0,4450.0,72.22853432884271,2,2,0,https://www.propertyguru.com.my/condo/acacia-the-park-residences-2000
+Amaya Maluri,498100.0,499500.0,1687.45,1725.0,85.48152112508548,20,20,0,https://www.propertyguru.com.my/condo/amaya-maluri-2008
+Andalucia,872153.8461538461,780000.0,2475.0,2450.0,77.74815943132775,13,4,0,https://www.propertyguru.com.my/condo/andalucia-2011
+Alam Puri,501666.6666666667,495000.0,1437.5,1400.0,70.00700070007001,6,20,0,https://www.propertyguru.com.my/condo/alam-puri-2002
+Astana Lumayan (Bdr Tasik Permasuri),517000.0,520000.0,1800.0,1800.0,85.68164508758568,20,2,0,https://www.propertyguru.com.my/condo/astana-lumayan-bdr-tasik-permasuri-2021
+Avelon Tower,331250.0,320000.0,1082.5,1000.0,77.35148514851485,20,20,0,https://www.propertyguru.com.my/condo/avelon-tower-2023
+Astaka Heights,436600.0,450000.0,2787.5,2700.0,148.5148514851485,5,4,0,https://www.propertyguru.com.my/condo/astaka-heights-2020
+Begonia @ The Park Residences,1004833.3333333334,950000.0,5180.0,5300.0,138.09275664408545,6,5,0,https://www.propertyguru.com.my/condo/begonia-the-park-residences-2035
+Beverly 2 (Bandar Menjalara),331684.2105263158,340000.0,1160.0,1100.0,80.08153756552126,19,10,0,https://www.propertyguru.com.my/condo/beverly-2-bandar-menjalara-2038
+Bukit Mas Apartment,480000.0,480000.0,1200.0,1200.0,61.881188118811885,1,1,0,https://www.propertyguru.com.my/condo/bukit-mas-apartment-2042
+Casa Residency,671800.0,657000.0,2255.0,2250.0,84.7687508476875,20,20,0,https://www.propertyguru.com.my/condo/casa-residency-2046
+Bukit Segambut Apartment,403283.2,390000.0,1477.5,1500.0,95.2018278750952,20,20,0,https://www.propertyguru.com.my/condo/bukit-segambut-apartment-2044
+Berjaya Times Square,688750.0,605000.0,2837.5,2750.0,112.51125112511251,20,20,0,https://www.propertyguru.com.my/condo/berjaya-times-square-2037
+Banyan Tree @ Pavilion,2574000.0,2200000.0,8100.0,7850.0,88.32133213321333,20,20,0,https://www.propertyguru.com.my/condo/banyan-tree-pavilion-2033
+Bougainvilla Apartment (Segambut),363650.0,360000.0,1307.5,1200.0,82.5082508250825,20,20,0,https://www.propertyguru.com.my/condo/bougainvilla-apartment-segambut-2041
+Kondominium Bistari Lavender,518333.3333333333,480000.0,2100.0,2100.0,108.29207920792079,3,1,0,https://www.propertyguru.com.my/condo/kondominium-bistari-lavender-2040
+Carlton @ Plaza Damas 3,415149.4,387500.0,1464.6,1400.0,89.42829766847652,20,20,0,https://www.propertyguru.com.my/condo/carlton-plaza-damas-3-2045
+Chelsea @ Plaza Damas 3,402850.0,380000.0,1489.85,1549.5,100.93147472641999,20,20,0,https://www.propertyguru.com.my/condo/chelsea-plaza-damas-3-2054
+Platinum Hill PV 6,496150.0,480000.0,1770.0,1650.0,85.08663366336634,20,20,0,https://www.propertyguru.com.my/condo/platinum-hill-pv-6-2062
+Midfields,537050.0,492500.0,2089.5,1800.0,90.46589938181636,20,20,0,https://www.propertyguru.com.my/condo/midfields-2060
+Putra Villa,656750.0,472500.0,1599.95,1600.0,83.81790560008382,16,20,0,https://www.propertyguru.com.my/condo/putra-villa-2061
+Platinum Hill PV 5,441500.0,430000.0,1422.4,1475.0,84.90674648860235,20,20,0,https://www.propertyguru.com.my/condo/platinum-hill-pv-5-2063
+Setapak Green,681450.0,675000.0,1920.0,1900.0,69.67363403006968,20,20,0,https://www.propertyguru.com.my/condo/setapak-green-2064
+Cheras Ria Apartment,154571.42857142858,156500.0,602.5,600.0,94.89766868060607,14,20,0,https://www.propertyguru.com.my/condo/cheras-ria-apartment-2056
+Cliveden @ Plaza Damas 3,405100.0,382500.0,1420.0,1300.0,84.12605966479,10,15,0,https://www.propertyguru.com.my/condo/cliveden-plaza-damas-3-2055
+Desarina Condominium,517000.0,500000.0,1250.0,1250.0,61.881188118811885,5,2,0,https://www.propertyguru.com.my/condo/desarina-condominium-2067
+Diamond Residences @ Setapak,468494.7368421053,460000.0,1716.6666666666667,1650.0,88.7860525182953,19,3,0,https://www.propertyguru.com.my/condo/diamond-residences-setapak-2075
+Diamond Regency,421650.0,425000.0,1400.0,1400.0,81.53756552125802,20,4,0,https://www.propertyguru.com.my/condo/diamond-regency-2074
+Sky Vista Residensi,675099.95,680000.0,1857.5,1800.0,65.52125800815377,20,20,0,https://www.propertyguru.com.my/condo/sky-vista-residensi-2086
+Fahrenheit 88,1141947.3684210526,1100000.0,3012.5,3050.0,68.63186318631864,19,20,0,https://www.propertyguru.com.my/condo/fahrenheit-88-2082
+Central Residence @ Sg Besi,484050.0,450000.0,1702.5,1600.0,88.008800880088,20,20,0,https://www.propertyguru.com.my/condo/central-residence-sg-besi-2090
+Suasana Bukit Ceylon,1144660.0,1050000.0,3020.0,3150.0,74.25742574257426,20,20,0,https://www.propertyguru.com.my/condo/suasana-bukit-ceylon-2096
+The Z Residence,660500.0,664000.0,1850.0,1750.0,65.23619229392818,20,20,0,https://www.propertyguru.com.my/condo/the-z-residence-2107
+Miharja Condominium,344349.95,349000.0,1360.0,1325.0,93.97429714318136,20,20,0,https://www.propertyguru.com.my/condo/miharja-condominium-2092
+Best Western Premier Dua Sentral,591400.0,555000.0,1677.5,1700.0,75.81839265007581,10,20,0,https://www.propertyguru.com.my/condo/best-western-premier-dua-sentral-2095
+Kiara Residence 2,638050.0,615000.0,1909.95,1850.0,74.458665378733,20,20,0,https://www.propertyguru.com.my/condo/kiara-residence-2-2102
+Mirage Residence Luxury Condominium,1078100.0,1025000.0,3974.9,3999.5,96.58295097802464,20,20,0,https://www.propertyguru.com.my/condo/mirage-residence-luxury-condominium-2106
+Dedaun,2432715.0,1969000.0,11308.333333333334,8800.0,110.62558769843464,20,12,0,https://www.propertyguru.com.my/condo/dedaun-2116
+Gaya Apartments,364100.0,349000.0,1336.842105263158,1400.0,99.29359698147465,20,19,0,https://www.propertyguru.com.my/condo/gaya-apartments-2121
+Residence 8,603845.0,602000.0,1364.4,1200.0,49.340482220979574,20,20,0,https://www.propertyguru.com.my/condo/residence-8-2112
+Laman Ceylon,1045245.0,971000.0,2569.9,2575.0,65.64121911676234,20,20,0,https://www.propertyguru.com.my/condo/laman-ceylon-2113
+Four Seasons Place,7325714.285714285,6000000.0,14340.47619047619,14450.0,59.61221122112212,21,21,0,https://www.propertyguru.com.my/condo/four-seasons-place-2120
+Gembira Park,420166.6666666667,395000.0,1437.5,1475.0,92.43012908885825,6,4,0,https://www.propertyguru.com.my/condo/gembira-park-2122
+Golden City Condominium,392250.0,385000.0,1200.0,1200.0,77.15057220007715,4,2,0,https://www.propertyguru.com.my/condo/golden-city-condominium-2125
+Iringan Hijau,3275147.5,3200000.0,8050.0,8500.0,65.74876237623762,20,18,0,https://www.propertyguru.com.my/condo/iringan-hijau-2153
+Seri Bukit Ceylon Service Residence,1257857.142857143,855000.0,1830.0,1800.0,52.11047420531526,14,20,0,https://www.propertyguru.com.my/condo/seri-bukit-ceylon-service-residence-2168
+Verdana @ North Kiara,1159650.0,1050000.0,3735.0,3500.0,82.5082508250825,20,20,0,https://www.propertyguru.com.my/condo/verdana-north-kiara-2180
+Putra Ria Apartment (Bangsar),256249.75,249999.5,1342.857142857143,1300.0,128.71312871338614,4,7,0,https://www.propertyguru.com.my/condo/putra-ria-apartment-bangsar-2249
+Savanna 2,1355000.0,1400000.0,4575.0,4500.0,79.56152758132957,10,4,0,https://www.propertyguru.com.my/condo/savanna-2-2264
+Savanna,606849.95,590000.0,2104.4,2100.0,88.10203054203726,20,20,0,https://www.propertyguru.com.my/condo/savanna-2261
+Sri Endah Apartment,240727.27272727274,240000.0,1500.0,1500.0,154.7029702970297,11,1,0,https://www.propertyguru.com.my/condo/sri-endah-apartment-2279
+Pudu Impian I,199666.66666666666,200000.0,1080.0,1100.0,136.13861386138615,6,10,0,https://www.propertyguru.com.my/condo/pudu-impian-i-2297
+Iris Apartment (Taman Desa),192799.9,190000.0,863.3333333333334,850.0,110.73475768629496,20,15,0,https://www.propertyguru.com.my/condo/iris-apartment-taman-desa-2291
+Pangsaria,222583.33333333334,209000.0,1050.0,1050.0,124.35454071722961,12,2,0,https://www.propertyguru.com.my/condo/pangsaria-2285
+Vila Tropika @ Pudu Impian II,370000.0,360000.0,1258.3333333333333,1300.0,89.38393839383939,3,6,0,https://www.propertyguru.com.my/condo/vila-tropika-pudu-impian-ii-2294
+Vistaria Residensi,607578.947368421,650000.0,1907.142857142857,1900.0,72.35338918507236,19,7,0,https://www.propertyguru.com.my/condo/vistaria-residensi-2300
+Sri Jati I (OKR),321550.0,322500.0,1183.3333333333333,1200.0,92.10223347916187,20,6,0,https://www.propertyguru.com.my/condo/sri-jati-i-okr-2348
+Bandar Damai Perdana Apartment,396333.3333333333,284000.0,975.0,1100.0,95.87226328266628,6,3,0,https://www.propertyguru.com.my/condo/bandar-damai-perdana-apartment-2372
+Taman Miharja Apartments (LRT Miharja),269142.85714285716,264000.0,1033.3333333333333,1075.0,100.7913291329133,14,6,0,https://www.propertyguru.com.my/condo/taman-miharja-apartments-lrt-miharja-2417
+Desa Pandan Baiduri Block G Apartment,346150.0,330000.0,1341.6666666666667,1300.0,97.5097509750975,20,6,0,https://www.propertyguru.com.my/condo/desa-pandan-baiduri-block-g-apartment-2408
+Sastra U-Thant,3091350.0,2405000.0,8475.0,7500.0,77.1906712500772,20,20,0,https://www.propertyguru.com.my/condo/sastra-u-thant-2426
+Jasmin Apartment (Sri Rampai),284000.0,284000.0,1125.0,1125.0,98.05117835727235,6,2,0,https://www.propertyguru.com.my/condo/jasmin-apartment-sri-rampai-2432
+Pangsapuri Segar Ria,169180.0,165000.0,672.8571428571429,680.0,102.010201020102,20,7,0,https://www.propertyguru.com.my/condo/pangsapuri-segar-ria-2420
+Wickham Manor,950000.0,910000.0,4800.0,4800.0,130.56250680013056,4,1,0,https://www.propertyguru.com.my/condo/wickham-manor-2423
+Sentul Utama Condominium,332200.0,332500.0,1172.5,1150.0,85.61006476587508,20,20,0,https://www.propertyguru.com.my/condo/sentul-utama-condominium-2450
+Madu Mas Apartment,429900.0,419000.0,1560.0,1500.0,88.61267988374016,20,5,0,https://www.propertyguru.com.my/condo/madu-mas-apartment-2438
+Plaza 393 Condominium,424750.0,405000.0,1487.45,1500.0,91.67583425009167,8,20,0,https://www.propertyguru.com.my/condo/plaza-393-condominium-2411
+Miharja Apartment (LRT Maluri),262866.6666666667,260000.0,759.5454545454545,1000.0,95.2018278750952,15,11,0,https://www.propertyguru.com.my/condo/miharja-apartment-lrt-maluri-2414
+Platinum Suites,1244400.0,1200000.0,3140.0,3100.0,63.94389438943895,20,20,0,https://www.propertyguru.com.my/condo/platinum-suites-2453
+Villa Danau,428400.0,425000.0,1375.0,1375.0,80.08153756552126,20,2,0,https://www.propertyguru.com.my/condo/villa-danau-2456
+Menara Orkid,288000.0,280000.0,1195.3636363636363,1200.0,106.08203677510608,18,11,0,https://www.propertyguru.com.my/condo/menara-orkid-2447
+Plaza Prima Setapak,443444.44444444444,430000.0,1495.0,1500.0,86.34584388671425,18,20,0,https://www.propertyguru.com.my/condo/plaza-prima-setapak-2513
+Scott Sentral,719363.6363636364,698000.0,2287.45,2200.0,78.0163976283015,11,20,0,https://www.propertyguru.com.my/condo/scott-sentral-2546
+The Signature,537250.0,540000.0,2140.0,2100.0,96.25962596259626,8,20,0,https://www.propertyguru.com.my/condo/the-signature-2543
+Villa Makmur,520000.0,520000.0,1505.0,1475.0,70.2113480578827,2,10,0,https://www.propertyguru.com.my/condo/villa-makmur-2540
+Mas Kiara Residences,689700.0,680000.0,2532.294117647059,2600.0,94.64181712288875,20,17,0,https://www.propertyguru.com.my/condo/mas-kiara-residences-2522
+Prima Setapak II,600000.0,636500.0,1800.0,1800.0,69.99914445490111,20,2,0,https://www.propertyguru.com.my/condo/prima-setapak-ii-2516
+Seri Puteri Condominium,502611.1111111111,485000.0,1764.95,1700.0,86.76125344493212,18,20,0,https://www.propertyguru.com.my/condo/seri-puteri-condominium-2528
+Putra Suria Residensi,319250.0,318000.0,1236.5,1200.0,93.40556697179153,20,20,0,https://www.propertyguru.com.my/condo/putra-suria-residensi-2525
+Jubilee Court,215000.0,215000.0,900.0,900.0,103.6150126640571,2,1,0,https://www.propertyguru.com.my/condo/jubilee-court-2552
+Menara Avenue,854750.0,874500.0,1713.3333333333333,1500.0,42.457075896268876,4,15,0,https://www.propertyguru.com.my/condo/menara-avenue-2567
+Merdeka View Apartment,679500.0,665000.0,2100.0,2100.0,78.1657113079729,6,2,0,https://www.propertyguru.com.my/condo/merdeka-view-apartment-2549
+Megan Ambassy,372571.4285714286,359000.0,1321.4285714285713,1100.0,75.84323891999227,14,14,0,https://www.propertyguru.com.my/condo/megan-ambassy-2570
+Plaza Medan Putra,319750.0,330000.0,1159.95,1100.0,82.5082508250825,20,20,0,https://www.propertyguru.com.my/condo/plaza-medan-putra-2669
+Vida Bukit Ceylon,1425000.0,1425000.0,2500.0,2500.0,43.425395171096056,2,1,0,https://www.propertyguru.com.my/condo/vida-bukit-ceylon-2717
+Residensi Desa,615550.0,595000.0,1755.5555555555557,1700.0,70.72135785007072,20,9,0,https://www.propertyguru.com.my/condo/residensi-desa-2708
+Manda'rina Court,278000.0,270000.0,1000.0,1000.0,91.67583425009167,5,2,0,https://www.propertyguru.com.my/condo/manda-rina-court-2705
+Flat Taman Bukit Anggerik,650000.0,650000.0,600.0,600.0,22.84843869002285,1,1,0,https://www.propertyguru.com.my/condo/flat-taman-bukit-anggerik-2702
+KM1 West Condominium @ Bukit Jalil,979350.0,995000.0,2674.8,2800.0,69.65520672670281,20,20,0,https://www.propertyguru.com.my/condo/km1-west-condominium-bukit-jalil-2723
+Q1 Condominium,527000.0,507000.0,2133.3333333333335,2200.0,107.40719042318433,4,3,0,https://www.propertyguru.com.my/condo/q1-condominium-5804
+Sutera Maya Condominium,565600.0,580000.0,1797.142857142857,1800.0,76.81802663024924,5,7,0,https://www.propertyguru.com.my/condo/sutera-maya-condominium-5861
+Villa Orkid Condominium @ Prima Pelangi,707500.0,720000.0,2117.35,2000.0,68.75687568756875,20,20,0,https://www.propertyguru.com.my/condo/villa-orkid-condominium-prima-pelangi-5855
+Arcoris Residences @ Arcoris Mont Kiara,1324275.0,1185000.0,4357.5,4300.0,89.8191084931278,20,20,0,https://www.propertyguru.com.my/condo/arcoris-residences-arcoris-mont-kiara-5840
+Sentrio Suites,659527.5,632500.0,2129.95,2150.0,84.13884866747544,20,20,0,https://www.propertyguru.com.my/condo/sentrio-suites-5888
+The Horizon Residences @ Jalan Tun Razak,763400.0,695000.0,2642.4,2325.0,82.80504309423748,20,20,0,https://www.propertyguru.com.my/condo/the-horizon-residences-jalan-tun-razak-5846
+Kuchai Entrepreneurs Park Shop Apartment,223650.0,225000.0,951.8181818181819,1000.0,110.01100110011001,20,11,0,https://www.propertyguru.com.my/condo/kuchai-entrepreneurs-park-shop-apartment-5903
+Residensi 22 @ Mont Kiara,2279523.8095238097,2300000.0,8728.57142857143,8500.0,91.47653895824365,21,21,0,https://www.propertyguru.com.my/condo/residensi-22-mont-kiara-5891
+Anyaman Residence,532062.5,510000.0,1413.7857142857142,1599.0,77.60629004076878,16,14,0,https://www.propertyguru.com.my/condo/anyaman-residence-5915
+G Residence @ Desa Pandan,1120000.0,1030000.0,2754.95,2700.0,64.885129289628,20,20,0,https://www.propertyguru.com.my/condo/g-residence-desa-pandan-5945
+Sri Intan 2 (Jalan Ipoh),399161.1,355000.0,1220.0,1200.0,83.67033886487239,20,5,0,https://www.propertyguru.com.my/condo/sri-intan-2-jalan-ipoh-5993
+Suasana Lumayan,516649.9,477500.0,1604.9,1625.0,84.23617230833031,20,20,0,https://www.propertyguru.com.my/condo/suasana-lumayan-5978
+The Treez Jalil Residence @ Bukit Jalil,2020149.9,2240000.0,3740.0,3600.0,39.780763790664786,20,20,0,https://www.propertyguru.com.my/condo/the-treez-jalil-residence-bukit-jalil-5984
+Nadi Bangsar Service Residence,1112899.85,1260000.0,2709.85,2650.0,52.05877730630206,20,20,0,https://www.propertyguru.com.my/condo/nadi-bangsar-service-residence-6050
+Lakeville Residence,736400.0,734000.0,1972.0,1999.0,67.41171392343594,20,20,0,https://www.propertyguru.com.my/condo/lakeville-residence-6056
+Tiara Mutiara 2,599822.5,580000.0,1450.0,1500.0,64.01502219187437,20,20,0,https://www.propertyguru.com.my/condo/tiara-mutiara-2-6032
+Residensi Rampai,502714.28571428574,500000.0,1585.0,1550.0,76.73267326732673,7,20,0,https://www.propertyguru.com.my/condo/residensi-rampai-6080
+Saville @ Melawati,533500.0,485000.0,1675.0,1550.0,79.1058487292028,20,4,0,https://www.propertyguru.com.my/condo/saville-melawati-6086
+28 Dutamas,1047090.0,958000.0,3196.45,2700.0,69.76167345335787,20,20,0,https://www.propertyguru.com.my/condo/28-dutamas-6083
+Happy Garden Apartment,241444.44444444444,240000.0,1100.0,1150.0,118.60561056105612,9,8,0,https://www.propertyguru.com.my/condo/happy-garden-apartment-6128
+Desa Pandan Elena Block F Apartment,297666.6666666667,260000.0,1100.0,1100.0,104.72201066260472,3,1,0,https://www.propertyguru.com.my/condo/desa-pandan-elena-block-f-apartment-6143
+Nusa Mewah Villa Condominium,323500.0,326500.0,1049.8333333333333,1000.0,75.81156277955513,20,6,0,https://www.propertyguru.com.my/condo/nusa-mewah-villa-condominium-6158
+Medan Bukit Permai Shop Apartment,181633.33333333334,180000.0,1000.0,1000.0,137.5137513751375,3,1,0,https://www.propertyguru.com.my/condo/medan-bukit-permai-shop-apartment-6188
+288 Residences @ Kuchai Lama,697800.0,642500.0,2632.45,2300.0,88.60808259814307,20,20,0,https://www.propertyguru.com.my/condo/288-residences-kuchai-lama-6245
+Petalz Residences @ Old Klang Road,689350.0,660000.0,2040.0,2300.0,86.25862586258626,20,20,0,https://www.propertyguru.com.my/condo/petalz-residences-old-klang-road-6248
+TWY Duplex Condos @ Mont Kiara,906388.7,790000.0,3605.0,2750.0,86.16367965910516,20,20,0,https://www.propertyguru.com.my/condo/twy-duplex-condos-mont-kiara-6242
+100 Residency,779230.7692307692,780000.0,3200.0,3200.0,101.54861640010154,13,5,0,https://www.propertyguru.com.my/condo/100-residency-6278
+D'Sands Residence @ Old Klang Road,657899.85,699999.0,1616.5,1750.0,61.881276520635474,20,20,0,https://www.propertyguru.com.my/condo/d-sands-residence-old-klang-road-6251
+SkyVille 8 @ Benteng 8,537625.6,534240.0,1879.95,1950.0,90.34764662450073,15,20,0,https://www.propertyguru.com.my/condo/skyville-8-benteng-8-6287
+Platinum Lake Condominium PV 20,474249.85,459999.5,1385.0,1475.0,79.36943624960247,20,20,0,https://www.propertyguru.com.my/condo/platinum-lake-condominium-pv-20-6239
+Avantas Residences @ Old Klang Road,645300.0,640000.0,1852.45,1874.5,72.49767945544555,20,20,0,https://www.propertyguru.com.my/condo/avantas-residences-old-klang-road-6254
+Taman Connaught Flat (High Rise),431666.6666666667,165000.0,900.0,900.0,135.01350135013502,3,2,0,https://www.propertyguru.com.my/condo/taman-connaught-flat-high-rise-6299
+Taman Connaught Flat (Low Rise),459000.0,459000.0,850.0,850.0,45.837917125045834,2,2,0,https://www.propertyguru.com.my/condo/taman-connaught-flat-low-rise-6296
+Hedgeford 10 Residences @ Wangsa Maju,309900.0,300000.0,1564.2857142857142,1600.0,132.01320132013203,20,7,0,https://www.propertyguru.com.my/condo/hedgeford-10-residences-wangsa-maju-6338
+The Reach @ Titiwangsa,907800.0,770000.0,2820.0,2550.0,81.97248296258198,20,20,0,https://www.propertyguru.com.my/condo/the-reach-titiwangsa-6329
+Taman Kepong Indah Flat,420000.0,220000.0,1000.0,1000.0,112.51125112511251,3,1,0,https://www.propertyguru.com.my/condo/taman-kepong-indah-flat-6335
+The Loft @ ZetaPark,367864.9,280000.0,1742.45,1700.0,150.28288543140027,20,20,0,https://www.propertyguru.com.my/condo/the-loft-zetapark-6401
+Maxim Residences @ Cheras KL,422673.85,430000.0,1604.95,1500.0,86.34584388671425,20,20,0,https://www.propertyguru.com.my/condo/maxim-residences-cheras-kl-6395
+Maxim Citylights @ Sentul KL,405800.0,400000.0,1532.3,1575.0,97.4628712871287,20,20,0,https://www.propertyguru.com.my/condo/maxim-citylights-sentul-kl-6392
+Anjali North Kiara,1111750.0,1075000.0,3675.0,3500.0,80.58945429426664,20,20,0,https://www.propertyguru.com.my/condo/anjali-north-kiara-6425
+Cloud Tree @ Cheras,638188.75,594000.0,2142.4,1899.0,79.13291329132913,20,20,0,https://www.propertyguru.com.my/condo/cloud-tree-cheras-6410
+South View Serviced Apartments,695650.0,684000.0,2214.190476190476,2200.0,79.61322448034277,20,21,0,https://www.propertyguru.com.my/condo/south-view-serviced-apartments-6431
+Expressionz Professional Suites,933755.25,915000.0,1492.5,1240.0,33.54433804036141,20,16,0,https://www.propertyguru.com.my/condo/expressionz-professional-suites-6467
+The Leafz @ Sungai Besi,592995.0,590000.0,2159.9,2149.5,90.17872126195671,20,20,0,https://www.propertyguru.com.my/condo/the-leafz-sungai-besi-6464
+Villa Crystal,768263.1578947369,750000.0,2240.0,2200.0,72.60726072607261,20,20,1,https://www.propertyguru.com.my/condo/villa-crystal-6473
+Vila Vista @ Cheras,702520.0,656050.0,2807.45,3100.0,116.96162375935786,20,20,0,https://www.propertyguru.com.my/condo/vila-vista-cheras-6470
+Twin Arkz @ Bukit Jalil,1009900.0,1000000.0,3060.0,3100.0,76.73267326732673,20,20,0,https://www.propertyguru.com.my/condo/twin-arkz-bukit-jalil-6461
+The Link 2 Residences,670469.4,634000.0,2130.0,2050.0,80.03560608426773,20,20,0,https://www.propertyguru.com.my/condo/the-link-2-residences-6482
+Tribeca Bukit Bintang,1092199.95,1155000.0,2725.0,2500.0,53.57678625005357,20,20,0,https://www.propertyguru.com.my/condo/tribeca-bukit-bintang-6512
+Serai Bukit Bandaraya,7875307.5,7939500.0,18195.0,18000.0,56.11745757987853,20,20,0,https://www.propertyguru.com.my/condo/serai-bukit-bandaraya-6500
+Lido Residency,628150.0,634000.0,2045.0,2000.0,78.08351813099291,20,20,0,https://www.propertyguru.com.my/condo/lido-residency-6506
+The Vyne,552000.0,567500.0,1452.85,1700.0,74.14838400139573,20,20,0,https://www.propertyguru.com.my/condo/the-vyne-6521
+Dua Menjalara Kondominium,1273550.0,1200000.0,4877.777777777777,5200.0,107.26072607260727,20,9,0,https://www.propertyguru.com.my/condo/dua-menjalara-kondominium-6542
+Pavilion Hilltop @ Mont Kiara,1785714.2857142857,1650000.0,5645.0,5800.0,87.00870087008701,21,20,0,https://www.propertyguru.com.my/condo/pavilion-hilltop-mont-kiara-6554
+The Andes,724134.95,579999.5,1961.111111111111,2000.0,85.35343650304786,20,18,0,https://www.propertyguru.com.my/condo/the-andes-6539
+"The Mews, KLCC",1620444.4,1415000.0,4595.0,4250.0,74.34489031942064,20,20,0,https://www.propertyguru.com.my/condo/the-mews-klcc-6575
+Fortune Perdana Lakeside Residences,554744.4,543500.0,1609.05,1515.5,69.02001147676866,20,20,0,https://www.propertyguru.com.my/condo/fortune-perdana-lakeside-residences-6551
+Riverville Residences,667400.0,680000.0,1794.5,1850.0,67.34129295282469,20,20,0,https://www.propertyguru.com.my/condo/riverville-residences-6590
+OUG Parklane Phase 2,336250.0,335000.0,1280.0,1200.0,88.66558297620806,20,20,0,https://www.propertyguru.com.my/condo/oug-parklane-phase-2-6668
+OUG Parklane Phase 3,339600.0,337000.0,1126.5,1200.0,88.1393777359932,20,20,0,https://www.propertyguru.com.my/condo/oug-parklane-phase-3-6671
+Taman Permata Fadason,225571.42857142858,238000.0,825.0,850.0,88.40169731258841,7,4,0,https://www.propertyguru.com.my/condo/taman-permata-fadason-6620
+Damai 88,1938675.0,1490000.0,4362.5,3200.0,53.159678383945774,16,8,0,https://www.propertyguru.com.my/condo/damai-88-6653
+The Sanctuary,1326666.6666666667,1380000.0,5500.0,5500.0,98.65116946477255,3,1,0,https://www.propertyguru.com.my/condo/the-sanctuary-6659
+Pangsapuri Mega Indah,118000.0,118000.0,800.0,800.0,167.81339150864238,1,2,0,https://www.propertyguru.com.my/condo/pangsapuri-mega-indah-6638
+Verve Suites @ KL South,534205.0,494000.0,2249.8,2299.0,115.1942117288652,20,20,0,https://www.propertyguru.com.my/condo/verve-suites-kl-south-6656
+Seasons Garden Residences @ Wangsa Maju,454650.0,447500.0,1420.0,1400.0,77.43791138890425,20,20,0,https://www.propertyguru.com.my/condo/seasons-garden-residences-wangsa-maju-6686
+Damansara City Residency,3308707.5,2489225.0,7595.0,5750.0,57.17712648445494,20,20,0,https://www.propertyguru.com.my/condo/damansara-city-residency-6710
+Pearl Suria,611775.0,640500.0,2229.9,2250.0,86.95248915992302,20,20,0,https://www.propertyguru.com.my/condo/pearl-suria-6722
+Star Residences @ KLCC,1432434.9,1141499.5,3464.75,3449.5,74.79956265100128,20,20,0,https://www.propertyguru.com.my/condo/star-residences-klcc-6707
+Residency V,569450.0,524000.0,1822.35,1750.0,82.6657093190235,20,20,0,https://www.propertyguru.com.my/condo/residency-v-6725
+VIVO Residential Suites @ 9 Seputeh,727438.8,730000.0,2277.4,2449.5,83.0564220805642,20,20,0,https://www.propertyguru.com.my/condo/vivo-residential-suites-9-seputeh-6797
+Irama Wangsa,760050.0,750000.0,2470.0,2500.0,82.5082508250825,20,20,0,https://www.propertyguru.com.my/condo/irama-wangsa-6791
+Inwood Residences @ Pantai Sentral Park,1157850.0,1000000.0,3819.9,3900.0,96.53465346534654,20,20,0,https://www.propertyguru.com.my/condo/inwood-residences-pantai-sentral-park-6806
+Sentul Village Mercury Service Apartment,422019.8,436999.5,1472.5,1400.0,79.29863843444822,20,20,0,https://www.propertyguru.com.my/condo/sentul-village-mercury-service-apartment-6833
+TTDI Ascencia,1193500.0,1070000.0,3047.5,2900.0,67.08614786712316,20,20,0,https://www.propertyguru.com.my/condo/ttdi-ascencia-6821
+The Robertson,790975.5,745000.0,2119.0476190476193,2100.0,69.77207787892883,20,21,0,https://www.propertyguru.com.my/condo/the-robertson-6863
+Dorsett Residences Bukit Bintang,1318000.0,1175000.0,3300.0,3300.0,69.51759005687803,10,20,0,https://www.propertyguru.com.my/condo/dorsett-residences-bukit-bintang-6866
+Laman Damai Kepong (Li Garden),214939.95,218900.0,684.95,700.0,79.15364400761685,20,20,0,https://www.propertyguru.com.my/condo/laman-damai-kepong-li-garden-6875
+Taman Usaha Jaya Shop Apartment,330000.0,330000.0,850.0,850.0,63.75637563756375,1,1,0,https://www.propertyguru.com.my/condo/taman-usaha-jaya-shop-apartment-6878
+SERINI Melawati,639500.0,655000.0,1845.0,1700.0,64.24306552792683,20,20,0,https://www.propertyguru.com.my/condo/serini-melawati-6965
+Chymes @ Gurney,598293.75,565000.0,2784.8,2700.0,118.28616489967581,16,20,0,https://www.propertyguru.com.my/condo/chymes-gurney-6935
+Trinity Aquata,598400.0,552500.0,1754.85,1800.0,80.64154831772771,20,20,0,https://www.propertyguru.com.my/condo/trinity-aquata-6968
+KL Traders Square Residences,498000.0,500000.0,1497.45,1500.0,74.25742574257426,20,20,0,https://www.propertyguru.com.my/condo/kl-traders-square-residences-6980
+The Westside II,1239500.0,1195000.0,3740.0,3750.0,77.67513152988938,20,20,0,https://www.propertyguru.com.my/condo/the-westside-ii-7007
+Denai Sutera,731949.95,707500.0,2300.0,2300.0,80.46741069866704,20,3,0,https://www.propertyguru.com.my/condo/denai-sutera-6998
+Pangsapuri Seroja (Laman Rimbunan),229812.5,232500.0,847.5,850.0,90.49292025976791,16,20,0,https://www.propertyguru.com.my/condo/pangsapuri-seroja-laman-rimbunan-6986
+DEX Suites 1.0 (Tower A) @ Kiara East,379975.0,419000.0,1653.3333333333333,1600.0,94.5201918759895,10,15,0,https://www.propertyguru.com.my/condo/dex-suites-1-0-tower-a-kiara-east-7004
+Flat Taman Melati Blok A,210000.0,210000.0,785.0,790.0,93.11645450259311,4,4,0,https://www.propertyguru.com.my/condo/flat-taman-melati-blok-a-7082
+Flat Taman Melati Blok E,175000.0,175000.0,925.0,925.0,130.83451202263083,1,2,0,https://www.propertyguru.com.my/condo/flat-taman-melati-blok-e-7094
+Desa Pandan Baiduri Apartment Block C1,324000.0,320000.0,1300.0,1300.0,100.5569306930693,5,1,0,https://www.propertyguru.com.my/condo/desa-pandan-baiduri-apartment-block-c1-7061
+The Manhattan,960000.0,940000.0,3263.6363636363635,3000.0,78.99726142827049,8,11,1,https://www.propertyguru.com.my/condo/the-manhattan-7328
+Apartment Abdullah Hukum,358333.3333333333,365000.0,1605.0,1600.0,108.50400108504,3,20,0,https://www.propertyguru.com.my/condo/apartment-abdullah-hukum-7397
+Bayu Sentul Condominium,489750.0,430000.0,1745.0,1750.0,100.7368178678333,20,20,0,https://www.propertyguru.com.my/condo/bayu-sentul-condominium-7400
+Nobleton Crest,4590389.95,4734000.0,13342.857142857143,13000.0,67.97257672535315,20,14,0,https://www.propertyguru.com.my/condo/nobleton-crest-7367
+Vortex Hotel Suites & Residences @ KLCC,1016900.0,877500.0,2865.0,2650.0,74.75106485007475,20,20,0,https://www.propertyguru.com.my/condo/vortex-hotel-suites-residences-klcc-7424
+Citizen 2 @ Old Klang Road,540500.0,540000.0,1780.0,1800.0,82.5082508250825,20,20,0,https://www.propertyguru.com.my/condo/citizen-2-old-klang-road-7445
+The Henge Kepong,527523.8095238095,489000.0,1662.45,1500.0,75.92783818259127,21,20,0,https://www.propertyguru.com.my/condo/the-henge-kepong-7439
+Garden Tower Apartment,232500.0,220000.0,865.0,865.0,97.32223222322231,6,2,0,https://www.propertyguru.com.my/condo/garden-tower-apartment-7418
+Residensi Gombak 126,332500.0,320000.0,1322.0,1250.0,96.68935643564356,20,15,0,https://www.propertyguru.com.my/condo/residensi-gombak-126-7502
+Ascenda Residences @ SkyArena Setapak,515449.95,500000.0,1717.45,1800.0,89.10891089108911,20,20,0,https://www.propertyguru.com.my/condo/ascenda-residences-skyarena-setapak-7496
+OPUS Kuala Lumpur,1230812.5,1190000.0,3410.0,3450.0,71.76137781845412,16,20,0,https://www.propertyguru.com.my/condo/opus-kuala-lumpur-7550
+Riana Dutamas,556700.0,554500.0,1619.0,1500.0,66.958905087984,21,21,1,https://www.propertyguru.com.my/condo/riana-dutamas-7634
+Secoya Residences,1013440.0,1048400.0,3422.5,3300.0,77.9122170133839,20,20,0,https://www.propertyguru.com.my/condo/secoya-residences-7619
+The Centrina @ Central Residence,574000.0,574000.0,1575.0,1600.0,68.99644668299582,2,8,0,https://www.propertyguru.com.my/condo/the-centrina-central-residence-7628
+KM1 East Condominium @ Bukit Jalil,1449900.0,1350000.0,3942.153846153846,4000.0,73.34066740007333,20,13,0,https://www.propertyguru.com.my/condo/km1-east-condominium-bukit-jalil-7697
+United Point Residence @ North Kiara,544305.0,548444.0,1842.6190476190477,1700.0,76.72471195015731,20,21,0,https://www.propertyguru.com.my/condo/united-point-residence-north-kiara-7718
+Danau Kota Suite Apartments,492500.0,480000.0,1574.95,1500.0,77.35148514851485,16,20,0,https://www.propertyguru.com.my/condo/danau-kota-suite-apartments-7715
+Spring Avenue @ Kuchai Lama,538250.0,535000.0,1528.0,1480.0,68.4741371333395,20,20,0,https://www.propertyguru.com.my/condo/spring-avenue-kuchai-lama-7739
+Parkhill Residence Bukit Jalil,591099.9,570000.0,1980.0,2200.0,95.53586937641133,20,20,0,https://www.propertyguru.com.my/condo/parkhill-residence-bukit-jalil-7754
+DEX Suites 2.0 (Tower B) @ Kiara East,443750.0,417500.0,1611.764705882353,1600.0,94.85978537973557,4,17,0,https://www.propertyguru.com.my/condo/dex-suites-2-0-tower-b-kiara-east-7796
+Citizen @ Old Klang Road,597650.0,607500.0,2024.5,2000.0,81.48963044452594,20,20,0,https://www.propertyguru.com.my/condo/citizen-old-klang-road-7769
+D'Majestic Residenz @ Pudu,474888.8888888889,400000.0,1807.6153846153845,1600.0,99.00990099009901,9,13,0,https://www.propertyguru.com.my/condo/d-majestic-residenz-pudu-7772
+MH Platinum Residences,411000.0,422500.0,1399.65,1350.0,79.09074931161756,20,20,0,https://www.propertyguru.com.my/condo/mh-platinum-residences-7844
+Reizz Residence,772605.8,750000.0,1907.45,1900.0,62.706270627062715,20,20,0,https://www.propertyguru.com.my/condo/reizz-residence-7835
+Sentul Point Suite Apartment,474727.45,500000.0,1582.45,1550.0,76.73267326732673,20,20,0,https://www.propertyguru.com.my/condo/sentul-point-suite-apartment-7871
+Novum Bangsar South,794249.95,745000.0,2850.0,2800.0,93.02943717190512,20,20,0,https://www.propertyguru.com.my/condo/novum-bangsar-south-7847
+Court 28 @ KL City,562999.95,530000.0,1667.25,1665.0,77.76013450401643,20,20,0,https://www.propertyguru.com.my/condo/court-28-kl-city-7958
+Fortune Centra Residences,553500.0,532500.0,1614.9,1500.0,69.72528238739366,20,20,0,https://www.propertyguru.com.my/condo/fortune-centra-residences-8054
+Shamelin Star,597900.0,549000.0,1892.45,1950.0,87.91862792836662,20,20,0,https://www.propertyguru.com.my/condo/shamelin-star-8051
+One Central Park @ Desa ParkCity,1788400.0,1700000.0,4930.0,5000.0,72.80139778683751,20,20,0,https://www.propertyguru.com.my/condo/one-central-park-desa-parkcity-8075
+VIM 3 @ Desa Park North,433800.0,394000.0,1502.45,1450.0,91.09413479419008,20,20,0,https://www.propertyguru.com.my/condo/vim-3-desa-park-north-8039
+The Estate @ South Bangsar,2062250.0,2050000.0,8715.0,9000.0,108.66940352571842,20,20,0,https://www.propertyguru.com.my/condo/the-estate-south-bangsar-8060
+Rafflesia Sentul Condominium,526650.0,547500.0,1633.95,1749.5,79.09489579094895,20,20,0,https://www.propertyguru.com.my/condo/rafflesia-sentul-condominium-8111
+Seri Cempaka Service Suites @ Cheras,298750.0,295000.0,1320.0,1300.0,109.07870448061755,4,5,0,https://www.propertyguru.com.my/condo/seri-cempaka-service-suites-cheras-8108
+KL Gateway Residences,1097220.0,750000.0,2380.0,2450.0,80.85808580858087,20,20,0,https://www.propertyguru.com.my/condo/kl-gateway-residences-8093
+KL Gateway Premium Residences,2149970.0,1200000.0,3690.4285714285716,3500.0,72.1947194719472,20,21,0,https://www.propertyguru.com.my/condo/kl-gateway-premium-residences-8090
+Residensi Seri Wahyu @ Jalan Kuching KL,1400.0,1400.0,1162.5,1175.0,20774.398868458276,1,20,0,https://www.propertyguru.com.my/condo/residensi-seri-wahyu-jalan-kuching-kl-8135
+Residensi Pandanmas 2,310000.0,300000.0,1347.45,1400.0,115.51155115511551,5,20,0,https://www.propertyguru.com.my/condo/residensi-pandanmas-2-8132
+Sunway Mont Residences,1300500.0,1250000.0,4067.5,4100.0,81.18811881188118,20,20,0,https://www.propertyguru.com.my/condo/sunway-mont-residences-8297
+Flexus Signature Suites @ Jalan Kuching,508735.0,235000.0,1440.0,1400.0,147.46155466610492,20,20,0,https://www.propertyguru.com.my/condo/flexus-signature-suites-jalan-kuching-8288
+Dorsett Residences Sri Hartamas,562958.4,550000.0,1849.95,1800.0,81.008100810081,20,20,0,https://www.propertyguru.com.my/condo/dorsett-residences-sri-hartamas-8264
+Arcoris SOHO,933100.0,970000.0,3227.5,3000.0,76.55404715729306,20,20,0,https://www.propertyguru.com.my/condo/arcoris-soho-8432
+Arcoris Suites,949714.2857142857,970000.0,3275.0,3100.0,79.1058487292028,7,4,0,https://www.propertyguru.com.my/condo/arcoris-suites-8438
+Riana South,697650.0,683500.0,1764.9,1200.0,43.4571621024575,20,20,0,https://www.propertyguru.com.my/condo/riana-south-8435
+Lucentia Residence @ Bukit Bintang City Centre KL,1083738.3684210526,1030000.0,3684.2105263157896,3800.0,91.31981159280977,20,19,1,https://www.propertyguru.com.my/condo/lucentia-residence-bukit-bintang-city-centre-kl-9332
+Eco Sky,662749.95,650000.0,1895.0,1850.0,70.44935262757045,20,20,0,https://www.propertyguru.com.my/condo/eco-sky-9329
+SkyMeridien Residences @ Sentul East,626631.5789473684,650000.0,2060.0,1900.0,72.35338918507236,20,5,1,https://www.propertyguru.com.my/condo/skymeridien-residences-sentul-east-9362
+The Annex @ Medan Connaught,453837.0,420000.0,1169.3,1049.5,61.851720886374345,15,20,0,https://www.propertyguru.com.my/condo/the-annex-medan-connaught-9347
+PV18 Residence,486800.0,499000.0,1575.6190476190477,1500.0,74.40623821901228,20,21,0,https://www.propertyguru.com.my/condo/pv18-residence-9404
+"The Park 2, Pavilion Bukit Jalil",1066909.4761904762,899000.0,2850.0,2650.0,72.96335862729765,21,22,0,https://www.propertyguru.com.my/condo/the-park-2-pavilion-bukit-jalil-9431
+The Park Sky Residence @ Bukit Jalil City,1026350.0,963000.0,2954.7619047619046,3000.0,77.11051478979672,20,21,0,https://www.propertyguru.com.my/condo/the-park-sky-residence-bukit-jalil-city-9443
+The Hermington @ Kuchai Lama,522150.0,520000.0,1812.5,1700.0,80.92155369383092,20,20,0,https://www.propertyguru.com.my/condo/the-hermington-kuchai-lama-9437
+Platinum Splendor Residensi Semarak,466250.0,459000.0,1337.375,1300.0,70.10504972065833,20,24,0,https://www.propertyguru.com.my/condo/platinum-splendor-residensi-semarak-9458
+V Residence 2 @ Sunway Velocity,956299.95,950000.0,2620.0,2450.0,63.83533090151121,20,20,0,https://www.propertyguru.com.my/condo/v-residence-2-sunway-velocity-9560
+Sinaran Wangsa Maju,468230.76923076925,430000.0,2299.75,2399.0,138.09578632281836,13,20,0,https://www.propertyguru.com.my/condo/sinaran-wangsa-maju-9527
+Residensi Puchongmas,300000.0,300000.0,1207.5,1225.0,101.07260726072607,1,20,0,https://www.propertyguru.com.my/condo/residensi-puchongmas-8141
+The Holmes 2 @ Bandar Tun Razak,467900.0,460000.0,1561.45,1500.0,80.71459319845027,20,20,0,https://www.propertyguru.com.my/condo/the-holmes-2-bandar-tun-razak-8231
+One Residences,718612.95,681315.5,2324.95,2200.0,79.92691424832469,20,20,0,https://www.propertyguru.com.my/condo/one-residences-8369
+M Centura,450428.5714285714,480000.0,1242.5,1200.0,61.881188118811885,21,20,0,https://www.propertyguru.com.my/condo/m-centura-8381
+Infiniti Residences @ Wangsa Maju,729899.95,665000.0,2517.4,2475.0,92.1238740415395,20,20,0,https://www.propertyguru.com.my/condo/infiniti-residences-wangsa-maju-8333
+Basalta Tower @ Eco Sky,634307.6923076923,640000.0,1852.4,1849.5,71.53078589108911,13,20,0,https://www.propertyguru.com.my/condo/basalta-tower-eco-sky-8498
+Ativo Suites @ Damansara Avenue,936828.0,1008000.0,3033.3333333333335,3500.0,85.94609460946094,20,3,0,https://www.propertyguru.com.my/condo/ativo-suites-damansara-avenue-9383
+Le Nouvel KLCC,6373240.0,5058000.0,12910.0,12000.0,58.72473368333275,20,20,0,https://www.propertyguru.com.my/condo/le-nouvel-klcc-9371
+"Rica Residence Sentul, KL",540399.8421052631,540000.0,1854.8,1825.0,83.65419875320866,20,20,1,https://www.propertyguru.com.my/condo/rica-residence-sentul-kl-8234
+Midfields 2,542250.0,550000.0,1550.25,1500.0,67.50675067506751,20,20,0,https://www.propertyguru.com.my/condo/midfields-2-8168
+KL Eco City Vogue Suites 1,1314150.0,1000000.0,2738.5454545454545,2500.0,61.881188118811885,20,22,0,https://www.propertyguru.com.my/condo/kl-eco-city-vogue-suites-1-8267
+Mercu Summer Suites @ Kuala Lumpur,621300.0,642500.0,1709.95,1700.0,65.4929306160188,20,20,0,https://www.propertyguru.com.my/condo/mercu-summer-suites-kuala-lumpur-8252
+"The Ritz-Carlton Residences, Kuala Lumpur",5388350.0,3980000.0,13452.380952380952,13500.0,83.95940096522216,21,21,0,https://www.propertyguru.com.my/condo/the-ritz-carlton-residences-kuala-lumpur-8222
+Suria @ North Kiara,434842.1052631579,436000.0,1584.6153846153845,1600.0,90.83477155054956,19,13,0,https://www.propertyguru.com.my/condo/suria-north-kiara-8279
+"Fera Residence @ The Quartz, Wangsa Maju",706150.0,595000.0,2277.5,2050.0,85.28163740743823,20,20,0,https://www.propertyguru.com.my/condo/fera-residence-the-quartz-wangsa-maju-8384
+South Link,519909.5238095238,498800.0,2077.0416666666665,2000.0,99.24809642151062,21,24,0,https://www.propertyguru.com.my/condo/south-link-8399
+The Establishment,645699.95,625000.0,2025.0,1800.0,71.28712871287128,20,20,0,https://www.propertyguru.com.my/condo/the-establishment-8417
+THE FENNEL AT SENTUL EAST,931300.0,940000.0,2302.5,2250.0,59.24794607120287,20,20,0,https://www.propertyguru.com.my/condo/the-fennel-at-sentul-east-8396
+Aurora Tower @ Eco Sky,658850.0,670000.0,1895.0,2000.0,73.88798581350672,20,20,0,https://www.propertyguru.com.my/condo/aurora-tower-eco-sky-8495
+Clarita Tower @ Eco Sky,857742.45,895000.0,2119.95,1850.0,51.16433431052603,20,20,0,https://www.propertyguru.com.my/condo/clarita-tower-eco-sky-8501
+Vista Langkawi @ Residensi PV 18,514444.44444444444,510000.0,1579.95,1500.0,72.80139778683751,9,20,0,https://www.propertyguru.com.my/condo/vista-langkawi-residensi-pv-18-9299
+Three28 Tun Razak,1190900.0,1280000.0,3300.0,3550.0,68.64944306930693,20,20,0,https://www.propertyguru.com.my/condo/three28-tun-razak-7763
+Vina Versatile Homes @ Cheras,518227.75,509000.0,1453.95,1300.0,63.218502596821565,20,20,0,https://www.propertyguru.com.my/condo/vina-versatile-homes-cheras-6503
+Southbank Residence,630600.0,610000.0,1895.0,1950.0,79.12676513552995,20,20,0,https://www.propertyguru.com.my/condo/southbank-residence-6428
+"Sofiya Residensi, Desa ParkCity",1500.0,1500.0,1734.0,1600.0,26402.640264026406,1,20,0,https://www.propertyguru.com.my/condo/sofiya-residensi-desa-parkcity-17867
+Saville @ Jalan Klang Lama,657700.0,640000.0,1927.7777777777778,2000.0,77.35148514851485,20,18,0,https://www.propertyguru.com.my/condo/saville-jalan-klang-lama-486
+The Haute Gurney KL,769343.75,627500.0,2432.5,2325.0,91.7123584868447,16,20,0,https://www.propertyguru.com.my/condo/the-haute-gurney-kl-7685
+Stonor 3 @ KLCC,1456892.5714285714,1422780.0,4587.5,4550.0,79.15753832373073,21,20,0,https://www.propertyguru.com.my/condo/stonor-3-klcc-8030
+"The Hamstead, Desa Tun Razak",422300.0,430000.0,1479.85,1500.0,86.34584388671425,20,20,0,https://www.propertyguru.com.my/condo/the-hamstead-desa-tun-razak-13153
+Continew Condominium,843592.0,837400.0,2299.95,2050.0,60.59538363676348,20,20,0,https://www.propertyguru.com.my/condo/continew-condominium-13386
+Berlian Setapak Residence @ Jalan Semarak Api,678500.0,729000.0,1603.8461538461538,1600.0,54.32642029635062,20,13,0,https://www.propertyguru.com.my/condo/berlian-setapak-residence-jalan-semarak-api-11503
+Waltz Residences,844550.0,792000.0,2701.85,2600.0,81.25812581258126,20,20,0,https://www.propertyguru.com.my/condo/waltz-residences-9648
+"The Colony, KLCC",1081788.142857143,1026000.0,2966.6666666666665,3600.0,86.85079034219211,7,9,0,https://www.propertyguru.com.my/condo/the-colony-klcc-9083
+The ERA @ Duta North,535259.7916666666,485450.0,1964.2857142857142,1800.0,91.7797001659173,24,21,0,https://www.propertyguru.com.my/condo/the-era-duta-north-8393
+Agile Mont Kiara,1560500.0,1550000.0,5510.0,5350.0,85.43596295113382,20,20,0,https://www.propertyguru.com.my/condo/agile-mont-kiara-8306
+KL East : The Ridge,718979.4,750000.0,2342.5,2500.0,82.5082508250825,20,20,0,https://www.propertyguru.com.my/condo/kl-east-the-ridge-9667
+Pavilion Damansara Heights,2332961.4545454546,1504836.0,900.0,900.0,14.803757833260418,22,1,0,https://www.propertyguru.com.my/condo/pavilion-damansara-heights-14178
+Skyluxe On The Park @ Bukit Jalil,831050.0,827500.0,2359.95,2399.5,71.77470012862312,20,20,0,https://www.propertyguru.com.my/condo/skyluxe-on-the-park-bukit-jalil-7814
+One Maxim @ Sentul KL,421650.0,430000.0,1404.7,1399.0,80.53189039834216,20,20,0,https://www.propertyguru.com.my/condo/one-maxim-sentul-kl-7973
+The Havre @ Bukit Jalil,605049.95,600000.0,1924.95,2000.0,82.5082508250825,20,20,0,https://www.propertyguru.com.my/condo/the-havre-bukit-jalil-7853
+"The Herz, Kepong",517175.0,520000.0,1744.9,1500.0,71.40137090632139,20,20,0,https://www.propertyguru.com.my/condo/the-herz-kepong-8477
+East Parc @ Menjalara,787000.0,780000.0,1902.35,2200.0,69.8146737750698,20,20,0,https://www.propertyguru.com.my/condo/east-parc-menjalara-8021
+Arte @ Mont Kiara,646974.95,497499.5,1943.090909090909,1600.0,79.60603055086408,20,22,0,https://www.propertyguru.com.my/condo/arte-mont-kiara-7103
+Mizumi Residences,484600.0,480000.0,1539.95,1525.0,78.64067656765677,20,20,0,https://www.propertyguru.com.my/condo/mizumi-residences-7961
+The Riyang @ Happy Garden,1114812.5,1140000.0,8500.0,8500.0,184.55792947715824,16,2,0,https://www.propertyguru.com.my/condo/the-riyang-happy-garden-7781
+The Hamilton @ Wangsa Maju,758849.95,634500.0,1779.5,2150.0,83.87363559050941,20,20,0,https://www.propertyguru.com.my/condo/the-hamilton-wangsa-maju-8018
+Suria Stonor,2768947.3684210526,2500000.0,10625.0,8500.0,84.15841584158416,20,20,1,https://www.propertyguru.com.my/condo/suria-stonor-273
+Three33 Residence,636100.0,636500.0,1639.95,1700.0,66.11030309629548,20,20,0,https://www.propertyguru.com.my/condo/three33-residence-11736
