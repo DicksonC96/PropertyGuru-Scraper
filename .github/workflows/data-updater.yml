@@ -4,7 +4,7 @@ name: Data Updater
 on:
   push:
     paths:
-      - '.github/workflows/data-updater.yml'
+      #- '.github/workflows/data-updater.yml'
       - 'data-scraper.py'
   pull_request:
     branches: [ main ]
@@ -12,7 +12,7 @@ on:
     - cron: '0 8 1 * *'
 
 jobs:
-  build:
+  script:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -30,6 +30,7 @@ jobs:
       run: |
         git config --local user.name github-actions
         git config --local user.email "action@github.com"
+        git pull
         git add *.csv
         if [[ $(git diff-index --cached HEAD) ]]; then
           git commit -m "Monthly data update"
