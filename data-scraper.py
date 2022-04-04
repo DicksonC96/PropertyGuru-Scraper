@@ -1,3 +1,5 @@
+from operator import index
+from xmlrpc.client import ProtocolError
 from bs4 import BeautifulSoup
 import time
 from datetime import date
@@ -12,7 +14,7 @@ TYPE = 'condo'
 STATE = 'kl'
 
 # Initialize filenames (leave empty if not generating):
-PROPERTY_LIST = ''
+PROPERTY_LIST = './links/{}-{}-{}.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
 RAW_DATA = ''
 ANALYZED_DATA = './data/{}-{}-{}.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
 
@@ -86,7 +88,12 @@ def Listing_Link_Scraper(soup):
 def Listing_Price_Scrapper(prop):
     pname, plink= prop
     error_counter = 0
-    sale_soup = BS_Prep(plink.replace('/condo/', '/property-for-sale/at-')+'?limit=500')
+    try:
+        sale_soup = BS_Prep(plink.replace('/condo/', '/property-for-sale/at-')+'?limit=500')
+    except:
+        print('Connection reset, retrying in 2 mins...', flush=True)
+        time.sleep(120)
+        sale_soup = BS_Prep(plink.replace('/condo/', '/property-for-sale/at-')+'?limit=500')
     sale_list = []
     for s in sale_soup.find_all("span", class_="price"):
         try:
@@ -94,7 +101,12 @@ def Listing_Price_Scrapper(prop):
         except:
             sale_list.append(np.nan)
             error_counter += 1
-    rent_soup = BS_Prep(plink.replace('/condo/', '/property-for-rent/at-')+'?limit=500')
+    try:
+        rent_soup = BS_Prep(plink.replace('/condo/', '/property-for-rent/at-')+'?limit=500')
+    except:
+        print('Connection reset, retrying in 2 mins...', flush=True)
+        time.sleep(120)
+        rent_soup = BS_Prep(plink.replace('/condo/', '/property-for-rent/at-')+'?limit=500')
     rent_list = []
     for r in rent_soup.find_all("span", class_="price"):
         try:
@@ -110,7 +122,7 @@ KEY = '/condo/search-project'
 QUERY = '?limit=500&market='+MARKET+property_type[TYPE]+state[STATE]+'&newProject=all'
 
 # Load first page with Query and scrape no. of pages
-print('\n===================================================\nPropertyGuru Property Listing Scraper v1.0\nAuthor: DicksonC\n===================================================\n')
+print('\n===================================================\nPropertyGuru Property Listing Scraper v1.4-alpha\nAuthor: DicksonC\n===================================================\n')
 time.sleep(2)
 print('Job initiated with query on {} in {}.'.format(TYPE, STATE))
 print('\nLoading '+HEADER+KEY+QUERY+' ...\n')
@@ -144,6 +156,7 @@ for i, prop in enumerate(props):
 
 # Result into DataFrame and Analysis
 df = pd.DataFrame(data, columns=['PropertyName','MeanSale','MedianSale','MeanRental','MedianRental','NSale','NRental','NError','URL'])
+
 if RAW_DATA:
     df.to_csv(RAW_DATA, index=False)
     print('Raw data saved to {}'.format(RAW_DATA))
