@@ -14,8 +14,8 @@ TYPE = 'condo'
 STATE = 'kl'
 
 # Initialize filenames (leave empty if not generating):
-PROPERTY_LIST = './links/{}-{}-{}.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
-RAW_DATA = ''
+PROPERTY_LIST = ''
+RAW_DATA = './raw/{}-{}-{}.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
 ANALYZED_DATA = './data/{}-{}-{}.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
 
 ### CODE STARTS FROM HERE ###
@@ -47,24 +47,31 @@ state = {'all':'',
         'other':'&region_code=MY99'}
 
 def BS_Prep(URL):
-    trial = 0
-    while trial < 10:
-        scraper = cloudscraper.create_scraper()
-        s = scraper.get(URL)
-        soup = BeautifulSoup(s.content, 'html.parser')
-        if "captcha" in soup.text:
-            trial += 1
-            print('Retrying ('+str(trial)+'/10) ...')
-            time.sleep(0.1)
-            continue
-        elif "No Results" in soup.text:
-            print('Invalid URL, skipping '+URL)
-            trial = 99
-        else:
-            trial = 99
-    if trial == 10:
-        print('Trial exceeded, skipping '+URL)
-    return soup
+    exitcode = 1
+    while exitcode == 1:
+        try:
+            trial = 0
+            while trial < 10:
+                scraper = cloudscraper.create_scraper()
+                s = scraper.get(URL)
+                soup = BeautifulSoup(s.content, 'html.parser')
+                if "captcha" in soup.text:
+                    trial += 1
+                    print('Retrying ('+str(trial)+'/10) ...')
+                    time.sleep(0.1)
+                    continue
+                elif "No Results" in soup.text:
+                    print('Invalid URL, skipping '+URL)
+                    trial = 99
+                else:
+                    trial = 99
+            if trial == 10:
+                print('Trial exceeded, skipping '+URL)
+            exitcode = 0
+            return soup
+        except:
+                print('Connection reset, retrying in 1 mins...', flush=True)
+                time.sleep(60)
         
 def Pagination(soup):
     wrapper = soup.find(id="wrapper-inner")
@@ -88,33 +95,44 @@ def Listing_Link_Scraper(soup):
 def Listing_Price_Scrapper(prop):
     pname, plink= prop
     error_counter = 0
-    try:
-        sale_soup = BS_Prep(plink.replace('/condo/', '/property-for-sale/at-')+'?limit=500')
-    except:
-        print('Connection reset, retrying in 2 mins...', flush=True)
-        time.sleep(120)
-        sale_soup = BS_Prep(plink.replace('/condo/', '/property-for-sale/at-')+'?limit=500')
     sale_list = []
-    for s in sale_soup.find_all("span", class_="price"):
-        try:
-            sale_list.append(float(s.text.split(' ')[-1].replace(',','').strip()))
-        except:
-            sale_list.append(np.nan)
-            error_counter += 1
-    try:
-        rent_soup = BS_Prep(plink.replace('/condo/', '/property-for-rent/at-')+'?limit=500')
-    except:
-        print('Connection reset, retrying in 2 mins...', flush=True)
-        time.sleep(120)
-        rent_soup = BS_Prep(plink.replace('/condo/', '/property-for-rent/at-')+'?limit=500')
     rent_list = []
-    for r in rent_soup.find_all("span", class_="price"):
-        try:
-            rent_list.append(float(r.text.split(' ')[0].replace(',','').strip()))
-        except:
-            rent_list.append(np.nan)
-            error_counter += 1
-    return [pname, np.nanmean(sale_list), np.nanmedian(sale_list), np.nanmean(rent_list), np.nanmedian(rent_list), len(sale_list), len(rent_list), error_counter, plink]
+    for link, i, var in [('/property-for-sale/at-', -1, sale_list), ('/property-for-rent/at-', 0, rent_list)]:
+        soup = BS_Prep(plink.replace('/condo/', link))
+        title = soup.find('h1', class_='title search-title text-transform-none')
+        total = title['title'].split(' ')[0]
+        for l in soup.find_all("span", class_="price"):
+            try:
+                var.append(float(l.text.split(' ')[i].replace(',','').strip()))
+            except:
+                var.append(np.nan)
+                error_counter += 1
+        if total != 'No' and int(total) > 20:
+            for page in range(2, int(total)//20+2):
+                soup = BS_Prep(plink.replace('/condo/', link)+'/'+str(page))
+                for l in soup.find_all("span", class_="price"):
+                    try:
+                        var.append(float(l.text.split(' ')[i].replace(',','').strip()))
+                    except:
+                        var.append(np.nan)
+                        error_counter += 1
+    sale_eol, sale_mol = Outlier(sale_list)
+    rent_eol, rent_mol = Outlier(rent_list)
+    return [pname, ','.join(map(str,sale_list)), np.nanmedian(sale_list), np.nanmean(sale_list), np.nanstd(sale_list), len(sale_list), sale_eol, sale_mol, ','.join(map(str,rent_list)), np.nanmedian(rent_list), np.nanmean(rent_list), np.nanstd(rent_list), len(rent_list), rent_eol, rent_mol, error_counter, plink]
+
+def Outlier(listing):
+    if listing:
+        q3, q1 = np.nanpercentile(listing, [75, 25], interpolation='midpoint')
+        innerf, outerf = 1.5*(q3-q1), 3*(q3-q1)
+        eol = []
+        mol = []
+        for l in listing:
+            if l <= q1-outerf or l >= q3+outerf:
+                eol.append(l)
+            elif l <= q1-innerf or l >= q3+innerf:
+                mol.append(l)
+        return len(eol),len(mol)
+    return np.nan, np.nan
 
 # Initialize URL
 HEADER = 'https://www.propertyguru.com.my'
@@ -122,7 +140,7 @@ KEY = '/condo/search-project'
 QUERY = '?limit=500&market='+MARKET+property_type[TYPE]+state[STATE]+'&newProject=all'
 
 # Load first page with Query and scrape no. of pages
-print('\n===================================================\nPropertyGuru Property Listing Scraper v1.4-alpha\nAuthor: DicksonC\n===================================================\n')
+print('\n===================================================\nPropertyGuru Property Listing Scraper v1.5-alpha\nAuthor: DicksonC\n===================================================\n')
 time.sleep(2)
 print('Job initiated with query on {} in {}.'.format(TYPE, STATE))
 print('\nLoading '+HEADER+KEY+QUERY+' ...\n')
@@ -155,16 +173,20 @@ for i, prop in enumerate(props):
     data.append(p)
 
 # Result into DataFrame and Analysis
-df = pd.DataFrame(data, columns=['PropertyName','MeanSale','MedianSale','MeanRental','MedianRental','NSale','NRental','NError','URL'])
+df = pd.DataFrame(data, columns=['PropertyName','SaleListing','MedianSale','MeanSale','StdSale','NSale','EOLSale','MOLSale','RentListing','MedianRental','MeanRental','StdRental','NRental','EOLRent','MOLRent','NNaN','URL'])
 
+# Raw data saved to file
 if RAW_DATA:
-    df.to_csv(RAW_DATA, index=False)
+    dfraw = df[['PropertyName','SaleListing','RentListing','URL']]
+    dfraw.to_csv(RAW_DATA, index=False)
     print('Raw data saved to {}'.format(RAW_DATA))
 
-df.dropna(inplace=True)
-#df.insert(5, 'Mean%Coverage', df.MeanRental*100/df.MeanSale/100000*404)
-df.insert(5, '%toBreakEven', df.MedianRental*100/df.MedianSale*100000/404)
-
-# Data save to file
-df.to_csv(ANALYZED_DATA, index=False)
-print('Analyzed data saved to {}\n\nDone scraping {} properties!'.format(ANALYZED_DATA,str(len(props))))
+# Data Analysis
+if ANALYZED_DATA:
+    #df.dropna(inplace=True)
+    df.drop(columns=['SaleListing','RentListing'], inplace=True)
+    df.insert(14, '%toBreakEven', df.MedianRental*100/df.MedianSale*100000/404) #if (df.EOLSale+df.EOLRent)>1 else df.MeanRental*100/df.MeanSale*100000/404])
+    #df.insert(15, 'Calc', ['Median' if (df.EOLSale+df.EOLRent)>1 else 'Mean'])
+    #df.insert(13, 'Error', mean())
+    df.to_csv(ANALYZED_DATA, index=False)
+    print('Analyzed data saved to {}\n\nDone scraping {} properties!'.format(ANALYZED_DATA,str(len(props))))
