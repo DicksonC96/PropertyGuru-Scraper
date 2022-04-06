@@ -53,6 +53,7 @@ def BS_Prep(URL):
             trial = 0
             while trial < 10:
                 scraper = cloudscraper.create_scraper()
+                print('Trying '+URL)
                 s = scraper.get(URL)
                 soup = BeautifulSoup(s.content, 'html.parser')
                 if "captcha" in soup.text:
@@ -99,7 +100,8 @@ def Listing_Price_Scrapper(prop):
     rent_list = []
     for link, i, var in [('/property-for-sale/at-', -1, sale_list), ('/property-for-rent/at-', 0, rent_list)]:
         soup = BS_Prep(plink.replace('/condo/', link))
-        title = soup.find('h1', class_='title search-title text-transform-none')
+        wrapper = soup.find(id="wrapper-inner")
+        title = wrapper.find('h1', class_='title search-title text-transform-none')
         total = title['title'].split(' ')[0]
         for l in soup.find_all("span", class_="price"):
             try:
@@ -140,7 +142,7 @@ KEY = '/condo/search-project'
 QUERY = '?limit=500&market='+MARKET+property_type[TYPE]+state[STATE]+'&newProject=all'
 
 # Load first page with Query and scrape no. of pages
-print('\n===================================================\nPropertyGuru Property Listing Scraper v1.5-alpha\nAuthor: DicksonC\n===================================================\n')
+print('\n===================================================\nPropertyGuru Property Listing Scraper v1.6-alpha\nAuthor: DicksonC\n===================================================\n')
 time.sleep(2)
 print('Job initiated with query on {} in {}.'.format(TYPE, STATE))
 print('\nLoading '+HEADER+KEY+QUERY+' ...\n')
