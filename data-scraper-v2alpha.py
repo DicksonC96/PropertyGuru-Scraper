@@ -4,6 +4,7 @@ from datetime import date
 import cloudscraper
 import numpy as np
 import pandas as pd
+import os
 
 ### Section 1:Query Selection ###
 # Initialize your Query selection here:
@@ -169,7 +170,13 @@ try:
         data += rent
 
 except:
+    with open('data/update-trigger.csv', 'wb') as trigger:
+        pass
     print('Error encountered! Exporting current data ...')
+
+else:
+    if os.path.isfile('data/update-trigger.csv'):
+        os.remove('data/update-trigger.csv')
 
 finally:
     # Result into DataFrame and Analysis
@@ -178,3 +185,4 @@ finally:
     # Raw data saved to file
     df.to_csv(RAW_LISTING, index=False)
     print('Raw data saved to {}'.format(RAW_LISTING))
+
