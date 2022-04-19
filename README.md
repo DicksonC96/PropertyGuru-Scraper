@@ -22,8 +22,8 @@ P/S: Refer documentation below for the keywords
 |STATE|johor, kedah, kelantan, melaka, ns, pahang, penang, perak, perlis, selangor, terengganu, sabah, sarawak, kl, labuan, putrajaya, other|
 
 ### Column Description
-|Column|Type|Remarks
-|--|--|
+|Column|Type|Remarks|
+|--|--|--|
 |PropertyName|str| |
 |Type|str|Sale/Rent|
 |Price|float| |
