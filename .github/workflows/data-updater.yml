@@ -5,7 +5,7 @@ on:
   push:
     paths:
       - '.github/workflows/data-updater.yml'
-      - 'data-scraper.py'
+      - 'data-scraper-v2alpha.py'
   pull_request:
     branches: [ main ]
   schedule:
@@ -25,14 +25,13 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Data scraping and export
-      run: python -u data-scraper.py
+      run: python -u data-scraper-v2alpha.py
     - name: Commit & push data updates
       run: |
         git config --local user.name github-actions
         git config --local user.email "action@github.com"
         git pull
         git add data/*.csv
-        git add raw/*.csv
         if [[ $(git diff-index --cached HEAD) ]]; then
           git commit -m "Monthly data update"
           git tag -a `date "+v%Y%m%d"` -m "Monthly data update"
