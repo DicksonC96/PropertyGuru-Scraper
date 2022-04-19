@@ -40,3 +40,12 @@ jobs:
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
         username: github-actions
+    - name: File Existence
+      uses: andstor/file-existence-action@v1.1.0
+      with:
+        files: "data/update-trigger.csv"
+    - name: Check file exists
+      if: steps.check_files.outputs.files_exists == 'true'
+      uses: actions/github-script@v3
+      with:
+        script: core.setFailed('Scraping end prematurely!')
