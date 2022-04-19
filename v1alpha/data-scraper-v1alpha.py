@@ -53,7 +53,7 @@ def BS_Prep(URL):
             trial = 0
             while trial < 10:
                 scraper = cloudscraper.create_scraper()
-                print('Trying '+URL)
+                #print('Trying '+URL)
                 s = scraper.get(URL)
                 soup = BeautifulSoup(s.content, 'html.parser')
                 if "captcha" in soup.text:
