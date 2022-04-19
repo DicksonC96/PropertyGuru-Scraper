@@ -5,10 +5,9 @@
 - Strictly for educational purposes only.
 - Any suggestions/collabs are very much welcomed!
 - [Condo-KL price datasets](https://github.com/DicksonC96/PropertyGuru-Scraper/tree/main/data) (updated monthly)
-- [Condo-KL URL list](https://github.com/DicksonC96/PropertyGuru-Scraper/tree/main/links) (updated monthly)
 
 ## Instruction:
-1. Download [data-scraper.py](https://raw.githubusercontent.com/DicksonC96/PropertyGuru-Scraper/main/data-scraper.py) (right-click and download).
+1. Download [data-scraper-v2alpha.py](https://raw.githubusercontent.com/DicksonC96/PropertyGuru-Scraper/main/data-scraper-v2alpha.py) (right-click and download).
 2. Modify __Section 1:Query Selection__ with keywords of your choice. (default: Residential Highrises in KL).
 3. Run the script with [python](https://www.python.org/).
 4. Enjoyy!
@@ -22,26 +21,13 @@ P/S: Refer documentation below for the keywords
 |PROPERTY_TYPE|all, bungalow (Bungalow / Villa), condo (Apartment / Condo / Service Residence), semid (Semi-Detached House), terrace (Terrace / Link House), land (Residential Land)|
 |STATE|johor, kedah, kelantan, melaka, ns, pahang, penang, perak, perlis, selangor, terengganu, sabah, sarawak, kl, labuan, putrajaya, other|
 
-### Quick Notes:
-1. The degree of high-balling are assumed to be the same for both selling and renting prices scraped.
-2. Only those properties with both sale and rental listed will be selected.
-3. Number of properties being listed, along with the invalid result will be recorded for result validation.
-4. Default analysis will remove NaN entries and calculate break-even percentages.
-5. Monthly installment assumption:
-> RM404 monthly installment /RM100k selling price (90% loan, 3.5% IR, 30yrs)
-6. Rental-installment break-even percentage formula:
-> Break-even = ( rental / (sale/100k*404) ) * 100 %
-
-### Data Analysis
-|Column|Description|
+### Column Description
+|Column|Type|Remarks
 |--|--|
-|PropertyName|Name of the property|
-|MeanSale|Mean of the listed selling prices|
-|MedianSale|Median of the listed selling prices|
-|MeanRental|Mean of the listed rental prices|
-|MedianRental|Median of the listed rental prices|
-|%toBreakEven|Rental-installment break-even percentage based on median|
-|NSale|Number of properties for sale listed|
-|NRental|Number of properties for rent listed|
-|NError|Number of listings with invalid price stated|
-|URL|Direct link to the property site on PropertyGuru.com|
+|PropertyName|str| |
+|Type|str|Sale/Rent|
+|Price|float| |
+|Bedrooms|str|int or str (eg. Studio)|
+|Bathrooms|str|int or str (eg. Studio)|
+|Sqft|int|Lot size|
+|Author|str|Person who uploaded the listing|
