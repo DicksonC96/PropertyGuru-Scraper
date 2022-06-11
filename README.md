@@ -5,6 +5,7 @@
 - Strictly for educational purposes only.
 - Any suggestions/collabs are very much welcomed!
 - [Condo-KL price datasets](https://github.com/DicksonC96/PropertyGuru-Scraper/tree/main/data) (updated monthly)
+- [Condo-KL data visualization](https://datastudio.google.com/s/iDD1161H8RQ) (updated monthly)
 
 ## Instruction:
 1. Download [data-scraper-v2alpha.py](https://raw.githubusercontent.com/DicksonC96/PropertyGuru-Scraper/main/data-scraper-v2alpha.py) (right-click and download).
