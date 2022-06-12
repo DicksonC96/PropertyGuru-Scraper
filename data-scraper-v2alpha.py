@@ -143,7 +143,7 @@ def md5hash(datafile, hashfile):
             chunk = file.read(1024)
             h.update(chunk)
     with open(hashfile, 'w') as f:
-	f.write(h.hexdigest())
+        f.write(h.hexdigest())
     print('MD5sum generated at '+hashfile)
 
 # Initialize URL
