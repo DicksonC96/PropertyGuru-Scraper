@@ -32,7 +32,7 @@ jobs:
         git config --local user.email "action@github.com"
         git pull
         git add $(date +'data/condo-kl-%b%Y-listing.csv')
-        git add $(date +'md5sum/condo-kl-%b%Y-listing.md5')
+        git add $(date +'md5hash/condo-kl-%b%Y-listing.md5')
         if [[ $(git diff-index --cached HEAD) ]]; then
           git commit -m "Monthly data update"
           git tag -a $(date "+v%Y%m%d") -m "Monthly data update"
@@ -44,5 +44,5 @@ jobs:
     - name: File Existence
       uses: andstor/file-existence-action@v1.1.0
       with:
-        files: $(date +'md5sum/condo-kl-%b%Y-listing.md5')
+        files: $(date +'md5hash/condo-kl-%b%Y-listing.md5')
         allow_failure: false
