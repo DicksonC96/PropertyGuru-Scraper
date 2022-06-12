@@ -144,7 +144,7 @@ def md5hash(datafile, hashfile):
             h.update(chunk)
     with open(hashfile, 'w') as f:
         f.write(h.hexdigest())
-    print('MD5sum generated at '+hashfile)
+    print('MD5 hash generated to '+hashfile)
 
 # Initialize URL
 HEADER = 'https://www.propertyguru.com.my'
