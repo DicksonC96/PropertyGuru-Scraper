@@ -5,6 +5,7 @@ import cloudscraper
 import numpy as np
 import pandas as pd
 import os
+import hashlib
 
 ### Section 1:Query Selection ###
 # Initialize your Query selection here:
@@ -12,8 +13,9 @@ MARKET = 'residential'
 TYPE = 'condo'
 STATE = 'kl'
 
-# Initialize filename (leave empty if not generating):
+# Initialize filenames (leave empty if not generating):
 RAW_LISTING = './data/{}-{}-{}-listing.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
+MD5HASH = './md5hash/{}-{}-{}-listing.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
 
 ### CODE STARTS FROM HERE ###
 
@@ -133,6 +135,18 @@ def PropScrapper(pname, plink, key):
             prop_listing += InfoExtract(pname, soup, key)
     return prop_listing
 
+def md5hash(datafile, hashfile):
+   h = hashlib.md5()
+   with open(datafile,'rb') as file:
+       chunk = 0
+       while chunk != b'':
+           # read only 1024 bytes at a time
+           chunk = file.read(1024)
+           h.update(chunk)
+    with open(hashfile, 'w') as f:
+	f.write(h.hexdigest())
+    print('MD5sum generated at '+hashfile)
+
 # Initialize URL
 HEADER = 'https://www.propertyguru.com.my'
 KEY = '/condo/search-project'
@@ -168,17 +182,7 @@ try:
         print(str(i+1)+'/'+str(len(props))+' done!')
         data += sale
         data += rent
-
-except:
-    with open('data/update-trigger.csv', 'wb') as trigger:
-        pass
-    print('Error encountered! Exporting current data ...')
-
-else:
-    if os.path.isfile('data/update-trigger.csv'):
-        os.remove('data/update-trigger.csv')
-
-finally:
+    
     # Result into DataFrame and Analysis
     df = pd.DataFrame(data, columns=['PropertyName','Type','Price','Bedrooms','Bathrooms','Sqft','Author'])
 
@@ -186,3 +190,15 @@ finally:
     df.to_csv(RAW_LISTING, index=False)
     print('Raw data saved to {}'.format(RAW_LISTING))
 
+except:
+    print('Error encountered! Exporting current data ...')
+
+    # Result into DataFrame and Analysis
+    df = pd.DataFrame(data, columns=['PropertyName','Type','Price','Bedrooms','Bathrooms','Sqft','Author'])
+
+    # Raw data saved to file
+    df.to_csv(RAW_LISTING, index=False)
+    print('INCOMPLETE raw data saved to {}'.format(RAW_LISTING))
+
+else:
+    md5hash(RAW_LISTING, MD5HASH)
