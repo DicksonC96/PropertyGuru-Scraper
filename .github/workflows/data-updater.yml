@@ -31,10 +31,11 @@ jobs:
         git config --local user.name github-actions
         git config --local user.email "action@github.com"
         git pull
-        git add data/*.csv
+        git add $(date +'data/condo-kl-%b%Y-listing.csv')
+        git add $(date +'md5sum/condo-kl-%b%Y-listing.md5')
         if [[ $(git diff-index --cached HEAD) ]]; then
           git commit -m "Monthly data update"
-          git tag -a `date "+v%Y%m%d"` -m "Monthly data update"
+          git tag -a $(date "+v%Y%m%d") -m "Monthly data update"
           git push origin main --follow-tags
         fi
       env:
@@ -43,9 +44,5 @@ jobs:
     - name: File Existence
       uses: andstor/file-existence-action@v1.1.0
       with:
-        files: "data/update-trigger.csv"
-    - name: Check file exists
-      if: steps.check_files.outputs.files_exists == 'true'
-      uses: actions/github-script@v3
-      with:
-        script: core.setFailed('Scraping end prematurely!')
+        files: $(date +'md5sum/condo-kl-%b%Y-listing.md5')
+        allow_failure: false
