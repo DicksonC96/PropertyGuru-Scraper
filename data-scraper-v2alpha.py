@@ -136,13 +136,12 @@ def PropScrapper(pname, plink, key):
     return prop_listing
 
 def md5hash(datafile, hashfile):
-   h = hashlib.md5()
-   with open(datafile,'rb') as file:
-       chunk = 0
-       while chunk != b'':
-           # read only 1024 bytes at a time
-           chunk = file.read(1024)
-           h.update(chunk)
+    h = hashlib.md5()
+    with open(datafile,'rb') as file:
+        chunk = 0
+        while chunk != b'':
+            chunk = file.read(1024)
+            h.update(chunk)
     with open(hashfile, 'w') as f:
 	f.write(h.hexdigest())
     print('MD5sum generated at '+hashfile)
