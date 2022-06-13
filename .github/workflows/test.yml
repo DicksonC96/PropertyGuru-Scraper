@@ -15,5 +15,6 @@ jobs:
     - name: Check File Existence
       run: |
         if [[ $(ls -1q md5hash/* | wc -l) != $(ls -1q data/* | wc -l) ]]; then
-          echo 1; else
-          echo 0; fi
+          echo Scraping incomplete! 
+          exit 1; else
+          echo Scraping completed!; fi
