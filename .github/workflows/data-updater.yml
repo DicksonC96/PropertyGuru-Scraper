@@ -32,7 +32,7 @@ jobs:
         git config --local user.email "action@github.com"
         git pull
         git add $(date +'data/condo-kl-%b%Y-listing.csv')
-        git add $(date +'md5hash/condo-kl-%b%Y-listing.md5')
+        git add md5hash/*.md5
         if [[ $(git diff-index --cached HEAD) ]]; then
           git commit -m "Monthly data update"
           git tag -a $(date "+v%Y%m%d") -m "Monthly data update"
