@@ -15,5 +15,5 @@ jobs:
     - name: File Existence
       uses: andstor/file-existence-action@v1.1.0
       with:
-        files: $(date +'md5hash/condo-kl-%b%Y-listing.md5')
+        files: `date +'md5hash/condo-kl-%b%Y-listing.md5'`
         allow_failure: true
