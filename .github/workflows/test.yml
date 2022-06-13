@@ -14,8 +14,8 @@ jobs:
     - uses: actions/checkout@v2
     - name: Check File Existence
       run: |
-        ls -1q md5hash/*.md5 | wc -l
-        ls -1q data/*.csv | wc -l
+        echo $(ls -1q data/*.csv | wc -l) datasets detected.
+        echo $(ls -1q md5hash/*.md5 | wc -l) MD5 hashes detected.
         if [[ $(ls -1q md5hash/*.md5 | wc -l) != $(ls -1q data/*.csv | wc -l) ]]; then
           echo Scraping incomplete! 
           exit 1; else
