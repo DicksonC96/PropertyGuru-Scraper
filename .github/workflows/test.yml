@@ -18,5 +18,7 @@ jobs:
         echo $(ls -1q md5hash/*.md5 | wc -l) MD5 hashes detected.
         if [[ $(ls -1q md5hash/*.md5 | wc -l) != $(ls -1q data/*.csv | wc -l) ]]; then
           echo Scraping incomplete! 
-          exit 1; else
-          echo Scraping completed!; fi
+          exit 1
+        else
+          echo Scraping completed!
+        fi
