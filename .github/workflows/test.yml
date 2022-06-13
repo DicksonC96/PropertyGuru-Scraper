@@ -12,8 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: File Existence
-      uses: andstor/file-existence-action@v1.1.0
-      with:
-        files: ${{date +'md5hash/condo-kl-%b%Y-listing.md5'}}
-        allow_failure: true
+    - name: Check File Existence
+      run: |
+        if [[ $(ls -1q md5hash/* | wc -l) != $(ls -1q data/* | wc -l) ]]; then
+          echo 1; else
+          echo 0; fi
