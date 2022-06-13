@@ -1,0 +1,19 @@
+name: Workflow Testing
+
+on:
+  push:
+    paths:
+      - '.github/workflows/test.yml'
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  script:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: File Existence
+      uses: andstor/file-existence-action@v1.1.0
+      with:
+        files: $(date +'md5hash/condo-kl-%b%Y-listing.md5')
+        allow_failure: true
