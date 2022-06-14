@@ -18,7 +18,7 @@ Data Studio dashboard: https://datastudio.google.com/reporting/b0445da4-f585-479
 - Median: Mean Price for Sale/Rent  
 
 ### Color Legend
-$`\textcolor{red}{\text{red}}`$
+[- Red -]
 : For Sale
 - [Blue]{blue}: For Rent
 - [Green]{green}: Percentage BreakEven
