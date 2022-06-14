@@ -1,4 +1,5 @@
 # PropertyGuru Property Listing Scraper
+
 ## Description:
 - A python scraper to scrape and compare property price for sale or rent in Malaysia from PropertyGuru.com.
 - Currently supports state and property type filters only (ping me if you need more precise/personalized filters)
@@ -6,6 +7,20 @@
 - Any suggestions/collabs are very much welcomed!
 - [Condo-KL price datasets](https://github.com/DicksonC96/PropertyGuru-Scraper/tree/main/data) (updated monthly)
 - [Condo-KL data visualization](https://datastudio.google.com/s/iDD1161H8RQ) (updated monthly)
+
+## Dashboard  
+Data Studio dashboard: https://datastudio.google.com/reporting/b0445da4-f585-4790-a75b-f452eefc1e53
+![image](https://user-images.githubusercontent.com/66625723/173601300-89c0b8c5-364b-48a3-90c4-cf60dff07471.png)  
+  
+### Column Description
+- Mean: Mean Price for Sale/Rent
+- CV: Coefficient of Variation of Sale/Rent Price
+- Median: Mean Price for Sale/Rent  
+
+### Color Legend
+- [Red]{red}: For Sale
+- [Blue]{blue}: For Rent
+- [Green]{green}: Percentage BreakEven
 
 ## Instruction:
 1. Download [data-scraper-v2alpha.py](https://raw.githubusercontent.com/DicksonC96/PropertyGuru-Scraper/main/data-scraper-v2alpha.py) (right-click and download).
@@ -22,7 +37,7 @@ P/S: Refer documentation below for the keywords
 |PROPERTY_TYPE|all, bungalow (Bungalow / Villa), condo (Apartment / Condo / Service Residence), semid (Semi-Detached House), terrace (Terrace / Link House), land (Residential Land)|
 |STATE|johor, kedah, kelantan, melaka, ns, pahang, penang, perak, perlis, selangor, terengganu, sabah, sarawak, kl, labuan, putrajaya, other|
 
-### Column Description
+### Raw Data Column Description
 |Column|Type|Remarks|
 |--|--|--|
 |PropertyName|str| |
