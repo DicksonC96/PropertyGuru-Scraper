@@ -15,7 +15,7 @@ STATE = 'kl'
 
 # Initialize filenames (leave empty if not generating):
 RAW_LISTING = './data/{}-{}-{}-listing.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
-MD5HASH = './md5hash/{}-{}-{}-listing.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
+MD5HASH = './md5hash/{}-{}-{}-listing.md5'.format(TYPE,STATE,date.today().strftime("%b%Y"))
 
 ### CODE STARTS FROM HERE ###
 
