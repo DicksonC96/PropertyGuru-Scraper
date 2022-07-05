@@ -1,3 +1,4 @@
+from re import L
 from bs4 import BeautifulSoup
 import time
 from datetime import date
@@ -146,6 +147,16 @@ def md5hash(datafile, hashfile):
         f.write(h.hexdigest())
     print('MD5 hash generated to '+hashfile)
 
+def PropTrimmer(props, datafile):
+    df_old = pd.read_csv(datafile)
+    prop, link = zip(*props)
+    len_old_props = len(prop)
+    last_prop_name = df_old.PropertyName.iat[-1]
+    prop_index = prop.index(last_prop_name)
+    props = props[prop_index:]
+    print('This is a re-run.\nSkipping {} properties scraped previously.'.format(len_old_props-len(props)))
+    return props, last_prop_name
+
 # Initialize URL
 HEADER = 'https://www.propertyguru.com.my'
 KEY = '/condo/search-project'
@@ -171,6 +182,10 @@ for page in range(2, pages+1):
     props += LinkScraper(soup)
     print('\rPage {}/{} done.'.format(str(page), str(pages)))
 
+# Check exising data and remove scraped links
+if os.path.exists(RAW_LISTING):
+    props, last_prop_name = PropTrimmer(props, RAW_LISTING)
+
 # Scrape details for sale and rental of each properties
 data = []
 print('\nA total of '+str(len(props))+' properties will be scraped.\n')
@@ -184,6 +199,12 @@ try:
     
     # Result into DataFrame and Analysis
     df = pd.DataFrame(data, columns=['PropertyName','Type','Price','Bedrooms','Bathrooms','Sqft','Author'])
+
+    # Check exising data and combine
+    if os.path.exists(RAW_LISTING):
+        df_old = pd.read_csv(RAW_LISTING)
+        df_old = df_old[df_old.PropertyName!=last_prop_name]
+        df = pd.concat([df_old, df])
 
     # Raw data saved to file
     df.to_csv(RAW_LISTING, index=False)
