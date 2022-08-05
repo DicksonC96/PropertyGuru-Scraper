@@ -14,6 +14,12 @@ on:
 jobs:
   script:
     runs-on: ubuntu-latest
+    continue-on-error: true
+    strategy:
+      max-parallel: 1
+      matrix:
+        type: [condo]
+        state: [penang]
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.10
@@ -25,7 +31,7 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Data scraping and export
-      run: python -u data-scraper-v2alpha.py
+      run: python -u data-scraper-v2alpha.py -t ${{ matrix.type }} -s ${{ matrix.state }}
     - name: Commit & push data updates
       run: |
         git config --local user.name github-actions
@@ -35,7 +41,7 @@ jobs:
         git add md5hash/*.md5
         if [[ $(git diff-index --cached HEAD) ]]; then
           git commit -m "Monthly data update"
-          git tag -a $(date "+v%Y%m%d") -m "Monthly data update"
+          git tag -a $(date "+v%Y%m%d%h") -m "Monthly data update"
           git push origin main --follow-tags
         fi
       env:
@@ -51,3 +57,7 @@ jobs:
         else
           echo Scraping completed!
         fi
+    - name: 5mins sleep
+      uses: whatnick/wait-action@master
+      with:
+        time: '5m'
