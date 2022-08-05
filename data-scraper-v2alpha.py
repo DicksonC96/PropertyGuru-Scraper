@@ -1,3 +1,4 @@
+from ctypes import ArgumentError
 from re import L
 from bs4 import BeautifulSoup
 import time
@@ -7,16 +8,13 @@ import numpy as np
 import pandas as pd
 import os
 import hashlib
+import argparse
 
 ### Section 1:Query Selection ###
 # Initialize your Query selection here:
 MARKET = 'residential'
 TYPE = 'condo'
 STATE = 'kl'
-
-# Initialize filenames (leave empty if not generating):
-RAW_LISTING = './data/{}-{}-{}-listing.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
-MD5HASH = './md5hash/{}-{}-{}-listing.md5'.format(TYPE,STATE,date.today().strftime("%b%Y"))
 
 ### CODE STARTS FROM HERE ###
 
@@ -157,68 +155,94 @@ def PropTrimmer(props, datafile):
     print('This is a re-run.\nSkipping {} properties scraped previously.'.format(len_old_props-len(props)))
     return props, last_prop_name
 
-# Initialize URL
-HEADER = 'https://www.propertyguru.com.my'
-KEY = '/condo/search-project'
-QUERY = '?limit=500&market='+MARKET+property_type[TYPE]+state[STATE]+'&newProject=all'
+def argparser():
+    parser = argparse.ArgumentParser()
+    try:
+        parser.add_argument('-m', '--market', default=MARKET, dest='Market', help='eg. Residential, Commercial etc. (default: Condo)')
+        parser.add_argument('-t', '--type', default=TYPE, dest='Type', help='eg. Condo, Terrace, etc. (default: condo)')
+        parser.add_argument('-s', '--state', default=STATE, dest='State', help='eg. KL, Selangor, Johor etc. (default: KL)')
+        args = parser.parse_args()
+        return args
+    except:
+        parser.print_help()
+        exit()
 
-# Load first page with Query and scrape no. of pages
-print('\n===================================================\nPropertyGuru Property Listing Scraper v2.0-alpha\nAuthor: DicksonC\n===================================================\n')
-time.sleep(2)
-print('Job initiated with query on {} in {}.'.format(TYPE, STATE))
-print('\nLoading '+HEADER+KEY+QUERY+' ...\n')
-soup = BSPrep(HEADER+KEY+QUERY)
-pages = Pagination(soup)
-print(str(pages)+' page will be scrapped.\n')
+def main():
 
-# Scrape links from first page for properties with both sale and rental listing
-props = []
-props += LinkScraper(soup)
-print('\rPage 1/{} done.'.format(str(pages)))
+    # Load first page with Query and scrape no. of pages
+    print('\n===================================================\nPropertyGuru Property Listing Scraper v2.3-alpha\nAuthor: DicksonC\n===================================================\n')
+    time.sleep(2)
+    print('Job initiated with query on {} in {}.'.format(TYPE, STATE))
+    print('\nLoading '+HEADER+KEY+QUERY+' ...\n')
+    soup = BSPrep(HEADER+KEY+QUERY)
+    pages = Pagination(soup)
+    print(str(pages)+' page will be scrapped.\n')
 
-# Scrape subsequent pages
-for page in range(2, pages+1):
-    soup = BSPrep(HEADER+KEY+'/'+str(page)+QUERY)
+    # Scrape links from first page for properties with both sale and rental listing
+    props = []
     props += LinkScraper(soup)
-    print('\rPage {}/{} done.'.format(str(page), str(pages)))
+    print('\rPage 1/{} done.'.format(str(pages)))
 
-# Check exising data and remove scraped links
-if os.path.exists(RAW_LISTING):
-    props, last_prop_name = PropTrimmer(props, RAW_LISTING)
+    # Scrape subsequent pages
+    for page in range(2, pages+1):
+        soup = BSPrep(HEADER+KEY+'/'+str(page)+QUERY)
+        props += LinkScraper(soup)
+        print('\rPage {}/{} done.'.format(str(page), str(pages)))
 
-# Scrape details for sale and rental of each properties
-data = []
-print('\nA total of '+str(len(props))+' properties will be scraped.\n')
-try:
-    for i, prop in enumerate(props):
-        sale = PropScrapper(*prop, '/property-for-sale/at-')
-        rent = PropScrapper(*prop, '/property-for-rent/at-')
-        print(str(i+1)+'/'+str(len(props))+' done!')
-        data += sale
-        data += rent
-    
-    # Result into DataFrame and Analysis
-    df = pd.DataFrame(data, columns=['PropertyName','Type','Price','Bedrooms','Bathrooms','Sqft','Author'])
-
-    # Check exising data and combine
+    # Check exising data and remove scraped links
     if os.path.exists(RAW_LISTING):
-        df_old = pd.read_csv(RAW_LISTING)
-        df_old = df_old[df_old.PropertyName!=last_prop_name]
-        df = pd.concat([df_old, df])
+        props, last_prop_name = PropTrimmer(props, RAW_LISTING)
 
-    # Raw data saved to file
-    df.to_csv(RAW_LISTING, index=False)
-    print('Raw data saved to {}'.format(RAW_LISTING))
+    # Scrape details for sale and rental of each properties
+    data = []
+    print('\nA total of '+str(len(props))+' properties will be scraped.\n')
+    try:
+        for i, prop in enumerate(props):
+            sale = PropScrapper(*prop, '/property-for-sale/at-')
+            rent = PropScrapper(*prop, '/property-for-rent/at-')
+            print(str(i+1)+'/'+str(len(props))+' done!')
+            data += sale
+            data += rent
+        
+        # Result into DataFrame and Analysis
+        df = pd.DataFrame(data, columns=['PropertyName','Type','Price','Bedrooms','Bathrooms','Sqft','Author'])
 
-except:
-    print('Error encountered! Exporting current data ...')
+        # Check exising data and combine
+        if os.path.exists(RAW_LISTING):
+            df_old = pd.read_csv(RAW_LISTING)
+            df_old = df_old[df_old.PropertyName!=last_prop_name]
+            df = pd.concat([df_old, df])
 
-    # Result into DataFrame and Analysis
-    df = pd.DataFrame(data, columns=['PropertyName','Type','Price','Bedrooms','Bathrooms','Sqft','Author'])
+        # Raw data saved to file
+        df.to_csv(RAW_LISTING, index=False)
+        print('Raw data saved to {}'.format(RAW_LISTING))
 
-    # Raw data saved to file
-    df.to_csv(RAW_LISTING, index=False)
-    print('INCOMPLETE raw data saved to {}'.format(RAW_LISTING))
+    except:
+        print('Error encountered! Exporting current data ...')
 
-else:
-    md5hash(RAW_LISTING, MD5HASH)
+        # Result into DataFrame and Analysis
+        df = pd.DataFrame(data, columns=['PropertyName','Type','Price','Bedrooms','Bathrooms','Sqft','Author'])
+
+        # Raw data saved to file
+        df.to_csv(RAW_LISTING, index=False)
+        print('INCOMPLETE raw data saved to {}'.format(RAW_LISTING))
+
+    else:
+        md5hash(RAW_LISTING, MD5HASH)
+
+if __name__ == "__main__":
+
+    # Initialize arguments
+    args = argparser()
+    MARKET, TYPE, STATE= args.Market, args.Type, args.State
+    
+    # Initialize filenames (leave empty if not generating):
+    RAW_LISTING = './data/{}-{}-{}-listing.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
+    MD5HASH = './md5hash/{}-{}-{}-listing.md5'.format(TYPE,STATE,date.today().strftime("%b%Y"))
+
+    # Initialize URL
+    HEADER = 'https://www.propertyguru.com.my'
+    KEY = '/condo/search-project'
+    QUERY = '?limit=500&market='+MARKET.lower()+property_type[TYPE.lower()]+state[STATE.lower()]+'&newProject=all'
+    
+    main()
