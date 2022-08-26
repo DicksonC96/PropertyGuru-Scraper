@@ -1,0 +1,279 @@
+PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+Silverscape Residences,Sale,550000.0,3,3,1150,Shalyn Tan
+Silverscape Residences,Sale,550000.0,3,2,1145,Shalyn Tan
+Silverscape Residences,Sale,299000.0,Studio,Studio,515,Danny Kuah Kim Hai
+Silverscape Residences,Sale,490000.0,2,2,767,Wesley Tan
+Silverscape Residences,Sale,338000.0,Studio,Studio,515,Danny Kuah Kim Hai
+Silverscape Residences,Sale,380000.0,Studio,Studio,506,BL Bong
+Silverscape Residences,Sale,498000.0,2,2,766,NS Han
+Silverscape Residences,Sale,698888.0,3,3,1145,Alvin Chan Kai Boon
+Silverscape Residences,Sale,530000.0,2,2,766,NS Han
+Silverscape Residences,Sale,250000.0,Studio,Studio,515,ken loh
+Silverscape Residences,Sale,698000.0,3,2,1150,Kellyn Foo
+Silverscape Residences,Sale,625000.0,Studio,Studio,1145,Shalyn Tan
+Silverscape Residences,Sale,850000.0,3,3,1145,Kellyn Foo
+Silverscape Residences,Sale,550000.0,2,2,767,Wesley Tan
+Silverscape Residences,Sale,350000.0,1,1,515,BL Bong
+Silverscape Residences,Rent,3300.0,3,3,1140,NS Han
+Silverscape Residences,Rent,2300.0,2,2,766,NS Han
+Silverscape Residences,Rent,2500.0,3,3,1033,Ms Woon
+Silverscape Residences,Rent,1600.0,2,2,767,Sinclair Tan
+Silverscape Residences,Rent,2500.0,3,2,1500,Shalyn Tan
+Silverscape Residences,Rent,2500.0,Studio,Studio,1145,Shalyn Tan
+Silverscape Residences,Rent,1500.0,2,2,767,Jordan Lee
+Silverscape Residences,Rent,4800.0,4,3,1503,Wesley Tan
+Silverscape Residences,Rent,2800.0,3,3,1145,Wesley Tan
+Silverscape Residences,Rent,1800.0,2,2,750,Danny Kuah Kim Hai
+Silverscape Residences,Rent,1900.0,2,2,766,Steve Wong
+Silverscape Residences,Rent,1600.0,2,2,776,Kah Mun
+Kiara Apartment,Rent,1200.0,3,2,998,Eddy Leow
+Kota Laksamana Utama Apartment,Sale,128000.0,3,2,800,Jordan Lee
+Kota Laksamana Utama Apartment,Sale,100000.0,3,2,800,Kellyn Foo
+Kota Laksamana Utama Apartment,Sale,100000.0,3,2,744,Kellyn Foo
+Kota Laksamana Utama Apartment,Sale,105000.0,3,2,832,Kellyn Foo
+Kota Laksamana Utama Apartment,Sale,162000.0,3,2,744,Adeline Woon
+Kota Laksamana Utama Apartment,Sale,138000.0,3,2,818,Yeong .
+Kota Laksamana Utama Apartment,Sale,130000.0,3,2,800,Aiden Teo
+Kota Laksamana Utama Apartment,Sale,145000.0,3,2,760,Ms Woon
+Kota Laksamana Utama Apartment,Sale,128000.0,3,2,750,Bee .
+Kota Laksamana Utama Apartment,Rent,600.0,3,2,800,Jordan Lee
+Kota Laksamana Utama Apartment,Rent,1800.0,3,2,1540,Mathias Tan
+Kota Laksamana Utama Apartment,Rent,850.0,3,2,732,Lawrance Lim
+Kota Laksamana Utama Apartment,Rent,450.0,3,2,700,Ms. Chan
+Pangsapuri Taman Cheng Ria,Sale,100000.0,3,2,861,Raymond Lim PW
+Pangsapuri Taman Cheng Ria,Sale,178000.0,3,2,861,Fiona Woon
+Pangsapuri Kenanga (Park View Court),Sale,190000.0,3,2,890,Sinclair Tan
+Pangsapuri Kenanga (Park View Court),Sale,170000.0,3,2,890,Sinclair Tan
+Pangsapuri Kenanga (Park View Court),Sale,198000.0,3,2,980,Kellyn Foo
+Pangsapuri Kenanga (Park View Court),Sale,270000.0,3,2,890,Sinclair Tan
+Cheng Heights,Sale,388000.0,3,2,1100,Jordan Lee
+Cheng Heights,Sale,330000.0,3,2,1100,Raymond Lim PW
+Cheng Heights,Sale,300000.0,3,2,1100,Raymond Lim PW
+Cheng Heights,Sale,360000.0,3,2,1100,Wesley Tan
+Cheng Heights,Sale,300000.0,3,2,1100,Elson Tay
+Cheng Heights,Sale,300000.0,3,2,1100,Kellyn Foo
+Cheng Heights,Sale,358000.0,3,2,1109,Daniel Pow
+Cheng Heights,Sale,368000.0,3,2,1109,Daniel Pow
+Cheng Heights,Sale,330000.0,3,2,1100,Raymond Lim PW
+Cheng Heights,Sale,350000.0,3,2,1100,Raymond Lim PW
+Cheng Heights,Sale,320000.0,3,2,1100,Shawn Teh
+Cheng Heights,Sale,370000.0,3,2,1100,Wesley Tan
+Cheng Heights,Rent,1400.0,3,2,1100,Tim Piong
+Cheng Heights,Rent,1000.0,3,2,1100,Ms Woon
+Cheng Heights,Rent,1300.0,3,2,1100,Raymond Lim PW
+Cheng Heights,Rent,1500.0,3,2,1100,Jordan Lee
+Cheng Heights,Rent,1500.0,3,2,1100,Jordan Lee
+Cheng Heights,Rent,1600.0,3,2,1100,BL Bong
+Ocean Palms (Permata Idaman),Sale,398000.0,3,2,1450,Jenny Tai Chen Leen
+Ocean Palms (Permata Idaman),Sale,550000.0,3,2,1442,NS Han
+Ocean Palms (Permata Idaman),Sale,428000.0,3,2,1460,Raymond Lim PW
+Ocean Palms (Permata Idaman),Sale,428000.0,3,2,1410,Kelvin Chia
+Ocean Palms (Permata Idaman),Sale,500000.0,3,2,1442,NS Han
+Ocean Palms (Permata Idaman),Sale,330000.0,2,2,1033,Wesley Tan
+Ocean Palms (Permata Idaman),Sale,1200000.0,4,5,2766,NS Han
+Ocean Palms (Permata Idaman),Sale,460000.0,3,2,1442,NS Han
+Ocean Palms (Permata Idaman),Sale,500000.0,3,2,1440,Wesley Tan
+Ocean Palms (Permata Idaman),Sale,398000.0,2,2,1033,NS Han
+Ocean Palms (Permata Idaman),Sale,420000.0,3,2,1480,Raymond Lim PW
+Ocean Palms (Permata Idaman),Sale,980000.0,5,4,3000,Raymond Lim PW
+Ocean Palms (Permata Idaman),Sale,310000.0,2,2,1050,Raymond Lim PW
+Ocean Palms (Permata Idaman),Sale,350000.0,2,2,1033,NS Han
+Ocean Palms (Permata Idaman),Sale,338000.0,2,2,1033,NS Han
+Ocean Palms (Permata Idaman),Sale,395000.0,3,2,1442,NS Han
+Ocean Palms (Permata Idaman),Sale,520000.0,3,2,1410,NS Han
+Ocean Palms (Permata Idaman),Sale,428000.0,3,2,1410,NS Han
+Ocean Palms (Permata Idaman),Sale,2000000.0,4,5,3500,Wesley Tan
+Ocean Palms (Permata Idaman),Sale,400000.0,3,2,1410,NS Han
+Ocean Palms (Permata Idaman),Sale,370000.0,2,2,1033,BL Bong
+Ocean Palms (Permata Idaman),Sale,398000.0,3,2,1450,Macy G
+Ocean Palms (Permata Idaman),Sale,488000.0,3,2,1440,Robin Soong
+Ocean Palms (Permata Idaman),Rent,1200.0,2,2,1033,Sinclair Tan
+Ocean Palms (Permata Idaman),Rent,1300.0,2,2,1033,NS Han
+Ocean Palms (Permata Idaman),Rent,10000.0,5,5,3500,Wesley Tan
+Ocean Palms (Permata Idaman),Rent,5500.0,5,6,3500,NS Han
+Ocean Palms (Permata Idaman),Rent,2500.0,3,2,1410,Jenny Tai Chen Leen
+Ocean Palms (Permata Idaman),Rent,1200.0,2,2,1033,NS Han
+Ocean Palms (Permata Idaman),Rent,2500.0,3,2,1410,NS Han
+Ocean Palms (Permata Idaman),Rent,1800.0,2,2,750,Bee .
+Ocean Palms (Permata Idaman),Rent,5500.0,4,4,2766,NS Han
+Ocean Palms (Permata Idaman),Rent,2500.0,3,2,1441,Ms Woon
+Ocean Palms (Permata Idaman),Rent,1150.0,2,2,1033,Kellyn Foo
+Ocean Palms (Permata Idaman),Rent,1600.0,2,2,1033,Macy G
+Ocean Palms (Permata Idaman),Rent,5500.0,4,5,3509,Steve Wong
+Pangsapuri Pelangi (Ayer Keroh),Sale,128000.0,3,2,750,Fiona Woon
+Pangsapuri Pelangi (Ayer Keroh),Sale,178000.0,3,2,1356,NS Han
+Pangsapuri Pelangi (Ayer Keroh),Rent,780.0,3,2,850,Ms Woon
+Pangsapuri Pelangi (Ayer Keroh),Rent,1000.0,3,2,1300,Steven Sor
+Straits Court Condominium,Sale,298000.0,3,2,1138,Raymond Lim PW
+Straits Court Condominium,Sale,375000.0,3,2,1900,Jordan Lee
+Straits Court Condominium,Sale,330000.0,3,2,1068,Kelvin Chia
+Straits Court Condominium,Sale,320000.0,4,2,1388,Angie Ng
+Straits Court Condominium,Sale,450000.0,3,3,1900,Wesley Tan
+Straits Court Condominium,Sale,330000.0,3,2,1080,Wesley Tan
+Straits Court Condominium,Rent,1300.0,3,2,1077,Kellyn Foo
+Straits Court Condominium,Rent,1300.0,3,2,1000,Benson Chong
+Straits Court Condominium,Rent,1300.0,3,2,1200,Sinclair Tan
+Straits Court Condominium,Rent,1300.0,3,2,1200,Bee .
+Straits Court Condominium,Rent,1300.0,3,2,1000,Jordan Lee
+Straits Court Condominium,Rent,1300.0,3,2,1000,Jenny Tai Chen Leen
+Straits Court Condominium,Rent,1350.0,3,2,1100,Jordan Lee
+Residensi Melaka Tengah 1,Sale,203400.0,3,2,850,PR1MA CORPORATION MALAYSIA
+Tiara Melaka Golf and Country Club,Sale,3300000.0,6,4,4500,Shawn Teh
+Tiara Melaka Golf and Country Club,Sale,2000000.0,5,4,6000,Shawn Teh
+Tiara Melaka Golf and Country Club,Sale,2880000.0,5,3,7500,Shawn Teh
+Tiara Melaka Golf and Country Club,Sale,725000.0,,,13939,Yeow Rui Jun
+Tiara Melaka Golf and Country Club,Sale,680000.0,5,5,2454,Erin Baiduri
+Tiara Melaka Golf and Country Club,Sale,52.0,,,13939,Robin Soong
+Tiara Melaka Golf and Country Club,Sale,1880000.0,5,4,6500,Robin Soong
+Tiara Melaka Golf and Country Club,Sale,1500000.0,3,3,4500,Robin Soong
+Tiara Melaka Golf and Country Club,Sale,2200000.0,7,7,7300,FAHMI TAPCKL
+Tiara Melaka Golf and Country Club,Sale,4000000.0,5,4,24210,Wesley Tan
+Tiara Melaka Golf and Country Club,Sale,600000.0,,,10538,Aiman B. Adam
+Parkland Residence @ Sungai Melaka,Sale,750000.0,3,2,1088,Michael Wong
+Parkland Residence @ Sungai Melaka,Sale,468000.0,3,2,1088,Shawn Teh
+Parkland Residence @ Sungai Melaka,Sale,450000.0,3,2,1088,Shawn Teh
+Parkland Residence @ Sungai Melaka,Sale,458000.0,3,2,1088,Aiden Teo
+Parkland Residence @ Sungai Melaka,Sale,468000.0,3,2,1088,Afrizal .
+Parkland Residence @ Sungai Melaka,Sale,500000.0,3,2,1088,Danny Kuah Kim Hai
+Parkland Residence @ Sungai Melaka,Sale,490000.0,3,2,1088,Wesley Tan
+Parkland Residence @ Sungai Melaka,Sale,460000.0,3,2,1088,Susan .
+Parkland Residence @ Sungai Melaka,Sale,520000.0,3,2,1088,Vincy Teoh
+Parkland Residence @ Sungai Melaka,Sale,510000.0,3,2,1088,BL Bong
+Parkland Residence @ Sungai Melaka,Rent,1800.0,3,2,1088,Vincy Teoh
+Parkland Residence @ Sungai Melaka,Rent,1600.0,3,2,1088,B Fong Law
+Parkland Residence @ Sungai Melaka,Rent,1800.0,3,2,1088,Vincy Teoh
+Parkland Residence @ Sungai Melaka,Rent,2000.0,3,2,1088,Shalyn Tan
+Parkland Residence @ Sungai Melaka,Rent,1800.0,3,2,1088,Yeong .
+Parkland Residence @ Sungai Melaka,Rent,1800.0,3,2,1088,Shawn Teh
+Parkland Residence @ Sungai Melaka,Rent,1800.0,3,2,1033,Jenny Tai Chen Leen
+Parkland Residence @ Sungai Melaka,Rent,2300.0,3,2,1088,Jenny Tai Chen Leen
+Parkland Residence @ Sungai Melaka,Rent,2100.0,3,2,1088,Sinclair Tan
+Parkland Residence @ Sungai Melaka,Rent,1800.0,3,2,1088,Eddy Leow
+Parkland Residence @ Sungai Melaka,Rent,1600.0,3,2,1088,May .
+Parkland Residence @ Sungai Melaka,Rent,1800.0,5,2,1088,Wesley Tan
+Parkland Residence @ Sungai Melaka,Rent,1600.0,3,2,1088,Yeong .
+Parkland Residence @ Sungai Melaka,Rent,1800.0,3,2,1088,Vinc Pheng
+Parkland Residence @ Sungai Melaka,Rent,1800.0,3,2,1088,May .
+Bali Residences,Sale,551160.0,2,2,864,Wesley Tan
+Bali Residences,Sale,587440.0,2,2,1076,Wesley Tan
+Bali Residences,Sale,324190.0,Studio,Studio,477,Wesley Tan
+Bali Residences,Sale,858000.0,4,4,1795,Wesley Tan
+Bali Residences,Sale,1260400.0,4,4,2800,Wesley Tan
+Bali Residences,Sale,1449600.0,5,5,3174,Wesley Tan
+Bali Residences,Sale,417200.0,1,1,676,Wesley Tan
+Atlantis Residences,Sale,350000.0,1,1,689,Shalyn Tan
+Atlantis Residences,Sale,480000.0,2,2,1005,Shalyn Tan
+Atlantis Residences,Sale,350000.0,1,1,689,Shalyn Tan
+Atlantis Residences,Sale,255200.0,1,1,688,P M Chan
+Atlantis Residences,Sale,730000.0,3,3,1378,Lawrance Lim
+Atlantis Residences,Sale,648000.0,3,3,1378,Lawrance Lim
+Atlantis Residences,Sale,299000.0,1,1,678,Kelvin Chia
+Atlantis Residences,Sale,465000.0,2,2,1055,Kelvin Chia
+Atlantis Residences,Sale,608000.0,3,3,1378,Kelvin Chia
+Atlantis Residences,Sale,428800.0,1,1,689,Danny Kuah Kim Hai
+Atlantis Residences,Sale,550000.0,3,2,1265,Kelvin Chia
+Atlantis Residences,Sale,780000.0,3,2,1265,Elson Tay
+Atlantis Residences,Sale,350000.0,1,1,689,Elson Tay
+Atlantis Residences,Sale,780000.0,3,3,1378,Elson Tay
+Atlantis Residences,Sale,650000.0,3,2,1265,Elson Tay
+Atlantis Residences,Sale,350000.0,1,1,689,Shawn Teh
+Atlantis Residences,Sale,310000.0,1,1,689,Sinclair Tan
+Atlantis Residences,Sale,1000000.0,4,4,2100,Wesley Tan
+Atlantis Residences,Sale,255200.0,1,1,688,P M Chan
+Atlantis Residences,Sale,350000.0,1,1,689,Leng Dee
+Atlantis Residences,Sale,480000.0,2,2,1050,Leng Dee
+Atlantis Residences,Sale,520000.0,2,2,1275,Shawn Teh
+Atlantis Residences,Sale,390000.0,1,1,689,Shawn Teh
+Atlantis Residences,Sale,490000.0,2,2,1275,Shawn Teh
+Atlantis Residences,Sale,1000000.0,3,4,2110,Sinclair Tan
+Atlantis Residences,Sale,340000.0,Studio,Studio,689,Fiona Woon
+Atlantis Residences,Sale,338000.0,Studio,Studio,689,Adeline Woon
+Atlantis Residences,Sale,338000.0,Studio,Studio,689,Leng Dee
+Atlantis Residences,Sale,385000.0,1,1,689,Mohd Syahidie
+Atlantis Residences,Sale,255200.0,1,1,688,P M Chan
+Atlantis Residences,Sale,360000.0,1,1,689,Robin Soong
+Atlantis Residences,Sale,2200000.0,4,3,2755,Danny Kuah Kim Hai
+Atlantis Residences,Sale,330000.0,1,1,689,Mohd Rozaimee
+Atlantis Residences,Sale,320000.0,1,1,689,Shawn Teh
+Atlantis Residences,Sale,520000.0,2,2,1055,Shawn Teh
+Atlantis Residences,Sale,595000.0,3,2,1275,Shawn Teh
+Atlantis Residences,Sale,590000.0,3,2,1378,Shawn Teh
+Atlantis Residences,Sale,350000.0,1,1,689,Shawn Teh
+Atlantis Residences,Sale,1050000.0,5,4,2110,Shawn Teh
+Atlantis Residences,Sale,480000.0,2,2,1055,Shawn Teh
+Atlantis Residences,Sale,520000.0,2,2,1055,NS Han
+Atlantis Residences,Sale,788000.0,3,3,1378,Wesley Tan
+Atlantis Residences,Sale,1600000.0,4,4,2454,Wesley Tan
+Atlantis Residences,Sale,780000.0,3,3,1365,Lawrance Lim
+Atlantis Residences,Sale,618000.0,3,2,1265,Lawrance Lim
+Atlantis Residences,Sale,780000.0,3,3,1378,Kellyn Foo
+Atlantis Residences,Sale,780000.0,3,2,1265,Kellyn Foo
+Atlantis Residences,Sale,255200.0,1,1,688,P M Chan
+Atlantis Residences,Sale,380000.0,1,1,689,BL Bong
+Atlantis Residences,Sale,1100000.0,5,4,2110,Robin Soong
+Atlantis Residences,Sale,550000.0,2,2,1056,Robin Soong
+Atlantis Residences,Sale,500000.0,2,2,1265,John Tan
+Atlantis Residences,Sale,500000.0,2,2,1265,John Tan
+Atlantis Residences,Sale,598000.0,3,2,1265,John Tan
+Atlantis Residences,Sale,598000.0,3,2,1265,John Tan
+Atlantis Residences,Sale,700000.0,3,2,1378,Nicole Yeo
+Atlantis Residences,Sale,1000000.0,4,4,2110,NS Han
+Atlantis Residences,Sale,480000.0,2,2,1055,Danny Kuah Kim Hai
+Atlantis Residences,Sale,350000.0,1,1,689,BL Bong
+Atlantis Residences,Rent,1300.0,1,1,689,Danny Kuah Kim Hai
+Atlantis Residences,Rent,2800.0,3,2,1265,Jordan Lee
+Atlantis Residences,Rent,1600.0,1,1,689,Elson Tay
+Atlantis Residences,Rent,1300.0,1,1,689,Elson Tay
+Atlantis Residences,Rent,1300.0,1,1,689,Elson Tay
+Atlantis Residences,Rent,1400.0,1,1,689,Elson Tay
+Atlantis Residences,Rent,2300.0,2,2,1055,Elson Tay
+Atlantis Residences,Rent,4500.0,4,4,2750,Elson Tay
+Atlantis Residences,Rent,4500.0,4,4,2700,NS Han
+Atlantis Residences,Rent,2300.0,3,3,1378,Kellyn Foo
+Atlantis Residences,Rent,1200.0,1,1,689,Shawn Teh
+Atlantis Residences,Rent,3500.0,2,2,1085,Wesley Tan
+Atlantis Residences,Rent,2200.0,3,2,1275,Shawn Teh
+Atlantis Residences,Rent,2500.0,2,2,1055,Sinclair Tan
+Atlantis Residences,Rent,1500.0,1,1,689,Vinc Pheng
+Atlantis Residences,Rent,1200.0,1,1,689,Danny Kuah Kim Hai
+Atlantis Residences,Rent,1500.0,1,1,689,Danny Kuah Kim Hai
+Atlantis Residences,Rent,1488.0,1,1,689,Danny Kuah Kim Hai
+Atlantis Residences,Rent,1499.0,1,1,689,Danny Kuah Kim Hai
+Atlantis Residences,Rent,1700.0,2,2,1055,Kelvin Chia
+Atlantis Residences,Rent,1700.0,3,2,1265,Kelvin Chia
+Atlantis Residences,Rent,3500.0,3,2,1365,Jenny Tai Chen Leen
+Atlantis Residences,Rent,1500.0,1,1,689,Danny Kuah Kim Hai
+Atlantis Residences,Rent,2000.0,2,2,1055,Leng Dee
+Atlantis Residences,Rent,4200.0,4,4,2110,Shawn Teh
+Atlantis Residences,Rent,2000.0,2,2,900,Ms Woon
+Atlantis Residences,Rent,4500.0,4,3,2700,NS Han
+Atlantis Residences,Rent,3000.0,3,3,1378,Jordan Lee
+Atlantis Residences,Rent,2200.0,3,2,1055,Elson Tay
+Atlantis Residences,Rent,2200.0,3,2,1265,Elson Tay
+Atlantis Residences,Rent,4200.0,3,4,2108,Wesley Tan
+Atlantis Residences,Rent,2600.0,3,3,1365,Danny Kuah Kim Hai
+Atlantis Residences,Rent,1500.0,1,1,689,Danny Kuah Kim Hai
+Atlantis Residences,Rent,1200.0,1,1,689,Danny Kuah Kim Hai
+Atlantis Residences,Rent,1500.0,1,1,689,Danny Kuah Kim Hai
+Atlantis Residences,Rent,1300.0,1,1,689,Danny Kuah Kim Hai
+The Quartz Residence,Sale,460000.0,3,2,904,Shawn Teh
+The Quartz Residence,Sale,350000.0,2,2,735,Jenny Tai Chen Leen
+The Quartz Residence,Sale,470000.0,3,2,904,BL Bong
+The Quartz Residence,Sale,438000.0,3,2,947,BL Bong
+The Quartz Residence,Sale,450000.0,3,2,904,Kelvin Chia
+The Quartz Residence,Sale,240000.0,Studio,Studio,484,Shawn Teh
+The Quartz Residence,Sale,450000.0,3,2,905,Aiden Teo
+The Quartz Residence,Sale,270000.0,Studio,Studio,484,Wesley Tan
+The Quartz Residence,Sale,365000.0,2,2,764,BL Bong
+The Quartz Residence,Sale,460000.0,3,2,904,Yeong .
+The Quartz Residence,Sale,440000.0,3,2,904,Wesley Tan
+The Quartz Residence,Sale,368000.0,2,2,735,Wesley Tan
+The Quartz Residence,Sale,313000.0,2,2,764,Jenny Tai Chen Leen
+The Quartz Residence,Sale,338000.0,2,2,764,BL Bong
+The Quartz Residence,Sale,350000.0,2,2,735,Macy G
+The Quartz Residence,Sale,430000.0,3,2,904,Wesley Tan
+The Quartz Residence,Sale,430000.0,3,2,904,Nicole Yeo
+The Quartz Residence,Sale,280000.0,Studio,Studio,484,BL Bong
+The Quartz Residence,Sale,216000.0,1,1,484,Mathias Tan
+The Quartz Residence,Rent,1800.0,2,2,735,Wesley Tan
+The Quartz Residence,Rent,1600.0,2,2,735,Jenny Tai Chen Leen
