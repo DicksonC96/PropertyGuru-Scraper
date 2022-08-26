@@ -1,4 +1,5 @@
 from ctypes import ArgumentError
+from multiprocessing.sharedctypes import Value
 from re import L
 from bs4 import BeautifulSoup
 import time
@@ -14,7 +15,7 @@ import argparse
 # Initialize your Query selection here:
 MARKET = 'residential'
 TYPE = 'condo'
-STATE = 'kl'
+STATE = 'penang'
 
 ### CODE STARTS FROM HERE ###
 
@@ -84,7 +85,7 @@ def LinkScraper(soup):
     links = []
     units = soup.find_all("div", itemtype="https://schema.org/Place")
     for unit in units:
-        if unit.find("a", class_="btn btn-primary-outline units_for_sale disabled") or unit.find("a", class_="btn btn-primary-outline units_for_rent disabled"):
+        if unit.find("a", class_="btn btn-primary-outline units_for_sale disabled") and unit.find("a", class_="btn btn-primary-outline units_for_rent disabled"):
             continue
         prop = unit.find("a", class_="nav-link")
         links.append((prop['title'],HEADER+prop["href"]))
@@ -189,9 +190,14 @@ def main():
         props += LinkScraper(soup)
         print('\rPage {}/{} done.'.format(str(page), str(pages)))
 
+    print(props)
+
     # Check exising data and remove scraped links
     if os.path.exists(RAW_LISTING):
-        props, last_prop_name = PropTrimmer(props, RAW_LISTING)
+        try:
+            props, last_prop_name = PropTrimmer(props, RAW_LISTING)
+        except ValueError or IndexError:
+            print("EOF does not match. Scraping starts from the beginning.")
 
     # Scrape details for sale and rental of each properties
     data = []
