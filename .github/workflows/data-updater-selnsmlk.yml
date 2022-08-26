@@ -1,25 +1,25 @@
 
-name: Data Updater (KL)
+name: Data Updater SEL NS MLK
 
 on:
   push:
     paths:
-      - '.github/workflows/data-updater-kl.yml'
+      - '.github/workflows/data-updater-selnsmlk.yml'
       - 'data-scraper-v2alpha.py'
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: '0 8 1 * *'
+    - cron: '0 8 3 * *'
 
 jobs:
   script:
     runs-on: ubuntu-latest
     continue-on-error: true
     strategy:
-      max-parallel: 2
+      max-parallel: 3
       matrix:
         type: [condo, terrace, semid, bungalow]
-        state: [kl]
+        state: [selangor, ns, melaka]
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.10
