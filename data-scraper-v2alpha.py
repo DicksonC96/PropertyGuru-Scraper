@@ -14,7 +14,7 @@ import argparse
 ### Section 1:Query Selection ###
 # Initialize your Query selection here:
 MARKET = 'residential'
-TYPE = 'condo'
+TYPE = 'bungalow'
 STATE = 'penang'
 
 ### CODE STARTS FROM HERE ###
@@ -190,14 +190,14 @@ def main():
         props += LinkScraper(soup)
         print('\rPage {}/{} done.'.format(str(page), str(pages)))
 
-    print(props)
-
     # Check exising data and remove scraped links
     if os.path.exists(RAW_LISTING):
         try:
             props, last_prop_name = PropTrimmer(props, RAW_LISTING)
+            error_flag = False
         except ValueError or IndexError:
             print("EOF does not match. Scraping starts from the beginning.")
+            error_flag = True
 
     # Scrape details for sale and rental of each properties
     data = []
@@ -215,9 +215,10 @@ def main():
 
         # Check exising data and combine
         if os.path.exists(RAW_LISTING):
-            df_old = pd.read_csv(RAW_LISTING)
-            df_old = df_old[df_old.PropertyName!=last_prop_name]
-            df = pd.concat([df_old, df])
+            if not error_flag:
+                df_old = pd.read_csv(RAW_LISTING)
+                df_old = df_old[df_old.PropertyName!=last_prop_name]
+                df = pd.concat([df_old, df])
 
         # Raw data saved to file
         df.to_csv(RAW_LISTING, index=False)
