@@ -12,13 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Check File Existence
+    - name: Check Connection Speed
       run: |
-        echo $(ls -1q data/*.csv | wc -l) property datasets detected.
-        echo $(ls -1q md5hash/*.md5 | wc -l) MD5 hashes detected.
-        if [[ $(ls -1q md5hash/*.md5 | wc -l) != $(ls -1q data/*.csv | wc -l) ]]; then
-          echo Scraping incomplete! 
-          exit 1
-        else
-          echo Scraping completed!
-        fi
+        python -m pip install speedtest-cli
+        speedtest-cli
