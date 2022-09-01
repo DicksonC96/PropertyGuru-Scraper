@@ -33,6 +33,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Data scraping and export
       run: python -u test.py
+      continue-on-error: true
     - name: Commit & push data updates
       run: |
         git config --local user.name github-actions
