@@ -32,8 +32,10 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Data scraping and export
-      run: python -u test.py
-      continue-on-error: true
+      run: |
+        python -u test.py
+        exit_code = $?
+        continue-on-error: true
     - name: Commit & push data updates
       run: |
         git config --local user.name github-actions
@@ -51,9 +53,8 @@ jobs:
         username: github-actions
     - name: Check File Existence
       run: |
-        echo $(ls -1q data/*.csv | wc -l) property datasets detected.
-        echo $(ls -1q md5hash/*.md5 | wc -l) MD5 hashes detected.
-        if [[ $(ls -1q md5hash/*.md5 | wc -l) != $(ls -1q data/*.csv | wc -l) ]]; then
+        echo exit_code
+        if ! ${{exit_code}}; then
           echo Scraping incomplete! 
           exit 1
         else
