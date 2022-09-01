@@ -6,7 +6,7 @@ on:
     paths:
       - '.github/workflows/data-updater-kl.yml'
       - 'data-scraper-v2alpha.py'
-	- 'test.py'
+      - 'test.py'
   pull_request:
     branches: [ main ]
   schedule:
