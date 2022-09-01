@@ -35,7 +35,7 @@ jobs:
       id: scraping
       run: |
         python -u test.py
-        continue-on-error: true
+      continue-on-error: true
     - name: Commit & push data updates
       run: |
         git config --local user.name github-actions
