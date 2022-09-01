@@ -1,3 +1,4 @@
+from multiprocessing.sharedctypes import Value
 from bs4 import BeautifulSoup
 import time
 from datetime import date
@@ -111,7 +112,9 @@ def InfoExtract(pname, soup, key):
             price = property.find("span", class_="price").text.split(' ')[i].replace(',','').strip()
         try:
             sqft = int(property.find("li", class_="listing-floorarea pull-left").text.split(' ')[0])
-        except AttributeError or ValueError:
+        except AttributeError:
+            sqft = np.nan
+        except ValueError:
             sqft = np.nan
         try:
             author = property.find('span', class_='name').text
@@ -166,7 +169,7 @@ def argparser():
         exit()
 
 def main():
-
+    
     # Load first page with Query and scrape no. of pages
     print('\n===================================================\nPropertyGuru Property Listing Scraper v2.3-alpha\nAuthor: DicksonC\n===================================================\n')
     time.sleep(2)
@@ -195,7 +198,8 @@ def main():
         except ValueError or IndexError:
             print("EOF does not match. Scraping starts from the beginning.")
             error_flag = True
-
+    
+    props = [('Country Heights Kajang','https://www.propertyguru.com.my/condo/country-heights-kajang-10027')]
     # Scrape details for sale and rental of each properties
     data = []
     print('\nA total of '+str(len(props))+' properties will be scraped.\n')
