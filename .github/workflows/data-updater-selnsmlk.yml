@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: '0 8 3 * *'
+    - cron: '0 8 1 * *'
 
 jobs:
   script:
@@ -31,7 +31,9 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Data scraping and export
+      id: scrape
       run: python -u data-scraper-v2alpha.py -t ${{ matrix.type }} -s ${{ matrix.state }}
+      continue-on-error: true
     - name: Commit & push data updates
       run: |
         git config --local user.name github-actions
@@ -47,17 +49,6 @@ jobs:
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
         username: github-actions
-    - name: Check File Existence
-      run: |
-        echo $(ls -1q data/*.csv | wc -l) property datasets detected.
-        echo $(ls -1q md5hash/*.md5 | wc -l) MD5 hashes detected.
-        if [[ $(ls -1q md5hash/*.md5 | wc -l) != $(ls -1q data/*.csv | wc -l) ]]; then
-          echo Scraping incomplete! 
-          exit 1
-        else
-          echo Scraping completed!
-        fi
-    - name: 5mins sleep
-      uses: whatnick/wait-action@master
-      with:
-        time: '5m'
+    - name: Check on failures
+      if: steps.scrape.outcome != 'success'
+      run: exit 1
