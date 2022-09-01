@@ -251,8 +251,8 @@ if __name__ == "__main__":
     MARKET, TYPE, STATE= args.Market, args.Type, args.State
     
     # Initialize filenames (leave empty if not generating):
-    RAW_LISTING = './data/{}-{}-{}-listing.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
-    MD5HASH = './md5hash/{}-{}-{}-listing.md5'.format(TYPE,STATE,date.today().strftime("%b%Y"))
+    RAW_LISTING = './data/{}/{}-{}-{}-listing.csv'.format(date.today().strftime("%b%Y"),TYPE,STATE,date.today().strftime("%b%Y"))
+    MD5HASH = './md5hash/{}/{}-{}-{}-listing.md5'.format(date.today().strftime("%b%Y"),TYPE,STATE,date.today().strftime("%b%Y"))
 
     # Initialize URL
     HEADER = 'https://www.propertyguru.com.my'
