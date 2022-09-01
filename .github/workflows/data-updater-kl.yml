@@ -6,7 +6,6 @@ on:
     paths:
       - '.github/workflows/data-updater-kl.yml'
       - 'data-scraper-v2alpha.py'
-      - 'test.py'
   pull_request:
     branches: [ main ]
   schedule:
@@ -19,7 +18,7 @@ jobs:
     strategy:
       max-parallel: 2
       matrix:
-        type: [bungalow]
+        type: [condo, terrace, semid, bungalow]
         state: [kl]
     steps:
     - uses: actions/checkout@v2
@@ -34,7 +33,7 @@ jobs:
     - name: Data scraping and export
       id: scraping
       run: |
-        python -u test.py
+        python -u data-scraper-v2alpha.py -t ${{ matrix.type }} -s ${{ matrix.state }}
       continue-on-error: true
     - name: Commit & push data updates
       run: |
