@@ -1,0 +1,77 @@
+PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+"Lido Four Seasons Residence , Kota Kinabalu",Sale,490000.0,3,2,1000,shirley Chow
+"Lido Four Seasons Residence , Kota Kinabalu",Rent,1500.0,3,2,1000,shirley Chow
+"Lido Four Seasons Residence , Kota Kinabalu",Rent,1700.0,3,2,1000,Japheth Liew
+Lido Avenue,Sale,950000.0,3,2,1338,Japheth Liew
+Lido Avenue,Sale,950000.0,3,3,1628,Japheth Liew
+Lido Avenue,Sale,1150000.0,3,3,1628,Japheth Liew
+Lido Avenue,Rent,3000.0,3,3,1477,Alyssa Chong
+The Peak Condo (Likas),Sale,1150000.0,3,2,1290,shirley Chow
+The Peak Condo (Likas),Rent,1800.0,2,2,970,Susan .
+The Peak Condo (Likas),Rent,2300.0,2,2,997,Faye Robert
+The Peak Vista (Likas),Sale,950000.0,3,2,1293,shirley Chow
+The Peak Vista (Likas),Sale,950000.0,3,2,1293,shirley Chow
+The Peak Vista (Likas),Sale,1100000.0,3,2,1288,Susan .
+The Peak Vista (Likas),Rent,4500.0,4,3,1678,Japheth Liew
+The Peak Vista (Likas),Rent,4000.0,3,2,1288,shirley Chow
+Jesselton Residences,Sale,980000.0,2,2,965,Susan .
+Jesselton Residences,Sale,1680000.0,3,3,1669,Yun Lai
+Jesselton Residences,Sale,720000.0,2,2,904,Leong .
+Jesselton Residences,Sale,1790000.0,3,3,1669,Japheth Liew
+Jesselton Residences,Sale,1900000.0,3,3,1941,Faye Robert
+Jesselton Residences,Sale,1250000.0,2,2,965,Japheth Liew
+Jesselton Residences,Sale,2200000.0,4,4,2266,Japheth Liew
+Jesselton Residences,Rent,2800.0,2,2,965,Yun Lai
+Jesselton Residences,Rent,2500.0,2,2,965,Yun Lai
+Jesselton Residences,Rent,3000.0,2,2,965,Japheth Liew
+Jesselton Residences,Rent,5000.0,3,4,2342,Gavin Chia
+Jesselton Residences,Rent,4500.0,3,3,1669,Japheth Liew
+Putatan Platinum Apartment,Sale,298800.0,3,2,850,Yun Lai
+Putatan Platinum Apartment,Sale,298800.0,3,2,850,Yun Lai
+Putatan Platinum Apartment,Rent,1300.0,3,2,850,shirley Chow
+Alam Damai Condominium,Sale,1800000.0,4,3,2534,Yun Lai
+Alam Damai Condominium,Sale,1800000.0,4,3,2534,Yun Lai
+Alam Damai Condominium,Sale,750000.0,3,2,1091,Japheth Liew
+Alam Damai Condominium,Sale,680000.0,3,2,1070,Alyssa Chong
+Alam Damai Condominium,Rent,2200.0,3,2,1070,Japheth Liew
+Alam Damai Condominium,Rent,2200.0,3,3,1400,shirley Chow
+Alam Damai Condominium,Rent,1800.0,3,2,1000,Susan .
+The Loft @ KK Times Square,Sale,850000.0,2,2,911,Gavin Chia
+The Loft @ KK Times Square,Sale,1350000.0,2,2,1649,Susan .
+The Loft @ KK Times Square,Sale,2300000.0,4,3,1984,shirley Chow
+The Loft @ KK Times Square,Sale,2550000.0,4,4,2170,Japheth Liew
+The Loft @ KK Times Square,Rent,4500.0,3,3,1425,shirley Chow
+Apartment Darau Angkasa,Sale,280000.0,3,2,850,Gavin Chia
+Apartment Darau Angkasa,Sale,300000.0,3,2,850,Gavin Chia
+Apartment Darau Angkasa,Sale,300000.0,3,2,850,Gavin Chia
+Apartment Darau Angkasa,Rent,900.0,3,2,871,Faye Robert
+The Palm Condominium Kinarut,Sale,423000.0,3,2,1180,shirley Chow
+The Palm Condominium Kinarut,Rent,2800.0,4,4,2340,shirley Chow
+The Palm Condominium Kinarut,Rent,1700.0,3,2,1280,shirley Chow
+The Palm Condominium Kinarut,Rent,1280.0,3,2,1060,shirley Chow
+1Borneo Prince Tower Supercondo,Sale,760000.0,4,4,1900,Susan .
+1Borneo Prince Tower Supercondo,Sale,780000.0,3,3,1900,Yun Lai
+1Borneo Prince Tower Supercondo,Sale,760000.0,4,4,1900,Susan .
+1Borneo Prince Tower Supercondo,Rent,1700.0,2,2,900,Markma .
+1Borneo Prince Tower Supercondo,Rent,1700.0,2,1,850,Markma .
+1Borneo Prince Tower Supercondo,Rent,1900.0,3,2,1000,Markma .
+1Borneo Prince Tower Supercondo,Rent,1700.0,2,2,900,Markma .
+1Borneo Prince Tower Supercondo,Rent,1600.0,2,2,800,Markma .
+Bukit Bantayan Residence,Sale,501330.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,456280.0,3,2,1007,Gavin Chia
+Bukit Bantayan Residence,Sale,427380.0,3,2,904,Gavin Chia
+Bukit Bantayan Residence,Sale,427380.0,3,2,904,Gavin Chia
+Bukit Bantayan Residence,Sale,502180.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,521730.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,456280.0,3,2,1007,Gavin Chia
+Bukit Bantayan Residence,Sale,502180.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Rent,1350.0,3,2,904,shirley Chow
+Utama South Condominiums,Sale,355800.0,3,2,1055,IJM Land
+Utama South Condominiums,Sale,360000.0,3,2,1055,Candy Chung
+Ashton Tower,Sale,488000.0,3,2,870,Gavin Chia
+Ashton Tower,Sale,460000.0,3,2,870,shirley Chow
+Ashton Tower,Sale,480000.0,3,2,870,Yvonne Sak
+Ashton Tower,Sale,490000.0,3,2,870,shirley Chow
+Ashton Tower,Sale,450000.0,3,2,870,Yvonne Sak
+Ashton Tower,Sale,490000.0,3,2,870,Faye Robert
+Ashton Tower,Rent,1800.0,3,2,875,shirley Chow
