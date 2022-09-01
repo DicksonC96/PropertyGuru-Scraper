@@ -199,7 +199,6 @@ def main():
             print("EOF does not match. Scraping starts from the beginning.")
             error_flag = True
     
-    props = [('Country Heights Kajang','https://www.propertyguru.com.my/condo/country-heights-kajang-10027')]
     # Scrape details for sale and rental of each properties
     data = []
     print('\nA total of '+str(len(props))+' properties will be scraped.\n')
