@@ -32,7 +32,7 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Data scraping and export
-      run: python -u data-scraper-v2alpha.py -t ${{ matrix.type }} -s ${{ matrix.state }}
+      run: python -u test.py
     - name: Commit & push data updates
       run: |
         git config --local user.name github-actions
