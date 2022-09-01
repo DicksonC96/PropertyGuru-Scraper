@@ -102,6 +102,7 @@ def InfoExtract(pname, soup, key):
             except AttributeError:
                 bed = np.nan
                 bath = np.nan
+            
         try:
             price = float(property.find("span", class_="price").text.split(' ')[i].replace(',','').strip())
         except AttributeError:
@@ -110,7 +111,7 @@ def InfoExtract(pname, soup, key):
             price = property.find("span", class_="price").text.split(' ')[i].replace(',','').strip()
         try:
             sqft = int(property.find("li", class_="listing-floorarea pull-left").text.split(' ')[0])
-        except AttributeError:
+        except AttributeError or ValueError:
             sqft = np.nan
         try:
             author = property.find('span', class_='name').text
