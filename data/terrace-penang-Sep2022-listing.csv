@@ -1,0 +1,637 @@
+PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+Bukit Residence,Sale,888000.0,5,4,2700,Lillie Ong
+Bukit Residence,Sale,700000.0,4,3,1800,Lee Shanny
+Bukit Residence,Sale,500000.0,4,3,1400,Lissa Ooi
+Bukit Residence,Sale,830000.0,5,4,2673,Samuel Yeoh
+Island Glades,Sale,1150000.0,3,2,3000,Lenice Teoh
+Island Glades,Sale,1150000.0,4,2,1600,SB Quah
+Island Glades,Sale,1350000.0,4,2,1800,Elynne Leong
+Island Glades,Sale,998000.0,4,3,1800,Elynne Leong
+Island Glades,Sale,2600000.0,6,4,2500,Elynne Leong
+Island Glades,Sale,2300000.0,4,3,2500,Elynne Leong
+Island Glades,Sale,1100000.0,4,2,1800,Elynne Leong
+Island Glades,Sale,1280000.0,4,3,1800,Elynne Leong
+Island Glades,Sale,1200000.0,4,2,2150,Elynne Leong
+Island Glades,Sale,1650000.0,4,3,2000,Elynne Leong
+Island Glades,Sale,1500000.0,3,3,1800,Elynne Leong
+Island Glades,Sale,1350000.0,4,2,2000,Eugene Lee
+Island Glades,Sale,1100000.0,4,3,2000,Jaycus Tan
+Island Glades,Sale,1500000.0,3,3,2000,Jaycus Tan
+Island Glades,Sale,1200000.0,4,2,1400,Eliz Kho
+Island Glades,Sale,1200000.0,3,2,2000,Airrlee Lim
+Island Glades,Sale,1800000.0,4,3,2000,Hugo Hooi
+Island Glades,Sale,1200000.0,4,3,2065,Ivan Chia
+Island Glades,Sale,2300000.0,4,3,4400,Ivan Chia
+Island Glades,Sale,1200000.0,3,2,2190,Ivan Chia
+Island Glades,Sale,1200000.0,4,3,2065,Jin Lim
+Island Glades,Sale,2380000.0,5,3,3000,Jaycus Tan
+Island Glades,Sale,1298000.0,4,3,2200,CY Ong
+Island Glades,Sale,1180000.0,4,2,2000,Alex Cheah
+Island Glades,Sale,1180000.0,4,3,2502,Chris Teoh
+Island Glades,Sale,1200000.0,3,2,2000,Ederic .
+Island Glades,Sale,4400000.0,5,3,4500,Chris Teoh
+Island Glades,Sale,1100000.0,3,2,2000,Edward Lee
+Island Glades,Sale,945000.0,3,1,1200,Alex Cheah
+Island Glades,Sale,1200000.0,4,2,2000,Edward Lee
+Island Glades,Sale,1300000.0,3,3,2200,Jaycus Tan
+Island Glades,Sale,1300000.0,4,2,2065,Joanne Lim
+Island Glades,Sale,945000.0,3,1,1200,OK Cheah
+Island Glades,Rent,1300.0,3,2,2000,Leong .
+Permai Garden,Sale,2350000.0,4,5,3280,Elynne Leong
+Permai Garden,Sale,3400000.0,5,5,4331,Elynne Leong
+Permai Garden,Sale,1980000.0,4,5,3280,Elynne Leong
+Permai Garden,Sale,2000000.0,4,5,3280,Max Ng
+Permai Garden,Sale,1980000.0,4,5,3280,Alex Cheah
+Permai Garden,Sale,2000000.0,4,5,3280,Matthew Png
+Permai Garden,Sale,2900000.0,4,5,3280,MJ Zie
+Permai Garden,Sale,2250000.0,5,5,1560,Nick Teh
+Permai Garden,Sale,2100000.0,6,5,3400,Ivan Chia
+Permai Garden,Sale,1400000.0,4,3,2400,Fibo Law
+Permai Garden,Sale,3400000.0,5,5,4331,Pei Hoon
+Permai Garden,Sale,2190000.0,4,5,3280,Wyin .
+Permai Garden,Sale,4500000.0,4,5,4400,Elaine Ooi
+Permai Garden,Sale,2250000.0,5,5,3300,Desmond .
+Permai Garden,Sale,2000000.0,5,5,3280,Pyn Lim
+Permai Garden,Sale,2000000.0,4,5,3280,Li Fang
+Permai Garden,Sale,1980000.0,4,5,3300,Desmond .
+Permai Garden,Sale,2000000.0,5,5,3280,Joshua Ong
+Permai Garden,Sale,2000000.0,5,5,2681,Nelson Teoh
+Permai Garden,Sale,2000000.0,4,5,3280,Jia Yong
+Permai Garden,Sale,1950000.0,4,5,3280,Heanry Lim
+Permai Garden,Sale,3400000.0,5,5,4331,Max Ng
+Permai Garden,Sale,2000000.0,4,4,3280,Chris Ooi
+Permai Garden,Sale,2000000.0,4,4,3280,Marcus Phuah
+Permai Garden,Sale,2000000.0,4,5,3280,Jia Yong
+Permai Garden,Sale,2300000.0,4,4,3280,Dave Soon
+Permai Garden,Sale,2000000.0,4,5,3280,Sam Khoo
+Permai Garden,Sale,2300000.0,4,5,3280,Sam Khoo
+Permai Garden,Sale,2520000.0,4,5,3280,Annie Oung
+Permai Garden,Sale,2100000.0,4,5,3280,Welson Teh
+Permai Garden,Sale,2250000.0,4,5,3200,Nick Teh
+Permai Garden,Sale,3400000.0,5,5,4331,Nick Teh
+Permai Garden,Sale,2150000.0,5,5,3850,Molly Lee
+Permai Garden,Sale,1990000.0,4,5,3280,Nigel Cheon
+Permai Garden,Rent,8000.0,5,6,4330,Nick Teh
+Permai Garden,Rent,8000.0,4,5,4330,Katherine Khor
+Permai Garden,Rent,3300.0,4,5,1920,Andrew Chong
+Permai Garden,Rent,6000.0,5,5,4330,Marcus Phuah
+Permai Garden,Rent,7500.0,5,4,4431,Marcus Phuah
+Permai Garden,Rent,3500.0,4,5,3280,Marc Lee
+Permai Garden,Rent,4200.0,4,4,3280,Dave Soon
+Permai Garden,Rent,6000.0,5,5,4330,Pyn Lim
+Permai Garden,Rent,6000.0,5,5,4330,Desmond .
+Permai Garden,Rent,6500.0,4,5,4330,Yihang Lim
+Permai Garden,Rent,6500.0,5,5,4330,Irene Goh
+Permai Garden,Rent,6500.0,5,5,4330,James Lee
+Permai Garden,Rent,6000.0,5,5,4330,Foo .
+Southbay Residence,Sale,1580000.0,6,6,3130,Millie Chew
+Southbay Residence,Sale,1250000.0,6,6,3130,Yonii Tan
+Southbay Residence,Sale,1250000.0,6,5,1650,Christine Lim
+Southbay Residence,Sale,1330000.0,6,6,3130,Xinnee .
+Southbay Residence,Sale,1150000.0,6,6,3129,Zhonl Saw Boon Loong
+Southbay Residence,Sale,1180000.0,6,6,3129,Zhonl Saw Boon Loong
+Southbay Residence,Sale,1250000.0,6,6,3130,Jayden Tan
+Southbay Residence,Sale,1700000.0,5,6,3130,Jayden Tan
+Southbay Residence,Sale,2000000.0,6,6,3130,Jayden Tan
+Southbay Residence,Sale,1300000.0,6,6,3130,Jayden Tan
+Southbay Residence,Sale,1380000.0,6,6,3130,Jayden Tan
+Southbay Residence,Sale,1900000.0,5,5,3500,Jayden Tan
+Southbay Residence,Sale,1400000.0,6,6,3130,Jake Khoo
+Southbay Residence,Sale,1250000.0,6,6,3130,Jake Khoo
+Southbay Residence,Sale,2000000.0,6,6,3130,Jake Khoo
+Southbay Residence,Sale,1300000.0,6,6,3130,Jake Khoo
+Southbay Residence,Sale,1380000.0,6,6,3130,Jake Khoo
+Southbay Residence,Sale,1900000.0,5,5,3500,Jake Khoo
+Southbay Residence,Sale,1330000.0,6,6,3130,Edric Ong
+Southbay Residence,Sale,1900000.0,5,5,3500,John Lee
+Southbay Residence,Sale,1380000.0,6,6,3130,John Lee
+Southbay Residence,Sale,2000000.0,6,6,3130,John Lee
+Southbay Residence,Sale,1300000.0,6,6,3130,John Lee
+Southbay Residence,Sale,1800000.0,6,6,3430,Amanda Lam
+Southbay Residence,Sale,1180000.0,6,6,3129,Amanda Lam
+Southbay Residence,Sale,1150000.0,6,6,3130,Alex Cheah
+Southbay Residence,Sale,1900000.0,6,6,3413,Alex Cheah
+Southbay Residence,Sale,1800000.0,5,5,3240,Amanda Lam
+Southbay Residence,Sale,1250000.0,6,6,3129,Mark Goh
+Southbay Residence,Sale,1250000.0,6,6,3100,Eric Cheang
+Southbay Residence,Sale,1180000.0,6,6,3130,Kevin Lim
+Southbay Residence,Sale,1200000.0,6,6,3130,Andy Lee
+Southbay Residence,Sale,1200000.0,6,6,3130,Alisson Chew
+Southbay Residence,Sale,1200000.0,6,6,3130,Andy Lee
+Southbay Residence,Sale,1150000.0,6,6,3130,Alex Cheah
+Southbay Residence,Sale,1900000.0,6,6,3413,Alex Cheah
+Southbay Residence,Sale,1180000.0,6,6,3130,CK Goh
+Southbay Residence,Sale,1200000.0,6,6,3130,Andy Lee
+Southbay Residence,Sale,1900000.0,6,6,3130,Brian Ooi
+Southbay Residence,Sale,1700000.0,6,6,3130,Calvin Yeoh
+Southbay Residence,Sale,1250000.0,6,6,3130,Christine Lim
+Southbay Residence,Sale,1200000.0,6,6,3130,Andy Lee
+Southbay Residence,Sale,1840000.0,6,6,3300,OK Cheah
+Southbay Residence,Sale,1380000.0,6,6,3130,John Lee
+Southbay Residence,Sale,1300000.0,6,6,3130,John Lee
+Southbay Residence,Sale,2000000.0,6,6,3130,John Lee
+Southbay Residence,Sale,1900000.0,5,5,3500,John Lee
+Southbay Residence,Sale,1200000.0,6,6,3130,Andy Lee
+Southbay Residence,Sale,1200000.0,6,6,3130,Millie Chew
+Southbay Residence,Sale,1250000.0,5,5,3129,Dylan Lee
+Southbay Residence,Sale,1350000.0,6,6,3130,Brian Ooi
+Southbay Residence,Sale,1180000.0,6,6,3129,Mark Goh
+Southbay Residence,Sale,1800000.0,6,6,3129,Zhonl Saw Boon Loong
+Southbay Residence,Sale,1700000.0,6,6,3400,Zhonl Saw Boon Loong
+Southbay Residence,Sale,1680000.0,6,6,3129,Zhonl Saw Boon Loong
+Southbay Residence,Sale,1250000.0,6,6,3129,Zhonl Saw Boon Loong
+Southbay Residence,Sale,1300000.0,6,6,3130,Zhonl Saw Boon Loong
+Southbay Residence,Sale,1300000.0,6,6,3120,Zhonl Saw Boon Loong
+Southbay Residence,Sale,1350000.0,6,6,3129,Zhonl Saw Boon Loong
+Southbay Residence,Sale,1200000.0,6,6,3130,Andy Lee
+Southbay Residence,Sale,1380000.0,6,6,3130,John Lee
+Southbay Residence,Sale,1300000.0,6,6,3130,John Lee
+Southbay Residence,Sale,2000000.0,6,6,3130,John Lee
+Southbay Residence,Sale,1198000.0,6,6,3100,Alisson Chew
+Southbay Residence,Sale,1200000.0,6,6,3130,Andy Lee
+Southbay Residence,Sale,1320000.0,6,6,3130,Pen Teo
+Southbay Residence,Sale,1250000.0,6,6,3129,Christine Lim
+Southbay Residence,Sale,1300000.0,6,6,3130,Sam Khoo
+Southbay Residence,Sale,1320000.0,6,6,3130,Jason Lim
+Southbay Residence,Sale,1700000.0,6,6,3130,Calvin Yeoh
+Southbay Residence,Sale,1380000.0,6,6,3130,John Lee
+Southbay Residence,Sale,1300000.0,6,6,3130,John Lee
+Southbay Residence,Sale,2000000.0,6,6,3130,John Lee
+Southbay Residence,Sale,1900000.0,5,5,3500,John Lee
+Southbay Residence,Sale,1250000.0,5,4,3130,Mocole Lee
+Southbay Residence,Sale,1160000.0,6,6,3130,Kenny Ooi
+Southbay Residence,Sale,1250000.0,6,6,3130,Yonii Tan
+Southbay Residence,Sale,1700000.0,6,6,3130,Calvin Yeoh
+Southbay Residence,Sale,1700000.0,5,5,3130,Allen Yeoh
+Southbay Residence,Sale,1200000.0,3,2,3130,Alisson Chew
+Southbay Residence,Sale,1980000.0,6,6,3132,Swee Xiong
+Southbay Residence,Sale,1750000.0,6,6,3413,Swee Xiong
+Southbay Residence,Sale,1380000.0,6,6,3130,Swee Xiong
+Southbay Residence,Sale,1200000.0,6,6,3129,Swee Xiong
+Southbay Residence,Sale,1980000.0,6,6,3413,Swee Xiong
+Southbay Residence,Sale,1300000.0,6,6,3120,Swee Xiong
+Southbay Residence,Sale,1780000.0,6,6,3413,Swee Xiong
+Southbay Residence,Sale,1299999.0,6,6,3130,Jerry Khee
+Southbay Residence,Sale,1680000.0,6,6,3130,Calvin Yeoh
+Southbay Residence,Sale,1180000.0,6,6,3130,Kevin Lim
+Southbay Residence,Sale,1750000.0,6,6,3129,Grace Wong
+Southbay Residence,Sale,1980000.0,5,6,3130,Kevin Lim
+Southbay Residence,Sale,1180000.0,6,6,3130,Kevin Lim
+Southbay Residence,Sale,1840000.0,6,6,3414,OK Cheah
+Southbay Residence,Sale,1980000.0,5,6,3130,Renee Goh
+Southbay Residence,Sale,1320000.0,6,6,3130,Leong .
+Southbay Residence,Sale,1580000.0,5,6,3130,Serena Neoh
+Southbay Residence,Sale,1290000.0,6,5,3130,Rex Tung
+Southbay Residence,Sale,1180000.0,6,6,3130,Kevin Lim
+Southbay Residence,Sale,1300000.0,6,6,3130,Nigel Cheon
+Southbay Residence,Sale,1290000.0,6,5,3130,Tavyi Poh
+Southbay Residence,Sale,1180000.0,6,6,3130,Kevin Lim
+Southbay Residence,Sale,1180000.0,6,6,3130,Kevin Lim
+Southbay Residence,Sale,1380000.0,6,6,3130,John Lee
+Southbay Residence,Sale,1900000.0,5,5,3500,John Lee
+Southbay Residence,Sale,1300000.0,6,6,3130,John Lee
+Southbay Residence,Sale,2000000.0,6,6,3130,John Lee
+Southbay Residence,Sale,1180000.0,6,6,3130,Kevin Lim
+Southbay Residence,Sale,1180000.0,6,6,3129,Zhonl Saw Boon Loong
+Southbay Residence,Rent,3000.0,3,3,1800,Jake Khoo
+Southbay Residence,Rent,3000.0,5,5,3130,Amanda Lam
+Southbay Residence,Rent,2800.0,6,6,3130,Edric Ong
+Southbay Residence,Rent,2800.0,6,6,3130,Xinnee .
+Southbay Residence,Rent,3900.0,6,6,3130,CK Goh
+Southbay Residence,Rent,2500.0,3,3,1400,Kaze Kang
+Southbay Residence,Rent,4000.0,6,6,3130,John Lee
+Southbay Residence,Rent,4000.0,6,6,3130,John Lee
+Southbay Residence,Rent,4000.0,5,6,3130,Kevin Lim
+Southbay Residence,Rent,4000.0,5,6,3130,Renee Goh
+Southbay Residence,Rent,3000.0,3,3,1430,Jovin Lim
+Southbay Residence,Rent,2100.0,6,6,3130,Xinnee .
+Southbay Residence,Rent,3500.0,6,6,3413,Xinnee .
+Southbay Residence,Rent,2000.0,2,2,1200,Ethen Tan
+Southbay Residence,Rent,2100.0,3,3,1400,Shirley Beh
+Southbay Residence,Rent,1800.0,2,2,1087,Kaze Kang
+Southbay Residence,Rent,2500.0,6,6,3129,Billy Ooi
+"Krystal Court, Sungai Nibong",Sale,988000.0,4,3,1800,Evelyn Cheah
+Alma @ Tropicale Residency,Sale,589000.0,4,3,1600,Jayden Tan
+Alma @ Tropicale Residency,Sale,648000.0,4,4,1460,Jinelle Ong
+Alma @ Tropicale Residency,Sale,648000.0,4,3,2680,Calvin .
+Alma @ Tropicale Residency,Sale,648000.0,4,3,1600,Chris Huah
+Alma @ Tropicale Residency,Sale,648000.0,4,3,1600,Seah Kok Leong
+Alma @ Tropicale Residency,Sale,818000.0,7,4,2400,Cayden Choong
+Alma @ Tropicale Residency,Sale,588000.0,4,3,1600,Edwin Ng
+Alma @ Tropicale Residency,Sale,668000.0,4,3,1600,Ellyn Tee
+Alma @ Tropicale Residency,Sale,648000.0,4,3,1600,Edwin Ng
+Alma @ Tropicale Residency,Sale,648000.0,4,3,1600,Ansel Tan
+Alma @ Tropicale Residency,Sale,650000.0,4,3,1700,Moko Ong
+Alma @ Tropicale Residency,Sale,648000.0,4,3,1598,Lily Ong
+Alma @ Tropicale Residency,Sale,900000.0,4,3,2625,Chii Lee
+Alma @ Tropicale Residency,Sale,589000.0,4,3,1600,Grace Sim
+Alma @ Tropicale Residency,Sale,11325600.0,1,1,174240,Lissa Ooi
+Alma @ Tropicale Residency,Sale,668000.0,4,3,1600,Lynda Tai
+Alma @ Tropicale Residency,Sale,589000.0,4,3,1600,Jovine Ng
+Alma @ Tropicale Residency,Sale,589000.0,4,3,1600,Grace Sim
+Alma @ Tropicale Residency,Rent,2500.0,7,4,880,Eric Tan
+Alma @ Tropicale Residency,Rent,1600.0,4,3,2358,Chii Lee
+Palm Villas,Sale,938000.0,5,4,3000,Jenny Ong
+Palm Villas,Sale,1050000.0,5,4,2900,Daryl Goh
+Palm Villas,Sale,935000.0,5,4,3150,Amanda Lam
+Palm Villas,Sale,925000.0,5,5,2900,Esther Yeh
+Palm Villas,Sale,968000.0,5,4,3200,Hugo Hooi
+Palm Villas,Sale,935000.0,5,4,2900,Leesa Cheah
+Palm Villas,Sale,435000.0,3,2,1190,Terrence Wan
+Palm Villas,Sale,925000.0,5,4,2868,David Ang
+Palm Villas,Rent,3500.0,5,4,3000,Amanda Lam
+Sathu Terraces,Sale,1980000.0,4,4,3407,Jacyntha Lee
+Sathu Terraces,Sale,1900000.0,4,4,2756,Jacyntha Lee
+Sathu Terraces,Sale,2000000.0,4,4,2756,Jake Khoo
+Sathu Terraces,Sale,1400000.0,4,4,2756,Jake Khoo
+Sathu Terraces,Sale,1400000.0,4,4,2360,LH Tan
+Sathu Terraces,Sale,2000000.0,4,4,2360,Amanda Lam
+Sathu Terraces,Sale,1500000.0,4,4,2360,Amanda Lam
+Sathu Terraces,Sale,1900000.0,4,4,2780,Amanda Lam
+Sathu Terraces,Sale,1450000.0,4,4,2360,Mike Kheoh
+Sathu Terraces,Sale,1900000.0,4,3,1378,Fennie Seow
+Sathu Terraces,Sale,1600000.0,5,4,3000,Png Lee Peng
+Sathu Terraces,Sale,1400000.0,4,4,2360,Warren Yong
+Sathu Terraces,Sale,1450000.0,4,4,2360,Brian Ooi
+Sathu Terraces,Sale,1600000.0,4,8,2360,Calvin Yeoh
+Sathu Terraces,Sale,1500000.0,4,4,2360,Calvin Yeoh
+Sathu Terraces,Sale,1400000.0,4,4,2360,Warren Yong
+Sathu Terraces,Sale,1400000.0,4,4,2360,Max Tay
+Sathu Terraces,Sale,1600000.0,5,4,3000,Ivan Chia
+Sathu Terraces,Sale,2200000.0,4,3,2780,Ivan Chia
+Sathu Terraces,Sale,1450000.0,4,4,2360,Ethen Tan
+Sathu Terraces,Sale,1500000.0,4,4,2360,Calvin Yeoh
+Sathu Terraces,Sale,1400000.0,4,4,2360,Zhonl Saw Boon Loong
+Sathu Terraces,Sale,1400000.0,4,4,2360,Mike Kheoh
+Sathu Terraces,Sale,1900000.0,5,3,2756,Zhonl Saw Boon Loong
+Sathu Terraces,Sale,1900000.0,5,4,2650,Joyce Chin
+Sathu Terraces,Sale,1450000.0,4,4,2360,Adrian Choo
+Sathu Terraces,Sale,2200000.0,4,4,2160,Brian Ooi
+Sathu Terraces,Sale,1600000.0,5,4,3000,Zhonl Saw Boon Loong
+Sathu Terraces,Sale,1980000.0,4,4,2780,Zhonl Saw Boon Loong
+Sathu Terraces,Sale,1450000.0,4,4,2360,Zhonl Saw Boon Loong
+Sathu Terraces,Sale,1900000.0,5,3,2518,Max Tay
+Sathu Terraces,Sale,1900000.0,5,3,2576,Max Tay
+Sathu Terraces,Sale,1900000.0,5,3,2756,Max Tay
+Sathu Terraces,Sale,1600000.0,5,4,3000,Png Lee Peng
+Sathu Terraces,Sale,1600000.0,4,8,2360,Calvin Yeoh
+Sathu Terraces,Sale,1500000.0,4,4,2360,Calvin Yeoh
+Sathu Terraces,Sale,1400000.0,4,4,2360,Alex Cheah
+Sathu Terraces,Sale,1600000.0,4,4,3000,Siang .
+Sathu Terraces,Sale,1600000.0,4,8,2360,Calvin Yeoh
+Sathu Terraces,Sale,1500000.0,4,4,2360,Calvin Yeoh
+Sathu Terraces,Sale,1450000.0,4,4,2360,Zhonl Saw Boon Loong
+Sathu Terraces,Sale,1450000.0,4,4,2360,King Lau
+Sathu Terraces,Sale,1600000.0,4,4,3000,Siang .
+Sathu Terraces,Sale,1500000.0,4,4,1650,Allison Ang
+Sathu Terraces,Sale,1600000.0,4,8,2360,Calvin Yeoh
+Sathu Terraces,Sale,1450000.0,4,4,2360,Calvin Yeoh
+Sathu Terraces,Sale,1450000.0,4,4,2360,Chris Teoh
+Sathu Terraces,Sale,1600000.0,5,4,3000,Max Tay
+Sathu Terraces,Sale,1600000.0,4,4,3000,Siang .
+Sathu Terraces,Sale,1400000.0,4,4,2360,Zhonl Saw Boon Loong
+Sathu Terraces,Sale,1600000.0,4,8,2360,Calvin Yeoh
+Sathu Terraces,Sale,1450000.0,4,4,2360,Calvin Yeoh
+Sathu Terraces,Sale,1500000.0,4,4,2450,Loh CL
+Sathu Terraces,Sale,1600000.0,4,8,2360,Calvin Yeoh
+Sathu Terraces,Sale,1450000.0,4,4,2360,Calvin Yeoh
+Sathu Terraces,Sale,1900000.0,6,4,2700,Ivan Chia
+Sathu Terraces,Sale,1450000.0,4,3,2360,Ivan Chia
+Sathu Terraces,Sale,1500000.0,4,4,2360,Zhonl Saw Boon Loong
+Sathu Terraces,Sale,1980000.0,4,4,2400,Jacyntha Lee
+Sathu Terraces,Sale,1980000.0,4,4,2400,Jacyntha Lee
+Sathu Terraces,Sale,1450000.0,4,4,2360,Heanry Lim
+Sathu Terraces,Sale,1500000.0,4,4,2360,Zhonl Saw Boon Loong
+Sathu Terraces,Sale,1400000.0,4,4,1760,Selina Khoo
+Sathu Terraces,Rent,2200.0,4,4,2000,Rex Tung
+Sathu Terraces,Rent,2300.0,4,4,2350,June Chuah
+Sathu Terraces,Rent,2200.0,4,5,2230,Chris Ooi
+Sathu Terraces,Rent,2300.0,4,4,2360,Jin Lim
+Sathu Terraces,Rent,2500.0,4,3,1650,Ivan Chia
+Taman Kerjasama,Sale,567000.0,6,5,3174,Vallen Teo
+Taman Kerjasama,Sale,1200000.0,5,5,3829,Jocelyn Neoh
+Taman Kerjasama,Sale,340000.0,3,2,1540,Adeline Woon
+Taman Kerjasama,Sale,980000.0,4,3,2600,Chris Teoh
+Taman Kerjasama,Sale,368000.0,5,2,1540,Leng Dee
+Taman Kerjasama,Sale,340000.0,3,2,1540,Leng Dee
+Taman Kerjasama,Sale,630000.0,5,6,3174,Jason Tang
+Taman Kerjasama,Sale,980000.0,4,3,2600,Esther Yeh
+Taman Impian Ria,Sale,280000.0,3,2,1100,Grace Sim
+Taman Impian Ria,Sale,280000.0,3,2,800,Leesa Cheah
+Taman Impian Ria,Sale,290000.0,3,1,1300,Sunny Yang
+Taman Impian Ria,Sale,280000.0,3,2,1100,Grace Sim
+Taman Impian Ria,Sale,479000.0,4,3,1600,Shirley Ong
+Taman Impian Ria,Sale,280000.0,3,2,1100,Grace Sim
+Taman Impian Ria,Sale,380000.0,4,3,1466,Shan Yeow
+Taman Impian Ria,Sale,290000.0,3,2,1200,Sunny Yang
+Taman Impian Ria,Rent,600.0,Room,Room,500,Eric Lau Mun Chung
+Taman Impian Ria,Rent,1600.0,4,3,1300,Eric Lau Mun Chung
+Taman Sri Nibong,Sale,1130000.0,4,3,2000,George Er
+Taman Sri Nibong,Sale,1130000.0,4,3,2000,George Er
+Taman Sri Nibong,Sale,1050000.0,4,3,1800,Alex Cheah
+Taman Sri Nibong,Sale,1268000.0,4,3,1800,Alex Cheah
+Taman Sri Nibong,Sale,1350000.0,4,3,2000,Fennie Seow
+Taman Sri Nibong,Sale,1150000.0,4,3,1800,Zhonl Saw Boon Loong
+Taman Sri Nibong,Sale,399000.0,1,1,500,Patrick .
+Taman Sri Nibong,Sale,1290000.0,3,3,2300,Brian Ooi
+Taman Sri Nibong,Sale,1268000.0,4,3,1800,Alex Cheah
+Taman Sri Nibong,Sale,1050000.0,4,3,1800,Alex Cheah
+Taman Sri Nibong,Sale,1980000.0,5,3,2000,OK Cheah
+Taman Sri Nibong,Sale,1280000.0,3,3,2300,OK Cheah
+Taman Sri Nibong,Sale,2280000.0,4,3,2400,Calvin Yeoh
+Taman Sri Nibong,Sale,799000.0,3,2,1400,Rex Tung
+Taman Sri Nibong,Sale,948000.0,4,3,1800,Zhonl Saw Boon Loong
+Taman Sri Nibong,Sale,1000000.0,4,3,2000,Khor LH
+Taman Sri Nibong,Sale,850000.0,2,2,1000,Khor LH
+Taman Sri Nibong,Sale,2280000.0,4,3,2500,Khor LH
+Taman Sri Nibong,Sale,1200000.0,4,3,2000,David Lee
+Taman Sri Nibong,Sale,2280000.0,4,3,2400,Calvin Yeoh
+Taman Sri Nibong,Sale,798000.0,3,2,1100,Jaycus Tan
+Taman Sri Nibong,Sale,2280000.0,4,3,2400,Calvin Yeoh
+Taman Sri Nibong,Sale,1290000.0,4,3,2300,Ivan Chia
+Taman Sri Nibong,Sale,980000.0,4,3,1400,Ivan Chia
+Taman Sri Nibong,Sale,1350000.0,4,3,1540,Ivan Chia
+Taman Sri Nibong,Sale,950000.0,4,3,1400,Ivan Chia
+Taman Sri Nibong,Sale,1300000.0,4,3,2000,Ivan Chia
+Taman Sri Nibong,Sale,1050000.0,4,3,1400,Ivan Chia
+Taman Sri Nibong,Sale,800000.0,3,2,1400,Ivan Chia
+Taman Sri Nibong,Sale,2280000.0,4,3,2400,Calvin Yeoh
+Taman Sri Nibong,Sale,1268000.0,4,3,1800,Elynne Leong
+Taman Sri Nibong,Sale,1050000.0,4,3,1800,Elynne Leong
+Taman Sri Nibong,Sale,1200000.0,4,3,1800,Elynne Leong
+Taman Sri Nibong,Sale,808000.0,3,2,1000,Elynne Leong
+Taman Sri Nibong,Sale,1020000.0,4,4,2300,Elynne Leong
+Taman Sri Nibong,Sale,1350000.0,4,3,2000,Elynne Leong
+Taman Sri Nibong,Sale,1500000.0,4,3,2392,Elynne Leong
+Taman Sri Nibong,Sale,1050000.0,4,3,1800,Elynne Leong
+Taman Sri Nibong,Sale,1150000.0,5,3,2300,Elynne Leong
+Taman Sri Nibong,Sale,1150000.0,4,3,2000,Elynne Leong
+Taman Sri Nibong,Sale,1380000.0,4,3,1800,Elynne Leong
+Taman Sri Nibong,Sale,2280000.0,4,3,2600,Elynne Leong
+Taman Sri Nibong,Sale,780000.0,3,2,1000,Elynne Leong
+Taman Sri Nibong,Sale,1290000.0,3,3,2300,Moko Ong
+Taman Sri Nibong,Sale,2280000.0,4,3,2400,Calvin Yeoh
+Taman Sri Nibong,Sale,1150000.0,4,3,2000,Zhonl Saw Boon Loong
+Taman Sri Nibong,Sale,1050000.0,4,3,1800,Zhonl Saw Boon Loong
+Taman Sri Nibong,Sale,990000.0,4,2,2000,Tracy Tan
+Taman Sri Nibong,Sale,2280000.0,4,3,2400,Calvin Yeoh
+Taman Sri Nibong,Sale,948000.0,4,3,1800,Zhonl Saw Boon Loong
+Taman Sri Nibong,Sale,1000000.0,4,3,1900,Zhonl Saw Boon Loong
+Taman Sri Nibong,Sale,1290000.0,3,3,2300,Adrian Choo
+Taman Sri Nibong,Sale,1250000.0,5,3,2600,Siang .
+Taman Sri Nibong,Sale,1050000.0,4,3,1800,KL Ang
+Taman Sri Nibong,Sale,760000.0,3,2,1100,Jaycus Tan
+Taman Sri Nibong,Rent,2300.0,4,3,2000,Jin Lim
+Taman Sri Nibong,Rent,2300.0,4,3,1800,Ivan Chia
+Taman Sri Nibong,Rent,1100.0,3,2,900,Katherine Khoo
+Taman Sri Nibong,Rent,2000.0,4,3,2200,Nickson Oung
+Tree Residency,Sale,2300000.0,4,4,2860,Annie Oung
+Tree Residency,Sale,1430000.0,5,4,2360,Bryan Teng
+Tree Residency,Sale,2500000.0,4,3,2730,Jasmine Loo
+Tree Residency,Sale,1450000.0,4,4,2280,Zhonl Saw Boon Loong
+Tree Residency,Sale,1950000.0,5,4,3200,Amanda Lam
+Tree Residency,Sale,2200000.0,4,4,3005,Amanda Lam
+Tree Residency,Sale,2180000.0,4,4,3005,Amanda Lam
+Tree Residency,Sale,2100000.0,4,4,3005,Zhonl Saw Boon Loong
+Tree Residency,Sale,2000000.0,4,4,3005,Daniel Koay
+Tree Residency,Sale,2200000.0,5,4,2496,Hugo Hooi
+Tree Residency,Sale,2000000.0,4,4,3005,Calvin Yeoh
+Tree Residency,Sale,2100000.0,4,3,2730,Ivan Chia
+Tree Residency,Sale,2200000.0,4,3,4370,Ivan Chia
+Tree Residency,Sale,2200000.0,4,3,2800,Ivan Chia
+Tree Residency,Sale,1380000.0,4,4,2280,Matthew Low
+Tree Residency,Sale,1980000.0,4,4,3200,Dylan Lee
+Tree Residency,Sale,2400000.0,4,4,3005,Amanda Lam
+Tree Residency,Sale,2000000.0,4,4,3005,Calvin Yeoh
+Tree Residency,Sale,1980000.0,4,4,2600,Zhonl Saw Boon Loong
+Tree Residency,Sale,1500000.0,4,4,2280,Zhonl Saw Boon Loong
+Tree Residency,Sale,2000000.0,5,4,3000,Zhonl Saw Boon Loong
+Tree Residency,Sale,2000000.0,4,4,3005,Calvin Yeoh
+Tree Residency,Sale,2000000.0,4,4,3005,Calvin Yeoh
+Tree Residency,Sale,2000000.0,4,4,3005,Calvin Yeoh
+Tree Residency,Sale,2000000.0,4,4,2700,Elaine Ooi
+Tree Residency,Sale,2200000.0,5,4,2880,Zhonl Saw Boon Loong
+Tree Residency,Sale,2450000.0,6,4,3744,Zhonl Saw Boon Loong
+Tree Residency,Sale,1980000.0,4,4,3000,Calvin Yeoh
+Tree Residency,Sale,2000000.0,4,4,3005,Calvin Yeoh
+Tree Residency,Sale,1980000.0,4,4,3000,Calvin Yeoh
+Tree Residency,Sale,2100000.0,5,4,2840,Max Tay
+Tree Residency,Sale,2200000.0,4,4,2600,Max Tay
+Tree Residency,Sale,2600000.0,4,4,3744,Max Tay
+Tree Residency,Sale,1980000.0,5,4,2400,Max Tay
+Tree Residency,Sale,2000000.0,4,4,3005,Calvin Yeoh
+Tree Residency,Sale,2000000.0,4,4,3005,Jacyntha Lee
+Tree Residency,Sale,2400005.0,4,5,2800,Welson Teh
+Tree Residency,Sale,1980000.0,5,4,3000,Alex Cheah
+Tree Residency,Sale,1450000.0,4,4,3000,Alex Cheah
+Tree Residency,Sale,1980000.0,5,4,3000,Zhonl Saw Boon Loong
+Tree Residency,Sale,2400000.0,4,4,3005,Alison Chng
+Tree Residency,Sale,1600000.0,5,4,2435,Ryan Loh
+Tree Residency,Sale,2150000.0,4,4,3000,Tavyi Poh
+Tree Residency,Sale,2180000.0,5,4,2860,Jacyntha Lee
+Tree Residency,Rent,3000.0,4,4,2200,Amanda Lam
+Tree Residency,Rent,2400.0,4,4,2400,Poey Eugene
+Tree Residency,Rent,2400.0,4,4,1540,Xinnee .
+Tree Residency,Rent,2400.0,4,4,2400,CK Goh
+Tree Residency,Rent,2500.0,4,3,1540,Ivan Chia
+Tree Residency,Rent,2500.0,4,4,1100,Xinnee .
+Alila Homes,Sale,1260000.0,4,4,2400,Devlin Lim
+Alila Homes,Sale,1290000.0,4,4,2378,Devlin Lim
+Alila Homes,Sale,1150000.0,4,4,2430,Pei Hoon
+Alila Homes,Sale,1280000.0,4,4,2400,Chris Ooi
+Alila Homes,Sale,1320000.0,4,4,2378,Esther Chu
+Alila Homes,Sale,1200000.0,4,4,2200,Eric Cheang
+Alila Homes,Sale,760000.0,3,2,1200,CY Ong
+Alila Homes,Sale,1350000.0,4,3,2400,Sunny Lai
+Alila Homes,Sale,1260000.0,4,3,2400,Sunny Lai
+Alila Homes,Sale,1260000.0,4,4,2400,Katherine Khoo
+Alila Homes,Sale,1260000.0,4,4,2200,Vivien Cheah
+Alila Homes,Sale,1100000.0,4,4,2400,Alex Cheah
+Alila Homes,Sale,1250000.0,6,4,3000,Joan .
+Alila Homes,Sale,1290000.0,4,4,2378,WK Yam
+Alila Homes,Sale,1250000.0,4,4,2400,Danick Teoh
+Alila Homes,Sale,1280000.0,4,4,2400,Danick Teoh
+Alila Homes,Sale,795000.0,3,2,1200,A Ee Ee
+Alila Homes,Sale,1200000.0,4,5,2400,Marcus Phuah
+Alila Homes,Sale,1280000.0,4,3,2400,Annie Oung
+Alila Homes,Sale,800000.0,3,2,1162,Alisson Chew
+Alila Homes,Sale,780000.0,3,2,1400,Andrew Chong
+Alila Homes,Sale,1100000.0,5,4,2400,Eric Cheang
+Alila Homes,Sale,1080000.0,4,4,2218,Dave Soon
+Alila Homes,Sale,1380000.0,4,4,3594,Serena Tan
+Alila Homes,Sale,1100000.0,4,4,2000,Daniel Teoh
+Alila Homes,Sale,1250000.0,5,5,2400,Daniel Teoh
+Alila Homes,Sale,1300000.0,4,4,2400,Desmond .
+Alila Homes,Sale,1200000.0,4,4,2200,Dominic Ong
+Alila Homes,Sale,1300000.0,4,4,2300,May Chiam Khooi Bee
+Alila Homes,Sale,1260000.0,5,4,1998,Eugene Lee
+Alila Homes,Sale,1500000.0,4,4,2100,Eugene Lee
+Alila Homes,Sale,1260000.0,4,4,2400,Rowney Ooi
+Alila Homes,Sale,1150000.0,4,5,2217,Bill Teh
+Alila Homes,Sale,1280000.0,4,4,2378,Jeffrey Yeoh
+Alila Homes,Rent,3200.0,4,4,2500,Rex Tung
+Alila Homes,Rent,3100.0,4,4,2400,May Chiam Khooi Bee
+Alila Homes,Rent,3100.0,4,4,2378,Devlin Lim
+Alila Homes,Rent,2700.0,4,3,2400,Devlin Lim
+Alila Homes,Rent,2600.0,5,4,2300,CY Ong
+Alila Homes,Rent,3000.0,4,4,2500,Rex Tung
+Alila Homes,Rent,3000.0,4,4,2400,Kevin Lim
+Alila Homes,Rent,2500.0,4,4,2400,Dave Soon
+Alila Homes,Rent,2800.0,4,4,2378,Esther Chu
+Alila Homes,Rent,2700.0,4,3,2400,Sunny Lai
+Alila Homes,Rent,3100.0,4,4,2378,WK Yam
+Alila Homes,Rent,3000.0,5,4,2400,Desmond .
+Alila Homes,Rent,2000.0,2,2,1100,Damien L
+Alila Homes,Rent,3000.0,4,4,2550,Rex Tung
+Alila Homes,Rent,3800.0,5,4,3300,Irene Tang
+Alila Homes,Rent,2950.0,4,4,2400,Daniel Teoh
+Alila Homes,Rent,2900.0,4,5,2800,Daniel Teoh
+Alila Homes,Rent,2900.0,4,3,2378,Katherine Khoo
+Alila Homes,Rent,3050.0,4,4,2400,Desmond .
+Alila Homes,Rent,2800.0,4,4,2400,Andrew Chong
+Alila Homes,Rent,3100.0,4,4,2400,Andrew Chong
+Alila Homes,Rent,2800.0,4,4,2400,Andrew Chong
+Alila Homes,Rent,2900.0,4,4,2400,Jenny Leong
+Camdon @ Eco Horizon,Sale,,3,2,904,Eco Horizon Sdn Bhd
+Camdon @ Eco Horizon,Sale,988000.0,4,4,2379,Mike Kheoh
+Camdon @ Eco Horizon,Sale,1200000.0,4,4,2422,Edwin Ng
+Camdon @ Eco Horizon,Sale,880000.0,4,4,2290,Mohd Farhan
+Camdon @ Eco Horizon,Sale,1150000.0,5,5,2775,Irene Goh
+Camdon @ Eco Horizon,Sale,980000.0,5,5,2540,Irene Goh
+Camdon @ Eco Horizon,Rent,2500.0,4,4,2540,Esther Goh
+Camdon @ Eco Horizon,Rent,3000.0,4,4,2329,Aaron Quah
+Camdon @ Eco Horizon,Rent,2000.0,4,4,2200,Low Wei Heng
+Camdon @ Eco Horizon,Rent,3000.0,4,4,2331,Lewis Beh
+Camdon @ Eco Horizon,Rent,1900.0,4,4,2329,Ertmen Ho
+Camdon @ Eco Horizon,Rent,3200.0,4,4,2290,Aaron Gho
+Camdon @ Eco Horizon,Rent,3300.0,4,4,2329,Bryan Heng
+Eco Meadows – Northampton Terraces,Sale,1100000.0,4,4,1540,WK Yam
+Eco Meadows – Northampton Terraces,Sale,940000.0,4,3,2200,Jonathan Chng
+Eco Meadows – Northampton Terraces,Sale,1100000.0,5,3,1680,Jonathan Chng
+Eco Meadows – Northampton Terraces,Sale,835000.0,4,3,2100,Chii Lee
+Eco Meadows – Northampton Terraces,Sale,685000.0,4,3,1800,Jayden Tan
+Eco Meadows – Northampton Terraces,Sale,680000.0,4,3,1800,Jayden Tan
+Eco Meadows – Northampton Terraces,Sale,950000.0,4,4,1800,Jayden Tan
+Eco Meadows – Northampton Terraces,Sale,720000.0,4,3,1800,Jayden Tan
+Eco Meadows – Northampton Terraces,Sale,788000.0,4,4,2206,Jayden Tan
+Eco Meadows – Northampton Terraces,Sale,938000.0,4,4,2206,Jayden Tan
+Eco Meadows – Northampton Terraces,Sale,900000.0,4,3,2555,Louis Cheah
+Eco Meadows – Northampton Terraces,Sale,788000.0,4,4,1540,WK Yam
+Eco Meadows – Northampton Terraces,Sale,899000.0,4,4,1540,WK Yam
+Eco Meadows – Northampton Terraces,Sale,1350000.0,4,3,1680,Moko Ong
+Eco Meadows – Northampton Terraces,Sale,900000.0,4,4,1540,Jason Phoon
+Eco Meadows – Northampton Terraces,Sale,940000.0,4,3,2206,Frankie Tan
+Eco Meadows – Northampton Terraces,Sale,940000.0,4,3,3080,Jocelyn Neoh
+Eco Meadows – Northampton Terraces,Sale,930000.0,4,3,1800,Bryan Teng
+Eco Meadows – Northampton Terraces,Sale,899000.0,4,4,2006,Roy Kuak
+Eco Meadows – Northampton Terraces,Sale,1300000.0,4,3,2006,Roy Kuak
+Eco Meadows – Northampton Terraces,Sale,768000.0,4,4,2200,Anders Ong
+Eco Meadows – Northampton Terraces,Sale,660000.0,4,3,2000,Anders Ong
+Eco Meadows – Northampton Terraces,Sale,700000.0,4,3,2000,Anders Ong
+Eco Meadows – Northampton Terraces,Sale,858000.0,4,3,2000,Anders Ong
+Eco Meadows – Northampton Terraces,Sale,690000.0,4,3,2000,Roy Kuak
+Eco Meadows – Northampton Terraces,Sale,1100000.0,4,4,1540,WK Yam
+Eco Meadows – Northampton Terraces,Sale,788000.0,4,4,2206,Roy Kuak
+Eco Meadows – Northampton Terraces,Sale,980000.0,4,3,1400,WK Yam
+Eco Meadows – Northampton Terraces,Sale,1350000.0,4,3,1680,WK Yam
+Eco Meadows – Northampton Terraces,Sale,710000.0,4,3,1400,WK Yam
+Eco Meadows – Northampton Terraces,Sale,900000.0,4,3,1680,WK Yam
+Eco Meadows – Northampton Terraces,Sale,880000.0,4,3,1400,WK Yam
+Eco Meadows – Northampton Terraces,Sale,785000.0,4,3,2400,WK Yam
+Eco Meadows – Northampton Terraces,Sale,940000.0,4,4,2100,Issac .
+Eco Meadows – Northampton Terraces,Sale,699000.0,4,3,2026,Chris Huah
+Eco Meadows – Northampton Terraces,Rent,2600.0,4,3,1800,Jayden Tan
+Eco Meadows – Northampton Terraces,Rent,2900.0,4,3,1800,Jayden Tan
+Eco Meadows – Northampton Terraces,Rent,2000.0,4,4,2100,CK Goh
+Eco Meadows – Northampton Terraces,Rent,2200.0,4,3,1400,WK Yam
+Eco Meadows – Northampton Terraces,Rent,2200.0,4,3,2000,Anders Ong
+Eco Meadows – Northampton Terraces,Rent,1500.0,4,4,2206,Roy Kuak
+Eco Meadows – Northampton Terraces,Rent,2600.0,4,3,1400,Sunny Yang
+Eco Meadows – Northampton Terraces,Rent,2800.0,4,3,1400,Lucas Tan
+Eco Meadows – Northampton Terraces,Rent,2500.0,4,3,2000,Anders Ong
+Eco Meadows – Northampton Terraces,Rent,2200.0,4,3,1400,Bryan Teng
+Eco Meadows – Northampton Terraces,Rent,2000.0,4,3,1680,WK Yam
+Eco Meadows – Northampton Terraces,Rent,2500.0,4,3,2200,WK Yam
+Eco Meadows – Northampton Terraces,Rent,2500.0,4,3,1400,Elson Dee
+Eco Meadows – Northampton Terraces,Rent,2800.0,4,3,1600,Shirley Ong
+Pearl Tropika @ Pearl City,Sale,530000.0,4,3,1600,Chii Lee
+Pearl Tropika @ Pearl City,Sale,668000.0,4,3,1600,Cayden Choong
+Pearl Tropika @ Pearl City,Sale,620000.0,5,4,1980,SS Ong
+Pearl Tropika @ Pearl City,Sale,620000.0,4,3,1980,Shan Yeow
+Ideal Haus,Sale,1800000.0,4,4,2863,Zhonl Saw Boon Loong
+Ideal Haus,Sale,800000.0,3,2,1000,LH Tan
+Ideal Haus,Sale,1500000.0,4,4,1540,Erin Anuar
+Ideal Haus,Sale,1800000.0,4,4,2863,Jacyntha Lee
+Ideal Haus,Sale,1200000.0,4,4,2280,Zhonl Saw Boon Loong
+Ideal Haus,Sale,1800000.0,4,4,2863,Jacyntha Lee
+Ideal Haus,Rent,2800.0,4,3,2280,Matthew Low
+Ideal Haus,Rent,3500.0,4,3,2280,Matthew Low
+Taman Impian,Sale,330000.0,3,2,1000,Chii Lee
+Taman Impian,Sale,510000.0,4,3,2400,Chii Lee
+Taman Impian,Sale,430000.0,4,3,1800,Grace Sim
+Taman Impian,Sale,430000.0,4,3,1600,Lily Ong
+Casa Permai 1,Sale,1800000.0,4,3,2000,Anna Koay
+Casa Permai 1,Sale,1400000.0,5,4,3000,Elynne Leong
+Casa Permai 1,Rent,3300.0,3,3,2233,Minggie .
+Casa Permai 1,Rent,3500.0,4,3,2500,Alisson Chew
+Casa Permai 1,Rent,3300.0,3,3,2233,Minggie .
+Casa Permai 1,Rent,3300.0,3,3,2500,Danick Teoh
+Casa Permai 1,Rent,3300.0,4,3,2203,Andrew Chong
+Casa Permai 1,Rent,3300.0,3,3,2233,Minggie .
+Casa Permai 1,Rent,3300.0,3,3,2233,Minggie .
+Casa Permai 1,Rent,3300.0,3,3,2233,Minggie .
+Casa Permai 1,Rent,3300.0,3,3,3000,Nick Lim
+Casa Permai 1,Rent,3300.0,3,3,2233,Minggie .
+Casa Permai 1,Rent,3300.0,5,4,2223,Jacky Yeoh
+Casa Permai 1,Rent,3300.0,3,3,2233,Minggie .
+Casa Permai 1,Rent,3300.0,3,3,2233,Minggie .
+Casa Permai 1,Rent,3300.0,3,3,2233,Minggie .
+Casa Permai 1,Rent,3300.0,5,3,2233,Minggie .
+Taman Bukit Juru,Sale,950000.0,4,4,1850,Lynda Tai
+Taman Bukit Juru,Sale,747000.0,5,3,5579,Vallen Teo
+Taman Bukit Juru,Sale,730000.0,5,4,3015,Frankie Tan
+Taman Bukit Juru,Sale,550000.0,4,3,1800,Lynda Tai
+Taman Bukit Juru,Sale,560000.0,4,3,1600,Serene Ng
+Taman Bukit Juru,Sale,570000.0,4,3,1600,Esther Yeh
+Taman Bukit Juru,Sale,570000.0,4,3,1600,Esther Yeh
+Taman Bukit Juru,Rent,5000.0,5,6,7300,June Goh
+Ariza Seri Tanjung Pinang,Sale,1820000.0,4,4,1920,Allen Ser
+Ariza Seri Tanjung Pinang,Sale,1950000.0,5,5,3400,Millie Chew
+Ariza Seri Tanjung Pinang,Sale,2250000.0,5,6,3200,Bill Teh
+Ariza Seri Tanjung Pinang,Sale,2490000.0,5,5,3500,Charles Chaw
+Ariza Seri Tanjung Pinang,Sale,3200000.0,5,6,4150,Bill Teh
+Ariza Seri Tanjung Pinang,Sale,2300000.0,5,5,3500,Elaine Yeoh
+Ariza Seri Tanjung Pinang,Sale,2200000.0,5,4,3300,Elaine Ooi
+Ariza Seri Tanjung Pinang,Sale,1950000.0,5,5,3400,Allen Ser
+Ariza Seri Tanjung Pinang,Sale,3750000.0,5,5,4000,Billy Teh
+Ariza Seri Tanjung Pinang,Sale,2450000.0,5,5,3450,Billy Teh
+Ariza Seri Tanjung Pinang,Sale,2100000.0,6,6,3340,Daniel Teoh
+Ariza Seri Tanjung Pinang,Sale,1940000.0,5,6,3340,Daniel Teoh
+Ariza Seri Tanjung Pinang,Sale,2490000.0,6,5,3340,Daniel Teoh
+Ariza Seri Tanjung Pinang,Sale,2200000.0,5,5,3200,Bill Teh
+Ariza Seri Tanjung Pinang,Sale,2490000.0,5,5,3488,Yihang Lim
+Ariza Seri Tanjung Pinang,Sale,1900000.0,5,4,3450,Kenneth Kung
+Ariza Seri Tanjung Pinang,Sale,2850000.0,5,5,3600,Jason Lim
+Ariza Seri Tanjung Pinang,Sale,1900000.0,5,4,3340,Elynne Leong
+Ariza Seri Tanjung Pinang,Sale,2200000.0,4,5,3340,Elynne Leong
+Ariza Seri Tanjung Pinang,Sale,2250000.0,5,4,3000,Dominic Ong
+Ariza Seri Tanjung Pinang,Sale,2450000.0,4,5,3781,Lilly .
+Ariza Seri Tanjung Pinang,Sale,2780000.0,6,5,4300,SH Lim
+Ariza Seri Tanjung Pinang,Sale,2000000.0,5,5,3400,Elaine Ooi
+Ariza Seri Tanjung Pinang,Rent,3200.0,5,5,3500,Camillus Chai
+Ariza Seri Tanjung Pinang,Rent,3200.0,5,4,3200,CY Ong
+Ariza Seri Tanjung Pinang,Rent,3200.0,5,5,3500,Gan Chun Kai
+Ariza Seri Tanjung Pinang,Rent,4000.0,4,4,3400,Lewis Kam
+Ariza Seri Tanjung Pinang,Rent,5600.0,5,5,3414,Irene Goh
+Ariza Seri Tanjung Pinang,Rent,4000.0,5,5,3280,Andrew Chong
+Ariza Seri Tanjung Pinang,Rent,4500.0,5,5,3200,Elaine Ooi
+Ariza Seri Tanjung Pinang,Rent,5500.0,5,6,3500,Dominic Ong
+Ariza Seri Tanjung Pinang,Rent,4000.0,5,5,3280,Andrew Chong
+Ariza Seri Tanjung Pinang,Rent,4500.0,5,5,3280,Andrew Chong
+Ariza Seri Tanjung Pinang,Rent,4000.0,5,5,3280,Andrew Chong
+Ariza Seri Tanjung Pinang,Rent,4500.0,5,6,3000,Mable Ong
+Ariza Seri Tanjung Pinang,Rent,3500.0,5,5,1920,Damien L
+Ariza Seri Tanjung Pinang,Rent,4500.0,5,5,2692,Shu Fen
+Ariza Seri Tanjung Pinang,Rent,3800.0,6,5,3200,Marc Lee
+Ariza Seri Tanjung Pinang,Rent,5200.0,5,5,3488,Yumi Ong
+Ariza Seri Tanjung Pinang,Rent,4200.0,6,6,3340,Daniel Teoh
