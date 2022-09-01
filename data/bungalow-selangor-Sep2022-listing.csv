@@ -1,110 +1,342 @@
 PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
-Bukit Gita Bayu,Sale,5000000.0,8,7,8500,Kelvin Chooi
-Bukit Gita Bayu,Sale,688000.0,3,3,1300,Veronica Ng
-Bukit Gita Bayu,Sale,1550000.0,5,5,3120,Veronica Ng
-Bukit Gita Bayu,Sale,3400000.0,7,7,6000,Veronica Ng
-Bukit Gita Bayu,Sale,770000.0,4,4,1300,Veronica Ng
-Bukit Gita Bayu,Sale,3600000.0,5,5,5500,Veronica Ng
-Bukit Gita Bayu,Sale,1950000.0,,,7800,Veronica Ng
-Bukit Gita Bayu,Sale,4680000.0,7,7,6600,Veronica Ng
-Bukit Gita Bayu,Sale,4500000.0,8,7,7000,Veronica Ng
-Bukit Gita Bayu,Sale,3980000.0,8,7,6600,Veronica Ng
-Bukit Gita Bayu,Sale,4680000.0,7,6,6600,Veronica Ng
-Bukit Gita Bayu,Sale,4300000.0,5,6,8500,Teresa Law
-Bukit Gita Bayu,Sale,8400000.0,6,10,12000,Alan Pang
-Bukit Gita Bayu,Sale,4300000.0,7,7,7200,Andi Tee
-Bukit Gita Bayu,Sale,1450000.0,5,5,3200,Jacklyn Bong
-Bukit Gita Bayu,Sale,4400000.0,6,6,7000,Veronica Ng
-Bukit Gita Bayu,Sale,8000000.0,9,9,12000,Veronica Ng
-Bukit Gita Bayu,Sale,5680000.0,8,8,8500,Veronica Ng
-Bukit Gita Bayu,Sale,4500000.0,6,6,7000,Veronica Ng
-Bukit Gita Bayu,Sale,3800000.0,6,5,6724,Fred Chai Meng Foong
-Bukit Gita Bayu,Sale,750000.0,3,3,1300,Shelley Ng
-Bukit Gita Bayu,Sale,4600000.0,7,7,7700,Andi Tee
-Bukit Gita Bayu,Sale,4500000.0,6,7,8000,Ismail Bin Mohamed
-Bukit Gita Bayu,Sale,5980000.0,7,7,8600,Elaine Ding
-Bukit Gita Bayu,Sale,4300000.0,5,5,7556,Teresa Law
-Bukit Gita Bayu,Sale,4500000.0,7,8,7000,Teresa Law
-Bukit Gita Bayu,Sale,1850000.0,8,5,4380,Teresa Law
-Bukit Gita Bayu,Sale,4300000.0,7,6,5500,Teresa Law
-Bukit Gita Bayu,Sale,3500000.0,7,6,6000,Teresa Law
-Bukit Gita Bayu,Sale,3490000.0,5,5,5656,Teresa Law
-Bukit Gita Bayu,Sale,2300000.0,7,5,3880,Teresa Law
-Bukit Gita Bayu,Sale,4500000.0,7,8,6000,Teresa Law
-Bukit Gita Bayu,Sale,4500000.0,6,5,5200,Teresa Law
-Bukit Gita Bayu,Sale,1750000.0,6,6,3950,Liew Heng
-Bukit Gita Bayu,Sale,2000000.0,5,5,3426,Justin Leong
-Bukit Gita Bayu,Sale,5300000.0,8,7,9500,Jeremy Tang
-Bukit Gita Bayu,Sale,990000.0,5,4,2450,Jason Siew
-Bukit Gita Bayu,Sale,8000000.0,9,10,12000,JJ Ooi
-Bukit Gita Bayu,Sale,4850000.0,6,7,7000,Aaron Wong
-Bukit Gita Bayu,Sale,3000000.0,6,5,5500,Elaine Ding
-Bukit Gita Bayu,Sale,2980000.0,4,4,4500,Elaine Ding
-Bukit Gita Bayu,Sale,5300000.0,8,7,8000,Andi Tee
-Bukit Gita Bayu,Sale,3800000.0,6,6,8500,Megan Lim
-Bukit Gita Bayu,Sale,4888888.0,6,7,7000,Ryan Teoh
-Bukit Gita Bayu,Sale,4100000.0,5,6,5000,Megan Lim
-Bukit Gita Bayu,Sale,4200000.0,6,6,5000,Megan Lim
-Bukit Gita Bayu,Sale,4200000.0,9,9,10000,Megan Lim
-Bukit Gita Bayu,Sale,4400000.0,6,7,8900,Megan Lim
-Bukit Gita Bayu,Sale,4900000.0,6,7,8000,ALI SYAREEZA
-Bukit Gita Bayu,Sale,3800000.0,5,6,8500,Irwin Goh
-Bukit Gita Bayu,Sale,2300000.0,8,6,3950,Allen Hon
-Bukit Gita Bayu,Sale,5300000.0,9,7,9500,Ryan Teoh
-Bukit Gita Bayu,Sale,5000000.0,6,7,11000,Chloe Seet
-Bukit Gita Bayu,Sale,6400000.0,5,7,8000,Chloe Seet
-Bukit Gita Bayu,Sale,5900000.0,9,7,8000,Chloe Seet
-Bukit Gita Bayu,Sale,4200000.0,9,6,7350,Victor Chin
-Bukit Gita Bayu,Sale,2000000.0,5,5,4090,Elaine Ding
-Bukit Gita Bayu,Sale,4200000.0,6,6,5622,Hugo Gooi
-Bukit Gita Bayu,Sale,1450000.0,5,5,3200,Jacklyn Bong
-Bukit Gita Bayu,Sale,1550000.0,5,5,3120,Veronica Ng
-Bukit Gita Bayu,Sale,3500000.0,4,4,5500,Fadzli Realtor
-Bukit Gita Bayu,Sale,2300000.0,8,6,3950,Swiss Tan
-Bukit Gita Bayu,Sale,4600000.0,5,7,7000,Sylvia Lim
-Bukit Gita Bayu,Sale,5300000.0,8,7,9500,Sylvia Lim
-Bukit Gita Bayu,Sale,4900000.0,6,7,8000,Mohd Azlan Shah
-Bukit Gita Bayu,Sale,5300000.0,9,7,9500,Mohd Azlan Shah
-Bukit Gita Bayu,Sale,4900000.0,6,7,8000,Iqbal Rafei
-Bukit Gita Bayu,Sale,8500000.0,6,6,12000,Eiden Yeong
-Bukit Gita Bayu,Sale,3500000.0,4,4,5500,Fadzli Realtor
-Bukit Gita Bayu,Sale,8000000.0,9,9,12000,Ivy Chong
-Bukit Gita Bayu,Sale,4650000.0,6,7,7000,Mohd Ikhwan Arbain
-Bukit Gita Bayu,Sale,4500000.0,6,6,6000,Teresa Law
-Bukit Gita Bayu,Sale,1800000.0,7,6,4300,Teresa Law
-Bukit Gita Bayu,Sale,1750000.0,4,5,3380,Teresa Law
-Bukit Gita Bayu,Sale,1750000.0,4,5,3400,Teresa Law
-Bukit Gita Bayu,Sale,1850000.0,8,5,4300,Teresa Law
-Bukit Gita Bayu,Sale,4700000.0,7,7,7309,Joyce Chan
-Bukit Gita Bayu,Sale,4700000.0,7,7,7309,David Tan
-Bukit Gita Bayu,Sale,5300000.0,8,7,8500,Allen Lim
-Bukit Gita Bayu,Sale,4500000.0,6,7,6600,Andi Tee
-Bukit Gita Bayu,Sale,4700000.0,7,7,7000,Andi Tee
-Bukit Gita Bayu,Sale,3500000.0,4,4,5500,Fadzli Realtor
-Bukit Gita Bayu,Sale,4500000.0,6,6,6724,Elaine Liang
-Bukit Gita Bayu,Sale,3800000.0,6,7,6724,Elaine Liang
-Bukit Gita Bayu,Sale,1450000.0,5,5,3200,Jacklyn Bong
-Bukit Gita Bayu,Sale,765000.0,3,2,1297,Tony Chee
-Bukit Gita Bayu,Sale,2300000.0,8,6,3950,Swiss Tan
-Bukit Gita Bayu,Rent,13500.0,6,6,7000,Veronica Ng
-Bukit Gita Bayu,Rent,4200.0,5,5,3200,Jacklyn Bong
-Bukit Gita Bayu,Rent,2500.0,3,3,1600,Irwin Goh
-Bukit Gita Bayu,Rent,2700.0,4,3,1500,Veronica Ng
-Bukit Gita Bayu,Rent,8500.0,8,8,8600,Irwin Goh
-Bukit Gita Bayu,Rent,6000.0,8,6,4300,Teresa Law
-Bukit Gita Bayu,Rent,9000.0,6,6,6000,Teresa Law
-Bukit Gita Bayu,Rent,4998.0,4,4,3200,Nicholas Lew
-Bukit Gita Bayu,Rent,5000.0,5,5,3426,Justin Leong
-Bukit Gita Bayu,Rent,5000.0,4,4,3800,Nicholas Lew
-Bukit Gita Bayu,Rent,4999.0,4,5,4000,Karl .
-Bukit Gita Bayu,Rent,5000.0,4,4,3200,Nicholas Lew
-Bukit Gita Bayu,Rent,5300.0,5,5,4090,Elaine Ding
-Bukit Gita Bayu,Rent,20000.0,8,8,8421,Hugo Gooi
-Bukit Gita Bayu,Rent,10000.0,6,6,5622,Hugo Gooi
-Bukit Gita Bayu,Rent,4200.0,5,5,3200,Jacklyn Bong
-Bukit Gita Bayu,Rent,10000.0,4,4,5622,Fadzli Realtor
-Bukit Gita Bayu,Rent,14000.0,6,6,6600,Elaine Ding
-Bukit Gita Bayu,Rent,9000.0,7,7,8600,John King
-Bukit Gita Bayu,Rent,15000.0,6,8,12600,Joyce Chan
-Bukit Gita Bayu,Rent,15000.0,6,8,12600,David Tan
-Bukit Gita Bayu,Rent,4200.0,5,5,3200,Jacklyn Bong
+Country Heights Kajang,Sale,8200000.0,10,8,22542.0,Kamsiah Ahmad
+Country Heights Kajang,Sale,1550000.0,4,4,2700.0,Nurul Nazuha Arrifin
+Country Heights Kajang,Sale,8200000.0,10,9,22542.0,AHMAD SYUKRI
+Country Heights Kajang,Sale,4090000.0,8,7,6392.0,Dhillon Tan
+Country Heights Kajang,Sale,5500000.0,7,8,5360.0,Fauzi Abdullah
+Country Heights Kajang,Sale,7500000.0,8,10,12000.0,Fauzi Abdullah
+Country Heights Kajang,Sale,5000000.0,7,8,8200.0,Fauzi Abdullah
+Country Heights Kajang,Sale,4200000.0,8,7,6392.0,Wai Mun
+Country Heights Kajang,Sale,9000000.0,9,9,19522.0,Nurul Hija Othman
+Country Heights Kajang,Sale,2000000.0,,,10161.0,Madhavan Nambiar
+Country Heights Kajang,Sale,17800000.0,8,8,20000.0,Madhavan Nambiar
+Country Heights Kajang,Sale,8200000.0,10,10,22542.0,Lutfi .
+Country Heights Kajang,Sale,3000000.0,6,7,11037.0,Stacy Young
+Country Heights Kajang,Sale,950000.0,,,6125.0,Stacy Young
+Country Heights Kajang,Sale,938000.0,,,6100.0,Hei Kar Jun
+Country Heights Kajang,Sale,4900000.0,9,8,11700.0,Hasfarizal Bin Abdul Halim
+Country Heights Kajang,Sale,480000.0,3,2,1450.0,Hudson Tan
+Country Heights Kajang,Sale,4499550.0,5,5,21345.0,Alan Ho
+Country Heights Kajang,Sale,3780000.0,5,5,10640.0,Alan Ho
+Country Heights Kajang,Sale,10500000.0,6,6,16500.0,Madhavan Nambiar
+Country Heights Kajang,Sale,8500000.0,8,8,15000.0,Aizudin Borhan
+Country Heights Kajang,Sale,3800000.0,7,4,8374.0,Mohamad Faizal Haini
+Country Heights Kajang,Sale,8500000.0,8,8,15000.0,MOHD PISOL
+Country Heights Kajang,Sale,4200000.0,8,8,6292.0,Megan Lim
+Country Heights Kajang,Sale,10900000.0,10,8,16500.0,Halil Husayni Samsinor
+Country Heights Kajang,Sale,7500000.0,7,8,15000.0,Venice Chong
+Country Heights Kajang,Sale,6500000.0,7,6,15000.0,Venice Chong
+Country Heights Kajang,Sale,5200000.0,8,9,9000.0,Venice Chong
+Country Heights Kajang,Sale,4800000.0,5,5,5600.0,Venice Chong
+Country Heights Kajang,Sale,2980000.0,5,5,5100.0,Venice Chong
+Country Heights Kajang,Sale,8750000.0,6,8,15000.0,Venice Chong
+Country Heights Kajang,Sale,5500000.0,6,5,6000.0,Venice Chong
+Country Heights Kajang,Sale,5000000.0,8,8,12500.0,Venice Chong
+Country Heights Kajang,Sale,9493000.0,,,6125.0,Charisse Ng
+Country Heights Kajang,Sale,5300000.0,8,9,6200.0,Andi Tee
+Country Heights Kajang,Sale,7500000.0,8,9,12000.0,Muhammad Faeiz Mohd Zin
+Country Heights Kajang,Sale,1550000.0,5,4,2700.0,Muhammad Faeiz Mohd Zin
+Country Heights Kajang,Sale,520000.0,3,2,1452.0,Nasrul Afiq Hamzah
+Country Heights Kajang,Sale,4300000.0,3,5,6000.0,Madhavan Nambiar
+Country Heights Kajang,Sale,8500000.0,6,8,25000.0,Madhavan Nambiar
+Country Heights Kajang,Sale,4900000.0,5,5,8000.0,Madhavan Nambiar
+Country Heights Kajang,Sale,6500000.0,5,7,15000.0,Madhavan Nambiar
+Country Heights Kajang,Sale,5600000.0,6,6,7500.0,Madhavan Nambiar
+Country Heights Kajang,Sale,7200000.0,10,9,20000.0,Madhavan Nambiar
+Country Heights Kajang,Sale,5800000.0,8,7,10000.0,Madhavan Nambiar
+Country Heights Kajang,Sale,4050000.0,6,7,8000.0,Madhavan Nambiar
+Country Heights Kajang,Sale,3990000.0,7,8,9000.0,Madhavan Nambiar
+Country Heights Kajang,Sale,9800000.0,8,8,1200.0,Madhavan Nambiar
+Country Heights Kajang,Sale,5000000.0,,,20505.0,Wan Mohamad Yusuf Wan Mohd Sanusi
+Country Heights Kajang,Sale,3160000.0,5,6,6076.0,Venice Chong
+Country Heights Kajang,Sale,7500000.0,6,8,17000.0,Adibah Salim
+Country Heights Kajang,Sale,480000.0,3,2,1452.0,Arif Mustapha
+Country Heights Kajang,Sale,8800000.0,8,8,10000.0,Iqbal Rafei
+Country Heights Kajang,Sale,7000000.0,6,8,17000.0,Amirul Ahyat
+Country Heights Kajang,Sale,17800000.0,10,9,28000.0,Amirul Ahyat
+Country Heights Kajang,Sale,5000000.0,5,5,6233.0,Amirul Ahyat
+Country Heights Kajang,Sale,4500000.0,6,6,10400.0,Amirul Ahyat
+Country Heights Kajang,Sale,5500000.0,8,8,14231.0,Amirul Ahyat
+Country Heights Kajang,Sale,10900000.0,6,6,16000.0,Amirul Ahyat
+Country Heights Kajang,Sale,1550000.0,4,4,2700.0,Noruljannah Binti Mohd Sabari
+Country Heights Kajang,Sale,3980000.0,8,7,10000.0,Mohd Rasydan
+Country Heights Kajang,Sale,140.0,,,10000.0,Rebecca Lew
+Country Heights Kajang,Sale,4190000.0,8,7,6392.0,Kelvin Chia
+Country Heights Kajang,Sale,5200000.0,9,8,11700.0,Afiq Hazwan
+Country Heights Kajang,Sale,1076000.0,,,6523.0,Lewis Tam
+Country Heights Kajang,Sale,1396000.0,,,9009.0,Lewis Tam
+Country Heights Kajang,Sale,1580000.0,,,10538.0,Lewis Tam
+Country Heights Kajang,Sale,1451000.0,,,10010.0,Lewis Tam
+Country Heights Kajang,Sale,1475000.0,,,10538.0,Lewis Tam
+Country Heights Kajang,Sale,1401000.0,,,10010.0,Lewis Tam
+Country Heights Kajang,Sale,1279000.0,,,7998.0,Lewis Tam
+Country Heights Kajang,Sale,1319000.0,,,7998.0,Lewis Tam
+Country Heights Kajang,Sale,1738000.0,,,11593.0,Lewis Tam
+Country Heights Kajang,Sale,4500000.0,5,5,7000.0,Amirul Ahyat
+Country Heights Kajang,Sale,4000000.0,6,8,8500.0,Hasfarizal Bin Abdul Halim
+Country Heights Kajang,Sale,1738950.0,,,11593.0,Zulrizqhartanah .
+Country Heights Kajang,Sale,1580700.0,,,10538.0,Zulrizqhartanah .
+Country Heights Kajang,Sale,17800000.0,10,9,26000.0,Gerald Ng
+Country Heights Kajang,Sale,1451450.0,,,10010.0,Zulrizqhartanah .
+Country Heights Kajang,Sale,3780000.0,6,6,10640.0,Brendan Phuah
+Country Heights Kajang,Sale,1475320.0,,,10538.0,Zulrizqhartanah .
+Country Heights Kajang,Sale,1401400.0,,,10010.0,Zulrizqhartanah .
+Country Heights Kajang,Sale,583000.0,5,5,2561.0,Jason Lim
+Country Heights Kajang,Sale,5200000.0,4,7,8000.0,Venice Chong
+Country Heights Kajang,Sale,7800000.0,7,8,12000.0,Venice Chong
+Country Heights Kajang,Sale,4200000.0,7,7,6292.0,Kristing .
+Country Heights Kajang,Sale,7500000.0,6,8,17000.0,Arif MS
+Country Heights Kajang,Sale,7500000.0,7,8,16000.0,Andi Tee
+Country Heights Kajang,Sale,4380000.0,5,5,5000.0,Elaine Ding
+Country Heights Kajang,Sale,583000.0,6,5,3500.0,James TanCP
+Country Heights Kajang,Sale,4500000.0,7,6,4500.0,Adzura Zamedin
+Country Heights Kajang,Sale,17800000.0,9,9,28000.0,Azizirrahim .
+Country Heights Kajang,Sale,5000000.0,7,7,8200.0,Lutfi .
+Country Heights Kajang,Sale,7500000.0,6,8,17000.0,BILYA ARIFF
+Country Heights Kajang,Sale,1850000.0,,,12196.0,Azril Affendi
+Country Heights Kajang,Sale,3160000.0,6,6,6076.0,Andi Tee
+Country Heights Kajang,Sale,3900000.0,6,7,8222.0,Andi Tee
+Country Heights Kajang,Sale,3000000.0,8,9,11037.0,Roger Pang
+Country Heights Kajang,Sale,3000000.0,8,9,11037.0,Joyce Ng
+Country Heights Kajang,Sale,530000.0,3,2,1452.0,Syafiq Razak
+Country Heights Kajang,Sale,3780000.0,6,6,10640.0,Brendan Phuah
+Country Heights Kajang,Sale,7500000.0,6,8,17000.0,Natrah Soraya
+Country Heights Kajang,Sale,2350000.0,4,5,3451.0,Kristing .
+Country Heights Kajang,Sale,1900000.0,,,,Diana .
+Country Heights Kajang,Sale,4200000.0,5,5,20000.0,Venice Chong
+Country Heights Kajang,Sale,6200000.0,7,6,12000.0,Venice Chong
+Country Heights Kajang,Sale,6500000.0,6,6,14500.0,Venice Chong
+Country Heights Kajang,Sale,8200000.0,9,9,19522.0,Venice Chong
+Country Heights Kajang,Sale,1400000.0,,,12348.0,Arif Halim
+Country Heights Kajang,Sale,1550000.0,5,4,2700.0,Adibah Salim
+Country Heights Kajang,Sale,7500000.0,6,8,17000.0,Zaiful Ismail
+Country Heights Kajang,Sale,1550000.0,5,4,2700.0,Afiq Hazwan
+Country Heights Kajang,Sale,4880000.0,9,8,11700.0,Hugo Gooi
+Country Heights Kajang,Sale,5000000.0,8,8,12000.0,Wan Mohamad Yusuf Wan Mohd Sanusi
+Country Heights Kajang,Sale,4200000.0,7,6,8500.0,John King
+Country Heights Kajang,Sale,5000000.0,8,9,9900.0,Salim Mustam
+Country Heights Kajang,Sale,7500000.0,6,8,17000.0,Rozaimie .
+Country Heights Kajang,Sale,1550000.0,5,4,2700.0,Aziz Zainal
+Country Heights Kajang,Sale,1380000.0,5,5,3035.0,Shareena .
+Country Heights Kajang,Sale,1550000.0,4,4,2700.0,Mohd Azlan Shah
+Country Heights Kajang,Sale,1550000.0,5,4,2700.0,Ahmad Ikhwan Arif
+Country Heights Kajang,Sale,3500000.0,6,4,4000.0,Howard Say
+Country Heights Kajang,Sale,1450000.0,5,5,2800.0,Arif Mustapha
+Country Heights Kajang,Sale,4032630.0,,,19203.0,James Wong
+Country Heights Kajang,Sale,4499550.0,5,4,21345.0,Emily .
+Country Heights Kajang,Sale,3300000.0,,,20000.0,Amy Hong
+Country Heights Kajang,Sale,1550000.0,4,4,2700.0,Mohd Farhan
+Country Heights Kajang,Sale,7500000.0,6,8,17000.0,Adib Aziz
+Country Heights Kajang,Sale,1550000.0,5,4,2700.0,Nadia Rahim
+Country Heights Kajang,Sale,1200000.0,6,7,5200.0,Zed Lim
+Country Heights Kajang,Sale,5500000.0,7,7,8000.0,Zaiful Ismail
+Country Heights Kajang,Sale,8200000.0,10,9,22542.0,Zaiful Ismail
+Country Heights Kajang,Sale,7500000.0,8,10,18000.0,Adzura Zamedin
+Country Heights Kajang,Sale,5500000.0,5,5,5560.0,Michelle Teoh
+Country Heights Kajang,Sale,480000.0,3,2,1450.0,Eda Zainal
+Country Heights Kajang,Sale,5000000.0,6,7,10000.0,Azam Sabaruddin
+Country Heights Kajang,Sale,17800000.0,9,9,27800.0,Azam Sabaruddin
+Country Heights Kajang,Sale,8800000.0,9,7,10000.0,Azam Sabaruddin
+Country Heights Kajang,Sale,7000000.0,6,8,17000.0,Shafiq Mohd Nor
+Country Heights Kajang,Sale,5200000.0,9,8,11700.0,Shahmira Roaslan
+Country Heights Kajang,Sale,1900000.0,,,12196.0,Badrul Hisyam
+Country Heights Kajang,Sale,4900000.0,9,8,11700.0,Afifi Mohd Noor
+Country Heights Kajang,Sale,7000000.0,10,9,17000.0,Wan Mohamad Yusuf Wan Mohd Sanusi
+Country Heights Kajang,Sale,5500000.0,6,5,5492.0,Wan Mohamad Yusuf Wan Mohd Sanusi
+Country Heights Kajang,Sale,2676075.0,10,10,7000.0,Mandy Looi
+Country Heights Kajang,Sale,1451450.0,10,10,10000.0,Mandy Looi
+Country Heights Kajang,Sale,4200000.0,7,9,7473.0,Joane Tan
+Country Heights Kajang,Sale,4900000.0,9,8,11700.0,Ahmad Husny
+Country Heights Kajang,Sale,4000000.0,8,9,10000.0,Megan Lim
+Country Heights Kajang,Sale,1076295.0,,,6523.0,Badrul Hisyam
+Country Heights Kajang,Sale,5200000.0,9,8,11700.0,Badrul Hisyam
+Country Heights Kajang,Sale,1401400.0,,,10010.0,Badrul Hisyam
+Country Heights Kajang,Sale,1239690.0,,,7998.0,Badrul Hisyam
+Country Heights Kajang,Sale,3800000.0,4,5,5799.0,Badrul Hisyam
+Country Heights Kajang,Sale,7500000.0,8,8,12000.0,Anas Ashaari
+Country Heights Kajang,Sale,7500000.0,6,8,17000.0,Mohd Shazni Abdul Rahim
+Country Heights Kajang,Sale,8200000.0,10,9,22542.0,Thoriq Suparman
+Country Heights Kajang,Sale,8000000.0,8,7,8125.0,Thoriq Suparman
+Country Heights Kajang,Sale,5550000.0,5,5,4305.0,Nick Yeap
+Country Heights Kajang,Sale,3800000.0,8,9,10000.0,Afiq Anuar
+Country Heights Kajang,Sale,5000000.0,8,9,9200.0,Shiqin Saidin
+Country Heights Kajang,Sale,480000.0,3,2,1450.0,Hasrul Nizam
+Country Heights Kajang,Sale,7500000.0,8,8,12000.0,Nahathir Shahabudin
+Country Heights Kajang,Sale,5500000.0,9,8,6000.0,Zahid .
+Country Heights Kajang,Sale,1550000.0,5,4,2700.0,Rashidah Juremi
+Country Heights Kajang,Sale,5990000.0,7,4,25725.0,Lion Yap
+Country Heights Kajang,Sale,5000000.0,7,8,5500.0,Mohd Farhan
+Country Heights Kajang,Sale,1550000.0,5,4,2700.0,Afiq Hazwan
+Country Heights Kajang,Sale,5200000.0,10,9,10000.0,Noraslinda Rasib
+Country Heights Kajang,Sale,2300000.0,,,20000.0,Tan Chuan Choi
+Country Heights Kajang,Sale,5200000.0,9,8,11700.0,Haslinda Ahmad Razali
+Country Heights Kajang,Sale,7500000.0,6,8,17000.0,Mohd Farhan
+Country Heights Kajang,Sale,3780000.0,5,4,13888.0,Marcus Heh
+Country Heights Kajang,Sale,3200000.0,6,6,5832.0,Paramaswary Chellappan
+Country Heights Kajang,Sale,3000000.0,6,6,5282.0,Paramaswary Chellappan
+Country Heights Kajang,Sale,7500000.0,8,10,12000.0,Nazli Ambak
+Country Heights Kajang,Sale,7500000.0,8,10,12000.0,Afifi Sedzali
+Country Heights Kajang,Sale,1451450.0,,,10000.0,Ken Yap
+Country Heights Kajang,Sale,4600000.0,6,5,6000.0,Elaine Ding
+Country Heights Kajang,Sale,3780000.0,8,6,13888.0,Alwen Choong
+Country Heights Kajang,Sale,8800000.0,9,9,19522.0,Ain Ismail
+Country Heights Kajang,Sale,5200000.0,9,8,11700.0,Nurul Waheeda
+Country Heights Kajang,Sale,8800000.0,9,9,19522.0,Badrul Hisyam
+Country Heights Kajang,Sale,7500000.0,8,9,12000.0,Badrul Hisyam
+Country Heights Kajang,Sale,7000000.0,6,8,17000.0,Badrul Hisyam
+Country Heights Kajang,Sale,9000000.0,8,8,21668.0,Jane .
+Country Heights Kajang,Sale,2500000.0,7,7,4468.0,ismail bin Mohd Yassin
+Country Heights Kajang,Sale,3200000.0,8,9,4665.0,ismail bin Mohd Yassin
+Country Heights Kajang,Sale,4500000.0,5,5,4500.0,ismail bin Mohd Yassin
+Country Heights Kajang,Sale,7500000.0,8,9,12000.0,BILYA ARIFF
+Country Heights Kajang,Sale,9000000.0,7,6,21668.0,Jason Tang
+Country Heights Kajang,Sale,4499550.0,5,4,8200.0,Emily .
+Country Heights Kajang,Sale,10900000.0,7,9,16500.0,Iqbal Rafei
+Country Heights Kajang,Sale,10900000.0,7,9,16500.0,Arif MS
+Country Heights Kajang,Sale,7000000.0,8,7,8200.0,Naomi Thing
+Country Heights Kajang,Sale,4499000.0,5,5,8200.0,Gordan Wong
+Country Heights Kajang,Sale,4490000.0,6,5,8200.0,Marcus Heh
+Country Heights Kajang,Sale,1401400.0,,,10010.0,Sam Chock
+Country Heights Kajang,Sale,5250000.0,7,7,9000.0,Kesva Arumugam
+Country Heights Kajang,Sale,3780000.0,6,6,10640.0,Brendan Phuah
+Country Heights Kajang,Sale,5000000.0,8,8,8200.0,Faris Azfar Zulkurnain
+Country Heights Kajang,Sale,5000000.0,8,8,8200.0,WAN MUHAMMAD
+Country Heights Kajang,Sale,7000000.0,6,8,17000.0,Thoriq Suparman
+Country Heights Kajang,Sale,7500000.0,8,8,12000.0,Azie Halim
+Country Heights Kajang,Sale,1450000.0,6,5,3035.0,Loharaj .
+Country Heights Kajang,Sale,2600000.0,6,6,5282.0,Bryan Wong
+Country Heights Kajang,Sale,3780000.0,7,7,10640.0,Robin Tchong
+Country Heights Kajang,Sale,3900000.0,6,7,6500.0,Muhd Fauzi AJ
+Country Heights Kajang,Sale,4800000.0,6,5,7000.0,Shahzi Azhar
+Country Heights Kajang,Sale,5500000.0,6,5,5492.0,Zaiful Ismail
+Country Heights Kajang,Sale,4900000.0,9,8,11700.0,Saiful Wazir
+Country Heights Kajang,Sale,4000000.0,4,4,6000.0,Yam Yi Han
+Country Heights Kajang,Sale,3700000.0,5,5,6076.0,Elaine Ding
+Country Heights Kajang,Sale,5000000.0,8,8,8200.0,Nabeel Othman
+Country Heights Kajang,Sale,7500000.0,8,9,13649.0,WAN MUHAMMAD
+Country Heights Kajang,Sale,4800000.0,6,5,7000.0,WAN MUHAMMAD
+Country Heights Kajang,Sale,3950000.0,6,7,6600.0,Elaine Ding
+Country Heights Kajang,Sale,1200000.0,6,6,5200.0,Zed Lim
+Country Heights Kajang,Sale,5500000.0,5,5,5560.0,Issac Tan
+Country Heights Kajang,Sale,3780000.0,6,6,10640.0,Brendan Phuah
+Country Heights Kajang,Sale,5200000.0,8,8,11177.0,NADZNIN HAFIZU
+Country Heights Kajang,Sale,3800000.0,8,9,10000.0,NOURBAIZURA ZAKARIA
+Country Heights Kajang,Sale,8700000.0,9,10,19522.0,Wan Azemi Wan Daud
+Country Heights Kajang,Sale,2676075.0,6,6,7000.0,Ken Yap
+Country Heights Kajang,Sale,8000000.0,9,7,12372.0,Mike Tung
+Country Heights Kajang,Sale,8500000.0,10,9,20000.0,Mohamad Hafizan Bin Mohamed Hanafiah
+Country Heights Kajang,Sale,17800000.0,9,9,27800.0,Iqbal Rafei
+Country Heights Kajang,Sale,2500000.0,5,6,4468.0,Usamah Kamarudin
+Country Heights Kajang,Sale,3500000.0,7,8,6800.0,Usamah Kamarudin
+Country Heights Kajang,Sale,3800000.0,8,9,10000.0,Zul Alfy
+Country Heights Kajang,Sale,1206755.0,,,6523.0,Azizirrahim .
+Country Heights Kajang,Sale,7000000.0,10,9,20000.0,Azizirrahim .
+Country Heights Kajang,Sale,5500000.0,6,7,10000.0,Azizirrahim .
+Country Heights Kajang,Sale,5000000.0,8,8,8500.0,Arif Halim
+Country Heights Kajang,Sale,450000.0,3,2,1449.0,Shirley Wong
+Country Heights Kajang,Sale,1500000.0,5,5,3040.0,Azizah Lazim
+Country Heights Kajang,Sale,1380000.0,5,5,3500.0,Elaine Ding
+Country Heights Kajang,Sale,1420000.0,5,4,3040.0,DZULHILMI B ZULKIFLI
+Country Heights Kajang,Sale,5200000.0,9,8,11700.0,Azizol .
+Country Heights Kajang,Sale,510000.0,3,2,1450.0,Ahmed JL
+Country Heights Kajang,Sale,6000000.0,8,9,15000.0,Muhammad Azhad Bin Azman
+Country Heights Kajang,Sale,5000000.0,8,8,11177.0,Ahmad Ikhwan Arif
+Country Heights Kajang,Sale,4990000.0,5,7,6000.0,Elaine Ding
+Country Heights Kajang,Sale,5500000.0,8,8,5360.0,Mohd Ikhwan Arbain
+Country Heights Kajang,Sale,3153500.0,,,18550.0,Elaine Ding
+Country Heights Kajang,Sale,5000000.0,8,8,8200.0,Badrul Hisyam
+Country Heights Kajang,Sale,10900000.0,6,9,16500.0,Fadzli Zulkoad
+Country Heights Kajang,Sale,2380000.0,6,9,5060.0,Chong De Yi
+Country Heights Kajang,Sale,5500000.0,8,8,5360.0,Muhammed Nazri bin Mustapha
+Country Heights Kajang,Sale,8000000.0,7,8,8125.0,Muhammed Nazri bin Mustapha
+Country Heights Kajang,Sale,5500000.0,6,5,5492.0,FARIS AZIZ
+Country Heights Kajang,Sale,17800000.0,9,9,27800.0,FARIS AZIZ
+Country Heights Kajang,Sale,1550000.0,5,4,2700.0,Wan Mohamad Yusuf Wan Mohd Sanusi
+Country Heights Kajang,Sale,9000000.0,9,8,19522.0,Zue .
+Country Heights Kajang,Sale,10900000.0,6,6,16500.0,Badrul Hisyam
+Country Heights Kajang,Sale,3800000.0,7,4,8374.0,Zarif Zahisham
+Country Heights Kajang,Sale,3800000.0,8,9,10000.0,Zarif Zahisham
+Country Heights Kajang,Sale,4800000.0,6,5,7000.0,Zarif Zahisham
+Country Heights Kajang,Sale,7500000.0,8,9,12000.0,Zarif Zahisham
+Country Heights Kajang,Sale,5000000.0,8,8,8200.0,Zarif Zahisham
+Country Heights Kajang,Sale,480000.0,3,2,1452.0,Abdul Rahim
+Country Heights Kajang,Sale,8200000.0,9,9,19522.0,Mohamad Hafiz Abdul Basher
+Country Heights Kajang,Sale,3500000.0,10,10,17500.0,CS Lim
+Country Heights Kajang,Sale,5500000.0,5,5,5560.0,Andi Tee
+Country Heights Kajang,Sale,8500000.0,8,9,13648.0,Sam Chock
+Country Heights Kajang,Sale,5000000.0,8,8,8200.0,Syafiq Faddir
+Country Heights Kajang,Sale,5500000.0,8,8,10000.0,Wan Mohamad Yusuf Wan Mohd Sanusi
+Country Heights Kajang,Sale,7500000.0,8,9,12000.0,Iqbal Rafei
+Country Heights Kajang,Sale,8200000.0,10,9,22542.0,Iqbal Rafei
+Country Heights Kajang,Sale,10900000.0,6,8,16500.0,Nahathir Shahabudin
+Country Heights Kajang,Sale,510000.0,3,2,1400.0,Cik Maya Abdul
+Country Heights Kajang,Sale,5000000.0,6,7,10000.0,Mohd Ikhwan Arbain
+Country Heights Kajang,Sale,5023725.0,,,20505.0,Andi Tee
+Country Heights Kajang,Sale,3500000.0,4,4,4000.0,Ayo Yeoh
+Country Heights Kajang,Sale,7000000.0,10,8,20000.0,Adzura Zamedin
+Country Heights Kajang,Sale,4500000.0,8,8,4500.0,Appni Lizar
+Country Heights Kajang,Sale,8500000.0,8,9,10000.0,Mohd Asrul Ezani Abdul Rahman
+Country Heights Kajang,Sale,7000000.0,10,9,20000.0,Nizam Shoib
+Country Heights Kajang,Sale,1500000.0,7,5,3040.0,Mohd Asrul Ezani Abdul Rahman
+Country Heights Kajang,Sale,1486485.0,,,9000.0,Eddy Azuan
+Country Heights Kajang,Sale,5000000.0,8,8,8200.0,Mohd Azlan Shah
+Country Heights Kajang,Sale,4800000.0,6,5,7000.0,Mohd Azlan Shah
+Country Heights Kajang,Sale,3800000.0,8,9,10000.0,Mohd Azlan Shah
+Country Heights Kajang,Sale,8200000.0,10,9,22542.0,Mohd Azlan Shah
+Country Heights Kajang,Sale,8200000.0,10,9,22542.0,Badrul Hisyam
+Country Heights Kajang,Sale,8200000.0,10,9,19522.0,Eugene Yap
+Country Heights Kajang,Sale,5250000.0,7,9,9000.0,Elaine Ding
+Country Heights Kajang,Sale,5000000.0,8,9,9000.0,Andi Tee
+Country Heights Kajang,Sale,3650000.0,6,7,5000.0,Andi Tee
+Country Heights Kajang,Sale,17800000.0,9,9,27800.0,Andi Tee
+Country Heights Kajang,Sale,5500000.0,5,5,5560.0,Aaron Tang
+Country Heights Kajang,Sale,8000000.0,7,8,8125.0,Khalid Abdullah
+Country Heights Kajang,Sale,5200000.0,9,8,11700.0,Khalid Abdullah
+Country Heights Kajang,Sale,5000000.0,6,4,7000.0,Farah Ibrahim
+Country Heights Kajang,Sale,2500000.0,7,6,5000.0,Farah Ibrahim
+Country Heights Kajang,Sale,10900000.0,8,9,16500.0,Mohammad Omar
+Country Heights Kajang,Sale,8800000.0,7,7,10000.0,Wan Mohamad Yusuf Wan Mohd Sanusi
+Country Heights Kajang,Sale,5670000.0,6,6,21420.0,Allan Ho
+Country Heights Kajang,Sale,17800000.0,9,8,27800.0,Azie Halim
+Country Heights Kajang,Sale,5000000.0,7,8,8200.0,Afiq Anuar
+Country Heights Kajang,Sale,5200000.0,8,8,12000.0,Rasyadan Hussin
+Country Heights Kajang,Sale,3900000.0,6,7,6500.0,Fairuz Salehan
+Country Heights Kajang,Sale,560000.0,3,2,1442.0,Lex .
+Country Heights Kajang,Sale,4800000.0,6,5,7000.0,Wan Mohamad Yusuf Wan Mohd Sanusi
+Country Heights Kajang,Sale,3980000.0,8,7,10000.0,Wan Mohamad Yusuf Wan Mohd Sanusi
+Country Heights Kajang,Sale,17800000.0,9,9,27800.0,Wan Mohamad Yusuf Wan Mohd Sanusi
+Country Heights Kajang,Sale,1043680.0,,,6523.0,Casey Loo
+Country Heights Kajang,Sale,1261260.0,,,9009.0,Casey Loo
+Country Heights Kajang,Sale,1199700.0,,,7998.0,Casey Loo
+Country Heights Kajang,Sale,1239690.0,,,7998.0,Casey Loo
+Country Heights Kajang,Sale,8000000.0,8,7,8125.0,Juan Hilmi
+Country Heights Kajang,Sale,5500000.0,5,4,7900.0,Brian Cheah
+Country Heights Kajang,Sale,8200000.0,10,9,19522.0,Andi Tee
+Country Heights Kajang,Sale,8200000.0,10,9,22542.0,Juan Hilmi
+Country Heights Kajang,Sale,3900000.0,8,7,6500.0,Farrah Khairuddin
+Country Heights Kajang,Sale,3000000.0,5,5,4952.0,Elaine Ding
+Country Heights Kajang,Sale,2800000.0,4,4,4500.0,Elaine Ding
+Country Heights Kajang,Sale,508000.0,3,2,1432.0,Elaine Ding
+Country Heights Kajang,Sale,11980000.0,8,8,18000.0,Elaine Ding
+Country Heights Kajang,Sale,9000000.0,9,9,19522.0,Adzura Zamedin
+Country Heights Kajang,Sale,9000000.0,9,9,19522.0,Eda Zainal
+Country Heights Kajang,Sale,4800000.0,6,5,7000.0,Fikri Yasmin
+Country Heights Kajang,Sale,5500000.0,7,7,8000.0,Fikri Yasmin
+Country Heights Kajang,Sale,8200000.0,10,9,22542.0,Fikri Yasmin
+Country Heights Kajang,Sale,7500000.0,8,9,12000.0,Fikri Yasmin
+Country Heights Kajang,Sale,5000000.0,7,8,8200.0,Fikri Yasmin
+Country Heights Kajang,Sale,3000000.0,,,15000.0,AHMAD SYUKRI
+Country Heights Kajang,Sale,5500000.0,8,8,5360.0,AHMAD SYUKRI
+Country Heights Kajang,Sale,4800000.0,6,5,7000.0,Iqbal Rafei
+Country Heights Kajang,Sale,2300000.0,,,20016.0,Leo KM
+Country Heights Kajang,Rent,1900.0,3,2,1432.0,Elaine Ding
+Country Heights Kajang,Rent,7500.0,7,7,8826.0,Madhavan Nambiar
+Country Heights Kajang,Rent,16000.0,8,7,10000.0,Elaine Ding
+Country Heights Kajang,Rent,25000.0,5,5,11000.0,Madhavan Nambiar
+Country Heights Kajang,Rent,10000.0,8,8,5866.0,Roy Lai
+Country Heights Kajang,Rent,10000.0,5,5,5560.0,Michelle Teoh
+Country Heights Kajang,Rent,8000.0,5,6,4800.0,Elaine Ding
+Country Heights Kajang,Rent,12000.0,6,7,6600.0,Elaine Ding
+Country Heights Kajang,Rent,2200.0,3,2,1432.0,Elaine Ding
+Country Heights Kajang,Rent,10000.0,5,5,5560.0,Issac Tan
+Country Heights Kajang,Rent,1900.0,3,2,1500.0,Dante Leong Zhenwen
