@@ -30,8 +30,8 @@ Condo Property Price in KL (updated monthly): https://datastudio.google.com/s/iD
 
 ### How to scrape myself?
 1. Download [data-scraper-v2alpha.py](https://raw.githubusercontent.com/DicksonC96/PropertyGuru-Scraper/main/data-scraper-v2alpha.py) (right-click and download).
-2. Modify __Section 1:Query Selection__ with keywords of your choice. (default: Residential Highrises in KL).
-3. Run the script with [python](https://www.python.org/).
+2. Install [python](https://www.python.org/) and dependencies.
+3. Run the script with your parameters. (check -h for documentation)
 4. Enjoyy!
 P/S: Refer section below for the keywords
 
