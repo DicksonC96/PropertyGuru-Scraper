@@ -53,7 +53,7 @@ jobs:
         username: github-actions
     - name: Check File Existence
       run: |
-        echo exit_code
+        echo $exit_code
         if ! ${{exit_code}}; then
           echo Scraping incomplete! 
           exit 1
