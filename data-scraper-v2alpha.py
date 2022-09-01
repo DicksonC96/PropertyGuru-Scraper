@@ -1,6 +1,3 @@
-from ctypes import ArgumentError
-from multiprocessing.sharedctypes import Value
-from re import L
 from bs4 import BeautifulSoup
 import time
 from datetime import date
@@ -11,15 +8,12 @@ import os
 import hashlib
 import argparse
 
-#TODO: fix old files when rerun, fix kl bungalow exception, ultimately think md5check alternative
-
-### Section 1:Query Selection ###
-# Initialize your Query selection here:
+# Default Query parameter
 MARKET = 'residential'
 TYPE = 'condo'
 STATE = 'kl'
 
-### CODE STARTS FROM HERE ###
+### CODE STARTS HERE ###
 
 property_type = {'all':'',
         'bungalow':'&property_type_code%5B%5D=BUNG&property_type_code%5B%5D=LBUNG&property_type_code%5B%5D=ZBUNG&property_type_code%5B%5D=TWINV&property_type_code%5B%5D=TWINC&property_type=B',
