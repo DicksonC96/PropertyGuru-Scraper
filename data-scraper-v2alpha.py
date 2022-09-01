@@ -1,4 +1,3 @@
-from multiprocessing.sharedctypes import Value
 from bs4 import BeautifulSoup
 import time
 from datetime import date
@@ -72,10 +71,17 @@ def BSPrep(URL):
         
 def Pagination(soup):
     pagination = soup.find("ul", class_="pagination")
-    if pagination.find_all("li", class_="pagination-next disabled"):
-        pages = int(pagination.find_all("a")[0]['data-page'])
-    else:
-        pages = int(pagination.find_all("a")[-2]['data-page'])
+    try:
+        if pagination.find_all("li", class_="pagination-next disabled"):
+            pages = int(pagination.find_all("a")[0]['data-page'])
+        else:
+            pages = int(pagination.find_all("a")[-2]['data-page'])
+    except AttributeError:
+        if soup.find("h1", class_="title search-title").text.split(' ')[2] == '0':
+            print('No property found. Scraping stopped.')
+            exit(0)
+        else:
+            exit(1)
     return pages
 
 def LinkScraper(soup):
@@ -251,6 +257,9 @@ if __name__ == "__main__":
     # Initialize URL
     HEADER = 'https://www.propertyguru.com.my'
     KEY = '/condo/search-project'
-    QUERY = '?limit=500&market='+MARKET.lower()+property_type[TYPE.lower()]+state[STATE.lower()]+'&newProject=all'
+    if STATE.lower() == 'other':
+        QUERY = '?limit=200&market='+MARKET.lower()+property_type[TYPE.lower()]+state[STATE.lower()]+'&newProject=all'
+    else:
+        QUERY = '?limit=500&market='+MARKET.lower()+property_type[TYPE.lower()]+state[STATE.lower()]+'&newProject=all'
     
     main()
