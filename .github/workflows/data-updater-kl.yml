@@ -57,7 +57,3 @@ jobs:
         else
           echo Scraping completed!
         fi
-    - name: 5mins sleep
-      uses: whatnick/wait-action@master
-      with:
-        time: '5m'

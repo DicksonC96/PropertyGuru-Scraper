@@ -11,11 +11,13 @@ import os
 import hashlib
 import argparse
 
+#TODO: fix old files when rerun, fix kl bungalow exception, ultimately think md5check alternative
+
 ### Section 1:Query Selection ###
 # Initialize your Query selection here:
 MARKET = 'residential'
-TYPE = 'bungalow'
-STATE = 'penang'
+TYPE = 'condo'
+STATE = 'kl'
 
 ### CODE STARTS FROM HERE ###
 
@@ -233,6 +235,7 @@ def main():
         # Raw data saved to file
         df.to_csv(RAW_LISTING, index=False)
         print('INCOMPLETE raw data saved to {}'.format(RAW_LISTING))
+        exit(1)
 
     else:
         md5hash(RAW_LISTING, MD5HASH)
