@@ -31,7 +31,7 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Data scraping and export
-      id: scraping
+      id: scrape
       run: |
         python -u data-scraper-v2alpha.py -t ${{ matrix.type }} -s ${{ matrix.state }}
       continue-on-error: true
@@ -51,5 +51,5 @@ jobs:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
         username: github-actions
     - name: Check on failures
-      if: steps.scrapping.outcome != 'success'
+      if: steps.scrape.outcome != 'success'
       run: exit 1
