@@ -1,0 +1,76 @@
+PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+Taman Puncak Bertam,Sale,920000.0,4,3,3200,Aiden Teo
+Taman Puncak Bertam,Sale,920000.0,4,3,3200,Aiden Teo
+Taman Puncak Bertam,Sale,980000.0,4,3,4000,Wesley Tan
+Taman Puncak Bertam,Sale,538000.0,4,3,1680,Alvin Chan Kai Boon
+Taman Puncak Bertam,Sale,900000.0,4,3,1680,Johnny Wong
+Taman Puncak Bertam,Rent,2000.0,4,3,3360,Daniel Pow
+Taman Kota Syahbandar,Sale,980000.0,7,5,3600,Suzanne Shoo
+Taman Kota Syahbandar,Sale,850000.0,4,4,2080,Alps Tan
+Taman Kota Syahbandar,Sale,999000.0,7,6,3600,Suzanne Shoo
+Taman Kota Syahbandar,Sale,330000.0,1,1,689,Rahmad .
+Taman Kota Syahbandar,Sale,1100000.0,8,6,1540,Alvin Chan Kai Boon
+Taman Kota Syahbandar,Sale,999000.0,7,6,3600,Suzanne Shoo
+Taman Kota Syahbandar,Sale,1280000.0,8,6,3465,Elson Tay
+Taman Kota Syahbandar,Sale,1280000.0,7,6,3360,Kellyn Foo
+Taman Bachang Baru,Sale,868000.0,4,3,1440,Eleen .
+Taman Bachang Baru,Sale,868000.0,4,3,1440,Eleen .
+Taman Bachang Baru,Sale,333000.0,4,3,1650,Khoo .
+Taman Bachang Baru,Sale,333000.0,3,3,1195,Emily .
+Taman Bachang Baru,Sale,333000.0,4,3,1195,Alwen Choong
+Taman Bachang Baru,Sale,358000.0,3,2,1540,Leng Dee
+Taman Bachang Baru,Sale,350000.0,4,3,1822,Richard Lim
+Taman Seri Cempaka,Sale,190000.0,3,2,1080,Kate .
+Taman Seri Cempaka,Sale,850000.0,6,5,6490,Ron Yap
+Taman Seri Cempaka,Sale,660000.0,3,2,1720,Syazwan .
+Taman Merdeka Jaya,Sale,306000.0,3,3,1650,Mathias Tan
+Taman Merdeka Jaya,Sale,328000.0,4,2,1560,Lawrance Lim
+Taman Merdeka Jaya,Sale,418000.0,4,3,1500,Shawn Teh
+Taman Merdeka Jaya,Sale,450000.0,4,3,1400,Kelvin Chia
+Taman Merdeka Jaya,Sale,328000.0,4,2,1560,Kellyn Foo
+Taman Merdeka Jaya,Sale,288000.0,3,2,1540,Bee .
+Taman Merdeka Jaya,Sale,420000.0,4,3,1400,Alvin Chan Kai Boon
+Taman Merdeka Jaya,Sale,350000.0,4,2,1584,Azraie Aznan
+Taman Merdeka Jaya,Sale,390000.0,4,3,2000,Fairuz Salehan
+Taman Merdeka Jaya,Sale,248000.0,3,2,1000,Tim Piong
+Taman Merdeka Jaya,Sale,399000.0,4,2,2100,Tim Piong
+Taman Merdeka Jaya,Sale,260000.0,3,2,1200,Tim Piong
+Taman Merdeka Jaya,Sale,328000.0,4,2,960,Yeong .
+Ozana Impian,Sale,368000.0,3,3,1540,Yeong .
+Ozana Impian,Sale,468000.0,4,3,1540,Joyce Oh
+Ozana Impian,Sale,500000.0,4,4,1400,Ms Woon
+Ozana Impian,Sale,540000.0,5,4,3200,Erin Baiduri
+Ozana Impian,Sale,390000.0,4,3,2640,Lawrance Lim
+Ozana Impian,Sale,318000.0,3,2,1800,Tim Piong
+Ozana Impian,Sale,380000.0,4,3,1540,Bee .
+Ozana Impian,Sale,460000.0,5,3,1582,Erin Baiduri
+Ozana Impian,Sale,468000.0,Studio,Studio,1540,Yeong .
+Ozana Impian,Sale,468000.0,4,3,1540,Jason Yeo
+Ozana Impian,Sale,798000.0,6,4,5250,Aiden Teo
+Ozana Impian,Sale,600000.0,5,5,3326,Jason Tang
+Ozana Impian,Sale,530000.0,5,4,3200,Fairuz Salehan
+Ozana Impian,Sale,530000.0,5,3,3304,Erin Baiduri
+Ozana Impian,Sale,628000.0,5,3,2994,BL Bong
+Ozana Impian,Sale,398000.0,4,3,2200,BL Bong
+Ozana Impian,Sale,468000.0,4,3,2600,Lawrance Lim
+Ozana Impian,Sale,399000.0,4,3,2300,Jordan Lee
+Ozana Impian,Sale,468000.0,4,3,1540,Bee .
+Ozana Impian,Sale,398000.0,4,3,2300,Jordan Lee
+Ozana Impian,Sale,650000.0,5,3,4000,Robin Soong
+Ozana Impian,Sale,468000.0,4,3,1540,Kellyn Foo
+Ozana Impian,Rent,1200.0,4,4,1400,Ms Woon
+Country Villas Resort,Sale,530000.0,4,4,2382,Country Villas Resort Sdn Bhd
+Country Villas Resort,Sale,415000.0,4,4,1540,Danny Kuah Kim Hai
+Country Villas Resort,Sale,420000.0,2,2,1540,Kellyn Foo
+Country Villas Resort,Sale,585000.0,4,4,1430,Johnny Wong
+Country Villas Resort,Sale,550000.0,4,4,2000,Yeow Rui Jun
+Country Villas Resort,Sale,465000.0,4,4,1650,Lawrance Lim
+Country Villas Resort,Sale,598000.0,4,4,2600,Aiden Teo
+Country Villas Resort,Sale,478000.0,4,4,1540,Aiden Teo
+Country Villas Resort,Sale,468000.0,4,4,2300,Shawn Teh
+Country Villas Resort,Sale,460000.0,4,4,2175,Wesley Tan
+Country Villas Resort,Sale,530000.0,4,4,2382,Wesley Tan
+Country Villas Resort,Sale,550000.0,4,4,1540,Wesley Tan
+Country Villas Resort,Sale,498000.0,4,4,2300,Lawrance Lim
+Country Villas Resort,Sale,526000.0,4,4,1540,Joslin Liu
+Country Villas Resort,Rent,1400.0,4,3,1540,Fiona Woon
