@@ -1,5 +1,5 @@
 
-name: Data Updater (KL)
+name: Data Updater KL
 
 on:
   push:
@@ -18,7 +18,7 @@ jobs:
     strategy:
       max-parallel: 2
       matrix:
-        type: [condo, terrace, semid, bungalow]
+        type: [bungalow]
         state: [kl]
     steps:
     - uses: actions/checkout@v2
