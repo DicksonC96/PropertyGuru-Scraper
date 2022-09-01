@@ -1,0 +1,994 @@
+PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+Leisure Farm,Sale,1850000.0,5,5,3000,Sing Ying
+Leisure Farm,Sale,2800000.0,5,5,5500,Derrick Low
+Leisure Farm,Sale,980000.0,4,3,1750,Alfred Pee
+Leisure Farm,Sale,1880000.0,5,5,3721,Sheng Long
+Leisure Farm,Sale,8800000.0,5,6,9662,Sheng Long
+Leisure Farm,Sale,2700000.0,5,5,5500,Rachel See
+Leisure Farm,Sale,1888000.0,5,5,3721,Rachel See
+Leisure Farm,Sale,3114860.0,,,44498,Mark Mah
+Leisure Farm,Sale,4034100.0,,,57630,Mark Mah
+Leisure Farm,Sale,1600000.0,4,5,3900,Mark Mah
+Leisure Farm,Sale,2800000.0,5,5,5500,Ann .
+Leisure Farm,Sale,58.0,,,47000,Jacob Koh
+Leisure Farm,Sale,1600000.0,,,17000,Jacob Koh
+Leisure Farm,Sale,8800000.0,4,4,8275,Nicholas Tey
+Leisure Farm,Sale,10000000.0,8,9,13000,Nicholas Tey
+Leisure Farm,Sale,5999888.0,5,6,70000,KK Koh
+Leisure Farm,Sale,1880000.0,5,5,3721,Eric Wong
+Leisure Farm,Sale,5600000.0,5,6,6500,Along Arshad
+Leisure Farm,Sale,95.0,,,18077,YS Chong
+Leisure Farm,Sale,7500000.0,7,9,10000,Desmond Chan
+Leisure Farm,Sale,8000000.0,7,8,9000,Rachel See
+Leisure Farm,Sale,10500000.0,4,5,7000,Max Kan
+Leisure Farm,Sale,11000000.0,7,6,10000,KK Koh
+Leisure Farm,Sale,15000000.0,7,7,12000,Along Arshad
+Leisure Farm,Sale,2300000.0,5,6,4391,Rachel See
+Leisure Farm,Sale,7500000.0,8,9,10000,Max Keng
+Leisure Farm,Sale,2980000.0,6,5,7000,Max Keng
+Leisure Farm,Sale,20000000.0,8,9,15794,Max Keng
+Leisure Farm,Sale,5500000.0,8,8,7000,Along Arshad
+Leisure Farm,Sale,1888000.0,5,5,3721,YIN YIN
+Leisure Farm,Sale,1320000.0,3,3,1973,C L Chia
+Leisure Farm,Sale,1320000.0,3,3,1973,C L Chia
+Leisure Farm,Sale,15000000.0,10,8,12000,Val Lee VL
+Leisure Farm,Sale,12000000.0,6,7,8000,Val Lee VL
+Leisure Farm,Sale,3280000.0,6,6,4700,Val Lee VL
+Leisure Farm,Sale,6500000.0,5,5,19687,CH Tang
+Leisure Farm,Sale,3350000.0,,,33442,CH Tang
+Leisure Farm,Sale,11000000.0,6,6,12000,Jayson Lim
+Leisure Farm,Sale,3900000.0,5,5,8000,Along Arshad
+Leisure Farm,Sale,5170000.0,,,47000,Deric Ng
+Leisure Farm,Sale,1888000.0,5,5,3271,Joaan Eng
+Leisure Farm,Sale,1888000.0,5,5,3271,Joaan Eng
+Leisure Farm,Sale,90.0,,,18000,Chua Yek Shin
+Leisure Farm,Sale,1500000.0,,,15900,Chua Yek Shin
+Leisure Farm,Sale,70.0,,,55200,Chua Yek Shin
+Leisure Farm,Sale,3290000.0,,,47000,Chua Yek Shin
+Leisure Farm,Sale,4000000.0,4,4,8000,Chua Yek Shin
+Leisure Farm,Sale,8800000.0,5,5,9662,Chua Yek Shin
+Leisure Farm,Sale,12000000.0,6,6,7500,Val Lee VL
+Leisure Farm,Sale,1600000.0,4,4,3344,Henry Kee
+Leisure Farm,Sale,2950000.0,5,6,4120,Henry Kee
+Leisure Farm,Sale,4227570.0,,,46973,Kev Hor
+Leisure Farm,Sale,16000000.0,8,5,50000,Kev Hor
+Leisure Farm,Sale,5900000.0,5,5,5000,Jayson Lim
+Leisure Farm,Sale,8500000.0,7,7,9039,Aiden Tang
+Leisure Farm,Sale,13000000.0,4,5,12000,Aiden Tang
+Leisure Farm,Sale,3400000.0,6,6,4500,Ernest Lew
+Leisure Farm,Sale,15000000.0,9,9,12000,Ernest Lew
+Leisure Farm,Sale,1700000.0,3,3,2200,Jacky Chua
+Leisure Farm,Sale,10000000.0,7,7,8000,YK TAN
+Leisure Farm,Sale,15000000.0,9,8,12000,YK TAN
+Leisure Farm,Sale,3000000.0,5,6,5000,YK TAN
+Leisure Farm,Sale,1888000.0,5,5,3721,Jin Chong
+Leisure Farm,Sale,7300000.0,8,8,10000,Val Lee VL
+Leisure Farm,Sale,3100000.0,6,6,7061,Val Lee VL
+Leisure Farm,Sale,5000000.0,7,7,6000,Val Lee VL
+Leisure Farm,Sale,13800000.0,10,8,10000,Val Lee VL
+Leisure Farm,Sale,5880000.0,6,6,5500,Val Lee VL
+Leisure Farm,Sale,1888000.0,5,5,3271,Joaan Eng
+Leisure Farm,Sale,1888000.0,5,5,3271,Joaan Eng
+Leisure Farm,Sale,1888000.0,5,5,3271,Joaan Eng
+Leisure Farm,Sale,980000.0,3,3,1800,Liza Leong
+Leisure Farm,Sale,3000000.0,5,4,4000,Michelle Koh
+Leisure Farm,Sale,2950000.0,5,5,4500,Will Loh
+Leisure Farm,Sale,2800000.0,5,5,5500,Will Loh
+Leisure Farm,Sale,2050000.0,,,23770,Jacky Chua
+Leisure Farm,Sale,480000.0,3,3,1677,Jacky Chua
+Leisure Farm,Sale,2313200.0,,,23132,Mark Mah
+Leisure Farm,Sale,4521500.0,,,45215,Mark Mah
+Leisure Farm,Sale,4695800.0,,,46958,Mark Mah
+Leisure Farm,Sale,9800000.0,5,5,13000,Victor Tai
+Leisure Farm,Sale,11000000.0,5,6,12000,KK Koh
+Leisure Farm,Sale,2800000.0,5,5,5500,Carrien Siow
+Leisure Farm,Sale,3380000.0,6,6,4600,Carrien Siow
+Leisure Farm,Sale,8500000.0,8,6,12000,Carrien Siow
+Leisure Farm,Sale,2300000.0,5,5,4391,Allan Tey
+Leisure Farm,Sale,8800000.0,4,6,9662,Allan Tey
+Leisure Farm,Sale,1888000.0,4,5,3721,Gelyne Yong
+Leisure Farm,Sale,3000000.0,4,4,3700,Benedict Yap
+Leisure Farm,Sale,1808000.0,5,5,3271,YIN YIN
+Leisure Farm,Sale,5000000.0,4,5,8000,Roy Lim Wei Chao
+Leisure Farm,Sale,4000000.0,3,5,5500,Roy Lim Wei Chao
+Leisure Farm,Sale,3300000.0,5,7,5845,Roy Lim Wei Chao
+Leisure Farm,Sale,3000000.0,4,4,3700,Roy Lim Wei Chao
+Leisure Farm,Sale,1180000.0,4,3,1920,Roy Lim Wei Chao
+Leisure Farm,Sale,4200000.0,4,5,4200,Roy Lim Wei Chao
+Leisure Farm,Sale,5990000.0,6,5,10000,Roy Lim Wei Chao
+Leisure Farm,Sale,3500000.0,5,4,4000,Roy Lim Wei Chao
+Leisure Farm,Sale,4080000.0,4,5,4300,Roy Lim Wei Chao
+Leisure Farm,Sale,9000000.0,5,5,7127,Roy Lim Wei Chao
+Leisure Farm,Sale,1550000.0,4,5,3721,Roy Lim Wei Chao
+Leisure Farm,Sale,1250000.0,4,3,1720,Roy Lim Wei Chao
+Leisure Farm,Sale,1100000.0,4,3,1720,Roy Lim Wei Chao
+Leisure Farm,Sale,1600000.0,4,4,1920,Roy Lim Wei Chao
+Leisure Farm,Sale,1000000.0,4,3,1720,Roy Lim Wei Chao
+Leisure Farm,Sale,1100000.0,4,3,1720,Roy Lim Wei Chao
+Leisure Farm,Sale,1500000.0,5,5,3900,Roy Lim Wei Chao
+Leisure Farm,Sale,4000000.0,3,4,6000,Roy Lim Wei Chao
+Leisure Farm,Sale,2000000.0,5,6,4284,Roy Lim Wei Chao
+Leisure Farm,Sale,4800000.0,4,5,5500,Roy Lim Wei Chao
+Leisure Farm,Sale,7900000.0,4,5,7500,Roy Lim Wei Chao
+Leisure Farm,Sale,2200000.0,4,6,4456,Roy Lim Wei Chao
+Leisure Farm,Sale,1350000.0,4,3,1920,Roy Lim Wei Chao
+Leisure Farm,Sale,8800000.0,4,5,9662,Roy Lim Wei Chao
+Leisure Farm,Sale,2800000.0,5,5,5500,Lavine Beh
+Leisure Farm,Sale,3380000.0,6,7,6545,Rachel See
+Leisure Farm,Sale,2500000.0,5,5,3560,Miss Shee
+Leisure Farm,Sale,8800000.0,5,5,9662,Theresa Ong
+Leisure Farm,Sale,11000000.0,4,4,10000,Along Arshad
+Leisure Farm,Sale,2800000.0,5,5,5500,Mancy Lim
+Leisure Farm,Sale,3000000.0,5,5,5000,Carrien Siow
+Leisure Farm,Sale,1812700.0,,,18127,Santorinic Wang
+Leisure Farm,Sale,7000000.0,5,5,7500,Victor Tai
+Leisure Farm,Sale,3500000.0,6,6,4120,Benedict Yap
+Leisure Farm,Sale,2990000.0,5,5,5000,Karen Tan
+Leisure Farm,Sale,2800000.0,5,5,5500,Brandon Khoo
+Leisure Farm,Sale,5200000.0,8,7,10100,Derrick Low
+Leisure Farm,Sale,8200000.0,8,9,10000,Derrick Low
+Leisure Farm,Sale,6800000.0,6,6,14000,Along Arshad
+Leisure Farm,Sale,2800000.0,5,5,5500,Weinie Chon
+Leisure Farm,Sale,1300000.0,5,6,4004,Jason Tang
+Leisure Farm,Sale,3550000.0,5,6,5300,Benson NEC
+Leisure Farm,Sale,2800000.0,5,5,5500,Carrien Siow
+Leisure Farm,Sale,3680000.0,5,7,4404,Low Lai Lien
+Leisure Farm,Sale,2100000.0,5,5,3503,Rachel See
+Leisure Farm,Sale,1675000.0,4,4,1916,Rachel See
+Leisure Farm,Sale,4800000.0,3,4,6000,Mark Mah
+Leisure Farm,Sale,3180000.0,5,6,5500,Rachel See
+Leisure Farm,Sale,16000000.0,6,6,12000,Carrien Siow
+Leisure Farm,Sale,20000000.0,8,9,15794,Carrien Siow
+Leisure Farm,Sale,11000000.0,6,6,11000,Santorinic Wang
+Leisure Farm,Sale,3000000.0,4,4,4000,Along Arshad
+Leisure Farm,Sale,3000000.0,4,4,4000,Along Arshad
+Leisure Farm,Sale,8800000.0,4,5,9662,Lauren Chai
+Leisure Farm,Sale,570000.0,4,3,1442,Jacky Chua
+Leisure Farm,Sale,2988888.0,5,5,4000,Roy Lim Wei Chao
+Leisure Farm,Sale,1300000.0,4,4,4004,Ace Koh
+Leisure Farm,Sale,11000000.0,7,6,10000,Along Arshad
+Leisure Farm,Sale,12000000.0,5,5,12000,Along Arshad
+Leisure Farm,Sale,3000000.0,5,5,4000,Along Arshad
+Leisure Farm,Sale,5900000.0,5,5,5000,Along Arshad
+Leisure Farm,Sale,580000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,515000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,560000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,690000.0,2,2,1700,Roy Lim Wei Chao
+Leisure Farm,Sale,580000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,625000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,550000.0,2,3,1400,Roy Lim Wei Chao
+Leisure Farm,Sale,535000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,530000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,580000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,600000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,560000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,635000.0,4,4,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,560000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,510000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,522000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,480000.0,3,3,1689,Roy Lim Wei Chao
+Leisure Farm,Sale,499000.0,2,3,1650,Roy Lim Wei Chao
+Leisure Farm,Sale,505000.0,4,3,1477,Roy Lim Wei Chao
+Leisure Farm,Sale,85.0,,,16576,Roy Lim Wei Chao
+Leisure Farm,Sale,60.0,,,44953,Roy Lim Wei Chao
+Leisure Farm,Sale,88.0,,,46457,Roy Lim Wei Chao
+Leisure Farm,Sale,3766480.0,,,47081,Roy Lim Wei Chao
+Leisure Farm,Sale,3484800.0,,,43560,Roy Lim Wei Chao
+Leisure Farm,Sale,75.0,,,47081,Roy Lim Wei Chao
+Leisure Farm,Sale,3600000.0,,,47081,Roy Lim Wei Chao
+Leisure Farm,Sale,1500000.0,,,11409,Roy Lim Wei Chao
+Leisure Farm,Sale,115.0,,,18073,Roy Lim Wei Chao
+Leisure Farm,Sale,1977170.0,,,15208,Roy Lim Wei Chao
+Leisure Farm,Sale,68.0,,,44638,Roy Lim Wei Chao
+Leisure Farm,Sale,3794230.0,,,44638,Roy Lim Wei Chao
+Leisure Farm,Sale,78.0,,,46974,Roy Lim Wei Chao
+Leisure Farm,Sale,65.0,,,46941,Roy Lim Wei Chao
+Leisure Farm,Sale,85.0,,,72204,Roy Lim Wei Chao
+Leisure Farm,Sale,80.0,,,34412,Roy Lim Wei Chao
+Leisure Farm,Sale,78.0,,,46952,Roy Lim Wei Chao
+Leisure Farm,Sale,100.0,,,20020,Roy Lim Wei Chao
+Leisure Farm,Sale,88.0,,,18083,Roy Lim Wei Chao
+Leisure Farm,Sale,1540260.0,,,17114,Roy Lim Wei Chao
+Leisure Farm,Sale,2083770.0,,,23153,Roy Lim Wei Chao
+Leisure Farm,Sale,65.0,,,46941,Roy Lim Wei Chao
+Leisure Farm,Sale,3050000.0,5,5,5500,Heston Lai
+Leisure Farm,Sale,3280000.0,6,5,4600,Heston Lai
+Leisure Farm,Sale,13000000.0,6,7,18888,Along Arshad
+Leisure Farm,Sale,3800000.0,5,5,5000,Along Arshad
+Leisure Farm,Sale,15000000.0,9,9,12000,Santorinic Wang
+Leisure Farm,Sale,12000000.0,5,6,8000,Santorinic Wang
+Leisure Farm,Sale,8000000.0,5,5,7578,Patrick Ng
+Leisure Farm,Sale,3800000.0,5,4,5000,Jerry Lim
+Leisure Farm,Sale,7900000.0,4,5,7500,Jerry Lim
+Leisure Farm,Sale,6800000.0,5,7,14000,Jerry Lim
+Leisure Farm,Sale,12000000.0,6,6,66000,YUYIN POH
+Leisure Farm,Sale,1888000.0,5,5,3271,Joaan Eng
+Leisure Farm,Sale,3199999.0,5,5,4500,Ying Xuan Tan
+Leisure Farm,Sale,3000000.0,4,4,4000,Ying Xuan Tan
+Leisure Farm,Sale,3000000.0,4,4,4000,Ying Xuan Tan
+Leisure Farm,Sale,3799999.0,5,5,5000,Ying Xuan Tan
+Leisure Farm,Sale,13000000.0,7,8,13689,Along Arshad
+Leisure Farm,Sale,1888000.0,5,5,3721,Rachel See
+Leisure Farm,Sale,3280000.0,5,6,5500,Rachel See
+Leisure Farm,Sale,6000000.0,10,10,7000,Ying Xuan Tan
+Leisure Farm,Sale,6800000.0,6,6,7000,Ying Xuan Tan
+Leisure Farm,Sale,6800000.0,8,7,14000,Ying Xuan Tan
+Leisure Farm,Sale,4999999.0,5,5,8000,Ying Xuan Tan
+Leisure Farm,Sale,3280000.0,5,5,4750,Mark Mah
+Leisure Farm,Sale,5900000.0,6,9,10000,Mark Mah
+Leisure Farm,Sale,1250000.0,4,4,1719,Mark Mah
+Leisure Farm,Sale,5800000.0,5,5,6092,Mark Mah
+Leisure Farm,Sale,3280000.0,5,5,5500,Mark Mah
+Leisure Farm,Sale,5600000.0,4,5,6500,Mark Mah
+Leisure Farm,Sale,12000000.0,6,6,8000,Mark Mah
+Leisure Farm,Sale,6000000.0,4,5,3500,Mark Mah
+Leisure Farm,Sale,16800000.0,6,6,13000,Mark Mah
+Leisure Farm,Sale,2202310.0,,,20021,Mark Mah
+Leisure Farm,Sale,4524210.0,,,50269,Mark Mah
+Leisure Farm,Sale,5572200.0,,,46435,Mark Mah
+Leisure Farm,Sale,2257800.0,,,18815,Mark Mah
+Leisure Farm,Sale,3269045.0,,,34411,Mark Mah
+Leisure Farm,Sale,4316364.0,,,55338,Mark Mah
+Leisure Farm,Sale,5793750.0,,,46350,Mark Mah
+Leisure Farm,Sale,7135050.0,,,47567,Mark Mah
+Leisure Farm,Sale,6859475.0,,,72205,Mark Mah
+Leisure Farm,Sale,2043960.0,,,17033,Mark Mah
+Leisure Farm,Sale,4066392.0,,,46209,Mark Mah
+Leisure Farm,Sale,6246310.0,,,73486,Mark Mah
+Leisure Farm,Sale,1711928.0,,,18211,Mark Mah
+Leisure Farm,Sale,6287600.0,,,71450,Mark Mah
+Leisure Farm,Sale,4600000.0,,,46000,Mark Mah
+Leisure Farm,Sale,3946975.0,,,46435,Mark Mah
+Leisure Farm,Sale,1989120.0,,,16576,Mark Mah
+Leisure Farm,Sale,2300000.0,Studio,Studio,4391,Theresa Ong
+Leisure Farm,Sale,1888000.0,5,5,3721,Theresa Ong
+Leisure Farm,Sale,1300000.0,4,4,3700,Roy Lim Wei Chao
+Leisure Farm,Sale,10500000.0,4,5,7000,Roy Lim Wei Chao
+Leisure Farm,Sale,3250000.0,5,7,5845,Roy Lim Wei Chao
+Leisure Farm,Sale,3800000.0,5,5,5000,Roy Lim Wei Chao
+Leisure Farm,Sale,6800000.0,5,7,14000,Roy Lim Wei Chao
+Leisure Farm,Sale,8500000.0,5,6,6000,Roy Lim Wei Chao
+Leisure Farm,Sale,4950000.0,5,5,7000,Roy Lim Wei Chao
+Leisure Farm,Sale,5000000.0,4,6,5200,Roy Lim Wei Chao
+Leisure Farm,Sale,5900000.0,5,5,8000,Roy Lim Wei Chao
+Leisure Farm,Sale,6000000.0,5,4,3500,Roy Lim Wei Chao
+Leisure Farm,Sale,2300000.0,5,7,4391,Roy Lim Wei Chao
+Leisure Farm,Sale,2800000.0,4,4,3700,Roy Lim Wei Chao
+Leisure Farm,Sale,950000.0,4,3,1720,Roy Lim Wei Chao
+Leisure Farm,Sale,3500000.0,5,6,4000,Jacky Chua
+Leisure Farm,Sale,5000000.0,8,7,10100,Miss Shee
+Leisure Farm,Sale,5500000.0,5,5,4500,Chong Kia Keng
+Leisure Farm,Sale,2500000.0,5,6,5532,Santorinic Wang
+Leisure Farm,Sale,3300000.0,5,5,5500,Kate Tee
+Leisure Farm,Sale,2697000.0,,,44953,Tok CJ
+Leisure Farm,Sale,12000000.0,6,7,8000,Jayne Wong
+Leisure Farm,Sale,9800000.0,5,5,13174,Alfred Then
+Leisure Farm,Sale,1888000.0,5,5,3721,Joan Chia
+Leisure Farm,Sale,21000000.0,6,7,15902,Santorinic Wang
+Leisure Farm,Sale,5800000.0,4,5,5500,Shine Naidu
+Leisure Farm,Sale,2300000.0,5,5,10000,Roger Lee
+Leisure Farm,Sale,8800000.0,5,5,9662,Benson NEC
+Leisure Farm,Sale,11000000.0,6,6,12000,Along Arshad
+Leisure Farm,Sale,535000.0,4,3,1400,Chloe Ngoi
+Leisure Farm,Sale,3150000.0,6,6,4120,Theresa Ong
+Leisure Farm,Sale,21000000.0,7,7,20500,Low Wei Chao
+Leisure Farm,Sale,4300000.0,4,5,5500,Wendy Lai
+Leisure Farm,Sale,3487500.0,,,46500,Phoebe Foo
+Leisure Farm,Sale,8800000.0,4,5,9662,Ryan Tan
+Leisure Farm,Sale,8000000.0,4,4,7578,Ryan Tan
+Leisure Farm,Sale,100.0,,,47000,Joan Chia
+Leisure Farm,Sale,560000.0,4,3,1505,Ragav Sekar
+Leisure Farm,Sale,3487500.0,,,46500,Ang Boon Chai
+Leisure Farm,Sale,5000000.0,5,6,5500,Cheang KS
+Leisure Farm,Sale,4130000.0,,,59000,Chua Yek Shin
+Leisure Farm,Sale,3532500.0,,,47100,Chua Yek Shin
+Leisure Farm,Sale,8000000.0,5,5,7578,Chua Yek Shin
+Leisure Farm,Sale,3760000.0,,,47000,Chua Yek Shin
+Leisure Farm,Sale,2500000.0,4,5,3721,Santorinic Wang
+Leisure Farm,Sale,1600000.0,4,5,1711,Miho .
+Leisure Farm,Sale,8800000.0,4,6,9662,Miho .
+Leisure Farm,Sale,4800000.0,4,5,5500,KK Koh
+Leisure Farm,Sale,14000000.0,6,6,12000,Ken Chai
+Leisure Farm,Sale,13000000.0,7,8,13689,KK Koh
+Leisure Farm,Sale,8800000.0,5,6,9662,Rachel See
+Leisure Farm,Sale,13000000.0,4,6,13174,Santorinic Wang
+Leisure Farm,Sale,11000000.0,4,5,9662,Santorinic Wang
+Leisure Farm,Sale,10000000.0,4,6,9057,Santorinic Wang
+Leisure Farm,Sale,2980000.0,5,5,7000,Jayden Neo
+Leisure Farm,Sale,12000000.0,6,7,8000,Jayne Wong
+Leisure Farm,Sale,3150000.0,5,5,4120,Jayson Lim
+Leisure Farm,Sale,2988888.0,5,5,4500,KK Koh
+Leisure Farm,Sale,2500000.0,5,5,3890,KK Koh
+Leisure Farm,Sale,2980000.0,6,5,7000,Carrien Siow
+Leisure Farm,Sale,8800000.0,5,5,9662,YUYIN POH
+Leisure Farm,Sale,5000.0,5,4,4000,KK Koh
+Leisure Farm,Sale,8500.0,5,5,4500,KK Koh
+Leisure Farm,Sale,2980000.0,6,5,7061,Val Lee VL
+Leisure Farm,Sale,1850000.0,4,3,2203,Inez Ng
+Leisure Farm,Sale,1590000.0,4,5,3721,Keith Teoh
+Leisure Farm,Sale,2980000.0,5,5,5500,Ken Hoe
+Leisure Farm,Sale,3300000.0,5,5,5500,Gabriela Kwok
+Leisure Farm,Sale,5500000.0,5,9,6631,Chua Yek Shin
+Leisure Farm,Sale,1620000.0,,,18000,Chua Yek Shin
+Leisure Farm,Sale,5500000.0,5,5,6000,Chua Yek Shin
+Leisure Farm,Sale,550000.0,4,3,1505,Anthony Moh
+Leisure Farm,Sale,5800000.0,4,4,5500,Mark Mah
+Leisure Farm,Sale,479000.0,2,3,1600,Bella Chong
+Leisure Farm,Sale,1491840.0,,,10656,Alfred Then
+Leisure Farm,Sale,1944000.0,,,18000,Alfred Then
+Leisure Farm,Sale,8000000.0,4,5,17227,Howard Lee
+Leisure Farm,Sale,7555950.0,,,55970,Alfred Then
+Leisure Farm,Sale,8800000.0,5,6,9662,Alfred Then
+Leisure Farm,Sale,3800000.0,5,5,5000,Jayson Lim
+Leisure Farm,Sale,7500000.0,8,9,10000,Phoebe Foo
+Leisure Farm,Sale,15000000.0,9,9,12000,Phoebe Foo
+Leisure Farm,Sale,3150000.0,5,5,5844,Lauren Chai
+Leisure Farm,Sale,11500000.0,8,7,12900,Carrien Siow
+Leisure Farm,Sale,980000.0,4,4,1477,Mark Mah
+Leisure Farm,Sale,7900000.0,4,5,7500,Shine Naidu
+Leisure Farm,Sale,11000000.0,5,6,18000,Shine Naidu
+Leisure Farm,Sale,8200000.0,8,9,10000,Carrien Siow
+Leisure Farm,Sale,5900000.0,7,6,12000,Shine Naidu
+Leisure Farm,Sale,6000000.0,5,6,7000,Shine Naidu
+Leisure Farm,Sale,2980000.0,5,6,4500,Shine Naidu
+Leisure Farm,Sale,10000000.0,4,5,7000,Shine Naidu
+Leisure Farm,Sale,5000000.0,5,6,8000,Shine Naidu
+Leisure Farm,Sale,650000.0,4,3,1600,Usha
+Leisure Farm,Sale,20000000.0,8,8,15794,Jacelyn Ng
+Leisure Farm,Sale,2800000.0,5,5,5500,Lee Qiu Wen
+Leisure Farm,Sale,4230000.0,,,47000,Welson Chin
+Leisure Farm,Sale,1888000.0,5,5,3271,Joaan Eng
+Leisure Farm,Sale,13000000.0,7,8,13689,Jayson Lim
+Leisure Farm,Sale,2980000.0,6,5,7000,Will Loh
+Leisure Farm,Sale,98.0,,,46500,Dylan Goh
+Leisure Farm,Sale,3100000.0,5,5,5500,Max Keng
+Leisure Farm,Sale,5900000.0,5,5,5000,Ying Xuan Tan
+Leisure Farm,Sale,11000000.0,5,6,12000,Ying Xuan Tan
+Leisure Farm,Sale,2160000.0,,,20000,Philicia Wong
+Leisure Farm,Sale,11000000.0,4,6,11661,Santorinic Wang
+Leisure Farm,Sale,8000000.0,4,6,7578,Santorinic Wang
+Leisure Farm,Sale,8000000.0,4,6,7934,Santorinic Wang
+Leisure Farm,Sale,3000000.0,5,5,5000,Jessica Boey
+Leisure Farm,Sale,2988888.0,5,5,4500,Jayson Lim
+Leisure Farm,Sale,11800000.0,7,8,13689,Ying Xuan Tan
+Leisure Farm,Sale,21000000.0,7,7,20500,Shine Naidu
+Leisure Farm,Sale,3680000.0,5,6,4120,Shine Naidu
+Leisure Farm,Sale,11000000.0,6,6,7000,Shine Naidu
+Leisure Farm,Sale,17000000.0,6,7,12000,Shine Naidu
+Leisure Farm,Sale,2300000.0,5,6,4391,Shine Naidu
+Leisure Farm,Sale,3500000.0,5,6,4120,Shine Naidu
+Leisure Farm,Sale,17500000.0,5,6,14000,Shine Naidu
+Leisure Farm,Sale,3270000.0,6,7,4404,Gelyne Yong
+Leisure Farm,Sale,4999999.0,5,5,8000,Jayson Lim
+Leisure Farm,Sale,3000000.0,5,5,5000,Ang Boon Chai
+Leisure Farm,Sale,4950000.0,4,5,4263,Mark Mah
+Leisure Farm,Sale,7880000.0,7,8,13000,Oscar Yan
+Leisure Farm,Sale,1300000.0,5,6,4004,Jason Tang
+Leisure Farm,Sale,1888000.0,5,5,3271,Joaan Eng
+Leisure Farm,Sale,5679000.0,,,56790,Ying Xuan Tan
+Leisure Farm,Sale,5071185.0,,,48297,Ying Xuan Tan
+Leisure Farm,Sale,95.0,,,18083,Wil Mong
+Leisure Farm,Sale,1850000.0,5,5,3000,Vivi Yip
+Leisure Farm,Sale,10500000.0,4,5,7000,Fyon Cheong
+Leisure Farm,Sale,5500000.0,10,8,10355,Val Lee VL
+Leisure Farm,Sale,8800000.0,5,6,9662,QN See
+Leisure Farm,Sale,1888000.0,5,5,3721,QN See
+Leisure Farm,Sale,3500000.0,6,6,4120,QN See
+Leisure Farm,Sale,15000000.0,9,9,12000,Terence Ang
+Leisure Farm,Sale,12000000.0,7,6,8000,Terence Ang
+Leisure Farm,Sale,8800000.0,6,6,8275,Yaw Yee Shen
+Leisure Farm,Sale,2300000.0,5,6,4391,Eric Wong
+Leisure Farm,Sale,2358000.0,,,19644,Hiew Y.F
+Leisure Farm,Sale,2380000.0,4,4,3900,Benedict Yap
+Leisure Farm,Sale,1800000.0,4,3,2300,Lee Qiu Wen
+Leisure Farm,Sale,3000000.0,5,5,5000,Deric Ng
+Leisure Farm,Rent,8500.0,5,5,5000,Darren .
+Leisure Farm,Rent,9000.0,6,6,4600,Rachel See
+Leisure Farm,Rent,5000.0,5,5,5000,FM Sam
+Leisure Farm,Rent,1900.0,4,3,2100,Emily Tan
+Leisure Farm,Rent,8500.0,5,5,5000,Wan Ning
+Leisure Farm,Rent,8500.0,5,5,5000,Joy Min
+Leisure Farm,Rent,4000.0,3,3,1390,Rachel See
+Leisure Farm,Rent,10000.0,5,5,8000,Along Arshad
+Leisure Farm,Rent,25000.0,8,5,50000,Kev Hor
+Leisure Farm,Rent,25000.0,9,9,12000,Ernest Lew
+Leisure Farm,Rent,9000.0,5,6,4600,Ang Boon Chai
+Leisure Farm,Rent,4500.0,5,5,3721,Wilson Khoo
+Leisure Farm,Rent,7800.0,6,7,9400,Carrien Siow
+Leisure Farm,Rent,8000.0,6,6,4600,Carrien Siow
+Leisure Farm,Rent,18000.0,6,6,8000,Lavine Beh
+Leisure Farm,Rent,6000.0,5,5,4600,Vincent Tan
+Leisure Farm,Rent,8000.0,5,6,4391,Rachel See
+Leisure Farm,Rent,4200.0,4,3,3560,Rachel See
+Leisure Farm,Rent,5000.0,5,5,3721,Rachel See
+Leisure Farm,Rent,15000.0,4,4,10000,Along Arshad
+Leisure Farm,Rent,8500.0,5,5,5000,Carrien Siow
+Leisure Farm,Rent,8500.0,5,5,5000,Brandon Khoo
+Leisure Farm,Rent,8000.0,5,5,4700,Brandon Khoo
+Leisure Farm,Rent,7000.0,5,7,4404,Low Lai Lien
+Leisure Farm,Rent,11000.0,4,5,5000,Shine Naidu
+Leisure Farm,Rent,20000.0,5,6,12000,Shine Naidu
+Leisure Farm,Rent,20000.0,9,9,25000,Shine Naidu
+Leisure Farm,Rent,20000.0,5,6,18888,Shine Naidu
+Leisure Farm,Rent,15000.0,4,5,7000,Shine Naidu
+Leisure Farm,Rent,10000.0,5,6,8000,Shine Naidu
+Leisure Farm,Rent,8000.0,4,5,4000,Shine Naidu
+Leisure Farm,Rent,2000.0,4,3,1442,Jacky Chua
+Leisure Farm,Rent,2500.0,3,3,1100,Daniel Loh
+Leisure Farm,Rent,2500.0,3,3,1100,Daniel Loh
+Leisure Farm,Rent,20000.0,6,7,18888,Along Arshad
+Leisure Farm,Rent,2400.0,3,3,1200,John Loh
+Leisure Farm,Rent,7500.0,5,5,4000,Along Arshad
+Leisure Farm,Rent,2400.0,3,3,1100,Davis Ong
+Leisure Farm,Rent,2400.0,3,3,1500,Kris Tan
+Leisure Farm,Rent,8000.0,6,6,4600,YUYIN POH
+Leisure Farm,Rent,22000.0,4,6,12000,YUYIN POH
+Leisure Farm,Rent,2400.0,3,3,2000,Alex How
+Leisure Farm,Rent,8500.0,5,5,4500,Ying Xuan Tan
+Leisure Farm,Rent,7500.0,5,5,4500,Ying Xuan Tan
+Leisure Farm,Rent,7000.0,5,5,4000,Ying Xuan Tan
+Leisure Farm,Rent,11000.0,5,5,5000,Ying Xuan Tan
+Leisure Farm,Rent,18000.0,9,9,12000,Rachel See
+Leisure Farm,Rent,5000.0,4,5,3900,Shine Naidu
+Leisure Farm,Rent,2000.0,4,3,1370,Shine Naidu
+Leisure Farm,Rent,10000.0,5,6,8000,Shine Naidu
+Leisure Farm,Rent,2500.0,3,2,1500,Alan Tan
+Leisure Farm,Rent,8000.0,5,6,4120,Shine Naidu
+Leisure Farm,Rent,2400.0,3,2,1502,Ken KT
+Leisure Farm,Rent,2500.0,3,2,2000,Alex How
+Leisure Farm,Rent,18000.0,6,7,8000,Shine Naidu
+Leisure Farm,Rent,11000.0,4,5,5000,Along Arshad
+Leisure Farm,Rent,4000.0,5,5,3500,Jayne Wong
+Leisure Farm,Rent,18000.0,6,6,8000,Mark Mah
+Leisure Farm,Rent,2300.0,3,3,1500,Zeon Lim
+Leisure Farm,Rent,2300.0,4,3,2200,Oscar Yan
+Leisure Farm,Rent,2500.0,3,3,1500,Zeon Lim
+Leisure Farm,Rent,4000.0,4,3,2300,Lee Qiu Wen
+Leisure Farm,Rent,2000.0,4,3,1370,Shine Naidu
+Leisure Farm,Rent,7500.0,5,6,5500,Rachel See
+Leisure Farm,Rent,4000.0,5,5,3500,Rachel See
+Leisure Farm,Rent,4500.0,4,3,3560,Rachel See
+Leisure Farm,Rent,8000.0,5,6,9400,Gabriela Kwok
+Leisure Farm,Rent,3800.0,4,5,4000,Keith Teoh
+Leisure Farm,Rent,25000.0,9,9,12000,Phoebe Foo
+Leisure Farm,Rent,2500.0,3,3,1600,Ang Boon Chai
+Leisure Farm,Rent,2500.0,3,3,1600,Inez Ng
+Leisure Farm,Rent,2500.0,3,3,1600,Jasper Kong
+Leisure Farm,Rent,18000.0,6,7,8000,Jayne Wong
+Leisure Farm,Rent,8000.0,6,6,4500,Rachel See
+Leisure Farm,Rent,8000.0,6,6,4600,Jessica Boey
+Leisure Farm,Rent,18000.0,6,7,8000,Lavine Beh
+Leisure Farm,Rent,18000.0,7,6,8000,Terence Ang
+Leisure Farm,Rent,25000.0,9,9,12000,Terence Ang
+Bungalow @ Senibong Cove,Sale,3000000.0,5,7,4543,Ann .
+Bungalow @ Senibong Cove,Sale,2200000.0,5,6,3280,Ms Tham
+Bungalow @ Senibong Cove,Sale,1701260.0,,,7733,Santorinic Wang
+Bungalow @ Senibong Cove,Sale,2200000.0,6,7,3616,Hana Tang
+Bungalow @ Senibong Cove,Sale,2050000.0,5,6,3650,Ms Tham
+Bungalow @ Senibong Cove,Sale,3400000.0,5,4,5134,Ken Chai
+Bungalow @ Senibong Cove,Sale,5000000.0,5,5,6600,Ernest Lew
+Bungalow @ Senibong Cove,Sale,3100000.0,6,7,4909,Michelle He
+Bungalow @ Senibong Cove,Sale,3090000.0,5,7,4909,Anderson Yu
+Bungalow @ Senibong Cove,Sale,3090000.0,5,7,4909,Anderson Yu
+Bungalow @ Senibong Cove,Sale,1100000.0,4,4,2500,KL Pang
+Bungalow @ Senibong Cove,Sale,2250000.0,6,5,3881,Tan Bing Yi
+Bungalow @ Senibong Cove,Sale,3000000.0,6,7,4543,Nicholas Ong
+Bungalow @ Senibong Cove,Sale,3900000.0,5,7,5134,Jun Song
+Bungalow @ Senibong Cove,Sale,3500000.0,5,7,5625,Cindy Wang
+Bungalow @ Senibong Cove,Sale,3100000.0,6,7,4543,Aaron Chim
+Bungalow @ Senibong Cove,Sale,2050000.0,6,6,3000,Miko Cheyu
+Bungalow @ Senibong Cove,Sale,3000000.0,6,7,4971,Jacelyn Ng
+Bungalow @ Senibong Cove,Sale,1730000.0,4,4,3300,Andy Tan BC
+Bungalow @ Senibong Cove,Sale,3093200.0,,,15466,Santorinic Wang
+Bungalow @ Senibong Cove,Sale,3400000.0,6,6,5134,Ragav Sekar
+Bungalow @ Senibong Cove,Sale,3400000.0,5,7,5134,Lauren Chai
+Bungalow @ Senibong Cove,Sale,3400000.0,7,6,5134,Larry Ng
+Bungalow @ Senibong Cove,Sale,3400000.0,5,6,5134,Deven Thye
+Bungalow @ Senibong Cove,Sale,980000.0,4,3,2250,Ken Phoon
+Bungalow @ Senibong Cove,Sale,3400000.0,6,6,5134,Frankie Chen
+Bungalow @ Senibong Cove,Sale,3400000.0,6,7,5134,Michelle Fong
+Bungalow @ Senibong Cove,Sale,3000000.0,5,7,4543,Cony Ong
+Bungalow @ Senibong Cove,Sale,4688000.0,6,7,6659,Jacelyn Ng
+Bungalow @ Senibong Cove,Sale,3000000.0,6,7,4602,Leanne Liew
+Bungalow @ Senibong Cove,Sale,1600000.0,5,6,3687,Jesmond Lee
+Bungalow @ Senibong Cove,Sale,3100000.0,6,7,4543,Jesmond Lee
+Bungalow @ Senibong Cove,Sale,1750000.0,5,6,3687,Patrick Lai
+Bungalow @ Senibong Cove,Sale,3000000.0,6,7,4909,ELTON CHOW
+Bungalow @ Senibong Cove,Sale,3150000.0,5,8,4971,Ang Boon Chai
+Bungalow @ Senibong Cove,Sale,1650000.0,5,6,3300,Jam Chong
+Bungalow @ Senibong Cove,Sale,3100000.0,5,7,4971,Sandra Gan
+Bungalow @ Senibong Cove,Sale,1788800.0,6,7,3881,Patrick Ng
+Bungalow @ Senibong Cove,Sale,3000000.0,6,7,4909,Kinki Teow
+Bungalow @ Senibong Cove,Sale,1150000.0,5,4,2380,Jasper Gwee
+Bungalow @ Senibong Cove,Sale,2050000.0,6,6,3000,Derrick Chai
+Bungalow @ Senibong Cove,Rent,5000.0,6,7,3881,James Ng
+Bungalow @ Senibong Cove,Rent,7000.0,5,5,5536,Aries Lam
+Bungalow @ Senibong Cove,Rent,5000.0,6,7,3880,Pink Ng
+Bungalow @ Senibong Cove,Rent,7500.0,5,8,4971,Stanley Siang
+Bungalow @ Senibong Cove,Rent,8800.0,5,6,5000,Ms Tham
+Bungalow @ Senibong Cove,Rent,6500.0,5,5,4798,Fiona Tan
+Bungalow @ Senibong Cove,Rent,7000.0,5,5,5536,Ethan Lee
+Bungalow @ Senibong Cove,Rent,8500.0,6,5,4917,Pink Ng
+Bungalow @ Senibong Cove,Rent,8500.0,6,6,5536,Lee Qiu Wen
+Bungalow @ Senibong Cove,Rent,6000.0,5,8,4971,Chloe Ngoi
+Bungalow @ Senibong Cove,Rent,8500.0,6,6,4971,Bryan Yeoh
+Bungalow @ Senibong Cove,Rent,8500.0,6,6,4971,Philicia Wong
+Bungalow @ Senibong Cove,Rent,8500.0,6,6,4971,Loh Kok Hui
+Bungalow @ Senibong Cove,Rent,8500.0,6,6,4971,Angel Lee
+Bungalow @ Senibong Cove,Rent,8500.0,6,6,4971,Hui Lian
+Bungalow @ Senibong Cove,Rent,8500.0,5,5,5000,MICHAEL EE
+Bungalow @ Senibong Cove,Rent,6000.0,5,8,4971,Ang Boon Chai
+Taman Pulai Indah,Sale,420000.0,4,3,1620,Mazurul .
+Taman Pulai Indah,Sale,530000.0,4,3,1723,Kelvin Lee
+Taman Pulai Indah,Sale,465000.0,4,2,1400,Calvin Lee
+Taman Pulai Indah,Sale,390000.0,3,2,1440,Abdul Rashid Chik
+Taman Pulai Indah,Sale,368000.0,3,2,1400,Kelvin Chop
+Taman Pulai Indah,Sale,465000.0,4,2,1400,Tycia Law
+Taman Pulai Indah,Sale,450000.0,4,3,1400,Joshua Song
+Taman Pulai Indah,Sale,488000.0,5,3,1540,YC Fung
+Taman Pulai Indah,Sale,500000.0,4,3,1399,Richard Lim
+Taman Pulai Indah,Sale,390000.0,3,2,1440,Abdul Rashid Chik
+Taman Pulai Indah,Sale,390000.0,3,2,1440,Abdul Rashid Chik
+Taman Pulai Indah,Sale,468000.0,4,2,2700,Ragav Sekar
+Taman Pulai Indah,Sale,558000.0,4,3,2040,Winson Pok
+Taman Pulai Indah,Sale,358000.0,3,2,1400,Winson Pok
+Taman Pulai Indah,Sale,390000.0,3,2,1440,Abdul Rashid Chik
+Taman Pulai Indah,Sale,380000.0,3,2,1400,Tycia Law
+Taman Pulai Indah,Sale,380000.0,3,2,1400,Cherie Chan
+Taman Pulai Indah,Sale,368000.0,3,2,1400,Hong Pang
+Taman Pulai Indah,Sale,348000.0,3,2,770,Ragav Sekar
+Taman Pulai Indah,Sale,395000.0,4,2,1400,Ask Hon
+Taman Pulai Indah,Sale,390000.0,3,2,1440,Abdul Rashid Chik
+Taman Pulai Indah,Sale,699000.0,4,3,1540,Nicholas Ong
+Taman Pulai Indah,Sale,390000.0,3,2,1440,Abdul Rashid Chik
+Taman Pulai Indah,Sale,390000.0,3,2,1440,Abdul Rashid Chik
+Taman Pulai Indah,Sale,558000.0,4,3,2040,Alan Yap
+Taman Pulai Indah,Sale,558000.0,4,4,2040,Wind Chok
+Taman Pulai Indah,Sale,338000.0,3,2,1080,Michelle Fong
+Taman Pulai Indah,Sale,558000.0,4,3,2040,Kelvin Chop
+Taman Pulai Indah,Sale,328000.0,3,3,1080,Winson Pok
+Taman Pulai Indah,Sale,299000.0,3,3,1080,Alan Lin
+Taman Pulai Indah,Sale,390000.0,3,2,1440,Abdul Rashid Chik
+Taman Pulai Indah,Sale,558000.0,4,3,2040,JH Tang
+Taman Pulai Indah,Sale,558000.0,4,3,2040,Jack Ching
+Taman Pulai Indah,Sale,558000.0,4,3,2040,Chiade .
+Taman Pulai Indah,Sale,338000.0,3,2,1200,Fion Choo
+Taman Pulai Indah,Sale,558000.0,4,3,2040,J.P Tiong
+Taman Pulai Indah,Sale,558000.0,4,3,2040,Tycia Law
+Taman Pulai Indah,Sale,530000.0,4,3,3659,Jason Tang
+Taman Pulai Indah,Sale,558000.0,4,3,2040,Eric Seah
+Taman Pulai Indah,Sale,558000.0,4,3,2040,YC Tan
+Taman Pulai Indah,Sale,480000.0,4,3,1540,AIRUL NIZAM
+Taman Pulai Indah,Sale,390000.0,3,2,1440,Abdul Rashid Chik
+Taman Pulai Indah,Sale,390000.0,3,2,1440,Abdul Rashid Chik
+Taman Pulai Indah,Sale,395000.0,4,2,1400,Tycia Law
+Taman Pulai Indah,Sale,395000.0,4,2,1400,Huan Chin Siang
+Taman Pulai Indah,Sale,395000.0,4,2,1400,Jesslyn Foong
+Taman Pulai Indah,Sale,358000.0,3,2,1400,Alex Lee
+Taman Pulai Indah,Sale,390000.0,3,2,1440,Abdul Rashid Chik
+Taman Pulai Indah,Sale,328000.0,3,3,1080,Alan Yap
+Taman Pulai Indah,Sale,848000.0,5,3,6300,YK TAN
+Taman Pulai Indah,Sale,389000.0,4,2,1400,Amber Ma
+Taman Pulai Indah,Sale,368000.0,3,2,1000,Deric Ng
+Taman Pulai Indah,Sale,318000.0,3,2,1400,Alan Lin
+Taman Pulai Indah,Sale,455000.0,4,3,1400,Leo Lee BH
+Taman Pulai Indah,Sale,440000.0,4,2,1400,Ragav Sekar
+Taman Pulai Indah,Sale,440000.0,4,2,1400,KT Yip
+Taman Pulai Indah,Sale,448000.0,4,2,1400,Tycia Law
+Taman Pulai Indah,Sale,400000.0,4,3,1400,Tan Vena
+Taman Pulai Indah,Sale,558000.0,4,3,2270,Kenry Goh
+Taman Pulai Indah,Rent,1600.0,4,3,1440,Miss Shee
+Taman Pulai Indah,Rent,900.0,3,2,1400,Lucas Chong
+Taman Pulai Indah,Rent,1600.0,4,3,1500,Abdul Rashid Chik
+Taman Pulai Indah,Rent,1600.0,4,3,1500,Abdul Rashid Chik
+Taman Pulai Indah,Rent,1600.0,4,3,1500,Abdul Rashid Chik
+Taman Pulai Indah,Rent,1600.0,4,3,1500,Abdul Rashid Chik
+Taman Pulai Indah,Rent,1600.0,4,3,1650,Clarence Jong
+Taman Pulai Indah,Rent,1600.0,4,3,1650,Lucas Chong
+Tranquility Park @ East Ledang,Sale,1800000.0,5,6,3930,Keith Teoh
+Tranquility Park @ East Ledang,Sale,988000.0,5,6,2670,Tan Kai Lun
+Tranquility Park @ East Ledang,Sale,1500000.0,5,5,3714,Mark Mah
+Tranquility Park @ East Ledang,Sale,2000000.0,5,5,3803,Kelfen Ho
+Tranquility Park @ East Ledang,Sale,1380000.0,4,5,3800,Sally Yeok
+Tranquility Park @ East Ledang,Sale,1600000.0,5,4,3920,Jayson Lim
+Tranquility Park @ East Ledang,Sale,1500000.0,5,5,3700,Jayson Lim
+Tranquility Park @ East Ledang,Sale,1300000.0,4,4,3700,Jayson Lim
+Tranquility Park @ East Ledang,Sale,1400000.0,5,5,3800,Ernest Lew
+Tranquility Park @ East Ledang,Sale,1400000.0,Studio,Studio,3465,Ernest Lew
+Tranquility Park @ East Ledang,Sale,1400000.0,4,4,3800,Ernest Lew
+Tranquility Park @ East Ledang,Sale,1400000.0,5,5,4050,Ernest Lew
+Tranquility Park @ East Ledang,Sale,3300000.0,5,6,5100,Ernest Lew
+Tranquility Park @ East Ledang,Sale,2990000.0,4,5,5400,Steve Low
+Tranquility Park @ East Ledang,Sale,1600000.0,5,6,3714,Kelfen Ho
+Tranquility Park @ East Ledang,Sale,1700000.0,5,6,3868,Izril Hafsyam
+Tranquility Park @ East Ledang,Sale,2000000.0,4,5,4200,Hannah Han
+Tranquility Park @ East Ledang,Sale,1700000.0,4,5,3803,Hannah Han
+Tranquility Park @ East Ledang,Sale,1450000.0,4,5,3800,Hannah Han
+Tranquility Park @ East Ledang,Sale,2700000.0,6,6,4753,Wilson Ku
+Tranquility Park @ East Ledang,Sale,2500000.0,5,6,3900,Low Lai Lien
+Tranquility Park @ East Ledang,Sale,2600000.0,5,6,4700,Low Lai Lien
+Tranquility Park @ East Ledang,Sale,3280000.0,5,5,5200,Low Lai Lien
+Tranquility Park @ East Ledang,Sale,1250000.0,5,5,4000,SK GOO
+Tranquility Park @ East Ledang,Sale,1480000.0,5,5,3800,SK GOO
+Tranquility Park @ East Ledang,Sale,1650000.0,5,5,3800,Ken Chai
+Tranquility Park @ East Ledang,Sale,1370000.0,5,5,3800,Christy Lee
+Tranquility Park @ East Ledang,Sale,1350000.0,5,5,3308,Willy Yau
+Tranquility Park @ East Ledang,Sale,5500.0,4,5,4258,Jayson Lim
+Tranquility Park @ East Ledang,Sale,2800000.0,4,4,3990,Oscar Yan
+Tranquility Park @ East Ledang,Sale,1050000.0,4,5,3920,Keith Teoh
+Tranquility Park @ East Ledang,Sale,2600000.0,5,6,5200,Keith Teoh
+Tranquility Park @ East Ledang,Sale,1400000.0,4,5,3800,Deric Ng
+Tranquility Park @ East Ledang,Sale,1950000.0,4,5,3800,SC Cheng
+Tranquility Park @ East Ledang,Sale,1680000.0,4,5,3699,SC Cheng
+Tranquility Park @ East Ledang,Sale,3650000.0,6,6,5223,Val Lee VL
+Tranquility Park @ East Ledang,Sale,2190000.0,4,6,3920,Hannah Han
+Tranquility Park @ East Ledang,Sale,1450000.0,5,5,4000,Deric Ng
+Tranquility Park @ East Ledang,Sale,1750000.0,5,5,3800,Terence Ang
+Tranquility Park @ East Ledang,Sale,1950000.0,6,5,3800,Jack Lee
+Tranquility Park @ East Ledang,Sale,1950000.0,4,5,3800,Jayson Lim
+Tranquility Park @ East Ledang,Sale,3380000.0,5,5,5200,Bk .
+Tranquility Park @ East Ledang,Rent,5000.0,4,5,3300,Kelvin Kong Wren
+Tranquility Park @ East Ledang,Rent,4000.0,4,5,3803,Kelvin Kong Wren
+Tranquility Park @ East Ledang,Rent,15000.0,5,6,12000,Lee Qiu Wen
+Tranquility Park @ East Ledang,Rent,6000.0,4,5,5113,Daniel Loh
+Tranquility Park @ East Ledang,Rent,15000.0,5,6,7500,Jam Chong
+Tranquility Park @ East Ledang,Rent,4200.0,4,5,3700,Along Arshad
+Tranquility Park @ East Ledang,Rent,4500.0,5,6,3900,Low Lai Lien
+Tranquility Park @ East Ledang,Rent,15000.0,5,6,12000,Elyn Lye
+Tranquility Park @ East Ledang,Rent,3500.0,4,5,3920,Hannah Han
+Tranquility Park @ East Ledang,Rent,2600.0,4,4,2800,Kristopher Lee
+Tranquility Park @ East Ledang,Rent,6500.0,5,5,4258,Along Arshad
+Tranquility Park @ East Ledang,Rent,6000.0,4,5,5113,John Loh
+Tranquility Park @ East Ledang,Rent,4200.0,4,5,3699,SC Cheng
+Tranquility Park @ East Ledang,Rent,4000.0,4,5,3800,Hannah Han
+Tranquility Park @ East Ledang,Rent,4300.0,4,5,3500,Angelina Tan
+Tranquility Park @ East Ledang,Rent,4200.0,4,5,3700,Jayson Lim
+Tranquility Park @ East Ledang,Rent,5500.0,6,7,5068,Jacelyn Ng
+Senibong Cove - Isola Grandeur,Sale,3600000.0,6,7,5134,Tan Kai Lun
+Senibong Cove - Isola Grandeur,Sale,3200000.0,5,7,4971,Ben Yo
+Senibong Cove - Isola Grandeur,Sale,2900000.0,6,6,4869,Vyon Chee
+Senibong Cove - Isola Grandeur,Sale,3100000.0,6,7,4543,Andrew Teo
+Senibong Cove - Isola Grandeur,Sale,3600000.0,6,7,5134,Brandon Khor
+Senibong Cove - Isola Grandeur,Sale,3400000.0,5,7,5134,Ang Boon Chai
+Senibong Cove - Isola Grandeur,Sale,3400000.0,5,7,5134,Ym Wong
+Senibong Cove - Isola Grandeur,Sale,3900000.0,5,7,5134,Kelvin Lean
+Senibong Cove - Isola Grandeur,Sale,3400000.0,6,7,5134,Karen Yeo
+Senibong Cove - Isola Grandeur,Sale,3400000.0,6,7,5134,Phoebe Foo
+Senibong Cove - Isola Grandeur,Sale,3000000.0,6,6,4553,Jane Ngoi
+Senibong Cove - Isola Grandeur,Sale,3600000.0,6,7,5134,Jacey Lee
+Senibong Cove - Isola Grandeur,Sale,3600000.0,6,6,5134,Priscilla How
+Senibong Cove - Isola Grandeur,Sale,2900000.0,6,6,4869,Miss Shee
+Senibong Cove - Isola Grandeur,Sale,1650000.0,5,6,3000,Joan Bun
+Senibong Cove - Isola Grandeur,Sale,3100000.0,6,7,5134,Patrick Lai
+Senibong Cove - Isola Grandeur,Sale,4650000.0,6,7,6659,Patrick Lai
+Senibong Cove - Isola Grandeur,Sale,3300000.0,6,7,5225,Shirly Chong
+Senibong Cove - Isola Grandeur,Sale,3400000.0,6,7,5134,Sheirly Puah
+Senibong Cove - Isola Grandeur,Sale,3100000.0,6,7,5225,Jacelyn Ng
+Senibong Cove - Isola Grandeur,Sale,3650000.0,6,7,5134,Max Keng
+Senibong Cove - Isola Grandeur,Sale,3360000.0,5,7,5814,Nicholas Tey
+Senibong Cove - Isola Grandeur,Sale,3200000.0,5,8,6800,Vyon Chee
+Senibong Cove - Isola Grandeur,Sale,4500000.0,6,7,6695,Alfred Then
+Senibong Cove - Isola Grandeur,Sale,3350000.0,6,6,5134,Alfred Then
+Senibong Cove - Isola Grandeur,Sale,4600000.0,6,7,5668,Alfred Then
+Senibong Cove - Isola Grandeur,Sale,3100000.0,5,6,4971,Lauren Chai
+Senibong Cove - Isola Grandeur,Sale,4688000.0,5,7,6659,Lauren Chai
+Senibong Cove - Isola Grandeur,Sale,3400000.0,4,4,5134,Liz Yap
+Senibong Cove - Isola Grandeur,Sale,1880000.0,5,6,4095,Vivco Liang
+Senibong Cove - Isola Grandeur,Sale,1800000.0,5,5,4500,Wil Mong
+Senibong Cove - Isola Grandeur,Sale,2050000.0,6,6,3000,Leo Lee BH
+Senibong Cove - Isola Grandeur,Sale,3400000.0,6,7,5134,Glenn Woo
+Senibong Cove - Isola Grandeur,Sale,2050000.0,6,6,3000,Jesmond Lee
+Senibong Cove - Isola Grandeur,Sale,3000000.0,6,7,4909,Jesmond Lee
+Senibong Cove - Isola Grandeur,Sale,2050000.0,6,6,3000,Eve Hui
+Senibong Cove - Isola Grandeur,Sale,3100000.0,6,7,5134,Patrick Lai
+Senibong Cove - Isola Grandeur,Sale,3580000.0,6,7,6285,Adrian Tham
+Senibong Cove - Isola Grandeur,Sale,3200000.0,6,7,5532,Kinki Teow
+Senibong Cove - Isola Grandeur,Sale,1800000.0,6,7,4272,Eric Wong
+Senibong Cove - Isola Grandeur,Sale,3580000.0,6,6,5134,David Yong
+Senibong Cove - Isola Grandeur,Sale,3400000.0,5,6,5134,Andrew Teo
+Senibong Cove - Isola Grandeur,Sale,3300000.0,6,7,4909,Yvonne Chong
+Senibong Cove - Isola Grandeur,Sale,1880000.0,4,6,3000,Shirley Ho
+Senibong Cove - Isola Grandeur,Rent,5000.0,5,6,3600,Vivian Sim
+Senibong Cove - Isola Grandeur,Rent,5000.0,6,7,3881,Pink Ng
+Senibong Cove - Isola Grandeur,Rent,5000.0,5,5,3881,Tang Wei Kang
+Senibong Cove - Isola Grandeur,Rent,5000.0,6,6,5134,Chloe Ngoi
+Senibong Cove - Isola Grandeur,Rent,8000.0,6,7,5532,Jordan Wong
+Senibong Cove - Isola Grandeur,Rent,6000.0,5,8,5536,Iris Lim
+Senibong Cove - Isola Grandeur,Rent,8200.0,6,7,5532,Fiona Lai
+Senibong Cove - Isola Grandeur,Rent,8500.0,6,7,4869,Ellen Yeap
+Senibong Cove - Isola Grandeur,Rent,5000.0,6,6,3881,Tim Chong
+Senibong Cove - Isola Grandeur,Rent,8000.0,6,7,5532,Kelvin Lean
+Senibong Cove - Isola Grandeur,Rent,8500.0,6,7,4869,Zora Gan
+Senibong Cove - Isola Grandeur,Rent,8500.0,5,6,4971,Jasmine Sin
+Senibong Cove - Isola Grandeur,Rent,8500.0,6,6,4971,Deven Thye
+Senibong Cove - Isola Grandeur,Rent,8500.0,5,6,4971,Rachel See
+Noble Park Grand Pool Villas East Ledang,Sale,3880000.0,5,6,5126,Caroline Lai
+Noble Park Grand Pool Villas East Ledang,Sale,3300000.0,5,7,5200,KK Koh
+Noble Park Grand Pool Villas East Ledang,Sale,3600000.0,5,7,5200,KK Koh
+Noble Park Grand Pool Villas East Ledang,Sale,3500000.0,5,7,5500,YS Chong
+Noble Park Grand Pool Villas East Ledang,Sale,3400000.0,5,6,5500,Kelvin Kong Wren
+Noble Park Grand Pool Villas East Ledang,Sale,4000000.0,4,5,7500,Kelvin Kong Wren
+Noble Park Grand Pool Villas East Ledang,Sale,3700000.0,5,5,5155,Deric Ng
+Noble Park Grand Pool Villas East Ledang,Sale,3300000.0,5,5,5155,Jayson Lim
+Noble Park Grand Pool Villas East Ledang,Sale,3300000.0,5,5,5155,Jayson Lim
+Noble Park Grand Pool Villas East Ledang,Sale,3600000.0,5,5,5162,Jayson Lim
+Noble Park Grand Pool Villas East Ledang,Sale,3650000.0,5,7,5500,Hui San
+Noble Park Grand Pool Villas East Ledang,Sale,4100000.0,6,6,10071,Jack Lee
+Noble Park Grand Pool Villas East Ledang,Sale,3700000.0,6,7,5155,KT Yip
+Noble Park Grand Pool Villas East Ledang,Sale,3700000.0,5,6,5155,Jacelyn Ng
+Noble Park Grand Pool Villas East Ledang,Sale,3700000.0,5,6,5155,Lauren Chai
+Noble Park Grand Pool Villas East Ledang,Sale,3700000.0,5,6,5155,Steve Low
+Noble Park Grand Pool Villas East Ledang,Sale,3500000.0,5,6,5330,Hannah Han
+Noble Park Grand Pool Villas East Ledang,Sale,3550000.0,4,5,5800,Benson NEC
+Noble Park Grand Pool Villas East Ledang,Sale,3650000.0,6,7,5500,Kate Tee
+Noble Park Grand Pool Villas East Ledang,Sale,3180000.0,5,6,5600,Carly Voon
+Noble Park Grand Pool Villas East Ledang,Sale,3300000.0,6,7,5330,Hui San
+Noble Park Grand Pool Villas East Ledang,Sale,3900000.0,5,6,5162,Christine Leong
+Noble Park Grand Pool Villas East Ledang,Sale,3500000.0,6,7,5500,SK GOO
+Noble Park Grand Pool Villas East Ledang,Sale,4500000.0,5,5,5000,SK GOO
+Noble Park Grand Pool Villas East Ledang,Sale,4100000.0,6,6,5155,Jayne Wong
+Noble Park Grand Pool Villas East Ledang,Sale,4000000.0,6,6,5500,Kate Tee
+Noble Park Grand Pool Villas East Ledang,Sale,2780000.0,4,3,4000,Hui San
+Noble Park Grand Pool Villas East Ledang,Sale,1520000.0,5,4,3257,Hui San
+Noble Park Grand Pool Villas East Ledang,Sale,3000000.0,6,6,5162,Hui San
+Noble Park Grand Pool Villas East Ledang,Sale,3500000.0,5,5,5380,Oscar Yan
+Noble Park Grand Pool Villas East Ledang,Sale,2880000.0,6,5,5113,Kelvin Chee
+Noble Park Grand Pool Villas East Ledang,Sale,4100000.0,5,6,5155,Hannah Han
+Noble Park Grand Pool Villas East Ledang,Sale,4280000.0,6,6,5155,Jane Lai
+Noble Park Grand Pool Villas East Ledang,Sale,3450000.0,6,6,5900,Kelvin Chee
+Noble Park Grand Pool Villas East Ledang,Sale,2750000.0,5,5,4656,Kelvin Chee
+Noble Park Grand Pool Villas East Ledang,Sale,4100000.0,5,6,5155,Siming Lim
+Noble Park Grand Pool Villas East Ledang,Sale,3400000.0,5,6,5330,Jayson Lim
+Noble Park Grand Pool Villas East Ledang,Sale,3000000.0,5,6,5408,Hui San
+Noble Park Grand Pool Villas East Ledang,Sale,3800000.0,5,6,5100,Hui San
+Noble Park Grand Pool Villas East Ledang,Sale,3700000.0,6,6,5900,Hui San
+Noble Park Grand Pool Villas East Ledang,Sale,3800000.0,5,6,5223,Jeff Yap
+Noble Park Grand Pool Villas East Ledang,Sale,3250000.0,5,6,5300,Sharon Chong
+Noble Park Grand Pool Villas East Ledang,Sale,3700000.0,6,6,5155,Yvonne Chong
+Noble Park Grand Pool Villas East Ledang,Rent,15000.0,5,5,6000,Caroline Lai
+Noble Park Grand Pool Villas East Ledang,Rent,5000.0,5,5,3300,Hui San
+Noble Park Grand Pool Villas East Ledang,Rent,15000.0,5,5,12000,YS Chong
+Noble Park Grand Pool Villas East Ledang,Rent,16000.0,5,6,7500,C L Chia
+Noble Park Grand Pool Villas East Ledang,Rent,11000.0,5,5,5330,Jayson Lim
+Noble Park Grand Pool Villas East Ledang,Rent,9000.0,5,5,5162,Jack Lee
+Noble Park Grand Pool Villas East Ledang,Rent,15000.0,5,6,12000,Jessica Tiew
+Noble Park Grand Pool Villas East Ledang,Rent,8800.0,6,6,5500,Kate Tee
+Noble Park Grand Pool Villas East Ledang,Rent,7000.0,5,5,5113,Rachel See
+Noble Park Grand Pool Villas East Ledang,Rent,9000.0,5,6,5162,Hannah Han
+Noble Park Grand Pool Villas East Ledang,Rent,9000.0,5,5,5000,SK GOO
+Noble Park Grand Pool Villas East Ledang,Rent,9000.0,5,6,5155,Sharon Chong
+Noble Park Grand Pool Villas East Ledang,Rent,15000.0,5,5,12000,Stephanie Mow
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,5,4,2800,Winson Yap
+Sunway Lenang Heights - Bungalow,Sale,3357000.0,7,6,4535,Sunway JB (City) Sdn Bhd
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,5,4,2800,Sharon Tan
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,7,7,5090,Wil Mong
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,6,6,2934,Eve Hui
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,7,7,4535,collin kuik
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,4,4,2900,Howard Lee
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,6,6,2934,Calvin Wong
+Sunway Lenang Heights - Bungalow,Sale,1880000.0,5,6,3865,Calvin Wong
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,7,7,4535,Shirley Pang
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,7,7,4535,Desmond Lee
+Sunway Lenang Heights - Bungalow,Sale,1900000.0,6,7,3865,Kia .
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,7,7,4535,Brandon Khor
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,6,7,4535,Yuki Cheng
+Sunway Lenang Heights - Bungalow,Sale,1800000.0,5,5,2934,Lynn Wong
+Sunway Lenang Heights - Bungalow,Sale,1800000.0,5,6,2934,Lynn Wong
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,6,6,3200,Shawn Lim
+Sunway Lenang Heights - Bungalow,Sale,1880000.0,5,6,3865,Shawn Lim
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,4,5,2934,Lynn Wong
+Sunway Lenang Heights - Bungalow,Sale,1880000.0,5,6,3865,Rean Goh
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,6,6,2934,ALEX TAN
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,6,6,2934,Brandon Khor
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,5,6,2934,Alicia Voon
+Sunway Lenang Heights - Bungalow,Sale,1880000.0,6,7,3865,Patrick Lai
+Sunway Lenang Heights - Bungalow,Sale,1880000.0,5,6,3865,Calvin Lee
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,7,7,5090,Kia .
+Sunway Lenang Heights - Bungalow,Sale,1880000.0,5,6,3865,Kelly Chong
+Sunway Lenang Heights - Bungalow,Sale,1880000.0,5,6,3865,Alan Tia
+Sunway Lenang Heights - Bungalow,Sale,1880000.0,5,6,3865,Brandon Khor
+Sunway Lenang Heights - Bungalow,Sale,1880000.0,5,6,3865,YC Tan
+Sunway Lenang Heights - Bungalow,Sale,1550000.0,5,6,3865,Hui San
+Sunway Lenang Heights - Bungalow,Sale,1850000.0,6,7,3865,Hui San
+Sunway Lenang Heights - Bungalow,Sale,1900000.0,6,7,3865,Vera Cheong
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,7,7,5090,Vera Cheong
+Sunway Lenang Heights - Bungalow,Sale,1450000.0,5,6,2933,Shasha Ang
+Sunway Lenang Heights - Bungalow,Sale,1800000.0,6,5,2934,Lynn Wong
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,7,7,5090,Philicia Wong
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,6,6,2943,Fang Ling
+Sunway Lenang Heights - Bungalow,Sale,2780000.0,7,7,4535,Alfred Then
+Sunway Lenang Heights - Bungalow,Sale,2680000.0,7,7,5090,Alfred Then
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,7,7,5090,Phoebe Foo
+Sunway Lenang Heights - Bungalow,Sale,1800000.0,5,5,2943,Kia .
+Sunway Lenang Heights - Bungalow,Sale,1880000.0,6,7,3865,Patrick Lai
+Sunway Lenang Heights - Bungalow,Sale,1800000.0,5,6,2934,Fion Choo
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,7,7,5090,Anson Hiong
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,7,7,5090,Philicia Wong
+Sunway Lenang Heights - Bungalow,Sale,1800000.0,5,6,2934,Shirley Pang
+Sunway Lenang Heights - Bungalow,Sale,1800000.0,5,6,2934,Sam Cheng
+Sunway Lenang Heights - Bungalow,Sale,1800000.0,6,6,2934,Liz Yap
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,5,6,2934,Liz Yap
+Sunway Lenang Heights - Bungalow,Sale,1800000.0,4,6,2934,Liz Yap
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,6,6,2934,Alyssa Lim
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,6,7,4535,Alyssa Lim
+Sunway Lenang Heights - Bungalow,Sale,1800000.0,5,6,2934,Cherie Chan
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,6,6,2934,Leo Lee BH
+Sunway Lenang Heights - Bungalow,Sale,1800000.0,5,6,2934,Eve Hui
+Sunway Lenang Heights - Bungalow,Sale,1800000.0,5,6,2934,Rean Goh
+Sunway Lenang Heights - Bungalow,Sale,2100000.0,5,5,3865,Tok CJ
+Sunway Lenang Heights - Bungalow,Sale,1900000.0,5,7,3865,Tok CJ
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,5,6,2934,Alan Tia
+Sunway Lenang Heights - Bungalow,Sale,3000000.0,7,7,4535,Lynn Wong
+Sunway Lenang Heights - Bungalow,Sale,1700000.0,5,6,2943,Lynn Wong
+Sunway Lenang Heights - Bungalow,Sale,2700000.0,7,7,5090,James Ng
+Sunway Lenang Heights - Bungalow,Sale,1680000.0,6,7,3865,Shela Lim
+Sunway Lenang Heights - Bungalow,Sale,1800000.0,5,5,2843,Shela Lim
+Sunway Lenang Heights - Bungalow,Rent,3800.0,4,5,3683,Lynn Wong
+Sunway Lenang Heights - Bungalow,Rent,3800.0,5,6,2934,Josephine Yong
+Sunway Lenang Heights - Bungalow,Rent,3500.0,4,4,2934,Lynn Wong
+Glenmarie Johor,Sale,933300.0,4,4,2600,Benua Kurnia Sdn Bhd
+Glenmarie Johor,Sale,1100000.0,4,4,2600,Rayce Tok
+Glenmarie Johor,Sale,798000.0,5,5,2300,Heston Lai
+Glenmarie Johor,Sale,1084061.0,4,5,2333,Ahmad Zikr
+Glenmarie Johor,Sale,810000.0,5,5,2300,Nicholas Ong
+Glenmarie Johor,Sale,1050000.0,4,3,2191,Philip Book
+Glenmarie Johor,Sale,848300.0,4,4,2429,Karen Yeo
+Bayou Creek @ Leisure Farm,Sale,3000000.0,5,5,5000,Sing Ying
+Bayou Creek @ Leisure Farm,Sale,1888000.0,5,5,3721,Ken Hoe
+Bayou Creek @ Leisure Farm,Sale,2950000.0,6,6,4120,Ken Hoe
+Bayou Creek @ Leisure Farm,Sale,422820.0,4,3,1539,Jeffrey Yau
+Bayou Creek @ Leisure Farm,Sale,2300000.0,5,5,4391,Nicholas Tey
+Bayou Creek @ Leisure Farm,Sale,3500000.0,5,5,4120,Nicholas Tey
+Bayou Creek @ Leisure Farm,Sale,3200000.0,5,6,5000,Nicholas Tey
+Bayou Creek @ Leisure Farm,Sale,3680000.0,6,6,4400,Penny Lee
+Bayou Creek @ Leisure Farm,Sale,3000000.0,5,5,5845,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,3100000.0,5,5,4400,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,3680000.0,5,5,4700,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,2990000.0,5,5,5000,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,3280000.0,5,5,4593,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,3100000.0,5,5,4120,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,2300000.0,5,5,4391,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,1888000.0,4,4,3721,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,1888000.0,4,4,3721,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,3100000.0,5,5,4120,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,3500000.0,5,5,6070,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,2300000.0,5,5,4391,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,2300000.0,5,5,4391,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,2300000.0,5,5,4391,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,3100000.0,5,5,4120,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,1888000.0,4,4,3721,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,2300000.0,5,5,4391,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,3100000.0,5,5,4120,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,2300000.0,5,5,4391,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,2300000.0,5,5,4391,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,2300000.0,5,5,4391,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Sale,3150000.0,6,6,4120,Joaan Eng
+Bayou Creek @ Leisure Farm,Sale,3650000.0,6,6,4400,Chua Yek Shin
+Bayou Creek @ Leisure Farm,Sale,1880000.0,4,4,3721,Jayson Lim
+Bayou Creek @ Leisure Farm,Sale,3280000.0,5,6,6250,Ernest Lew
+Bayou Creek @ Leisure Farm,Sale,10000000.0,9,7,14000,Val Lee VL
+Bayou Creek @ Leisure Farm,Sale,3000000.0,5,5,5000,Victor Tai
+Bayou Creek @ Leisure Farm,Sale,3000000.0,5,5,5000,Victor Tai
+Bayou Creek @ Leisure Farm,Sale,3170000.0,5,5,5500,Angel Lee
+Bayou Creek @ Leisure Farm,Sale,3150000.0,6,6,4120,Jason Tan
+Bayou Creek @ Leisure Farm,Sale,2990000.0,5,5,5000,Lavine Beh
+Bayou Creek @ Leisure Farm,Sale,3150000.0,6,6,4120,Rachel See
+Bayou Creek @ Leisure Farm,Sale,6000000.0,7,8,12000,Hui San
+Bayou Creek @ Leisure Farm,Sale,3150000.0,6,6,4120,Jason Tan
+Bayou Creek @ Leisure Farm,Sale,1888000.0,5,5,3721,Benedict Yap
+Bayou Creek @ Leisure Farm,Sale,3150000.0,6,6,4120,Penny Lee
+Bayou Creek @ Leisure Farm,Sale,3100000.0,5,5,4400,Karen Tan
+Bayou Creek @ Leisure Farm,Sale,2500000.0,5,5,5844,Hui San
+Bayou Creek @ Leisure Farm,Sale,3380000.0,6,6,4600,Derrick Low
+Bayou Creek @ Leisure Farm,Sale,3170000.0,5,5,5500,Angel Lee
+Bayou Creek @ Leisure Farm,Sale,3680000.0,5,6,4500,Ang Boon Chai
+Bayou Creek @ Leisure Farm,Sale,2300000.0,6,5,4391,Victor Tai
+Bayou Creek @ Leisure Farm,Sale,3150000.0,5,6,4120,Jeff Yap
+Bayou Creek @ Leisure Farm,Sale,3270000.0,5,7,4404,Sumi Tio
+Bayou Creek @ Leisure Farm,Sale,1888000.0,4,4,3721,Lily Lo
+Bayou Creek @ Leisure Farm,Sale,2500000.0,5,5,4000,Sumathi NS
+Bayou Creek @ Leisure Farm,Sale,3500000.0,6,6,4120,Sumathi NS
+Bayou Creek @ Leisure Farm,Sale,3200000.0,6,5,5500,Rachel See
+Bayou Creek @ Leisure Farm,Sale,3280000.0,5,6,4404,Nicholas Tey
+Bayou Creek @ Leisure Farm,Sale,1888000.0,4,5,3721,Deric Ng
+Bayou Creek @ Leisure Farm,Sale,2300000.0,5,5,4391,Deric Ng
+Bayou Creek @ Leisure Farm,Sale,1880000.0,5,5,3721,Alfred Then
+Bayou Creek @ Leisure Farm,Sale,2300000.0,6,6,4391,James Ng
+Bayou Creek @ Leisure Farm,Sale,2300000.0,5,5,4391,Deric Ng
+Bayou Creek @ Leisure Farm,Sale,3100000.0,5,5,4400,Jam Chong
+Bayou Creek @ Leisure Farm,Sale,3000000.0,5,5,5000,Jam Chong
+Bayou Creek @ Leisure Farm,Sale,3680000.0,5,5,4700,Jam Chong
+Bayou Creek @ Leisure Farm,Sale,1850000.0,3,3,2203,K.K Lai
+Bayou Creek @ Leisure Farm,Sale,3000000.0,5,5,5000,Doris Your Property Negotiator
+Bayou Creek @ Leisure Farm,Sale,3000000.0,5,5,5000,Brandon Khoo
+Bayou Creek @ Leisure Farm,Sale,522000.0,4,3,1539,Fion Cheong
+Bayou Creek @ Leisure Farm,Sale,3380000.0,5,6,9400,Phoebe Foo
+Bayou Creek @ Leisure Farm,Sale,3580000.0,6,7,6545,Angel Lee
+Bayou Creek @ Leisure Farm,Sale,3280000.0,6,6,4404,Alfred Then
+Bayou Creek @ Leisure Farm,Sale,3000000.0,5,5,5000,Vison Foo
+Bayou Creek @ Leisure Farm,Sale,3000000.0,5,5,5000,MJ Lai
+Bayou Creek @ Leisure Farm,Sale,3000000.0,5,5,5000,Phoebe Foo
+Bayou Creek @ Leisure Farm,Sale,3500000.0,5,6,4120,Sumi Tio
+Bayou Creek @ Leisure Farm,Sale,3000000.0,5,5,5000,Yvonne Chong
+Bayou Creek @ Leisure Farm,Sale,1888000.0,5,5,3721,Evelyn Tan
+Bayou Creek @ Leisure Farm,Sale,1888888.0,5,5,4000,Joan Chia
+Bayou Creek @ Leisure Farm,Sale,1888000.0,5,5,3721,Hui San
+Bayou Creek @ Leisure Farm,Sale,3300000.0,5,6,4120,Jeff Yap
+Bayou Creek @ Leisure Farm,Sale,1888000.0,5,5,3721,YIN YIN
+Bayou Creek @ Leisure Farm,Sale,3000000.0,5,5,5000,Deric Ng
+Bayou Creek @ Leisure Farm,Sale,1850000.0,4,4,3000,Deric Ng
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Sing Ying
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Sing Ying
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,5,4700,Sing Ying
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Deric Ng
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Kelvin Kong Wren
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Sandra Gan
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,James Ng
+Bayou Creek @ Leisure Farm,Rent,7800.0,6,7,4400,Bosco Eng
+Bayou Creek @ Leisure Farm,Rent,4000.0,5,5,3721,Rachel See
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,5,4700,Will Loh
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Grayson Boon
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Steve Low
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,6000,Will Loh
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Phoebe Foo
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Deric Ng
+Bayou Creek @ Leisure Farm,Rent,8000.0,6,6,4391,Hui San
+Bayou Creek @ Leisure Farm,Rent,6000.0,5,5,4600,Vincent Tan
+Bayou Creek @ Leisure Farm,Rent,8000.0,6,6,4600,Victor Tai
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Lavine Beh
+Bayou Creek @ Leisure Farm,Rent,9000.0,6,6,4600,Joy Min
+Bayou Creek @ Leisure Farm,Rent,7800.0,6,7,9400,Jayden Neo
+Bayou Creek @ Leisure Farm,Rent,9000.0,6,6,4600,Tan Bing Yi
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,6,9400,Will Loh
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,6,6500,Ernest Lew
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,5,9500,Sandra Gan
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Sandra Gan
+Bayou Creek @ Leisure Farm,Rent,8300.0,6,6,4391,Tan Bing Yi
+Bayou Creek @ Leisure Farm,Rent,8300.0,5,6,4500,Tan Bing Yi
+Bayou Creek @ Leisure Farm,Rent,7000.0,6,6,4500,Willy Yau
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,5,4500,Deric Ng
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Deric Ng
+Bayou Creek @ Leisure Farm,Rent,4500.0,4,5,3721,Keith Teoh
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,6,9400,Phoebe Foo
+Bayou Creek @ Leisure Farm,Rent,8000.0,6,6,4400,Chua Yek Shin
+Bayou Creek @ Leisure Farm,Rent,9000.0,6,6,4600,Phoebe Foo
+Bayou Creek @ Leisure Farm,Rent,7800.0,6,7,9400,Ivy Tiow
+Bayou Creek @ Leisure Farm,Rent,7800.0,6,7,9400,Kennly Chia
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,6,9400,Vison Foo
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,6,4500,Ang Boon Chai
+Bayou Creek @ Leisure Farm,Rent,6500.0,5,5,5500,Emmanuel Ong
+Bayou Creek @ Leisure Farm,Rent,7800.0,6,7,9400,Jayden Neo
+Bayou Creek @ Leisure Farm,Rent,9000.0,6,6,4600,Tan Bing Yi
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,6,9400,Will Loh
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,6,6500,Ernest Lew
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,5,9500,Sandra Gan
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Sandra Gan
+Bayou Creek @ Leisure Farm,Rent,8300.0,6,6,4391,Tan Bing Yi
+Bayou Creek @ Leisure Farm,Rent,8300.0,5,6,4500,Tan Bing Yi
+Bayou Creek @ Leisure Farm,Rent,7000.0,6,6,4500,Willy Yau
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,5,4500,Deric Ng
+Bayou Creek @ Leisure Farm,Rent,8500.0,5,5,5000,Deric Ng
+Bayou Creek @ Leisure Farm,Rent,4500.0,4,5,3721,Keith Teoh
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,6,9400,Phoebe Foo
+Bayou Creek @ Leisure Farm,Rent,8000.0,6,6,4400,Chua Yek Shin
+Bayou Creek @ Leisure Farm,Rent,9000.0,6,6,4600,Phoebe Foo
+Bayou Creek @ Leisure Farm,Rent,7800.0,6,7,9400,Ivy Tiow
+Bayou Creek @ Leisure Farm,Rent,7800.0,6,7,9400,Kennly Chia
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,6,9400,Vison Foo
+Bayou Creek @ Leisure Farm,Rent,8000.0,5,6,4500,Ang Boon Chai
+Bayou Creek @ Leisure Farm,Rent,6500.0,5,5,5500,Emmanuel Ong
+Regent's Park @ East Ledang,Sale,2990000.0,5,5,5400,Darren .
+Regent's Park @ East Ledang,Sale,2990000.0,4,5,5400,Grayson Boon
+Regent's Park @ East Ledang,Sale,2980000.0,6,5,5113,Rachel See
+Regent's Park @ East Ledang,Sale,1700000.0,6,6,3868,AFDZAL ZULLAH MAHAMED SALLEH
+Regent's Park @ East Ledang,Sale,2187000.0,6,6,8460,Fion Cheong
+Regent's Park @ East Ledang,Sale,1450000.0,5,5,3500,Hui San
+Regent's Park @ East Ledang,Rent,7000.0,6,6,5108,Val Lee VL
+Regent's Park @ East Ledang,Rent,8000.0,6,6,5500,Val Lee VL
+Regent's Park @ East Ledang,Rent,6000.0,4,5,5200,Alex How
+Regent's Park @ East Ledang,Rent,15000.0,5,6,7500,Rachel See
+Regent's Park @ East Ledang,Rent,6000.0,4,5,6000,Alex How
+Regent's Park @ East Ledang,Rent,9000.0,5,5,5000,SK GOO
+Regent's Park @ East Ledang,Rent,15000.0,5,6,7500,Vera Cheong
+Regent's Park @ East Ledang,Rent,8000.0,5,6,5600,Oscar Yan
+Regent's Park @ East Ledang,Rent,8000.0,6,6,5120,Oscar Yan
