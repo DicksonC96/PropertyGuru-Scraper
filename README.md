@@ -26,7 +26,7 @@ Condo Property Price in KL (updated monthly): https://datastudio.google.com/s/iD
 - Currently supports state and property type filters only (ping me if you need more precise/personalized filters)
 - Strictly for educational purposes only.
 - Any suggestions/collabs are very much welcomed!
-- [Condo-KL price datasets](https://github.com/DicksonC96/PropertyGuru-Scraper/tree/main/data) (sampled every first day of the month)
+- [Property price datasets](https://github.com/DicksonC96/PropertyGuru-Scraper/tree/main/data) (sampled every first day of the month)
 
 ### How to scrape myself?
 1. Download [data-scraper-v2alpha.py](https://raw.githubusercontent.com/DicksonC96/PropertyGuru-Scraper/main/data-scraper-v2alpha.py) (right-click and download).
