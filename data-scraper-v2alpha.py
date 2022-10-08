@@ -177,7 +177,7 @@ def argparser():
 def main():
     
     # Load first page with Query and scrape no. of pages
-    print('\n===================================================\nPropertyGuru Property Listing Scraper v2.3-alpha\nAuthor: DicksonC\n===================================================\n')
+    print('\n===================================================\nPropertyGuru Property Listing Scraper v2.4-alpha\nAuthor: DicksonC\n===================================================\n')
     time.sleep(2)
     print('Job initiated with query on {} in {}.'.format(TYPE, STATE))
     print('\nLoading '+HEADER+KEY+QUERY+' ...\n')
@@ -219,6 +219,10 @@ def main():
         # Result into DataFrame and Analysis
         df = pd.DataFrame(data, columns=['PropertyName','Type','Price','Bedrooms','Bathrooms','Sqft','Author'])
 
+        # Check if data directory exists
+        if not os.path.isdir(LIST_DIR):
+            os.makedirs(LIST_DIR)
+
         # Check exising data and combine
         if os.path.exists(RAW_LISTING):
             if not error_flag:
@@ -236,12 +240,20 @@ def main():
         # Result into DataFrame and Analysis
         df = pd.DataFrame(data, columns=['PropertyName','Type','Price','Bedrooms','Bathrooms','Sqft','Author'])
 
+        # Check if data directory exists
+        if not os.path.isdir(LIST_DIR):
+            os.makedirs(LIST_DIR)
+
         # Raw data saved to file
         df.to_csv(RAW_LISTING, index=False)
         print('INCOMPLETE raw data saved to {}'.format(RAW_LISTING))
         exit(1)
 
     else:
+        # Check if hash directory exists
+        if not os.path.isdir(HASH_DIR):
+            os.makedirs(HASH_DIR)
+
         md5hash(RAW_LISTING, MD5HASH)
 
 if __name__ == "__main__":
@@ -250,7 +262,9 @@ if __name__ == "__main__":
     args = argparser()
     MARKET, TYPE, STATE= args.Market, args.Type, args.State
     
-    # Initialize filenames (leave empty if not generating):
+    # Initialize filenames (leave empty if not generating)
+    LIST_DIR = './data/{}'.format(date.today().strftime("%b%Y"))
+    HASH_DIR = './md5hash/{}'.format(date.today().strftime("%b%Y"))
     RAW_LISTING = './data/{}/{}-{}-{}-listing.csv'.format(date.today().strftime("%b%Y"),TYPE,STATE,date.today().strftime("%b%Y"))
     MD5HASH = './md5hash/{}/{}-{}-{}-listing.md5'.format(date.today().strftime("%b%Y"),TYPE,STATE,date.today().strftime("%b%Y"))
 
