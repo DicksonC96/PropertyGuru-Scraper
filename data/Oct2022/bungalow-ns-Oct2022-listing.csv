@@ -1,0 +1,136 @@
+PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+Green Beverly Hills,Sale,450000.0,3,2,1816,Kian Leap
+Green Beverly Hills,Sale,480000.0,3,2,1044,Chrix Soo
+Green Beverly Hills,Sale,2400000.0,6,6,5000,Chrix Soo
+Green Beverly Hills,Sale,640000.0,4,3,1816,Chrix Soo
+Green Beverly Hills,Sale,440000.0,3,2,1077,Chrix Soo
+Green Beverly Hills,Sale,560000.0,3,2,1596,Chrix Soo
+Green Beverly Hills,Sale,320000.0,2,2,932,Chrix Soo
+Green Beverly Hills,Sale,300000.0,2,2,951,Chrix Soo
+Green Beverly Hills,Sale,600000.0,3,3,1816,Chrix Soo
+Green Beverly Hills,Sale,600000.0,3,3,1816,Athena Cho
+Green Beverly Hills,Sale,310500.0,3,2,958,Jason Tang
+Green Beverly Hills,Sale,2000000.0,6,6,4000,Rasyadan Hussin
+Green Beverly Hills,Sale,310500.0,2,2,958,Jack Chia
+Green Beverly Hills,Sale,320000.0,2,2,932,Athena Cho
+Green Beverly Hills,Sale,2400000.0,6,6,5000,Athena Cho
+Green Beverly Hills,Sale,440000.0,3,2,1077,Athena Cho
+Green Beverly Hills,Sale,560000.0,3,3,1596,Athena Cho
+Green Beverly Hills,Sale,640000.0,4,3,1816,Athena Cho
+Green Beverly Hills,Sale,300000.0,2,2,951,Athena Cho
+Green Beverly Hills,Sale,480000.0,3,2,1044,Athena Cho
+Green Beverly Hills,Sale,360000.0,2,2,721,P M Chan
+Green Beverly Hills,Rent,1500.0,2,2,940,Jeffrey Yap
+Green Beverly Hills,Rent,1350.0,2,2,952,Jason Lii
+Green Beverly Hills,Rent,1500.0,2,2,940,Jeffrey Yap
+Green Beverly Hills,Rent,1700.0,2,2,932,Muhammad Hazim Bin Ismail
+Green Beverly Hills,Rent,1200.0,2,2,952,Chrix Soo
+Green Beverly Hills,Rent,1200.0,2,2,952,Athena Cho
+Green Beverly Hills,Rent,1900.0,3,3,1816,Chrix Soo
+Green Beverly Hills,Rent,1900.0,3,3,1816,Athena Cho
+Green Beverly Hills,Rent,1500.0,2,2,940,Jeffrey Yap
+Green Beverly Hills,Rent,2200.0,3,2,1596,Michael Ooi
+Green Beverly Hills,Rent,1800.0,3,2,1077,Michael Ooi
+Green Beverly Hills,Rent,1500.0,2,2,940,Jeffrey Yap
+Green Beverly Hills,Rent,1500.0,2,2,932,Danny Shoa
+Green Beverly Hills,Rent,1500.0,2,2,940,Jeffrey Yap
+Green Beverly Hills,Rent,1700.0,2,2,952,Firdhaus Roslan
+Green Beverly Hills,Rent,1600.0,2,2,932,Firdhaus Roslan
+Green Beverly Hills,Rent,2000.0,3,2,1596,Firdhaus Roslan
+Green Beverly Hills,Rent,1500.0,2,2,940,Jeffrey Yap
+Kota Seriemas,Sale,750000.0,4,3,2228,Muhammad Fahid Fitlla
+Kota Seriemas,Sale,1590000.0,6,7,3666,Muhd Fahmie
+Kota Seriemas,Sale,280000.0,,,5600,Adilah Adib
+Kota Seriemas,Sale,280000.0,,,5600,Mohamad Hafiz Abdul Basher
+Kota Seriemas,Sale,460000.0,4,3,2200,Anas Ashaari
+Kota Seriemas,Sale,700000.0,4,4,3387,Mohd Syazwan
+Kota Seriemas,Sale,274000.0,,,4983,Adilah Adib
+Kota Seriemas,Sale,700000.0,4,4,1930,Mohamad Khaidir Shah Md Razak
+Kota Seriemas,Sale,490000.0,4,4,1727,NoorisHaris .
+Kota Seriemas,Sale,1590000.0,6,7,3666,Shamzjoe .
+Kota Seriemas,Sale,650000.0,3,4,2000,Alif Saad
+Kota Seriemas,Sale,750000.0,4,3,2228,Syahmi Khadari
+Kota Seriemas,Sale,1400000.0,5,6,4517,Muhammad Hafidz
+Kota Seriemas,Sale,890000.0,4,3,2228,Ahmad Fadlee
+Kota Seriemas,Sale,249000.0,,,5200,Norhuda Ab Rahman
+Kota Seriemas,Sale,650000.0,3,4,1680,Fikri Yasmin
+Kota Seriemas,Sale,750000.0,4,4,2000,Wan Rafizal
+Kota Seriemas,Sale,470000.0,4,4,1620,Chrix Soo
+Kota Seriemas,Sale,1590000.0,6,7,3666,Mh Haffiz
+Kota Seriemas,Sale,870000.0,4,3,2500,Ahmad Fikri Amer Hamzah
+Kota Seriemas,Sale,1590000.0,6,7,3666,Mohd Syazwan
+Kota Seriemas,Sale,460000.0,4,3,2200,Najibah Sahari
+Kota Seriemas,Sale,460000.0,4,3,2200,Yasmin Sulaiman
+Kota Seriemas,Sale,1600000.0,6,7,3866,Nadirah Azmi .
+Kota Seriemas,Sale,1750000.0,6,7,3650,Zarif Zahisham
+Kota Seriemas,Sale,525000.0,3,3,1540,Ainun Duyal
+Kota Seriemas,Sale,525000.0,3,3,1540,Aini Rafiqah
+Kota Seriemas,Sale,525000.0,3,3,1540,mohd zamri mohd duyalmi
+Kota Seriemas,Sale,470000.0,4,4,1620,Athena Cho
+Kota Seriemas,Sale,485000.0,4,4,2600,Connie Lim
+Kota Seriemas,Sale,870000.0,4,3,2228,Rahman Isa
+Kota Seriemas,Sale,750000.0,4,3,2228,Afiq Anuar
+Kota Seriemas,Sale,888000.0,5,5,3200,Ahmad Fikri Amer Hamzah
+Kota Seriemas,Sale,270000.0,,,4981,Zafran Ederis
+Kota Seriemas,Rent,3500.0,4,5,3330,Jemmy Rohani
+Kota Seriemas,Rent,3500.0,4,4,3000,Tango Balraj
+Bandar Sri Sendayan,Sale,1480000.0,5,7,4598,Xann Chua
+Bandar Sri Sendayan,Sale,460000.0,4,4,2600,Justin Lim
+Bandar Sri Sendayan,Sale,365000.0,4,4,1765,Jason Tang
+Bandar Sri Sendayan,Sale,3200000.0,6,5,7049,Alex Lee
+Bandar Sri Sendayan,Sale,450000.0,4,3,2590,Maizura binti Mohd Darus
+Bandar Sri Sendayan,Sale,485000.0,4,2,2800,NORASHID BIN ALIAS
+Bandar Sri Sendayan,Sale,2050000.0,5,6,5800,Siti Nurhaliza
+Bandar Sri Sendayan,Sale,360888.0,4,4,3000,Danny Wong
+Bandar Sri Sendayan,Sale,379000.0,4,3,1400,Khairul Nizam
+Bandar Sri Sendayan,Sale,669000.0,4,4,1386,Khadijah Zakaria
+Bandar Sri Sendayan,Sale,600000.0,4,4,2720,Muhammad Danial
+Bandar Sri Sendayan,Sale,580000.0,4,4,2720,TAMIL MARAN SINATHAMBY
+Bandar Sri Sendayan,Sale,750000.0,4,4,2680,Jason Tang
+Bandar Sri Sendayan,Sale,405000.0,4,4,1647,Jason Tang
+Bandar Sri Sendayan,Sale,488000.0,4,4,1760,CK Ng
+Bandar Sri Sendayan,Sale,432000.0,4,4,2600,Jason Tang
+Bandar Sri Sendayan,Sale,478000.0,4,4,1760,Jason Tang
+Bandar Sri Sendayan,Sale,421200.0,4,4,2564,Jason Tang
+Bandar Sri Sendayan,Sale,379080.0,4,4,2250,Jason Tang
+Bandar Sri Sendayan,Sale,432000.0,4,4,1765,Jason Tang
+Bandar Sri Sendayan,Sale,508410.0,4,4,2354,Aiman Aqilah
+Bandar Sri Sendayan,Sale,525000.0,4,4,2200,Chrix Soo
+Bandar Sri Sendayan,Sale,425000.0,3,2,1120,Muhammad Taufeeq
+Bandar Sri Sendayan,Sale,368888.0,4,4,2200,Stephanie Wong
+Bandar Sri Sendayan,Sale,600000.0,4,4,3120,Khadijah Zakaria
+Bandar Sri Sendayan,Sale,365000.0,4,3,1765,Vivian Chang
+Bandar Sri Sendayan,Sale,414000.0,4,3,1647,Vivian Chang
+Bandar Sri Sendayan,Sale,306000.0,3,2,1400,Vivian Chang
+Bandar Sri Sendayan,Sale,288000.0,3,2,3627,Vivian Chang
+Bandar Sri Sendayan,Sale,798000.0,4,4,2550,Danny Shoa
+Bandar Sri Sendayan,Sale,470000.0,4,3,1700,Mohamad Hanafi
+Bandar Sri Sendayan,Sale,359397.0,4,3,1765,Emily .
+Bandar Sri Sendayan,Sale,525000.0,4,4,2200,Athena Cho
+Bandar Sri Sendayan,Sale,544000.0,4,4,2315,Alex Lee
+Bandar Sri Sendayan,Sale,444905.0,4,3,2174,Alex Lee
+Bandar Sri Sendayan,Sale,635000.0,4,4,2833,Khadijah Zakaria
+Bandar Sri Sendayan,Sale,630000.0,4,4,1760,Yeo Chin Lay
+Bandar Sri Sendayan,Sale,590000.0,4,3,2807,Yeo Chin Lay
+Bandar Sri Sendayan,Sale,365000.0,4,4,1765,Jason Tang
+Bandar Sri Sendayan,Sale,444908.0,4,3,2174,Alex Lee
+Bandar Sri Sendayan,Sale,544000.0,4,4,2315,Alex Lee
+Bandar Sri Sendayan,Sale,544000.0,4,4,2315,Alex Lee
+Bandar Sri Sendayan,Sale,480000.0,4,3,1650,Abdul Rahim
+Bandar Sri Sendayan,Sale,310000.0,3,2,1000,Arif Halim
+Bandar Sri Sendayan,Sale,470000.0,4,3,2236,Khadijah Zakaria
+Bandar Sri Sendayan,Sale,635000.0,4,4,2833,Khadijah Zakaria
+Bandar Sri Sendayan,Sale,544000.0,4,4,2315,Alex Lee
+Bandar Sri Sendayan,Sale,440000.0,4,4,2615,Billy Chan
+Bandar Sri Sendayan,Sale,500000.0,4,4,2398,Sean Lo
+Bandar Sri Sendayan,Sale,445000.0,4,4,2600,Connie Lim
+Bandar Sri Sendayan,Sale,10000000.0,Studio,Studio,33000,Y.L. Yong
+Bandar Sri Sendayan,Sale,255000.0,3,2,1400,Mohd Syazwan
+Bandar Sri Sendayan,Sale,250000.0,3,2,767,Rena Rahman
+Bandar Sri Sendayan,Sale,680000.0,4,4,2720,Suraj Singh
+Bandar Sri Sendayan,Sale,960000.0,4,4,2720,Suraj Singh
+Bandar Sri Sendayan,Sale,260000.0,3,2,1400,Abdul Rahim
+Bandar Sri Sendayan,Sale,318000.0,3,2,1400,FARIS AZIZ
+Bandar Sri Sendayan,Rent,2800.0,4,4,2775,BC Lee
+Bandar Sri Sendayan,Rent,1280.0,4,3,2200,Alvin Tang
+Bandar Sri Sendayan,Rent,1200.0,4,4,2800,Desmond Tan
