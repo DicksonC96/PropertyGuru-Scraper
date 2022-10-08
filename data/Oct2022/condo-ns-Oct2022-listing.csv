@@ -1,0 +1,170 @@
+PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+Apartment Nilai Perdana,Sale,90000.0,3,2,680,Levin Khoo
+Apartment Nilai Perdana,Sale,140000.0,3,2,750,Horace Cheah
+Apartment Nilai Perdana,Sale,85100.0,3,2,750,Jack Chia
+Apartment Nilai Perdana,Sale,130000.0,3,2,750,Taufiq Azlan
+Apartment Nilai Perdana,Sale,130000.0,3,2,750,Najah .
+Apartment Nilai Perdana,Sale,140000.0,3,2,750,Horace Cheah
+Apartment Nilai Perdana,Sale,140000.0,3,2,750,Horace Cheah
+Apartment Nilai Perdana,Sale,175000.0,4,2,658,William Ng
+Apartment Nilai Perdana,Sale,150000.0,3,2,750,Aiman Zain
+Apartment Nilai Perdana,Sale,165000.0,3,2,750,Izzat Ibrahim
+Apartment Nilai Perdana,Sale,165000.0,3,2,750,Razif Salim
+Casa Prima Apartments,Sale,99000.0,3,1,818,Emily .
+Casa Prima Apartments,Sale,125000.0,3,2,800,Katty Soon
+Casa Prima Apartments,Sale,130000.0,3,2,800,Katty Soon
+Casa Prima Apartments,Sale,159000.0,1,1,1100,Chong Yuen Kiong
+Casa Prima Apartments,Sale,165000.0,1,1,635,Chong Yuen Kiong
+Seroja Apartment (Taman Tasik Jaya),Sale,80000.0,3,1,646,Jack Chia
+Seroja Apartment (Taman Tasik Jaya),Sale,80000.0,3,2,646,Jason Tang
+Seroja Apartment (Taman Tasik Jaya),Sale,80000.0,3,1,646,Jack Chia
+Sri Palma Villa,Sale,140000.0,3,2,1020,Shahrul Nizam Salehudin
+Sri Palma Villa,Sale,85000.0,3,3,1020,P M Chan
+Sri Palma Villa,Sale,100000.0,3,3,1020,Ahmad Fadlee
+Sri Palma Villa,Sale,27000.0,3,3,1020,P M Chan
+Residensi Lili,Sale,193000.0,2,2,735,Vivian Chang
+Residensi Lili,Sale,193000.0,2,2,735,Chai .
+Residensi Lili,Sale,193185.0,2,2,735,Jack Chia
+Residensi Lili,Sale,193185.0,3,2,735,Khoo .
+Residensi Lili,Sale,277000.0,3,2,920,Alan Ho
+Residensi Lili,Sale,277530.0,3,2,920,Jason Tang
+Residensi Lili,Sale,214650.0,3,2,735,Jason Tang
+Residensi Lili,Sale,380000.0,3,2,735,Khairun Anwar
+Residensi Lili,Sale,249777.0,3,2,920,Jeffrey Yau
+Residensi Lili,Sale,370000.0,3,2,735,Mohd Azhar
+Residensi Lili,Sale,300000.0,2,2,735,Chrix Soo
+Residensi Lili,Sale,277000.0,3,2,920,Gary Chow
+Residensi Lili,Sale,277530.0,4,2,920,Jack Chia
+Residensi Lili,Sale,214000.0,2,2,735,Chai .
+Residensi Lili,Sale,300000.0,2,2,735,Athena Cho
+Residensi Lili,Sale,368000.0,2,2,735,Mr Teoh .
+Residensi Lili,Sale,290000.0,3,2,725,Azila .
+Residensi Lili,Sale,370000.0,3,2,735,Najibah Sahari
+Residensi Lili,Sale,238500.0,3,2,735,Yeong .
+Residensi Lili,Sale,238000.0,2,2,735,Chai .
+Residensi Lili,Sale,308000.0,4,2,920,CY Leong
+Residensi Lili,Sale,308367.0,3,2,920,Jack Chia
+Residensi Lili,Sale,238500.0,2,2,735,Jack Chia
+Residensi Lili,Sale,316000.0,2,2,735,Aileen Teng
+Residensi Lili,Rent,1250.0,3,2,735,Mike Tan
+Residensi Lili,Rent,1300.0,2,2,735,Mr Teoh .
+Residensi Lili,Rent,1300.0,2,2,735,Mr Teoh .
+Residensi Lili,Rent,1900.0,3,2,930,Mr Teoh .
+Residensi Lili,Rent,999.0,3,2,752,Jayden Chek
+Residensi Lili,Rent,1000.0,2,2,735,Chrix Soo
+Residensi Lili,Rent,1000.0,2,2,735,Athena Cho
+Residensi Lili,Rent,1000.0,2,2,735,Chrix Soo
+Residensi Lili,Rent,1000.0,2,2,735,Athena Cho
+Residensi Lili,Rent,1450.0,3,2,735,Jemmy Rohani
+Residensi Lili,Rent,1400.0,4,2,1096,Steven Cheng
+Residensi Lili,Rent,1300.0,3,2,735,Chong Yuen Kiong
+Residensi Lili,Rent,1300.0,3,2,735,Steven Cheng
+Garden Villa 1 Apartment @ Senawang,Sale,250000.0,3,2,1000,Zafran Ederis
+Garden Villa 1 Apartment @ Senawang,Sale,240000.0,3,2,1000,Nabeel Othman
+Garden Villa 1 Apartment @ Senawang,Sale,350000.0,3,2,1000,BC Lee
+Garden Villa 1 Apartment @ Senawang,Sale,280000.0,3,2,980,Khadijah Zakaria
+Garden Villa 1 Apartment @ Senawang,Sale,275000.0,3,2,980,Khadijah Zakaria
+Garden Villa 1 Apartment @ Senawang,Sale,300000.0,3,2,997,BC Lee
+"MesaHill, Putra Nilai",Sale,180000.0,1,1,350,Selina Tee
+"MesaHill, Putra Nilai",Sale,167000.0,Studio,Studio,350,Mike Tan
+"MesaHill, Putra Nilai",Sale,278000.0,2,1,650,DILLA -
+"MesaHill, Putra Nilai",Sale,265000.0,2,2,650,Joseph Ling
+"MesaHill, Putra Nilai",Sale,270000.0,2,1,460,Mike Tan
+"MesaHill, Putra Nilai",Sale,320000.0,2,2,650,BC Lee
+"MesaHill, Putra Nilai",Sale,361300.0,2,2,554,Ainin Sofiya
+"MesaHill, Putra Nilai",Sale,272500.0,1,1,380,Ainin Sofiya
+"MesaHill, Putra Nilai",Sale,990.0,2,1,650,Mike Tan
+"MesaHill, Putra Nilai",Sale,280000.0,2,1,650,Chrix Soo
+"MesaHill, Putra Nilai",Sale,210000.0,2,1,450,Chrix Soo
+"MesaHill, Putra Nilai",Sale,230000.0,2,1,450,Chrix Soo
+"MesaHill, Putra Nilai",Sale,285000.0,2,2,720,Chrix Soo
+"MesaHill, Putra Nilai",Sale,330000.0,3,2,850,Chrix Soo
+"MesaHill, Putra Nilai",Sale,165000.0,1,1,350,Chrix Soo
+"MesaHill, Putra Nilai",Sale,270000.0,2,1,650,Chrix Soo
+"MesaHill, Putra Nilai",Sale,250000.0,2,1,450,Chrix Soo
+"MesaHill, Putra Nilai",Sale,170000.0,1,1,350,Chrix Soo
+"MesaHill, Putra Nilai",Sale,260000.0,2,2,650,Chrix Soo
+"MesaHill, Putra Nilai",Sale,163000.0,1,1,350,Wiliam Lim
+"MesaHill, Putra Nilai",Sale,205000.0,2,2,555,Kingsly Yap
+"MesaHill, Putra Nilai",Sale,2000.0,1,1,380,William Tan
+"MesaHill, Putra Nilai",Sale,280000.0,2,2,720,Jemmy Rohani
+"MesaHill, Putra Nilai",Sale,200000.0,1,1,350,Jemmy Rohani
+"MesaHill, Putra Nilai",Sale,290000.0,2,2,450,Jemmy Rohani
+"MesaHill, Putra Nilai",Sale,290000.0,2,2,650,Jemmy Rohani
+"MesaHill, Putra Nilai",Sale,290000.0,2,2,650,Jemmy Rohani
+"MesaHill, Putra Nilai",Sale,350000.0,3,2,850,Jemmy Rohani
+"MesaHill, Putra Nilai",Sale,280000.0,2,2,650,Jemmy Rohani
+"MesaHill, Putra Nilai",Sale,210000.0,2,2,450,Jemmy Rohani
+"MesaHill, Putra Nilai",Sale,175000.0,1,1,350,Jemmy Rohani
+"MesaHill, Putra Nilai",Sale,178000.0,Studio,Studio,350,Coo Lee
+"MesaHill, Putra Nilai",Sale,280000.0,2,1,650,Athena Cho
+"MesaHill, Putra Nilai",Sale,285000.0,2,2,720,Athena Cho
+"MesaHill, Putra Nilai",Sale,230000.0,2,1,450,Athena Cho
+"MesaHill, Putra Nilai",Sale,330000.0,3,2,850,Athena Cho
+"MesaHill, Putra Nilai",Sale,260000.0,2,1,650,Athena Cho
+"MesaHill, Putra Nilai",Sale,170000.0,1,1,350,Athena Cho
+"MesaHill, Putra Nilai",Sale,270000.0,2,1,650,Athena Cho
+"MesaHill, Putra Nilai",Sale,250000.0,2,1,450,Athena Cho
+"MesaHill, Putra Nilai",Sale,210000.0,2,1,450,Athena Cho
+"MesaHill, Putra Nilai",Sale,165000.0,1,1,350,Athena Cho
+"MesaHill, Putra Nilai",Sale,280000.0,2,2,720,Goh Wan Keat
+"MesaHill, Putra Nilai",Sale,190000.0,1,1,350,Christine Tan
+"MesaHill, Putra Nilai",Sale,190000.0,1,1,350,Christine Tan
+"MesaHill, Putra Nilai",Sale,270000.0,2,1,650,Mr Teoh .
+"MesaHill, Putra Nilai",Sale,329888.0,3,2,720,Chong Yuen Kiong
+"MesaHill, Putra Nilai",Sale,170000.0,1,1,350,Chong Yuen Kiong
+"MesaHill, Putra Nilai",Sale,280000.0,2,2,650,FT Lim
+"MesaHill, Putra Nilai",Sale,433800.0,4,4,2600,Eddy .
+"MesaHill, Putra Nilai",Sale,290000.0,1,1,460,Rachel Lim
+"MesaHill, Putra Nilai",Rent,1200.0,2,2,720,Selina Tee
+"MesaHill, Putra Nilai",Rent,1100.0,2,2,650,Mr Teoh .
+"MesaHill, Putra Nilai",Rent,1500.0,3,2,850,Chrix Soo
+"MesaHill, Putra Nilai",Rent,1500.0,3,2,850,Athena Cho
+"MesaHill, Putra Nilai",Rent,1100.0,3,2,650,Chrix Soo
+"MesaHill, Putra Nilai",Rent,1100.0,2,1,650,Athena Cho
+"MesaHill, Putra Nilai",Rent,800.0,1,1,350,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,1200.0,2,2,720,Ahmad Sharqawwi Abdul Kapor
+"MesaHill, Putra Nilai",Rent,750.0,1,1,350,Michelle Hui
+"MesaHill, Putra Nilai",Rent,1200.0,2,2,720,Mr Teoh .
+"MesaHill, Putra Nilai",Rent,800.0,Studio,Studio,350,Chrix Soo
+"MesaHill, Putra Nilai",Rent,1000.0,2,1,460,Chrix Soo
+"MesaHill, Putra Nilai",Rent,1000.0,2,1,460,Athena Cho
+"MesaHill, Putra Nilai",Rent,800.0,Studio,Studio,350,Athena Cho
+"MesaHill, Putra Nilai",Rent,1300.0,2,2,720,May Tai
+"MesaHill, Putra Nilai",Rent,800.0,Studio,Studio,350,Selina Tee
+"MesaHill, Putra Nilai",Rent,1200.0,2,2,720,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,750.0,Studio,Studio,350,Chrix Soo
+"MesaHill, Putra Nilai",Rent,750.0,Studio,Studio,350,Athena Cho
+"MesaHill, Putra Nilai",Rent,1300.0,2,2,720,Jenny YM Lee
+"MesaHill, Putra Nilai",Rent,800.0,1,1,350,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,950.0,2,2,450,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,750.0,1,1,350,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,990.0,2,1,650,Mike Tan
+"MesaHill, Putra Nilai",Rent,999.0,2,2,650,Jayden Chek
+"MesaHill, Putra Nilai",Rent,1000.0,2,1,650,Chrix Soo
+"MesaHill, Putra Nilai",Rent,1200.0,1,1,460,Chrix Soo
+"MesaHill, Putra Nilai",Rent,1199.0,2,2,720,Jayden Chek
+"MesaHill, Putra Nilai",Rent,899.0,2,1,450,Jayden Chek
+"MesaHill, Putra Nilai",Rent,1199.0,2,2,720,Jayden Chek
+"MesaHill, Putra Nilai",Rent,1100.0,2,2,650,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,1100.0,2,2,720,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,1000.0,2,2,720,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,1000.0,2,1,450,Mike Tan
+"MesaHill, Putra Nilai",Rent,1200.0,2,2,720,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,1200.0,2,1,460,Athena Cho
+"MesaHill, Putra Nilai",Rent,1000.0,2,1,650,Athena Cho
+"MesaHill, Putra Nilai",Rent,900.0,2,1,650,Mike Tan
+"MesaHill, Putra Nilai",Rent,800.0,1,1,350,Mike Tan
+"MesaHill, Putra Nilai",Rent,800.0,1,1,350,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,800.0,1,1,350,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,1300.0,2,2,720,Ahmad Sharqawwi Abdul Kapor
+"MesaHill, Putra Nilai",Rent,1200.0,2,2,650,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,1300.0,2,2,720,Chong Yuen Kiong
+"MesaHill, Putra Nilai",Rent,800.0,1,1,350,Chong Yuen Kiong
+"MesaHill, Putra Nilai",Rent,1988.0,3,3,1085,Chong Yuen Kiong
+"MesaHill, Putra Nilai",Rent,1300.0,2,2,720,Mike Tan
+"MesaHill, Putra Nilai",Rent,1050.0,2,1,450,Mike Tan
+"MesaHill, Putra Nilai",Rent,1200.0,2,2,650,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,800.0,1,1,350,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,1400.0,3,3,1050,Jemmy Rohani
+"MesaHill, Putra Nilai",Rent,1000.0,2,2,650,Jemmy Rohani
