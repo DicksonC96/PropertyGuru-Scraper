@@ -1,0 +1,128 @@
+PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+Ramin Apartment,Sale,320000.0,1,1,600,Ernest Chuah
+Ramin Apartment,Sale,693120.0,3,2,1216,Cindy Siew
+Ramin Apartment,Sale,410000.0,1,1,700,Elisa Bong
+Ramin Apartment,Sale,380000.0,1,1,630,Elisa Bong
+Ramin Apartment,Sale,315000.0,1,1,600,Elisa Bong
+Ramin Apartment,Sale,335000.0,1,1,600,Kelvin Ho
+Ramin Apartment,Sale,320000.0,1,1,602,Angie Ng
+Villa Indah @ Bukit Tinggi Pahang,Sale,230000.0,2,1,450,HONG .
+Villa Indah @ Bukit Tinggi Pahang,Sale,338000.0,3,2,850,Lay Kien
+Villa Indah @ Bukit Tinggi Pahang,Sale,400000.0,3,3,1205,Jenny Kong
+Villa Indah @ Bukit Tinggi Pahang,Sale,355000.0,3,3,1200,Jenny Kong
+Villa Indah @ Bukit Tinggi Pahang,Sale,338000.0,3,2,850,Jenny Kong
+Villa Indah @ Bukit Tinggi Pahang,Sale,330000.0,3,2,850,Jennifer Yap
+Villa Indah @ Bukit Tinggi Pahang,Sale,345000.0,3,2,850,Jenny Kong
+Villa Indah @ Bukit Tinggi Pahang,Sale,335000.0,3,2,850,Jenny Kong
+Villa Indah @ Bukit Tinggi Pahang,Sale,295000.0,2,2,850,Jenny Kong
+Villa Indah @ Bukit Tinggi Pahang,Sale,345000.0,3,2,850,Jenny Kong
+Villa Indah @ Bukit Tinggi Pahang,Sale,295000.0,3,2,850,Jenny Kong
+Villa Indah @ Bukit Tinggi Pahang,Sale,345000.0,3,2,850,Jenny Kong
+Villa Indah @ Bukit Tinggi Pahang,Sale,330000.0,3,2,850,Zack Tan
+Villa Indah @ Bukit Tinggi Pahang,Sale,440000.0,3,3,1507,Shirley Sai
+Villa Indah @ Bukit Tinggi Pahang,Sale,300000.0,3,2,850,Azwan Hassan
+Villa Indah @ Bukit Tinggi Pahang,Rent,1250.0,3,2,850,Jenny Kong
+Villa Indah @ Bukit Tinggi Pahang,Rent,1200.0,3,3,1400,Jenny Kong
+Villa Indah @ Bukit Tinggi Pahang,Rent,1900.0,3,3,1600,Jenny Kong
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Eugene Yap
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Stephanie Tan
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,2,500,Benjamin Lai
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,800,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,2,500,Benjamin Lai
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,2,500,Benjamin Lai
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Jonathan Raj
+Grand Ion Majestic @ Genting Highlands,Sale,950000.0,2,2,850,Bryan Gan
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,2,500,Benjamin Lai
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,2,500,Benjamin Lai
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,1,1,320,Ryon Chow
+Grand Ion Majestic @ Genting Highlands,Sale,2395000.0,3,3,1500,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,800,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Benjamin Lai
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,2,500,Benjamin Lai
+Grand Ion Majestic @ Genting Highlands,Sale,960000.0,3,2,870,Brian .
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,800,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,2395110.0,3,3,1500,Yoki .
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Eugene .
+Grand Ion Majestic @ Genting Highlands,Sale,970000.0,2,2,870,OC Ong
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,800,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,770000.0,2,1,635,P M Chan
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Eugene .
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Eugene .
+Grand Ion Majestic @ Genting Highlands,Sale,480000.0,Studio,Studio,380,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,780,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,780,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,800,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,870000.0,2,2,866,Dave Tan
+Grand Ion Majestic @ Genting Highlands,Sale,829000.0,2,2,1060,Tan Kian Aun
+Grand Ion Majestic @ Genting Highlands,Sale,599000.0,Studio,Studio,460,Tan Kian Aun
+Grand Ion Majestic @ Genting Highlands,Sale,1060000.0,3,2,800,Ryon Chow
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Eugene Yap
+Grand Ion Majestic @ Genting Highlands,Sale,829000.0,2,2,1060,Bryan Gan
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,480000.0,Studio,Studio,380,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,780,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,513920.0,1,1,380,Victor Chin
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,800,Raymond Ng
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Raymond Ng
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Raymond Ng
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,320,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,1,1,320,Ryon Chow
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,800,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,480000.0,Studio,Studio,380,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,780,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,480000.0,Studio,Studio,380,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,780,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,800,Yahoo Wong
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Yahoo Wong
+Grand Ion Majestic @ Genting Highlands,Sale,450000.0,Studio,Studio,380,Yahoo Wong
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,800,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Ryon Chow
+Grand Ion Majestic @ Genting Highlands,Sale,1060000.0,3,2,800,Ryon Chow
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,800,Desley Wan
+Grand Ion Majestic @ Genting Highlands,Sale,480000.0,Studio,Studio,380,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,700000.0,2,1,500,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Sale,1050000.0,3,2,780,Chris Tye
+Grand Ion Majestic @ Genting Highlands,Rent,5999.0,2,2,850,Bryan Gan
+Grand Ion Majestic @ Genting Highlands,Rent,6000.0,2,2,870,Jeff Kuon
+Kuantan Tembeling Resort Condominium,Sale,380000.0,2,2,1200,George Lee
+Kuantan Tembeling Resort Condominium,Sale,265000.0,1,1,1200,George Lee
+Kuantan Tembeling Resort Condominium,Rent,4800.0,3,2,1300,SR Eric
+Kuantan Tembeling Resort Condominium,Rent,2500.0,2,2,1000,SR Eric
+Kuantan Tembeling Resort Condominium,Rent,2500.0,2,2,1000,George Lee
+"Genting View, Genting Highlands",Sale,450000.0,2,2,850,Gaily Tay
+"Genting View, Genting Highlands",Sale,430000.0,2,2,800,Cindy Siew
+"Genting View, Genting Highlands",Sale,480795.0,4,3,958,Cindy Siew
+"Genting View, Genting Highlands",Sale,386365.0,1,1,581,Cindy Siew
+"Genting View, Genting Highlands",Sale,439999.0,2,2,684,Jeff Siow
+"Genting View, Genting Highlands",Sale,930000.0,1,1,520,Jimmy Teng
+"Genting View, Genting Highlands",Sale,700000.0,3,2,1060,Jennifer Yap
+"Genting View, Genting Highlands",Sale,318000.0,1,1,630,Angie Ng
+"Genting View, Genting Highlands",Sale,580000.0,3,2,1050,Allan Foo
+"Genting View, Genting Highlands",Sale,950000.0,2,2,870,Jeff Kuon
+"Genting View, Genting Highlands",Sale,420000.0,1,1,600,Allan Foo
+"Genting View, Genting Highlands",Sale,664620.0,3,2,1141,Cindy Siew
+"Genting View, Genting Highlands",Sale,8000000.0,10,5,8500,Allan Foo
+"Genting View, Genting Highlands",Sale,350000.0,1,1,600,Cindy Siew
+"Genting View, Genting Highlands",Sale,1000000.0,4,3,2131,Jennifer Yap
+"Genting View, Genting Highlands",Rent,2600.0,3,2,1066,Cindy Siew
+"Genting View, Genting Highlands",Rent,2600.0,3,2,1066,Cindy Siew
+"Genting View, Genting Highlands",Rent,2600.0,3,2,750,Flory Leong
+"Genting View, Genting Highlands",Rent,2800.0,3,2,1065,Tanny Tong
