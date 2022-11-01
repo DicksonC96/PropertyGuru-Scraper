@@ -1,0 +1,43 @@
+PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+Bandar Laguna Merbok,Sale,340000.0,4,3,2000,Eliz Kho
+Bandar Laguna Merbok,Sale,380000.0,4,3,1400,Fahmi Yahaya
+Bandar Laguna Merbok,Sale,300000.0,3,3,1800,Yvnee Hang
+Bandar Laguna Merbok,Sale,400000.0,4,3,2000,Yvnee Hang
+Bandar Laguna Merbok,Sale,450000.0,4,3,1800,Hosiang .
+Bandar Laguna Merbok,Sale,450000.0,4,3,1800,Yvnee Hang
+Bandar Laguna Merbok,Sale,400000.0,4,3,2000,Hosiang .
+Bandar Laguna Merbok,Sale,580000.0,4,3,2400,Muhd Hanif
+Bandar Laguna Merbok,Sale,370000.0,4,3,1800,Derrick Ng
+Bandar Laguna Merbok,Sale,650000.0,4,3,3200,Ika Cumie Property
+Bandar Laguna Merbok,Sale,395000.0,4,4,1776,Fahmi Yahaya
+Bandar Laguna Merbok,Sale,450000.0,3,3,1800,Nor Mazira
+Bandar Laguna Merbok,Sale,3000000.0,6,6,4200,Derrick Ng
+Bandar Laguna Merbok,Sale,2100000.0,5,4,3300,Derrick Ng
+Bandar Laguna Merbok,Sale,650000.0,4,3,2400,Derrick Ng
+Bandar Laguna Merbok,Sale,1000000.0,4,4,3000,Derrick Ng
+Bandar Laguna Merbok,Sale,360000.0,4,3,2200,Derrick Ng
+Bandar Laguna Merbok,Sale,380000.0,4,3,1800,Derrick Ng
+Bandar Laguna Merbok,Sale,385000.0,4,3,1400,Shahrol Ariffin
+Bandar Laguna Merbok,Sale,300000.0,3,3,1800,Derrick Ng
+Bandar Laguna Merbok,Sale,570000.0,5,3,2500,Haziq Hasri
+Bandar Laguna Merbok,Sale,800000.0,6,4,3600,Akmal Rafidi
+Bandar Laguna Merbok,Sale,600000.0,3,4,2300,Muhd Hanif
+Bandar Laguna Merbok,Sale,360000.0,4,3,1800,Zainur Zihan
+Bandar Laguna Merbok,Sale,360000.0,4,3,1400,Nur Azie
+Legenda Heights,Sale,675000.0,5,3,1215,Sim Chee Ming
+Legenda Heights,Sale,680000.0,6,3,2800,Hafiz Adib
+Legenda Heights,Sale,780000.0,6,4,5442,Derrick Ng
+Legenda Heights,Sale,898000.0,6,3,2600,Derrick Ng
+Legenda Heights,Sale,530000.0,4,3,2500,Derrick Ng
+Legenda Heights,Sale,888000.0,5,3,2800,Derrick Ng
+Legenda Heights,Sale,560000.0,4,3,3000,Derrick Ng
+Roseville @ Sungai Petani,Sale,599000.0,5,5,2520,Derrick Ng
+Roseville @ Sungai Petani,Sale,680000.0,4,3,2500,Mohd Safuan Sidin
+Roseville @ Sungai Petani,Sale,480000.0,4,2,1760,Daniel Pang Wee Han
+Roseville @ Sungai Petani,Sale,450000.0,4,3,1430,Derrick Ng
+Roseville @ Sungai Petani,Sale,645000.0,5,5,3500,Kamal Md Akhir
+Roseville @ Sungai Petani,Sale,500000.0,4,3,1625,Afiq Akmal La’anain
+"Taman Seroja, Kulim",Sale,650000.0,5,3,800,Zainizan Abdullah
+"Taman Seroja, Kulim",Sale,650000.0,5,3,6318,Fahmi Yahaya
+"Taman Seroja, Kulim",Rent,24000.0,Studio,Studio,80000,Lissa Ooi
+"Taman Kenanga, Kulim",Sale,1200000.0,1,1,1000,Lissa Ooi
