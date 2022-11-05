@@ -38,7 +38,9 @@ jobs:
       run: |
         git config --local user.name github-actions
         git config --local user.email "action@github.com"
+        git stash
         git pull
+        git stash pop
         git add data/*.csv
         git add md5hash/*.md5
         if [[ $(git diff-index --cached HEAD) ]]; then
