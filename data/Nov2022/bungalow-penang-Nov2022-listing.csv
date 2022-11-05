@@ -1,7 +1,124 @@
 PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+Vista Jambul,Sale,1430000.0,5,4,3030,Mervyn Seah
+Vista Jambul,Sale,2700000.0,7,7,5355,Zhonl Saw Boon Loong
+Vista Jambul,Sale,2280000.0,5,4,3200,Zhonl Saw Boon Loong
+Vista Jambul,Sale,1350000.0,5,4,2780,Zhonl Saw Boon Loong
+Vista Jambul,Sale,1350000.0,5,4,3020,Siang .
+Vista Jambul,Sale,1300000.0,5,5,2780,Alex Cheah
+Vista Jambul,Sale,1350000.0,5,5,3520,Steven Hng
+Vista Jambul,Sale,1300000.0,6,5,2780,Jeff Ooi
+Vista Jambul,Sale,2300000.0,7,7,3289,William Mag
+Vista Jambul,Sale,1300000.0,6,5,2780,Mervyn Seah
+Vista Jambul,Sale,1350000.0,5,4,3020,Siang .
+Vista Jambul,Sale,1300000.0,5,4,3020,Alston Loh
+Vista Jambul,Sale,1430000.0,5,6,3020,Alston Loh
+Vista Jambul,Sale,1350000.0,5,5,3520,Jeff Teh
+Vista Jambul,Sale,1430000.0,5,4,3030,Mervyn Seah
+Vista Jambul,Sale,1350000.0,5,5,3520,Hong .
+Vista Jambul,Sale,1280000.0,5,5,3520,Joan .
+Vista Jambul,Sale,1350000.0,5,5,2780,Desmond .
+Vista Jambul,Sale,1350000.0,5,5,2780,Xinnee .
+Vista Jambul,Sale,1300000.0,5,5,2780,Alex Cheah
+Vista Jambul,Sale,1260000.0,5,4,2780,Siang .
+Cypress Villa @ Sungai Ara,Sale,1870000.0,5,5,4000,Carson Chuah
+Cypress Villa @ Sungai Ara,Sale,1807000.0,5,5,3692,Zhonl Saw Boon Loong
+Cypress Villa @ Sungai Ara,Sale,2500000.0,5,5,4100,Alex Cheah
+Cypress Villa @ Sungai Ara,Sale,2115800.0,5,4,4000,Yumi Ong
+Cypress Villa @ Sungai Ara,Sale,2500000.0,5,5,4090,Zhonl Saw Boon Loong
+Cypress Villa @ Sungai Ara,Sale,1903000.0,5,4,3700,Jonathan Chng
+Cypress Villa @ Sungai Ara,Sale,2550000.0,5,5,4100,Tavyi Poh
+Cypress Villa @ Sungai Ara,Sale,2550000.0,5,6,4100,Serena Neoh
+Cypress Villa @ Sungai Ara,Sale,2500000.0,6,5,4100,Zhonl Saw Boon Loong
+Taman Indah @ Bukit Tengah,Sale,460000.0,4,3,1800,Leesa Cheah
+Taman Indah @ Bukit Tengah,Sale,850000.0,4,3,2250,Lynda Tai
+Solok Bukit Jambul,Sale,1600000.0,4,4,4020,Pei Hong
+Solok Bukit Jambul,Sale,1800000.0,4,3,3000,Zhonl Saw Boon Loong
+Solok Bukit Jambul,Sale,950000.0,4,3,1668,Vallen Teo
+11 Brook Residences,Sale,7000000.0,6,6,5500,Andrew Ng
+11 Brook Residences,Sale,17500000.0,8,4,5000,Irene Goh
+11 Brook Residences,Sale,7000000.0,5,6,5500,Yihang Lim
+Asia Hills,Sale,2200000.0,6,4,4887,Yonii Tan
+Asia Hills,Sale,2200000.0,6,4,4887,Yonii Tan
+Asia Hills,Sale,1750000.0,5,4,4000,Jia Yong
+Asia Hills,Sale,2200000.0,6,5,3900,Dillon Tan
+Asia Hills,Sale,2200000.0,6,6,3900,Bryan Teng
+Asia Hills,Sale,2800000.0,6,6,4300,Bryan Teng
+Asia Hills,Sale,1820000.0,5,4,4000,Jia Yong
+Asia Hills,Sale,1690000.0,5,4,4000,Jia Yong
+Asia Hills,Sale,1860000.0,5,5,4000,Kingslee .
+Asia Hills,Sale,1860000.0,5,5,4000,Kingslee .
+Asia Hills,Sale,2350000.0,7,7,5387,Caiwei Chew
+Asia Hills,Sale,2800000.0,6,6,4300,Ming Ho
+Asia Hills,Sale,1860000.0,5,5,4000,Kingslee .
+Asia Hills,Sale,1790000.0,6,5,4086,Hao Tan
+Asia Hills,Sale,2800000.0,5,7,4900,Pei Hong
+Asia Hills,Sale,1860000.0,5,5,4700,Zhonl Saw Boon Loong
+Asia Hills,Sale,1860000.0,5,4,4000,Jia Yong
+Asia Hills,Sale,2200000.0,6,5,5351,WK Yam
+Asia Hills,Sale,2800000.0,6,6,4300,Dylan Lee
+Asia Hills,Sale,2270000.0,6,5,3900,Alex Cheah
+Asia Hills,Sale,1860000.0,5,4,4000,Jia Yong
+Asia Hills,Rent,4900.0,6,5,4086,Hao Tan
+Asia Hills,Rent,6000.0,5,5,3900,Anders Ong
+Asia Hills,Rent,4400.0,6,5,3900,Alison Chng
+Asia Hills,Rent,5000.0,6,5,5351,WK Yam
+Permatang Sanctuary,Sale,850000.0,4,3,2112,Quinn Beh
+Permatang Sanctuary,Sale,860000.0,4,3,2112,Quinn Beh
+Permatang Sanctuary,Sale,1100000.0,4,4,2861,Quinn Beh
+Permatang Sanctuary,Sale,738000.0,4,3,3136,Celine Tan
+Permatang Sanctuary,Sale,950000.0,4,3,1800,Jovine Ng
+Permatang Sanctuary,Sale,950000.0,4,3,2100,Jonathan Chng
+Permatang Sanctuary,Sale,860000.0,4,3,2100,Jonathan Chng
+Permatang Sanctuary,Sale,980000.0,4,3,1800,Jovine Ng
+Permatang Sanctuary,Sale,1200000.0,5,4,2400,Jovine Ng
+Permatang Sanctuary,Sale,750000.0,4,3,1840,Siang Lim
+Permatang Sanctuary,Sale,1100000.0,4,3,2000,Quinn Beh
+Permatang Sanctuary,Sale,1050000.0,4,3,2134,Ellyn Tee
+Permatang Sanctuary,Sale,978000.0,4,3,1840,Ellyn Tee
+Permatang Sanctuary,Sale,820000.0,4,3,2112,Danny Ch'ng
+Permatang Sanctuary,Sale,1000000.0,4,3,2200,Quinn Beh
+Permatang Sanctuary,Rent,1800.0,4,3,1900,Grace Sim
+Medan York @ Georgetown,Sale,3880000.0,6,7,6069,CT CHAI
+Medan York @ Georgetown,Sale,3950000.0,7,8,6068,Amos Sin
+Medan York @ Georgetown,Sale,2800000.0,4,3,3500,Amos Sin
+Medan York @ Georgetown,Sale,6000000.0,6,6,4000,Amos Sin
+Medan York @ Georgetown,Sale,6000000.0,4,3,4200,Elaine Ooi
+Medan York @ Georgetown,Sale,5800000.0,5,3,4500,Elaine Ooi
+Medan York @ Georgetown,Sale,3300000.0,6,6,6010,Lissa Ooi
+Medan York @ Georgetown,Sale,2000000.0,5,3,2578,Alisson Chew
+Medan York @ Georgetown,Sale,3990000.0,7,9,4500,Welson Teh
+Medan York @ Georgetown,Sale,5800000.0,6,6,4000,Fennie Seow
+Medan York @ Georgetown,Sale,12250000.0,8,5,24500,CT CHAI
+Medan York @ Georgetown,Sale,10500000.0,5,4,20500,CT CHAI
+Medan York @ Georgetown,Sale,6000000.0,6,6,4000,Allen Yeoh
+Medan York @ Georgetown,Rent,5800.0,6,6,4000,Irene Goh
+Medan York @ Georgetown,Rent,2700.0,4,4,2200,Eric Tan
+Juru Villa,Sale,1150000.0,5,3,3060,Nicol Tan
+Juru Villa,Sale,1288888.0,6,5,3900,Aaron Quah
+Juru Villa,Sale,1200000.0,6,5,4750,Aaron Quah
+Fettes Park,Sale,1100000.0,4,2,2000,Sharon Goay
+Fettes Park,Sale,3600000.0,4,2,3000,Steven Hng
+Fettes Park,Sale,680000.0,3,2,1000,Steven Hng
+Fettes Park,Sale,1000000.0,3,1,1100,Sunny Tan
+Fettes Park,Sale,1450000.0,5,3,1700,Pei Hoon
+Fettes Park,Sale,998000.0,3,2,1700,Max Tay
+Fettes Park,Sale,770000.0,3,1,1000,Alex Cheah
+Fettes Park,Sale,825000.0,3,2,1050,Alex Cheah
+Fettes Park,Sale,1780000.0,4,3,4300,Anna Koay
+Fettes Park,Sale,1900000.0,5,5,2400,Hong .
+Fettes Park,Sale,1900000.0,5,5,2400,Ivan Chia
+Fettes Park,Sale,1900000.0,5,5,2400,Jin Lim
+Fettes Park,Sale,1900000.0,4,3,2700,CT CHAI
+Fettes Park,Sale,1180000.0,4,2,3499,CT CHAI
+Fettes Park,Sale,1300000.0,3,2,2600,CT CHAI
+Fettes Park,Sale,1288000.0,3,2,3475,CT CHAI
+Fettes Park,Sale,1680000.0,4,3,3776,CT CHAI
+Fettes Park,Sale,910000.0,3,2,1600,Alisson Chew
+Fettes Park,Sale,825000.0,3,2,1200,Ivan Chia
+Fettes Park,Rent,2800.0,4,2,4000,KH Lim
 Richmont Residences,Sale,1080000.0,6,7,2700,Swee Xiong
-Richmont Residences,Sale,1080000.0,6,7,2700,Kenny Ooi
 Richmont Residences,Sale,1100000.0,6,7,2700,Weng Sern
+Richmont Residences,Sale,1080000.0,6,7,2700,Kenny Ooi
 Richmont Residences,Sale,1150000.0,6,7,2700,Zhonl Saw Boon Loong
 Richmont Residences,Sale,1200000.0,5,5,2700,Zhonl Saw Boon Loong
 Richmont Residences,Sale,1080000.0,6,7,2700,Max Tay
@@ -39,6 +156,26 @@ Richmont Residences,Sale,1080000.0,6,7,2700,Jia Yong
 Richmont Residences,Sale,1100000.0,6,7,2700,Zhonl Saw Boon Loong
 Richmont Residences,Rent,2800.0,6,7,2700,Suzanne Ang
 Richmont Residences,Rent,2200.0,6,7,2700,Kevin Lim
+Straits View,Sale,4220000.0,7,8,6000,Nicholas Tey
+Straits View,Rent,8000.0,6,5,8000,Taylor Leslie
+Beverly Heights,Sale,1950000.0,6,5,3800,Aimi Zamzuri
+Beverly Heights,Sale,2794500.0,5,5,5900,Allen .
+Beverly Heights,Sale,2300000.0,5,5,3500,Nadia Rahim
+Beverly Heights,Sale,2000000.0,7,8,5728,Izzat Ibrahim
+Beverly Heights,Sale,3500000.0,7,7,6900,Nadirah Azmi .
+Beverly Heights,Sale,1850000.0,7,5,3400,Izzat Ibrahim
+Beverly Heights,Sale,2200000.0,6,7,4900,Peter Chuah
+Beverly Heights,Sale,1900000.0,6,7,4000,Peter Chuah
+Beverly Heights,Sale,4916000.0,6,6,8737,Lim Eunice
+Beverly Heights,Sale,6064000.0,6,7,8737,Lim Eunice
+Beverly Heights,Sale,2794500.0,5,5,5900,Alan Ho
+Beverly Heights,Sale,2794000.0,6,6,5900,Jarvis Wong
+Beverly Heights,Sale,4916000.0,5,7,8614,Fibo Law
+Beverly Heights,Sale,2794500.0,6,6,5900,Brendan Phuah
+Beverly Heights,Sale,4950000.0,4,6,6500,Joshua Ong
+Beverly Heights,Sale,5500000.0,5,7,8614,Stephan Yeoh
+Beverly Heights,Sale,4830000.0,5,7,8737,Nigel Cheon
+Ferringhi Villa,Sale,2200000.0,4,3,4200,Arissa Phuan
 Ferringhi Villa,Sale,1580000.0,5,4,4000,Felicia Poh
 Ferringhi Villa,Sale,2280000.0,5,2,3280,Mable Ong
 Ferringhi Villa,Sale,2280000.0,4,4,3500,Dave Soon
@@ -96,8 +233,6 @@ Ferringhi Villa,Sale,1580000.0,5,2,2200,Ivan Chia
 Ferringhi Villa,Sale,1550000.0,4,3,4100,Loh CL
 Ferringhi Villa,Sale,2600000.0,4,5,4000,Serena Neoh
 Ferringhi Villa,Sale,2450000.0,5,2,3280,Jeya Shah
-Ferringhi Villa,Sale,1600000.0,4,2,2440,Kenneth Kung
-Ferringhi Villa,Sale,1600000.0,4,2,2440,Kenneth Kung
 Ferringhi Villa,Rent,3200.0,4,4,3500,Dave Soon
 Ferringhi Villa,Rent,4000.0,3,3,2500,Rex Tung
 Ferringhi Villa,Rent,2800.0,4,3,2000,Winnie Lim
@@ -112,216 +247,3 @@ Ferringhi Villa,Rent,3500.0,3,3,3450,Jeff Teh
 Ferringhi Villa,Rent,2800.0,4,3,2900,Danick Teoh
 Ferringhi Villa,Rent,4500.0,6,6,4000,KK Kwok
 Ferringhi Villa,Rent,3000.0,3,3,2400,Jeya Shah
-Botanica.CT Botanica 5C Bungalow,Sale,1350000.0,6,5,3500,Edric Ong
-Botanica.CT Botanica 5C Bungalow,Sale,670000.0,4,3,2000,Shahrul Osman
-Fettes Park,Sale,1100000.0,4,2,2000,Sharon Goay
-Fettes Park,Sale,3600000.0,4,2,3000,Steven Hng
-Fettes Park,Sale,680000.0,3,2,1000,Steven Hng
-Fettes Park,Sale,1000000.0,3,1,1100,Sunny Tan
-Fettes Park,Sale,1450000.0,5,3,1700,Pei Hoon
-Fettes Park,Sale,998000.0,3,2,1700,Max Tay
-Fettes Park,Sale,770000.0,3,1,1000,Alex Cheah
-Fettes Park,Sale,825000.0,3,2,1050,Alex Cheah
-Fettes Park,Sale,1780000.0,4,3,4300,Anna Koay
-Fettes Park,Sale,1900000.0,5,5,2400,Hong .
-Fettes Park,Sale,1900000.0,5,5,2400,Ivan Chia
-Fettes Park,Sale,1900000.0,5,5,2400,Jin Lim
-Fettes Park,Sale,1900000.0,4,3,2700,CT CHAI
-Fettes Park,Sale,1180000.0,4,2,3499,CT CHAI
-Fettes Park,Sale,1300000.0,3,2,2600,CT CHAI
-Fettes Park,Sale,1288000.0,3,2,3475,CT CHAI
-Fettes Park,Sale,1680000.0,4,3,3776,CT CHAI
-Fettes Park,Sale,910000.0,3,2,1600,Alisson Chew
-Fettes Park,Sale,825000.0,3,2,1200,Ivan Chia
-Fettes Park,Rent,2800.0,4,2,4000,KH Lim
-BM Highland,Sale,560000.0,5,5,2791,Lim Jin Hong
-BM Highland,Sale,680000.0,4,3,2349,Nick Lim
-BM Highland,Sale,560000.0,,,12000,Shan Yeow
-BM Highland,Sale,1094800.0,6,4,5296,H'ng Vince
-BM Highland,Sale,690000.0,5,3,2767,H'ng Vince
-BM Highland,Sale,530000.0,5,5,2791,Bryan Ong
-SA65 @ Taman Perdana (Bungalow House),Sale,1228000.0,5,5,4500,Elson Dee
-SA65 @ Taman Perdana (Bungalow House),Sale,1228080.0,5,5,4500,Edwin Ong
-SA65 @ Taman Perdana (Bungalow House),Sale,1428000.0,5,5,4500,Suzzane Lee
-SA65 @ Taman Perdana (Bungalow House),Sale,1380000.0,4,4,5500,Peter Yeoh
-Baymont Residence,Sale,2600000.0,5,5,1715,Scott Seow
-Baymont Residence,Rent,6500.0,6,7,4457,Ashley Tan
-11 Brook Residences,Sale,7000000.0,6,6,5500,Andrew Ng
-11 Brook Residences,Sale,17500000.0,8,4,5000,Irene Goh
-11 Brook Residences,Sale,7000000.0,5,6,5500,Yihang Lim
-Vista Jambul,Sale,2700000.0,7,7,5355,Zhonl Saw Boon Loong
-Vista Jambul,Sale,2280000.0,5,4,3200,Zhonl Saw Boon Loong
-Vista Jambul,Sale,1350000.0,5,4,2780,Zhonl Saw Boon Loong
-Vista Jambul,Sale,1350000.0,5,4,3020,Siang .
-Vista Jambul,Sale,1300000.0,5,5,2780,Alex Cheah
-Vista Jambul,Sale,1350000.0,5,5,3520,Steven Hng
-Vista Jambul,Sale,1300000.0,6,5,2780,Jeff Ooi
-Vista Jambul,Sale,2300000.0,7,7,3289,William Mag
-Vista Jambul,Sale,1300000.0,6,5,2780,Mervyn Seah
-Vista Jambul,Sale,1350000.0,5,4,3020,Siang .
-Vista Jambul,Sale,1300000.0,5,4,3020,Alston Loh
-Vista Jambul,Sale,1430000.0,5,6,3020,Alston Loh
-Vista Jambul,Sale,1350000.0,5,5,3520,Jeff Teh
-Vista Jambul,Sale,1430000.0,5,4,3030,Mervyn Seah
-Vista Jambul,Sale,1350000.0,5,5,3520,Hong .
-Vista Jambul,Sale,1280000.0,5,5,3520,Joan .
-Vista Jambul,Sale,1350000.0,5,5,2780,Desmond .
-Vista Jambul,Sale,1350000.0,5,5,2780,Xinnee .
-Vista Jambul,Sale,1300000.0,5,5,2780,Alex Cheah
-Vista Jambul,Sale,1260000.0,5,4,2780,Siang .
-Vista Jambul,Sale,1300000.0,5,5,2780,Li Fang
-Vista Jambul,Sale,1300000.0,5,5,2780,Matthew Png
-Summerhill Villas,Sale,1215000.0,5,5,2400,Allen .
-Summerhill Villas,Sale,1215000.0,5,5,2400,Alan Ho
-Summerhill Villas,Sale,1500000.0,6,5,3150,Alex Cheah
-Summerhill Villas,Sale,1215000.0,5,4,2400,Sunny Lok
-Summerhill Villas,Sale,1500000.0,6,5,3150,Zhonl Saw Boon Loong
-Summerhill Villas,Sale,1800000.0,5,5,3485,Victor Ch'ng
-Summerhill Villas,Sale,1800000.0,5,5,3485,Allen Yeoh
-Summerhill Villas,Rent,3500.0,5,5,3485,Max Lee
-Summerhill Villas,Rent,3500.0,5,5,2800,Yvonne Loh
-Summerhill Villas,Rent,3500.0,5,5,3485,Kenny Lee Chung Chern
-Summerhill Villas,Rent,3500.0,6,5,3150,Koay Xin Ying
-Setia Pearl Villa,Sale,3280000.0,5,5,3500,Bernard Koay
-Setia Pearl Villa,Sale,3100000.0,5,6,6577,Alex Cheah
-Setia Pearl Villa,Sale,3200000.0,5,6,6577,Alex Cheah
-Setia Pearl Villa,Sale,3900000.0,5,6,6577,Alex Cheah
-Setia Pearl Villa,Sale,3100000.0,4,6,6577,Jayden Tan
-Setia Pearl Villa,Sale,3280000.0,5,5,3500,Bernard Koay
-Setia Pearl Villa,Sale,3100000.0,5,6,6577,Alex Cheah
-Setia Pearl Villa,Sale,3200000.0,5,6,6577,Alex Cheah
-Setia Pearl Villa,Sale,3900000.0,5,6,6577,Alex Cheah
-Setia Pearl Villa,Sale,3280000.0,4,6,6577,Jake Khoo
-Setia Pearl Villa,Sale,3280000.0,5,5,3500,Bernard Koay
-Setia Pearl Villa,Sale,3100000.0,4,6,6577,Jayden Tan
-Setia Pearl Villa,Sale,3100000.0,4,5,6577,Janice Ooi
-Setia Pearl Villa,Sale,3280000.0,4,6,6577,Edwin Ng
-Setia Pearl Villa,Sale,3300000.0,5,6,6577,Fennie Seow
-Setia Pearl Villa,Sale,3270000.0,6,6,6577,Crystal Lim
-Hill View Garden,Sale,1300000.0,4,4,2800,Daniel Teoh
-Hill View Garden,Sale,2000000.0,5,5,3700,Elaine Ooi
-Hill View Garden,Sale,2000000.0,5,5,3700,Vivien Cheah
-Hill View Garden,Sale,1280000.0,5,4,2700,Xinnee .
-Hill View Garden,Sale,1600000.0,5,5,3000,Jeff Ooi
-Hill View Garden,Sale,1650000.0,5,4,2800,Daryl Goh
-Hill View Garden,Sale,1650000.0,5,4,2800,Jeff Ooi
-Hill View Garden,Sale,1650000.0,5,4,2800,Mervyn Seah
-Hill View Garden,Sale,2800000.0,5,4,4600,CT CHAI
-Hill View Garden,Sale,2200000.0,4,4,3960,CT CHAI
-Hill View Garden,Sale,1650000.0,5,5,2800,Ivan Chia
-Hill View Garden,Sale,1650000.0,5,4,2800,Vivien Cheah
-Hill View Garden,Rent,4000.0,5,5,3300,Vivien Cheah
-Permatang Sanctuary,Sale,950000.0,4,3,1800,Jovine Ng
-Permatang Sanctuary,Sale,950000.0,4,3,2100,Jonathan Chng
-Permatang Sanctuary,Sale,860000.0,4,3,2100,Jonathan Chng
-Permatang Sanctuary,Sale,980000.0,4,3,1800,Jovine Ng
-Permatang Sanctuary,Sale,1200000.0,5,4,2400,Jovine Ng
-Permatang Sanctuary,Sale,750000.0,4,3,1840,Siang Lim
-Permatang Sanctuary,Sale,1100000.0,4,3,2000,Quinn Beh
-Permatang Sanctuary,Sale,738000.0,4,3,3136,Celine Tan
-Permatang Sanctuary,Sale,1050000.0,4,3,2134,Ellyn Tee
-Permatang Sanctuary,Sale,978000.0,4,3,1840,Ellyn Tee
-Permatang Sanctuary,Sale,820000.0,4,3,2112,Danny Ch'ng
-Permatang Sanctuary,Rent,1800.0,4,3,1900,Grace Sim
-Asia Hills,Sale,2200000.0,6,5,3900,Dillon Tan
-Asia Hills,Sale,2200000.0,6,6,3900,Bryan Teng
-Asia Hills,Sale,2800000.0,6,6,4300,Bryan Teng
-Asia Hills,Sale,1820000.0,5,4,4000,Jia Yong
-Asia Hills,Sale,1800000.0,5,4,4000,Jia Yong
-Asia Hills,Sale,1860000.0,5,5,4000,Kingslee .
-Asia Hills,Sale,1860000.0,5,5,4000,Kingslee .
-Asia Hills,Sale,2350000.0,7,7,5387,Caiwei Chew
-Asia Hills,Sale,2800000.0,6,6,4300,Ming Ho
-Asia Hills,Sale,1860000.0,5,5,4000,Kingslee .
-Asia Hills,Sale,1790000.0,6,5,4086,Hao Tan
-Asia Hills,Sale,2800000.0,5,7,4900,Pei Hong
-Asia Hills,Sale,1860000.0,5,5,4700,Zhonl Saw Boon Loong
-Asia Hills,Sale,1860000.0,5,4,4000,Jia Yong
-Asia Hills,Sale,2200000.0,6,5,5351,WK Yam
-Asia Hills,Sale,2800000.0,6,6,4300,Dylan Lee
-Asia Hills,Sale,2270000.0,6,5,3900,Alex Cheah
-Asia Hills,Sale,1860000.0,5,4,4000,Jia Yong
-Asia Hills,Sale,1800000.0,6,5,4000,Alison Chng
-Asia Hills,Rent,4900.0,6,5,4086,Hao Tan
-Asia Hills,Rent,6000.0,5,5,3900,Anders Ong
-Asia Hills,Rent,4400.0,6,5,3900,Alison Chng
-Asia Hills,Rent,5000.0,6,5,5351,WK Yam
-Botanica.CT @ Balik Pulau Penang,Sale,588000.0,4,3,1600,Jia Yong
-Botanica.CT @ Balik Pulau Penang,Sale,950000.0,4,3,1956,Gladys Kock
-Botanica.CT @ Balik Pulau Penang,Sale,588000.0,4,3,1600,Jia Yong
-Botanica.CT @ Balik Pulau Penang,Sale,899000.0,4,3,1950,Khoo .
-Botanica.CT @ Balik Pulau Penang,Sale,588000.0,4,3,1600,Jia Yong
-Botanica.CT @ Balik Pulau Penang,Sale,720000.0,4,3,2000,Jia Yong
-Botanica.CT @ Balik Pulau Penang,Sale,750000.0,4,3,2000,Jia Yong
-Botanica.CT @ Balik Pulau Penang,Sale,720000.0,4,3,2400,Edric Ong
-Botanica.CT @ Balik Pulau Penang,Sale,720000.0,4,3,2000,Jia Yong
-Botanica.CT @ Balik Pulau Penang,Sale,900000.0,4,3,2700,CT CHAI
-Botanica.CT @ Balik Pulau Penang,Sale,800000.0,4,3,3000,CT CHAI
-Botanica.CT @ Balik Pulau Penang,Sale,670000.0,4,3,2594,CT CHAI
-Botanica.CT @ Balik Pulau Penang,Sale,750000.0,4,3,2551,CT CHAI
-Botanica.CT @ Balik Pulau Penang,Sale,1000000.0,4,3,4542,CT CHAI
-Botanica.CT @ Balik Pulau Penang,Sale,550000.0,4,3,1600,CT CHAI
-Botanica.CT @ Balik Pulau Penang,Sale,750000.0,4,3,2200,CT CHAI
-Pearl Villas,Sale,590000.0,4,3,1730,Cy Tan
-Pearl Villas,Sale,685000.0,4,4,2830,Jack Shim
-Pearl Villas,Sale,600000.0,4,3,1760,Amelinze Aw
-Pearl Villas,Sale,650000.0,4,4,2800,Jack Shim
-Pearl Villas,Sale,780000.0,4,3,2160,Lissa Ooi
-Pearl Villas,Sale,680000.0,4,4,2064,Jack Shim
-Pearl Villas,Sale,780000.0,4,4,2160,Jack Shim
-Pearl Villas,Sale,780000.0,5,4,2800,Rex Tung
-Pearl Villas,Rent,1500.0,5,4,1760,May Tan
-D'Residence,Sale,4260000.0,5,7,4285,Amanda Lam
-D'Residence,Sale,4999000.0,6,6,4285,Amanda Lam
-D'Residence,Sale,4000000.0,5,6,3899,Amanda Lam
-D'Residence,Sale,3750000.0,5,6,3899,Amanda Lam
-D'Residence,Sale,5200000.0,6,6,5000,Amanda Lam
-D'Residence,Sale,5000000.0,5,7,7000,Ivan Chia
-D'Residence,Sale,4900000.0,5,6,5500,Steven Hng
-D'Residence,Sale,3600000.0,6,7,4600,Cayden Choong
-D'Residence,Sale,3600000.0,6,7,4000,Wyin .
-D'Residence,Sale,3800000.0,5,7,4000,Jake Khoo
-D'Residence,Sale,4280000.0,5,7,5522,Jake Khoo
-D'Residence,Sale,3500000.0,6,7,4000,Alex Cheah
-D'Residence,Sale,4280000.0,6,7,5522,Alex Cheah
-D'Residence,Sale,3550000.0,6,7,3898,Eva Liew
-D'Residence,Sale,4300000.0,5,5,4000,Jin Lim
-D'Residence,Sale,4300000.0,5,5,4000,Elynne Leong
-D'Residence,Sale,4300000.0,5,5,4000,Elynne Leong
-D'Residence,Sale,3600000.0,6,7,4000,Elynne Leong
-D'Residence,Sale,5000000.0,6,7,4500,Elynne Leong
-D'Residence,Sale,5500000.0,6,6,5000,Elynne Leong
-D'Residence,Sale,3700000.0,6,7,4000,Joshua Ong
-D'Residence,Sale,4280000.0,5,7,5522,Jake Khoo
-D'Residence,Sale,7600000.0,8,8,15000,CK Ong
-D'Residence,Sale,5000000.0,6,6,4100,Elaine Ooi
-D'Residence,Sale,4000000.0,5,5,4000,Elaine Ooi
-D'Residence,Sale,5000000.0,5,7,4100,Lilly .
-D'Residence,Sale,4500000.0,7,6,4800,Zhonl Saw Boon Loong
-D'Residence,Sale,4000000.0,5,7,5500,Chris Ooi
-D'Residence,Sale,4200000.0,5,7,4285,Renee Goh
-D'Residence,Sale,4000000.0,5,7,5500,Chris Ooi
-D'Residence,Sale,7600000.0,7,7,15000,Vick Teoh
-D'Residence,Sale,4000000.0,5,7,4000,Marc Lee
-D'Residence,Sale,7600000.0,7,8,15000,Chris Ooi
-D'Residence,Sale,4800000.0,7,5,5000,Ethen Tan
-D'Residence,Sale,4300000.0,5,3,3500,Ivan Chia
-D'Residence,Sale,4300000.0,5,3,3500,Ivan Chia
-D'Residence,Sale,3600000.0,6,7,4000,Crystal Khor
-D'Residence,Rent,7500.0,6,7,4600,Wyin .
-D'Residence,Rent,5500.0,5,3,5000,Ivan Chia
-Taman Seri Murai (Centro Park),Sale,799000.0,5,5,2534,Suzzane Lee
-Taman Seri Murai (Centro Park),Sale,899000.0,4,3,2783,Suzzane Lee
-Taman Seri Murai (Centro Park),Sale,500000.0,4,3,1892,Iris Chuah
-Taman Seri Murai (Centro Park),Sale,718000.0,6,5,2400,SP Whong
-Villa Pondok Upeh,Sale,1400000.0,6,6,4400,Carson Ooi
-Villa Pondok Upeh,Sale,1752000.0,6,6,4400,Fibo Law
-Villa Pondok Upeh,Sale,1350000.0,6,6,4400,Fibo Law
-Villa Pondok Upeh,Sale,1350000.0,6,6,4400,Elaine Ooi
-Villa Pondok Upeh,Sale,1700000.0,6,6,4400,Diana .
-Villa Pondok Upeh,Sale,1350000.0,6,6,4400,Dexx Yim
-Villa Pondok Upeh,Sale,1755000.0,6,6,4400,Dexx Yim
-Villa Pondok Upeh,Sale,2600000.0,6,6,4400,Jansen Yew
-Villa Pondok Upeh,Sale,1566000.0,6,6,7500,CT CHAI
-Villa Pondok Upeh,Sale,1484000.0,6,6,6327,CT CHAI
-Villa Pondok Upeh,Sale,1350000.0,6,6,5843,CT CHAI
