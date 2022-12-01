@@ -1,0 +1,139 @@
+PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+Seri Kayangan (Lok Kawi Heights),Sale,170000.0,3,2,885,Faye Robert
+The Peak Vista (Likas),Sale,1102000.0,4,3,1678,Allen .
+The Peak Vista (Likas),Sale,1100000.0,3,2,1288,Susan .
+The Peak Vista (Likas),Sale,1224000.0,3,3,1678,Michele Lum
+The Peak Vista (Likas),Sale,950000.0,3,2,1293,shirley Chow
+The Peak Vista (Likas),Sale,950000.0,3,2,1293,shirley Chow
+The Peak Vista (Likas),Sale,1224000.0,4,4,1678,Chai .
+The Peak Vista (Likas),Sale,1190000.0,3,2,1288,Grace Teo
+The Peak Vista (Likas),Sale,1359000.0,3,3,1678,Alan Ho
+The Peak Vista (Likas),Sale,1359000.0,4,4,1678,Michele Lum
+The Peak Vista (Likas),Sale,1500000.0,4,3,1760,Japheth Liew
+The Peak Vista (Likas),Rent,3300.0,3,2,1290,Japheth Liew
+The Peak Vista (Likas),Rent,4000.0,3,2,1288,shirley Chow
+The Peak Suites (Likas),Sale,530000.0,2,2,950,Alyssa Chong
+Pearl Tower,Sale,550000.0,3,1,1349,Gavin Chia
+Pearl Tower,Sale,645000.0,4,2,1349,Ivy Lim
+University Apartments 2,Sale,290000.0,3,2,750,shirley Chow
+University Apartments 2,Sale,300000.0,3,2,750,shirley Chow
+Apartment Darau Angkasa,Sale,300000.0,3,2,850,Gavin Chia
+Apartment Darau Angkasa,Sale,280000.0,3,2,850,Gavin Chia
+Puncak Menggatal @ Menggatal Heights,Sale,300000.0,3,2,940,Jason Tang
+Pelagos Designer Suites,Sale,2610300.0,4,4,2373,Faye Robert
+Pelagos Designer Suites,Sale,698000.0,1,2,780,Susan .
+Pelagos Designer Suites,Sale,1900000.0,4,4,1918,Susan .
+Pelagos Designer Suites,Rent,6500.0,4,4,2783,Ivy Lim
+K Avenue Residential,Sale,687600.0,3,3,1250,Jessy Goh
+K Avenue Residential,Sale,657000.0,3,3,1250,Jessy Goh
+K Avenue Residential,Sale,634500.0,3,3,1250,Jessy Goh
+K Avenue Residential,Sale,667800.0,3,3,1250,Jessy Goh
+K Avenue Residential,Sale,648000.0,3,3,1250,Jessy Goh
+K Avenue Residential,Sale,453200.0,2,2,725,Jessy Goh
+K Avenue Residential,Sale,530100.0,3,2,950,Jessy Goh
+Ashton Tower,Sale,460000.0,3,2,870,shirley Chow
+Ashton Tower,Sale,488000.0,3,2,870,Gavin Chia
+Ashton Tower,Sale,490000.0,3,2,870,shirley Chow
+Ashton Tower,Rent,1300.0,3,2,875,shirley Chow
+Ashton Tower,Rent,1700.0,3,2,870,Hazel Chan
+Cyber City Apartments 1,Sale,270000.0,2,1,550,Yun Lai
+Cyber City Apartments 1,Sale,305000.0,3,2,750,Jason Tang
+Cyber City Apartments 1,Rent,1200.0,2,1,550,Yun Lai
+Cyber City Apartments 2,Sale,280000.0,2,1,550,Faye Robert
+Cyber City Apartments 2,Sale,310000.0,3,2,698,Jason Tang
+The Colonnades Condominium,Sale,720000.0,3,3,1792,Gavin Chia
+The Colonnades Condominium,Sale,640000.0,3,2,1431,shirley Chow
+The Gardens,Sale,550000.0,3,2,982,Japheth Liew
+The Gardens,Sale,550000.0,3,2,982,shirley Chow
+The Gardens,Sale,435000.0,4,3,1195,Jet Lee
+The Gardens,Sale,430000.0,3,2,848,Jason Tang
+The Gardens,Rent,2200.0,3,2,928,Japheth Liew
+The Gardens,Rent,2000.0,3,2,848,Japheth Liew
+Taman Ketiau Apartment,Sale,109000.0,2,1,631,Michele Lum
+Taman Ketiau Apartment,Sale,121500.0,3,2,631,Jason Tang
+Taman Ketiau Apartment,Sale,121000.0,2,1,631,Michele Lum
+Taman Ketiau Apartment,Sale,180000.0,3,2,665,Faye Robert
+Bandar Sierra Apartment,Sale,218000.0,3,2,952,Michele Lum
+Bandar Sierra Apartment,Sale,218700.0,3,2,952,Jason Tang
+Bandar Sierra Apartment,Sale,218700.0,3,2,952,Alan Ho
+University Utama Condominium,Sale,150000.0,2,1,528,Michele Lum
+University Utama Condominium,Sale,168000.0,1,1,391,Faye Robert
+University Utama Condominium,Sale,167000.0,2,1,528,Michele Lum
+University Utama Condominium,Sale,250000.0,2,1,508,Faye Robert
+University Utama Condominium,Sale,207000.0,2,2,528,Michele Lum
+Riverside Residence @ Sodomon,Sale,490000.0,3,2,955,Japheth Liew
+Riverside Residence @ Sodomon,Sale,490000.0,3,2,955,Japheth Liew
+Jesselton Twin Towers,Sale,551908.0,Studio,Studio,649,Gavin Chia
+Jesselton Twin Towers,Sale,839648.0,2,2,1270,Gavin Chia
+Jesselton Twin Towers,Sale,629850.0,1,2,832,Grace Teo
+Jesselton Twin Towers,Sale,622634.0,1,5,649,Jesselton Properties Sdn Bhd
+Jesselton Twin Towers,Sale,1630744.0,3,3,1641,Jessy Goh
+Jesselton Twin Towers,Sale,931410.0,3,2,1357,Gavin Chia
+Jesselton Twin Towers,Sale,734450.0,2,2,832,Gavin Chia
+Jesselton Twin Towers,Sale,6960650.0,5,6,6896,Jessy Goh
+Jesselton Twin Towers,Sale,7327000.0,5,6,6896,Jessy Goh
+Jesselton Twin Towers,Sale,6960650.0,5,6,6896,Jessy Goh
+Jesselton Twin Towers,Sale,7603834.0,5,7,6982,Jessy Goh
+Jesselton Twin Towers,Sale,7327000.0,5,7,6896,Jessy Goh
+Jesselton Twin Towers,Sale,773058.0,2,2,832,Jessy Goh
+Jesselton Twin Towers,Sale,742560.0,2,2,832,Jessy Goh
+Jesselton Twin Towers,Sale,1534257.0,3,3,2041,Jessy Goh
+Jesselton Twin Towers,Sale,1396128.0,3,3,1719,Jessy Goh
+Jesselton Twin Towers,Sale,1261885.0,3,3,1719,Jessy Goh
+Jesselton Twin Towers,Sale,1070968.0,2,2,1270,Jessy Goh
+Jesselton Twin Towers,Sale,935920.0,2,2,1270,Jessy Goh
+Jesselton Twin Towers,Sale,905836.0,2,2,1270,Jessy Goh
+Jesselton Twin Towers,Sale,846328.0,2,2,1270,Jessy Goh
+Jesselton Twin Towers,Sale,1180918.0,3,3,1641,Jessy Goh
+Jesselton Twin Towers,Sale,1161910.0,3,3,1641,Jessy Goh
+Jesselton Twin Towers,Sale,622634.0,Studio,Studio,649,Susan .
+Jesselton Twin Towers,Sale,1126341.0,3,3,1641,Gavin Chia
+Jesselton Twin Towers,Sale,1158289.0,4,3,1719,Gavin Chia
+Jesselton Twin Towers,Sale,1805009.0,4,4,2041,Jessy Goh
+Jesselton Twin Towers,Sale,555097.0,Studio,Studio,649,Chloe Chee
+Jesselton Twin Towers,Sale,941991.0,3,2,1357,Chloe Chee
+Jesselton Twin Towers,Sale,629000.0,2,2,649,Faye Robert
+Jesselton Twin Towers,Sale,7600000.0,5,6,6896,Grace Teo
+Jesselton Twin Towers,Sale,1200000.0,3,3,1641,Grace Teo
+Jesselton Twin Towers,Sale,1926225.0,5,4,2041,Gavin Chia
+Jesselton Twin Towers,Sale,1439355.0,4,3,1895,Gavin Chia
+Jesselton Twin Towers,Sale,539583.0,Studio,Studio,649,shirley Chow
+Jesselton Twin Towers,Sale,1303701.0,4,3,1895,Chloe Chee
+Jesselton Twin Towers,Sale,738140.0,1,2,832,Chloe Chee
+Jesselton Twin Towers,Sale,1041778.0,3,3,1641,Gavin Chia
+Jesselton Twin Towers,Sale,1002059.0,3,3,1641,Gavin Chia
+Jesselton Twin Towers,Sale,1002059.0,3,2,1357,Gavin Chia
+Jesselton Twin Towers,Sale,1258398.0,3,3,1895,Gavin Chia
+Jesselton Twin Towers,Sale,601643.0,Studio,Studio,649,Gavin Chia
+Jesselton Twin Towers,Sale,1041255.0,3,3,1641,Chloe Chee
+Jesselton Twin Towers,Sale,853480.0,2,2,1270,Chloe Chee
+Jesselton Twin Towers,Sale,580956.0,Studio,Studio,649,Chloe Chee
+Jesselton Twin Towers,Sale,1258390.0,4,3,1895,Chloe Chee
+Jesselton Twin Towers,Sale,1136957.0,3,3,1719,Chloe Chee
+Bukit Bantayan Residence,Sale,470934.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,458964.0,3,2,1007,Gavin Chia
+Bukit Bantayan Residence,Sale,427814.0,3,2,904,Gavin Chia
+Bukit Bantayan Residence,Sale,409241.0,3,2,904,Gavin Chia
+Bukit Bantayan Residence,Sale,467886.0,3,2,904,Jessy Goh
+Bukit Bantayan Residence,Sale,469224.0,3,2,1007,Gavin Chia
+Bukit Bantayan Residence,Sale,489991.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,476919.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,555730.0,3,2,1007,Jessy Goh
+Bukit Bantayan Residence,Sale,488297.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,479494.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,465804.0,3,2,1007,Gavin Chia
+Bukit Bantayan Residence,Sale,475209.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,406011.0,3,2,904,Gavin Chia
+Bukit Bantayan Residence,Sale,489919.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,501330.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,501330.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,427380.0,3,2,904,Gavin Chia
+Bukit Bantayan Residence,Sale,521730.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,521730.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,502180.0,3,2,1100,Gavin Chia
+Bukit Bantayan Residence,Sale,427380.0,3,2,904,Gavin Chia
+Bukit Bantayan Residence,Sale,456280.0,3,2,1007,Gavin Chia
+Bukit Bantayan Residence,Rent,2500.0,3,2,904,Jessy Goh
+Bukit Bantayan Residence,Rent,2500.0,3,2,904,Jessy Goh
+Bukit Bantayan Residence,Rent,2800.0,3,2,904,Zoey Liau
+Bukit Bantayan Residence,Rent,2500.0,3,2,1007,Grace Teo
