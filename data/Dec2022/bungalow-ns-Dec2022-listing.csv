@@ -1,0 +1,240 @@
+PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+Green Beverly Hills,Sale,600000.0,3,3,1816,Athena Cho
+Green Beverly Hills,Sale,320000.0,2,2,932,Athena Cho
+Green Beverly Hills,Sale,2400000.0,6,6,5000,Athena Cho
+Green Beverly Hills,Sale,440000.0,3,2,1077,Athena Cho
+Green Beverly Hills,Sale,560000.0,3,3,1596,Athena Cho
+Green Beverly Hills,Sale,640000.0,4,3,1816,Athena Cho
+Green Beverly Hills,Sale,300000.0,2,2,951,Athena Cho
+Green Beverly Hills,Sale,480000.0,3,2,1044,Athena Cho
+Green Beverly Hills,Sale,600000.0,3,2,1815,Chrix Soo
+Green Beverly Hills,Sale,2000000.0,6,6,4000,Rasyadan Hussin
+Green Beverly Hills,Sale,300000.0,2,2,951,Chrix Soo
+Green Beverly Hills,Sale,320000.0,2,2,932,Chrix Soo
+Green Beverly Hills,Sale,560000.0,3,2,1596,Chrix Soo
+Green Beverly Hills,Sale,440000.0,3,2,1077,Chrix Soo
+Green Beverly Hills,Sale,640000.0,4,3,1816,Chrix Soo
+Green Beverly Hills,Sale,2400000.0,6,6,5000,Chrix Soo
+Green Beverly Hills,Sale,480000.0,3,2,1044,Chrix Soo
+Green Beverly Hills,Sale,450000.0,3,2,1816,Kian Leap
+Green Beverly Hills,Sale,519000.0,4,3,1680,Azem .
+Green Beverly Hills,Sale,450000.0,3,2,1816,Kian Leap
+Green Beverly Hills,Rent,1150.0,2,2,952,Athena Cho
+Green Beverly Hills,Rent,1300.0,3,2,1816,Athena Cho
+Green Beverly Hills,Rent,1150.0,2,2,952,Chrix Soo
+Green Beverly Hills,Rent,1350.0,2,2,940,Jeffrey Yap
+Green Beverly Hills,Rent,1350.0,2,2,940,Jeffrey Yap
+Green Beverly Hills,Rent,1300.0,3,2,1816,Chrix Soo
+Green Beverly Hills,Rent,1500.0,2,2,932,Danny Shoa
+Green Beverly Hills,Rent,1500.0,2,2,932,Jemmy Rohani
+Green Beverly Hills,Rent,1700.0,3,2,1600,Jason Toh
+Green Beverly Hills,Rent,1700.0,3,2,1600,Jason Toh
+Green Beverly Hills,Rent,1700.0,3,2,1600,Jason Toh
+Green Beverly Hills,Rent,2500.0,4,3,1800,Michelle Hui
+Green Beverly Hills,Rent,1350.0,2,2,952,Jason Lii
+Green Beverly Hills,Rent,1500.0,2,2,940,Jeffrey Yap
+Green Street Homes,Sale,2500000.0,6,5,6000,Selvam .
+Green Street Homes,Sale,86.0,,,10268,Rashidah Juremi
+Green Street Homes,Sale,787780.0,,,9268,Nurul Waheeda
+Green Street Homes,Sale,550000.0,3,2,3000,Muhd Fahmie
+Green Street Homes,Sale,780000.0,4,3,3708,Philip Goh (Seremban Property)
+Green Street Homes,Sale,900000.0,4,4,2700,Philip Goh (Seremban Property)
+Green Street Homes,Sale,2400000.0,5,5,6000,Kaeryn Wong
+Green Street Homes,Sale,830000.0,4,3,2500,Lina Aziz
+Green Street Homes,Sale,500000.0,3,2,1300,Khoo .
+Green Street Homes,Sale,675000.0,4,3,4316,Alan Ho
+Green Street Homes,Sale,800000.0,4,3,2500,Afifi Sedzali
+Green Street Homes,Sale,675000.0,5,3,4316,Vivian Chang
+Green Street Homes,Rent,1800.0,4,3,2000,Nelson Ng
+Bandar Sri Sendayan,Sale,290000.0,3,2,1000,Mohamad Hanafi
+Bandar Sri Sendayan,Sale,540000.0,4,4,1873,Jason Tang
+Bandar Sri Sendayan,Sale,2700000.0,5,6,7049,Alex Lee
+Bandar Sri Sendayan,Sale,1500000.0,5,7,4598,Xann Chua
+Bandar Sri Sendayan,Sale,488000.0,4,4,1760,CK Ng
+Bandar Sri Sendayan,Sale,265000.0,3,2,1840,Shafik Rusli
+Bandar Sri Sendayan,Sale,540000.0,4,4,2835,Jackson Chua
+Bandar Sri Sendayan,Sale,2800000.0,5,5,7000,Agnes Tee
+Bandar Sri Sendayan,Sale,550000.0,4,3,2500,Fazie Noor
+Bandar Sri Sendayan,Sale,525000.0,4,4,2807,Marcus Yeow
+Bandar Sri Sendayan,Sale,525000.0,4,4,2200,Athena Cho
+Bandar Sri Sendayan,Sale,600000.0,4,4,2200,Athena Cho
+Bandar Sri Sendayan,Sale,493000.0,4,4,3033,Jason Tang
+Bandar Sri Sendayan,Sale,425000.0,3,2,1120,Muhammad Taufeeq
+Bandar Sri Sendayan,Sale,460000.0,4,4,2600,Justin Lim
+Bandar Sri Sendayan,Sale,399000.0,4,4,2300,Connie Lim
+Bandar Sri Sendayan,Sale,360888.0,4,4,3000,Danny Wong
+Bandar Sri Sendayan,Sale,798000.0,4,4,2550,Danny Shoa
+Bandar Sri Sendayan,Sale,368888.0,4,4,2200,Stephanie Wong
+Bandar Sri Sendayan,Sale,440000.0,4,4,2823,Melissa Ting
+Bandar Sri Sendayan,Sale,432000.0,5,5,3090,Emma Wong
+Bandar Sri Sendayan,Sale,398000.0,5,5,3380,Emma Wong
+Bandar Sri Sendayan,Sale,368000.0,6,5,3669,Emma Wong
+Bandar Sri Sendayan,Sale,630000.0,4,4,1760,Yeo Chin Lay
+Bandar Sri Sendayan,Sale,450000.0,4,3,2520,Mohamad Hanafi
+Bandar Sri Sendayan,Sale,675000.0,4,4,2680,Vivian Chang
+Bandar Sri Sendayan,Sale,460000.0,5,5,3980,Emma Wong
+Bandar Sri Sendayan,Sale,428000.0,5,5,3099,Emma Wong
+Bandar Sri Sendayan,Sale,489000.0,6,6,4200,Emma Wong
+Bandar Sri Sendayan,Sale,388000.0,5,4,3290,Emma Wong
+Bandar Sri Sendayan,Sale,428000.0,5,5,3280,Emma Wong
+Bandar Sri Sendayan,Sale,438000.0,5,5,3288,Emma Wong
+Bandar Sri Sendayan,Sale,409000.0,5,5,3088,Emma Wong
+Bandar Sri Sendayan,Sale,428000.0,5,4,3280,Emma Wong
+Bandar Sri Sendayan,Sale,428000.0,5,5,3290,Emma Wong
+Bandar Sri Sendayan,Sale,488000.0,5,5,3800,Emma Wong
+Bandar Sri Sendayan,Sale,421000.0,5,4,3288,Emma Wong
+Bandar Sri Sendayan,Sale,438000.0,5,5,3228,Emma Wong
+Bandar Sri Sendayan,Sale,488000.0,5,5,3200,Emma Wong
+Bandar Sri Sendayan,Sale,433900.0,5,5,3200,Emma Wong
+Bandar Sri Sendayan,Sale,428000.0,5,5,3210,Emma Wong
+Bandar Sri Sendayan,Sale,443000.0,5,5,3290,Emma Wong
+Bandar Sri Sendayan,Sale,460000.0,4,3,2236,BC Lee
+Bandar Sri Sendayan,Sale,490000.0,4,3,1600,BC Lee
+Bandar Sri Sendayan,Sale,350000.0,3,2,1400,Madam Lolaliza
+Bandar Sri Sendayan,Sale,10000000.0,Studio,Studio,33000,Y.L. Yong
+Bandar Sri Sendayan,Sale,525000.0,4,4,2200,Chrix Soo
+Bandar Sri Sendayan,Sale,440000.0,4,4,2832,Jacky Loh
+Bandar Sri Sendayan,Sale,425000.0,3,2,1120,Shukur Hartanah
+Bandar Sri Sendayan,Sale,440000.0,4,4,2823,Melissa Ting
+Bandar Sri Sendayan,Sale,600000.0,4,3,1700,Azraff Zulkapli
+Bandar Sri Sendayan,Sale,600000.0,4,4,2823,Alex Lee
+Bandar Sri Sendayan,Sale,600000.0,4,4,2200,Chrix Soo
+Bandar Sri Sendayan,Sale,1400000.0,1,2,3960,Hendric .
+Bandar Sri Sendayan,Sale,550000.0,4,3,1760,Arif Halim
+Bandar Sri Sendayan,Sale,465000.0,4,3,1600,Zafran Ederis
+Bandar Sri Sendayan,Sale,470000.0,4,3,2236,Khadijah Zakaria
+Bandar Sri Sendayan,Sale,270000.0,3,2,770,Khadijah Zakaria
+Bandar Sri Sendayan,Sale,550000.0,4,3,1760,Izzat Zamros
+Bandar Sri Sendayan,Sale,538000.0,4,3,2800,Chong Yuen Kiong
+Bandar Sri Sendayan,Sale,435000.0,4,4,2685,NoorisHaris .
+Bandar Sri Sendayan,Sale,477000.0,4,3,2152,Tun Fatimah
+Bandar Sri Sendayan,Sale,418888.0,4,4,2800,James Tan
+Bandar Sri Sendayan,Sale,635000.0,4,4,2833,Khadijah Zakaria
+Bandar Sri Sendayan,Sale,635000.0,4,4,2833,Khadijah Zakaria
+Bandar Sri Sendayan,Sale,600000.0,4,4,2720,Muhammad Danial
+Bandar Sri Sendayan,Sale,450000.0,4,3,2590,Maizura binti Mohd Darus
+Bandar Sri Sendayan,Sale,430000.0,4,3,1300,Mh Haffiz
+Bandar Sri Sendayan,Sale,570000.0,4,4,1760,Fadilah Yusoff
+Bandar Sri Sendayan,Sale,960000.0,4,4,2720,Suraj Singh
+Bandar Sri Sendayan,Sale,680000.0,4,4,2720,Suraj Singh
+Bandar Sri Sendayan,Sale,365000.0,4,4,1765,Jason Tang
+Bandar Sri Sendayan,Sale,3200000.0,6,5,7049,Alex Lee
+Bandar Sri Sendayan,Rent,1400.0,4,4,2735,Marcus Yeow
+Bandar Sri Sendayan,Rent,1500.0,4,4,2766,Stephy Pang
+Bandar Sri Sendayan,Rent,1200.0,4,3,1650,Stephy Pang
+Bandar Sri Sendayan,Rent,4800.0,6,8,5000,Edwin Lam
+Bandar Sri Sendayan,Rent,1200.0,4,3,1600,Rid Afzal
+Bandar Sri Sendayan,Rent,1100.0,4,4,2873,Chong Yuen Kiong
+Bandar Sri Sendayan,Rent,1800.0,4,4,1760,Stephy Pang
+Bandar Sri Sendayan,Rent,2800.0,4,4,2775,BC Lee
+"Taman Orkid, Mantin N.S.D.K",Sale,400000.0,4,3,2500,Kayden Lim
+"Taman Orkid, Mantin N.S.D.K",Sale,1388888.0,5,6,5380,Siti Nurhaliza
+"Taman Orkid, Mantin N.S.D.K",Sale,410000.0,4,4,2500,Connie Lim
+"Taman Orkid, Mantin N.S.D.K",Sale,410000.0,4,4,2600,Connie Lim
+"Taman Orkid, Mantin N.S.D.K",Sale,348888.0,4,2,1500,Kayden Lim
+Taman Bukit Jed,Sale,1150000.0,5,5,4300,Firdaussazwan Mustafa
+Kota Seriemas,Sale,1600000.0,6,7,3866,Nadirah Azmi .
+Kota Seriemas,Sale,750000.0,4,3,2228,Syahmi Khadari
+Kota Seriemas,Sale,470000.0,4,4,1620,Athena Cho
+Kota Seriemas,Sale,710000.0,4,3,2000,Azwadi Bin Ahmad
+Kota Seriemas,Sale,710000.0,4,3,2000,Hisham Ahmad
+Kota Seriemas,Sale,1680000.0,6,7,3666,Zafran Ederis
+Kota Seriemas,Sale,470000.0,4,3,2110,Mohamad Khaidir Shah Md Razak
+Kota Seriemas,Sale,750000.0,4,3,2228,Nahathir Shahabudin
+Kota Seriemas,Sale,870000.0,4,3,2500,Ahmad Fikri Amer Hamzah
+Kota Seriemas,Sale,1600000.0,6,7,3600,Mohd Azhar
+Kota Seriemas,Sale,710000.0,4,3,2500,Zafran Ederis
+Kota Seriemas,Sale,1750000.0,6,7,3650,Zarif Zahisham
+Kota Seriemas,Sale,470000.0,4,4,1620,Chrix Soo
+Kota Seriemas,Sale,640000.0,4,4,2345,Zafran Ederis
+Kota Seriemas,Sale,280000.0,,,5600,Nazli Ambak
+Kota Seriemas,Sale,280000.0,,,5600,Afifi Sedzali
+Kota Seriemas,Sale,320000.0,Studio,Studio,5199,Shahmira Roaslan
+Kota Seriemas,Sale,490000.0,4,3,1727,Ramlah Binti Awang
+Kota Seriemas,Sale,490000.0,4,4,1727,Mohd Azhar
+Kota Seriemas,Sale,710000.0,4,4,2000,Wan Rafizal
+Kota Seriemas,Sale,660000.0,4,4,1930,Mohd Syazwan
+Kota Seriemas,Sale,460000.0,4,4,1650,Zafran Ederis
+Kota Seriemas,Sale,1590000.0,6,7,3666,Mh Haffiz
+Kota Seriemas,Sale,750000.0,4,3,2228,Muhammad Fahid Fitlla
+Kota Seriemas,Sale,1590000.0,6,7,3666,Muhd Fahmie
+Kota Seriemas,Sale,280000.0,,,5600,Adilah Adib
+Kota Seriemas,Sale,280000.0,,,5600,Mohamad Hafiz Abdul Basher
+Kota Seriemas,Sale,460000.0,4,3,2200,Anas Ashaari
+Kota Seriemas,Rent,2000.0,4,3,2500,Jemmy Rohani
+Kota Seriemas,Rent,3500.0,4,4,3000,Tango Balraj
+Kota Seriemas,Rent,3500.0,4,5,3330,Jemmy Rohani
+Nilai Spring Villas,Sale,1450000.0,5,4,5200,Sky Lai
+Nilai Spring Villas,Sale,1300000.0,5,6,2940,Mohd Azhar
+Nilai Spring Villas,Sale,340000.0,,,10300,Zack Lee
+Nilai Spring Villas,Sale,360000.0,,,8960,ZAIRY ISMAIL
+Nilai Spring Villas,Sale,460000.0,,,11528,ZAIRY ISMAIL
+Nilai Spring Villas,Sale,400085.0,,,11431,ZAIRY ISMAIL
+Nilai Spring Villas,Sale,420000.0,,,12561,ZAIRY ISMAIL
+Nilai Spring Villas,Sale,398000.0,,,10732,ZAIRY ISMAIL
+Nilai Spring Villas,Sale,489615.0,,,13989,ZAIRY ISMAIL
+Nilai Spring Villas,Sale,477715.0,,,13649,ZAIRY ISMAIL
+Nilai Spring Villas,Sale,434875.0,,,12425,ZAIRY ISMAIL
+Nilai Spring Villas,Sale,734230.0,,,20978,ZAIRY ISMAIL
+Nilai Spring Villas,Sale,350000.0,,,8837,ZAIRY ISMAIL
+Nilai Spring Villas,Sale,552300.0,,,15780,ZAIRY ISMAIL
+Nilai Spring Villas,Sale,414641.0,,,10566,ZAIRY ISMAIL
+Nilai Spring Villas,Sale,1000000.0,,,28502,Athena Cho
+Nilai Spring Villas,Sale,1180000.0,5,4,4000,Paul Po
+Nilai Spring Villas,Sale,438000.0,4,4,2300,Connie Lim
+Nilai Spring Villas,Sale,522225.0,,,9495,Rasyadan Hussin
+Nilai Spring Villas,Sale,750000.0,,,16888,Rasyadan Hussin
+Nilai Spring Villas,Sale,553000.0,,,16759,Rasyadan Hussin
+Nilai Spring Villas,Sale,460000.0,,,13142,Rasyadan Hussin
+Nilai Spring Villas,Sale,947000.0,,,15795,Rasyadan Hussin
+Nilai Spring Villas,Sale,1250000.0,5,4,15000,Kaman Chan
+Nilai Spring Villas,Sale,1300000.0,5,6,2940,Wan Rafizal
+Nilai Spring Villas,Sale,1600000.0,6,5,5005,Hakim Zulkufli
+Nilai Spring Villas,Sale,2200000.0,7,7,5078,Nurul Waheeda
+Nilai Spring Villas,Sale,2200000.0,7,8,5078,BILYA ARIFF
+Nilai Spring Villas,Sale,1600000.0,7,7,5005,Ahmad Fikri Amer Hamzah
+Nilai Spring Villas,Sale,2200000.0,7,8,5078,Sarliza Jafar
+Nilai Spring Villas,Sale,2400000.0,7,7,5078,Muhammad Faeiz Mohd Zin
+Nilai Spring Villas,Sale,2600000.0,7,7,5078,Zawana BT Zaidi Ana
+Nilai Spring Villas,Sale,245000.0,,,7635,Rasyadan Hussin
+Nilai Spring Villas,Sale,520000.0,,,9472,Rasyadan Hussin
+Nilai Spring Villas,Sale,482000.0,,,13745,Rasyadan Hussin
+Nilai Spring Villas,Sale,424200.0,,,12852,Rasyadan Hussin
+Nilai Spring Villas,Sale,447000.0,,,11765,Rasyadan Hussin
+Nilai Spring Villas,Sale,1000000.0,,,28502,Chrix Soo
+Nilai Spring Villas,Sale,394000.0,,,9839,Rasyadan Hussin
+Nilai Spring Villas,Sale,1600000.0,6,8,4699,Eddy Azuan
+Nilai Spring Villas,Sale,4000000.0,6,6,4906,Eddy Azuan
+Nilai Spring Villas,Sale,1300000.0,5,6,2940,Zafran Ederis
+Nilai Spring Villas,Sale,362000.0,,,11302,Zawana BT Zaidi Ana
+Nilai Spring Villas,Sale,2600000.0,7,7,5078,Ikmal Hakim
+Nilai Spring Villas,Sale,588000.0,,,18700,Janice Chiang
+Nilai Spring Villas,Sale,509000.0,,,15880,Janice Chiang
+Nilai Spring Villas,Sale,580000.0,,,19300,Janice Chiang
+Nilai Spring Villas,Sale,623000.0,,,17800,Janice Chiang
+Nilai Spring Villas,Sale,699000.0,,,21000,Janice Chiang
+Nilai Spring Villas,Sale,350000.0,,,11500,Janice Chiang
+Nilai Spring Villas,Sale,360000.0,,,11900,Janice Chiang
+Nilai Spring Villas,Sale,378000.0,,,11450,Janice Chiang
+Nilai Spring Villas,Sale,396000.0,,,12000,Janice Chiang
+Nilai Spring Villas,Sale,338000.0,,,10500,Janice Chiang
+Nilai Spring Villas,Sale,345000.0,,,11500,Janice Chiang
+Nilai Spring Villas,Sale,5000000.0,6,8,5500,Muhammed Nazri bin Mustapha
+Nilai Spring Villas,Sale,5000000.0,6,8,5500,Anas Ashaari
+Nilai Spring Villas,Sale,1499000.0,5,4,2700,Saiful Wazir
+Nilai Spring Villas,Sale,562400.0,,,14800,Rasyadan Hussin
+Nilai Spring Villas,Sale,387080.0,,,9677,Rashidah Juremi
+Nilai Spring Villas,Sale,5500000.0,6,8,5500,AzieAzian .
+Nilai Spring Villas,Sale,465000.0,,,12564,Suriaty Binti Haji Sulaiman
+Sri Carcosa,Sale,2500000.0,6,6,5000,Mohd Nazri Roslan
+Sri Carcosa,Sale,3000000.0,6,6,5200,Kelly See
+Sri Carcosa,Sale,2500000.0,6,6,10618,Muhd Fahmie
+Sri Carcosa,Sale,2400000.0,6,5,4130,Kelly See
+Sri Carcosa,Sale,698888.0,5,6,4800,Sam Sim
+Sri Carcosa,Sale,1650000.0,6,6,4500,Iqbal Rafei
+Sri Carcosa,Sale,1988000.0,6,6,4578,Firdaussazwan Mustafa
+Sri Carcosa,Sale,2500000.0,6,6,10618,Shafiq Amerudin
+Sri Carcosa,Sale,1790000.0,6,4,3349,Connie Chong
+Sri Carcosa,Sale,2500000.0,6,6,10618,Muhammad Faeiz Mohd Zin
+Sri Carcosa,Sale,1700000.0,6,5,3349,Muhammad .
+Sri Carcosa,Sale,4000000.0,7,7,7500,Angie Ng
