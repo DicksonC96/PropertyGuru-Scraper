@@ -1,0 +1,113 @@
+PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+Desa Manjung Raya,Sale,370000.0,5,3,1400,ADAM HARIZ
+Desa Manjung Raya,Sale,410000.0,Studio,Studio,1200,ADAM HARIZ
+Desa Manjung Raya,Sale,370000.0,5,4,1400,Azmi Othman
+Desa Manjung Raya,Sale,1000000.0,5,3,4500,ADAM HARIZ
+Taman Song Choon,Sale,468000.0,4,3,3330,Lucas Yau
+Taman Song Choon,Sale,208000.0,3,1,1300,Kinki Lee
+Taman Song Choon,Sale,260000.0,3,2,1950,Vivien Ng
+Taman Song Choon,Sale,295000.0,3,2,1800,Jane Lee
+Taman Song Choon,Rent,950.0,4,2,960,Sharon Poh
+Taman Song Choon,Rent,1350.0,4,5,2000,Sharon Poh
+Taman Song Choon,Rent,380.0,Room,Room,100,Jennifer Cha
+Residensi Kampar,Sale,300000.0,4,3,2200,Levi Chong
+Residensi Kampar,Sale,250000.0,3,2,1600,Levi Chong
+Residensi Kampar,Sale,220000.0,3,2,1099,Hui En .
+Residensi Kampar,Rent,1250.0,4,2,1400,Lucas Yau
+Taman Perpaduan,Sale,430000.0,5,3,1500,Kelvin Chong
+Taman Perpaduan,Sale,435000.0,4,3,2100,Siew Siang Leow
+Taman Perpaduan,Sale,190000.0,3,2,1647,Rusydan Mohamad Khir
+Taman Perpaduan,Sale,250000.0,3,2,1540,JUMIDAH (JUE)
+Taman Perpaduan,Sale,850000.0,4,4,2000,Johnson Teoh
+Residensi Tapah,Sale,152000.0,3,2,1300,Nurul Property
+Residensi Tapah,Sale,230000.0,3,2,1000,Nurul Property
+Residensi Tapah,Sale,169000.0,3,2,1000,Nurul Property
+Residensi Tapah,Sale,238000.0,4,2,1430,Jess Lim
+Taman Tambun,Sale,880000.0,4,3,3300,Rahmad .
+Taman Tambun,Sale,330000.0,4,3,1540,Sook Yee
+Taman Pakatan Jaya,Sale,300000.0,4,3,1600,Jodie Kuan
+Taman Pakatan Jaya,Sale,268000.0,4,3,1300,Kelvin Chong
+Taman Pakatan Jaya,Sale,300000.0,4,3,1300,Jennifer Cha
+Taman Pakatan Jaya,Rent,900.0,4,3,1080,Eric Loo
+Taman Pakatan Jaya,Rent,1600.0,3,3,1600,Queennie Soo
+MontBleu Residence,Sale,550000.0,3,3,2066,Simon Yong
+MontBleu Residence,Sale,530000.0,3,3,1700,David Wong
+MontBleu Residence,Sale,530000.0,3,4,1700,Angielina Chooi
+MontBleu Residence,Sale,580000.0,3,4,2066,Christine Lau
+MontBleu Residence,Sale,540000.0,3,4,1800,Megan Chee
+MontBleu Residence,Sale,540000.0,3,4,1954,Megan Chee
+MontBleu Residence,Sale,540000.0,3,4,1889,Steven .
+MontBleu Residence,Sale,520000.0,3,4,1890,Christine Lau
+MontBleu Residence,Sale,580000.0,4,4,1800,Steven Chong
+MontBleu Residence,Sale,580000.0,4,4,2017,Nicholas Lee
+MontBleu Residence,Sale,668000.0,3,4,2017,Vincent Tee
+MontBleu Residence,Sale,550000.0,3,4,1700,Angie Wong
+MontBleu Residence,Sale,550000.0,3,3,1800,Mandy Phang
+MontBleu Residence,Sale,365000.0,3,3,1819,Gary Chow
+MontBleu Residence,Rent,2300.0,3,3,2066,Steven Chong
+MontBleu Residence,Rent,2300.0,4,4,2066,Nicole Ling
+MontBleu Residence,Rent,2300.0,4,4,2066,Nicole Ling
+MontBleu Residence,Rent,2000.0,4,4,2107,Angielina Chooi
+MontBleu Residence,Rent,2400.0,3,4,2107,Angielina Chooi
+MontBleu Residence,Rent,2300.0,3,4,2107,Angielina Chooi
+MontBleu Residence,Rent,2200.0,3,4,2017,Clement Yong
+MontBleu Residence,Rent,2000.0,3,3,2066,Nicole Ling
+MontBleu Residence,Rent,2500.0,4,4,2600,Steven Chong
+MontBleu Residence,Rent,2000.0,3,4,2066,Christine Lau
+MontBleu Residence,Rent,2400.0,3,4,2107,Angielina Chooi
+MontBleu Residence,Rent,2000.0,3,4,2017,Christine Lau
+MontBleu Residence,Rent,2500.0,4,4,2800,Steven Chong
+MontBleu Residence,Rent,2200.0,3,4,1800,Steven .
+MontBleu Residence,Rent,1800.0,3,2,1800,Steven .
+MontBleu Residence,Rent,1900.0,3,3,1800,Nicole Ling
+MontBleu Residence,Rent,2300.0,3,3,2066,Alvin Soon
+MontBleu Residence,Rent,1800.0,3,4,1800,Steven .
+Kampar Putra,Sale,180000.0,4,4,1400,JJ Teo
+Kampar Putra,Sale,258000.0,4,4,1000,Aaron Wong
+Kampar Putra,Sale,538000.0,8,6,3218,John Leong
+Kampar Putra,Rent,1100.0,4,4,1767,Faidhi Fadzin
+Taman Pantai Damai 2,Sale,180000.0,4,2,1195,Mohamad Irwan
+Taman Pantai Damai 2,Sale,359820.0,4,3,1500,Mr Yuen
+Taman Pantai Damai 2,Sale,340920.0,4,3,1500,Mr Yuen
+Taman Pantai Damai 2,Sale,405800.0,3,2,880,Mr Yuen
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,185000.0,3,2,900,Muinuddin Muhamad
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,228000.0,3,3,800,Khairul Safuan
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,198000.0,3,2,880,Adibah Salim
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,144000.0,3,1,1302,Emily .
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,220000.0,3,2,880,Muinuddin Muhamad
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,200000.0,3,2,900,Muinuddin Muhamad
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,320000.0,3,2,1380,Muinuddin Muhamad
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,240610.0,4,3,1903,Mohd Zulhilmi
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,198000.0,3,2,800,Mohd Zulhilmi
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,198000.0,3,2,900,Sariza Hartanah
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,179800.0,3,2,1063,Ita .
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,188405.0,3,2,1060,Mohamad Irwan
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,240610.0,4,3,1060,Mohamad Irwan
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,192000.0,3,2,900,Mohamad Irwan
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,201000.0,3,2,880,Farhan Bakar
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,198000.0,3,2,800,Mohamad Irwan
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,190000.0,3,2,900,Syahidani Suhaimi
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,240000.0,4,3,1400,Atikah Amirah
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,185000.0,3,2,900,Farhan Bakar
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,198000.0,3,2,800,Mohd Zakhiruddin Bin Zulkifli
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,228000.0,3,2,880,Suryati Tohid
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,198000.0,3,2,800,Faiz .
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,270000.0,4,3,1950,Faiz .
+Bandar Baru Setia Awan Perdana (BBSAP),Sale,185000.0,3,2,900,Redzuan Ahmad
+Bandar Baru Setia Awan Perdana (BBSAP),Rent,600.0,3,2,1920,Khairul Azman
+Bandar Baru Setia Awan Perdana (BBSAP),Rent,650.0,3,2,880,Muinuddin Muhamad
+Bandar Baru Setia Awan Perdana (BBSAP),Rent,500.0,3,2,900,Muinuddin Muhamad
+Bandar Baru Setia Awan Perdana (BBSAP),Rent,550.0,3,2,1300,Khairul Azman
+Bandar Baru Setia Awan Perdana (BBSAP),Rent,1000.0,3,2,2600,Khairul Azman
+Bandar Baru Setia Awan Perdana (BBSAP),Rent,500.0,3,2,1200,Khairul Azman
+The Gulf Village,Sale,950000.0,6,6,3300,Mr Yuen
+Tiara Lake Park - 10T2,Sale,520000.0,4,4,2450,Lucas Yau
+Tiara Lake Park - 10T2,Sale,530000.0,4,4,2300,Yeo Chin Lay
+Tiara Lake Park - 10T2,Sale,538000.0,4,3,2293,Jessey Ng
+Tiara Lake Park - 10T2,Sale,450000.0,4,4,1760,Alan Leong
+Tiara Lake Park - 10T2,Sale,520000.0,4,4,1400,Alan Leong
+Tiara Lake Park - 10T2,Sale,438000.0,4,3,2800,Vincent Chin
+Tiara Lake Park - 10T2,Sale,370000.0,4,3,1200,Jasmine Seow
+Tiara Lake Park - 10T2,Rent,1250.0,4,3,1200,Lucas Yau
+Tiara Lake Park - 10T2,Rent,950.0,4,3,1200,Lucas Yau
+Cornflower,Sale,258800.0,3,2,1400,Kinta EcoCity Sdn Bhd
