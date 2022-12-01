@@ -1,0 +1,1074 @@
+PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author
+Impian Villa,Sale,2000000.0,6,5,3480,Hong Lee
+Impian Villa,Sale,2050000.0,6,5,3480,Biana Yap
+Impian Villa,Sale,2700000.0,7,5,4266,May Leong
+Impian Villa,Sale,2750000.0,4,5,4266,Melissa Tan
+Impian Villa,Rent,5200.0,6,5,3480,Hong Lee
+Impian Villa,Rent,5200.0,6,5,3480,Biana Yap
+Taman Sri Sinar,Sale,439000.0,3,3,770,Kemp Lee
+Taman Sri Sinar,Sale,450000.0,3,2,1200,Hendry Goh
+Taman Sri Sinar,Sale,418000.0,3,3,660,Wilson Wong
+Taman Sri Sinar,Sale,417000.0,3,2,1000,Eugene .
+Taman Sri Sinar,Sale,418000.0,3,3,602,Kim Meng Lew
+Taman Sri Sinar,Sale,465000.0,3,2,900,Linus Kong
+Taman Sri Sinar,Sale,417000.0,3,2,1000,Eugene .
+Taman Sri Sinar,Sale,849999.0,3,2,1657,Ryan Teoh
+Taman Sri Sinar,Sale,930000.0,3,2,1040,Sky Lim
+Taman Sri Sinar,Sale,418000.0,3,2,1000,Kiing TW
+Taman Sri Sinar,Sale,417000.0,3,2,1000,Eugene .
+Taman Sri Sinar,Sale,410000.0,3,3,602,Yannie Wong
+Taman Sri Sinar,Sale,415000.0,3,2,850,Thomas Chen
+Taman Sri Sinar,Sale,640000.0,3,2,1000,Dickson Lau
+Taman Sri Sinar,Sale,425000.0,3,3,1250,Hanif Kasmani
+Taman Sri Sinar,Sale,417000.0,3,2,1000,Eugene Yap
+Taman Sri Sinar,Sale,418000.0,3,3,660,Mandy Liew
+Taman Sri Sinar,Sale,425000.0,3,2,620,Mandy Liew
+Taman Sri Sinar,Sale,380000.0,3,2,1200,Mandy Liew
+Taman Sri Sinar,Sale,450000.0,3,2,602,Mandy Liew
+Taman Sri Sinar,Sale,418000.0,3,3,602,Vicky .
+Taman Sri Sinar,Sale,416000.0,3,2,1260,Charmaine Tan
+Taman Sri Sinar,Sale,417000.0,3,2,1000,Eugene Yap
+Taman Sri Sinar,Sale,418000.0,3,3,660,Wilson Wong
+Taman Sri Sinar,Sale,799000.0,4,3,1583,Sylvia Lim
+Taman Sri Sinar,Sale,650000.0,3,2,1170,April How
+Taman Sri Sinar,Sale,417000.0,3,2,1000,Eugene Yap
+Taman Sri Sinar,Sale,408000.0,3,2,1000,Evelyn Lim
+Taman Sri Sinar,Sale,408000.0,3,2,602,Evelyn Lim
+Taman Sri Sinar,Sale,417000.0,3,2,1000,Adan Soh
+Taman Sri Sinar,Sale,650000.0,3,2,1400,Ryan Lim
+Taman Sri Sinar,Sale,580000.0,2,2,1092,Vicky .
+Taman Sri Sinar,Sale,410000.0,3,3,1400,William Chin
+Taman Sri Sinar,Sale,417000.0,3,2,1000,Suki Tan
+Taman Sri Sinar,Sale,417000.0,3,2,1000,Eugene Yap
+Taman Sri Sinar,Sale,475000.0,3,2,1066,Chin Yee Xin
+Taman Sri Sinar,Sale,490000.0,4,3,770,Michelle Yun
+Taman Sri Sinar,Sale,415000.0,3,2,850,Thomas Chen
+Taman Sri Sinar,Sale,425000.0,3,3,1250,Mas Ayu
+Taman Sri Sinar,Sale,450000.0,3,2,923,Chin Yee Xin
+Taman Sri Sinar,Sale,688000.0,3,3,1430,Ryan Teoh
+Taman Sri Sinar,Sale,469000.0,3,2,770,Kemp Lee
+Taman Sri Sinar,Sale,439000.0,3,2,850,Kemp Lee
+Taman Sri Sinar,Sale,418000.0,3,2,850,Thomas Chen
+Taman Sri Sinar,Sale,465000.0,3,2,616,Sheyap .
+Taman Sri Sinar,Sale,580000.0,2,2,770,Sammie Liau
+Taman Sri Sinar,Sale,610000.0,3,2,882,Nazli Ambak
+Taman Sri Sinar,Sale,418000.0,3,2,850,Cath .
+Taman Sri Sinar,Sale,430000.0,3,2,1000,Chee Boon Siong
+Taman Sri Sinar,Sale,430000.0,3,2,1000,Kenny Lee
+Taman Sri Sinar,Sale,520000.0,3,2,880,Jason Yap
+Taman Sri Sinar,Sale,650000.0,3,2,868,Zoey Tan
+Taman Sri Sinar,Sale,430000.0,3,3,1000,Jack Lai
+Taman Sri Sinar,Sale,450000.0,3,2,1200,HC Lim
+Taman Sri Sinar,Sale,799999.0,4,3,1583,Ryan Teoh
+Taman Sri Sinar,Sale,418000.0,3,2,900,Sherry Chang
+Taman Sri Sinar,Sale,450000.0,3,2,1000,Issac Tan
+Taman Sri Sinar,Sale,418000.0,3,3,602,Kim Meng Lew
+Taman Sri Sinar,Sale,490000.0,4,3,770,Desmond Tang
+Taman Sri Sinar,Sale,399000.0,4,3,1000,Adrian Wong
+Taman Sri Sinar,Sale,479000.0,3,2,1000,Adrian Wong
+Taman Sri Sinar,Sale,410000.0,3,2,602,ryan Swe
+Taman Sri Sinar,Sale,410000.0,3,2,602,Wynner Teoh
+Taman Sri Sinar,Sale,490000.0,4,3,770,Elvis Kok
+Taman Sri Sinar,Sale,580000.0,3,2,958,Fong Esther
+Taman Sri Sinar,Sale,250000.0,2,1,596,NUZULHAKIMI .
+Taman Sri Sinar,Sale,400000.0,3,2,630,Elvis Kok
+Taman Sri Sinar,Sale,575000.0,3,2,900,Dickson Lau
+Taman Sri Sinar,Sale,418000.0,3,2,850,Ken Lai
+Taman Sri Sinar,Sale,399000.0,3,2,1260,Charmaine Tan
+Taman Sri Sinar,Sale,650000.0,3,2,1320,Hendry Goh
+Taman Sri Sinar,Sale,750000.0,3,3,800,Norman Tiong
+Taman Sri Sinar,Sale,588000.0,3,2,900,Dickson Lau
+Taman Sri Sinar,Sale,468000.0,3,2,1140,JJ Chiang
+Taman Sri Sinar,Sale,530000.0,3,2,700,Ruey Tan
+Taman Sri Sinar,Sale,550000.0,3,2,1000,Anas Ashaari
+Taman Sri Sinar,Sale,530000.0,3,2,1200,Melvin Loke
+Taman Sri Sinar,Sale,490000.0,3,2,1500,Hendry Goh
+Taman Sri Sinar,Sale,580000.0,3,2,960,Dickson Lau
+Taman Sri Sinar,Sale,530000.0,3,2,1000,Grace Chooi
+Taman Sri Sinar,Sale,680000.0,4,3,1040,Grace Chooi
+Taman Sri Sinar,Sale,530000.0,3,2,1200,CW Kong
+Taman Sri Sinar,Sale,465000.0,3,2,900,Sherry Chang
+Taman Sri Sinar,Sale,678888.0,3,2,1200,Lucas Lim
+Taman Sri Sinar,Sale,420000.0,3,2,1140,Steve Loh
+Taman Sri Sinar,Sale,480000.0,3,3,1200,Dickson Ong
+Taman Sri Sinar,Sale,930000.0,3,2,1300,Steve Loh
+Taman Sri Sinar,Sale,660000.0,3,2,1200,Desmond Kok
+Taman Sri Sinar,Sale,380000.0,3,2,650,SC Yap
+Taman Sri Sinar,Sale,615000.0,3,2,900,Cindy Tan
+Taman Sri Sinar,Sale,698000.0,4,3,1700,Benjamin Lai
+Taman Sri Sinar,Sale,680000.0,3,2,880,Keanu Tan
+Taman Sri Sinar,Sale,725000.0,3,2,880,Keanu Tan
+Taman Sri Sinar,Sale,688000.0,3,2,1280,Jim Lee
+Taman Sri Sinar,Rent,1200.0,3,3,770,Kemp Lee
+Taman Sri Sinar,Rent,1250.0,3,3,1000,David Wong
+Taman Sri Sinar,Rent,1300.0,4,3,1200,Jeffrey Yap
+Taman Sri Sinar,Rent,1400.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1300.0,3,2,1000,HC Lim
+Taman Sri Sinar,Rent,1300.0,4,3,1300,Jeffrey Yap
+Taman Sri Sinar,Rent,1400.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1400.0,3,2,1300,Tien .
+Taman Sri Sinar,Rent,1200.0,3,2,770,Kemp Lee
+Taman Sri Sinar,Rent,1300.0,4,3,1500,Jeffrey Yap
+Taman Sri Sinar,Rent,1400.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1600.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1600.0,3,3,900,Aaren Yap
+Taman Sri Sinar,Rent,1600.0,3,3,900,Nelson SH Chan
+Taman Sri Sinar,Rent,1600.0,3,3,800,Chin Yee Xin
+Taman Sri Sinar,Rent,1600.0,3,2,770,Kemp Lee
+Taman Sri Sinar,Rent,1300.0,3,3,1505,Albert Koo
+Taman Sri Sinar,Rent,1600.0,3,3,800,Melvin Loke
+Taman Sri Sinar,Rent,1600.0,3,2,1200,Issac Tan
+Taman Sri Sinar,Rent,1300.0,4,3,1500,Jeffrey Yap
+Taman Sri Sinar,Rent,1200.0,3,2,660,Dickson Lau
+Taman Sri Sinar,Rent,1600.0,3,3,800,Eliz Chan
+Taman Sri Sinar,Rent,1300.0,4,3,1500,Jeffrey Yap
+Taman Sri Sinar,Rent,1400.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1600.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1300.0,3,2,850,Kemp Lee
+Taman Sri Sinar,Rent,1600.0,3,3,1000,Vicky .
+Taman Sri Sinar,Rent,1400.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1600.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1400.0,3,2,1300,Tien .
+Taman Sri Sinar,Rent,1600.0,3,2,660,Dickson Lau
+Taman Sri Sinar,Rent,1600.0,3,3,900,Hafiz Shariff
+Taman Sri Sinar,Rent,1400.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1400.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,2300.0,3,2,880,Chris Tye
+Taman Sri Sinar,Rent,1600.0,3,3,630,Jackson Ng
+Taman Sri Sinar,Rent,1300.0,4,3,1500,Jeffrey Yap
+Taman Sri Sinar,Rent,1600.0,3,2,1000,Chin Yee Xin
+Taman Sri Sinar,Rent,1500.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1200.0,2,1,850,Kemp Lee
+Taman Sri Sinar,Rent,1500.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1200.0,3,2,588,Mercy Leow
+Taman Sri Sinar,Rent,1500.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1300.0,3,2,950,Calvin Lim
+Taman Sri Sinar,Rent,1500.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1300.0,3,2,1500,Jeffrey Yap
+Taman Sri Sinar,Rent,1500.0,3,2,1000,Sam Yee
+Taman Sri Sinar,Rent,1300.0,3,2,1500,Jeffrey Yap
+Taman Sri Sinar,Rent,1600.0,3,2,1200,Issac Tan
+Taman Sri Sinar,Rent,1500.0,3,3,1300,Raymond Siew
+Taman Sri Sinar,Rent,1400.0,3,2,602,Joshua Tee
+Taman Sri Sinar,Rent,1300.0,3,2,1500,Jeffrey Yap
+Taman Sri Sinar,Rent,1000.0,3,2,660,Dickson Lau
+Taman Sri Sinar,Rent,1200.0,3,2,630,Mei Wong
+Taman Sri Sinar,Rent,1300.0,3,2,1300,Jeffrey Yap
+Taman Sri Sinar,Rent,1600.0,3,2,1200,CW Kong
+Taman Sri Sinar,Rent,1200.0,3,2,650,Dickson Lau
+Taman Sri Sinar,Rent,300.0,Room,Room,100,Kemp Lee
+"Dale, Lake Fields",Sale,1300000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1290000.0,5,4,2600,Cady Koh
+"Dale, Lake Fields",Sale,1600000.0,5,4,2600,Cady Koh
+"Dale, Lake Fields",Sale,1380000.0,5,4,2600,Cady Koh
+"Dale, Lake Fields",Sale,1320000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1120000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1120000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1350000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1200000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1380000.0,5,4,2600,Jagger Moo
+"Dale, Lake Fields",Sale,1270000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1150000.0,5,6,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1400000.0,5,4,2600,Chris Chong
+"Dale, Lake Fields",Sale,1120000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1350000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,2250000.0,6,5,3600,Edmund Lee
+"Dale, Lake Fields",Sale,1150000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1120000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,2300000.0,6,5,3598,Cady Koh
+"Dale, Lake Fields",Sale,1250000.0,5,4,2600,Geneive Hii
+"Dale, Lake Fields",Sale,2250000.0,5,6,3598,Geneive Hii
+"Dale, Lake Fields",Sale,1120000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1650000.0,5,4,2655,Terance Leong
+"Dale, Lake Fields",Sale,1270000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1120000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1150000.0,5,6,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1380000.0,5,4,2600,YP Tan
+"Dale, Lake Fields",Sale,1250000.0,5,4,2600,YP Tan
+"Dale, Lake Fields",Sale,1580000.0,5,4,2600,YP Tan
+"Dale, Lake Fields",Sale,1260000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1150000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1120000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,2250000.0,5,6,3598,Geneive Hii
+"Dale, Lake Fields",Sale,1390000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1250000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1350000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1120000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1300000.0,5,4,2655,Terance Leong
+"Dale, Lake Fields",Sale,1120000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1380000.0,5,4,2600,Alan Chin
+"Dale, Lake Fields",Sale,1200000.0,5,4,2600,Cady Koh
+"Dale, Lake Fields",Sale,1650000.0,5,4,2610,Mavis Sim
+"Dale, Lake Fields",Sale,2250000.0,6,5,3600,Edmund Lee
+"Dale, Lake Fields",Sale,1270000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1120000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1150000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,2250000.0,5,5,3598,Geneive Hii
+"Dale, Lake Fields",Sale,1250000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1320000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1150000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1250000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1380000.0,5,4,2600,andrew lim
+"Dale, Lake Fields",Sale,1320000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1120000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1390000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1320000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1100000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1650000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1390000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1100000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1380000.0,5,4,2600,Cady Koh
+"Dale, Lake Fields",Sale,2300000.0,5,5,3598,Edward Khor
+"Dale, Lake Fields",Sale,1120000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,2250000.0,6,5,3600,Edmund Lee
+"Dale, Lake Fields",Sale,1650000.0,5,6,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1250000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1390000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,2250000.0,5,5,3598,Geneive Hii
+"Dale, Lake Fields",Sale,1120000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1120000.0,5,6,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1120000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1250000.0,5,4,2600,Geneive Hii
+"Dale, Lake Fields",Sale,1650000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,2300000.0,6,5,3600,Edmund Lee
+"Dale, Lake Fields",Sale,1120000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1380000.0,5,4,2600,Jagger Moo
+"Dale, Lake Fields",Sale,1250000.0,5,4,2600,Yong LIn
+"Dale, Lake Fields",Sale,2500000.0,6,5,3600,Edmund Lee
+"Dale, Lake Fields",Sale,1120000.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Sale,1390000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,1280000.0,5,4,2655,Geneive Hii
+"Dale, Lake Fields",Sale,2250000.0,5,5,3598,Geneive Hii
+"Dale, Lake Fields",Rent,3100.0,5,4,2600,Edmund Lee
+"Dale, Lake Fields",Rent,2400.0,5,4,2400,Sharon Khong
+Taman Cheras,Sale,2850000.0,6,5,4000,Tony Chang
+Taman Cheras,Sale,680000.0,5,2,2000,Kevin Yai
+Taman Cheras,Sale,760000.0,4,3,1200,Yen Tow
+Taman Cheras,Sale,190000.0,2,2,807,Susie Ong
+Taman Cheras,Sale,800000.0,5,3,2000,Tony Chang
+Taman Cheras,Sale,2850000.0,6,5,4000,Kent Wong
+Taman Cheras,Sale,480000.0,3,3,1200,Aaron Wong
+Taman Cheras,Sale,1800000.0,5,3,3800,Kevin Yai
+Taman Cheras,Sale,2850000.0,6,5,4000,Kevin Yai
+Taman Cheras,Sale,2580000.0,5,4,4000,Kent Wong
+Taman Cheras,Sale,1700000.0,4,3,3800,Fred Chai Meng Foong
+Taman Cheras,Sale,778000.0,6,3,1870,Tony Chang
+Taman Cheras,Sale,3900000.0,8,4,5500,Kent Wong
+Taman Cheras,Sale,1200000.0,4,3,2000,Paul Po
+Taman Cheras,Sale,1680000.0,4,3,3800,Kevin Yai
+Taman Cheras,Sale,1600000.0,6,3,4500,Kevin Yai
+Taman Cheras,Sale,4100000.0,7,4,5500,Oon Yuet Fun
+Taman Cheras,Sale,2500000.0,7,5,2050,Elly Song
+Taman Cheras,Sale,680000.0,5,2,2000,Grace Choong
+Taman Cheras,Sale,700000.0,4,3,1417,Sherene Chin
+Taman Cheras,Sale,798000.0,4,3,3000,William Chin
+Taman Cheras,Sale,4100000.0,8,4,5500,Jimmy Kan
+Taman Cheras,Sale,729000.0,4,3,1560,Zex Wong
+Taman Cheras,Sale,850000.0,4,3,3500,Masnizah Arifin
+Taman Cheras,Sale,4100000.0,8,4,5500,Jimmy Kan
+Taman Cheras,Sale,1800000.0,5,3,3800,Yvonne Kho
+Taman Cheras,Sale,950000.0,5,2,2280,Shann Wong
+Taman Cheras,Sale,680000.0,5,2,2000,Yvonne Kho
+Taman Cheras,Sale,1550000.0,4,3,6000,Stanley Wan
+Taman Cheras,Sale,4100000.0,8,4,5500,Jimmy Kan
+Taman Cheras,Sale,760000.0,4,3,1800,Daniel Wong
+Taman Cheras,Sale,7000000.0,4,3,1300,Hafidz Ali
+Taman Cheras,Sale,298000.0,3,2,625,Jassey Saw
+Taman Cheras,Sale,838000.0,4,3,2200,Vincent Yong
+Taman Cheras,Sale,780000.0,6,3,1870,Terence Tih
+Taman Cheras,Sale,175000.0,2,2,804,Aaron Wong
+Taman Cheras,Sale,1150000.0,5,4,2582,Kelly Low
+Taman Cheras,Sale,878000.0,4,3,1540,Kent Wong
+Taman Cheras,Sale,1380000.0,4,3,2000,Kent Wong
+Taman Cheras,Sale,980000.0,7,6,4620,Kent Wong
+Taman Cheras,Sale,2200000.0,6,3,6800,Yvonne Kho
+Taman Cheras,Sale,2200000.0,6,3,6800,Kent Wong
+Taman Cheras,Sale,1600000.0,6,3,4500,Kent Wong
+Taman Cheras,Sale,1600000.0,6,3,4500,Mohd Amir Anandh Abdullah
+Taman Cheras,Sale,1680000.0,4,3,3800,Kevin Yai
+Taman Cheras,Sale,468000.0,4,4,2380,Siti Nurhaliza
+Taman Cheras,Sale,1700000.0,4,3,3800,Kent Wong
+Taman Cheras,Sale,1700000.0,4,3,3800,Mohd Amir Anandh Abdullah
+Taman Cheras,Rent,1300.0,3,2,1300,Bowie Hon
+Jinjang Utara,Sale,1650000.0,8,5,2700,Kim Meng Lew
+Jinjang Utara,Sale,739000.0,4,3,1400,Kim Meng Lew
+Jinjang Utara,Sale,768000.0,5,3,2400,Kim Meng Lew
+Jinjang Utara,Sale,648000.0,5,2,1300,Suki Tan
+Jinjang Utara,Sale,358000.0,3,1,1100,Bernice Wong
+Jinjang Utara,Sale,620000.0,4,2,2000,Darren Lai
+Jinjang Utara,Sale,768000.0,5,3,2400,Melvin Loke
+Jinjang Utara,Sale,1050000.0,,,5275,jack leaw
+Jinjang Utara,Sale,330000.0,2,2,840,Shamzjoe .
+Jinjang Utara,Sale,1650000.0,8,5,2700,Sim Chee Ming
+Jinjang Utara,Sale,648000.0,5,2,1300,Jercy Tan
+Jinjang Utara,Sale,648000.0,5,3,1300,Adan Soh
+Jinjang Utara,Sale,700000.0,,,3283,Zora Gan
+Jinjang Utara,Sale,380000.0,3,2,1200,Maggie Joe
+Jinjang Utara,Sale,860000.0,4,3,1500,Elvis Kok
+Jinjang Utara,Sale,1590000.0,5,5,3000,Steve Yong
+Jinjang Utara,Sale,370000.0,2,1,840,YK Chow
+Jinjang Utara,Sale,370000.0,2,1,840,Hasfarizal Bin Abdul Halim
+Jinjang Utara,Sale,310000.0,2,1,840,Steven Thong
+Jinjang Utara,Sale,450000.0,,,2723,Liew Lih Yi
+Jinjang Utara,Sale,768000.0,5,3,2400,Coyee Wong
+Jinjang Utara,Sale,1350000.0,4,2,5306,Raymond Ong
+Jinjang Utara,Sale,1590000.0,5,5,3000,Alice Ting
+Jinjang Utara,Sale,1500000.0,5,5,3000,Vicky Teo
+Jinjang Utara,Sale,950000.0,4,2,3000,Elaine Lau
+Jinjang Utara,Sale,1590135.0,5,5,3000,Joshua Tee
+Jinjang Utara,Sale,368000.0,2,2,1070,Jim Lee
+Jinjang Utara,Sale,1590000.0,5,5,3000,Robert Yee
+Jinjang Utara,Sale,290000.0,3,1,800,NoorisHaris .
+Jinjang Utara,Sale,1680000.0,5,5,3000,Sam Saik
+Jinjang Utara,Sale,1680000.0,5,5,3000,Steve Yong
+Jinjang Utara,Rent,2000.0,3,2,2100,Annissa Yeo
+The Mansions,Sale,6300000.0,6,7,6084,Kent Chua
+The Mansions,Sale,5800000.0,5,5,4483,Kent Chua
+The Mansions,Sale,6500000.0,7,6,6526,Kent Chua
+The Mansions,Sale,6800000.0,7,6,6526,Kent Chua
+The Mansions,Sale,7000000.0,5,6,6084,Ho Suet Jing
+The Mansions,Sale,6300000.0,5,6,6084,Eugene .
+The Mansions,Sale,6500000.0,5,6,6526,Eugene .
+The Mansions,Sale,5550000.0,5,5,4483,Kent Chua
+The Mansions,Sale,6300000.0,5,6,6084,Eugene Yap
+The Mansions,Sale,6500000.0,5,6,6526,Eugene Yap
+The Mansions,Sale,5800000.0,4,5,4483,Steven Lim
+The Mansions,Sale,6800000.0,5,6,6633,Steven Lim
+The Mansions,Sale,6300000.0,5,6,6084,Eugene .
+The Mansions,Sale,6500000.0,5,6,6526,Eugene .
+The Mansions,Sale,6380000.0,6,6,6526,Leon Liew
+The Mansions,Sale,6500000.0,7,8,6526,Ang Yi Quan
+The Mansions,Sale,5450000.0,5,6,4483,Ang Yi Quan
+The Mansions,Sale,5800000.0,5,6,4483,Ang Yi Quan
+The Mansions,Sale,6300000.0,6,6,6084,Ang Yi Quan
+The Mansions,Sale,6800000.0,7,8,6526,Ang Yi Quan
+The Mansions,Sale,6800000.0,8,7,6938,Kent Chua
+The Mansions,Sale,6500000.0,5,7,6526,Scott Lee
+The Mansions,Sale,6300000.0,5,6,6084,Eugene .
+The Mansions,Sale,6500000.0,5,6,6526,Eugene .
+The Mansions,Sale,6500000.0,5,6,6768,Mun Hoe
+The Mansions,Sale,6300000.0,5,6,6084,Leon Liew
+The Mansions,Sale,6500000.0,5,6,6526,Leon Liew
+The Mansions,Sale,6800000.0,7,6,6633,Leon Liew
+The Mansions,Sale,6500000.0,5,7,6526,Leon Liew
+The Mansions,Sale,6150000.0,5,7,6088,Mun Hoe
+The Mansions,Sale,6300000.0,5,6,6084,Eugene Yap
+The Mansions,Sale,6500000.0,5,6,6526,Eugene Yap
+The Mansions,Sale,5800000.0,4,4,4483,Steven Lim
+The Mansions,Sale,6800000.0,5,6,6633,Steven Lim
+The Mansions,Sale,6488000.0,7,7,6526,Florence Ng
+The Mansions,Sale,5800000.0,3,6,4471,Jessie Kee
+The Mansions,Sale,5680000.0,3,4,4488,Sunny Lim
+The Mansions,Sale,6200000.0,6,6,6049,Crystal Chua
+The Mansions,Sale,5350000.0,4,6,4483,Priscillia Ku
+The Mansions,Sale,6800000.0,5,6,6633,Mun Hoe
+The Mansions,Sale,5250000.0,4,5,4376,Mun Hoe
+The Mansions,Sale,6600000.0,6,7,6938,Mun Hoe
+The Mansions,Sale,6200000.0,6,6,6049,Kevin Lum
+The Mansions,Sale,6800000.0,8,8,6633,Scott Lee
+The Mansions,Sale,6150000.0,5,7,6088,Jessie Kee
+The Mansions,Sale,5250000.0,3,6,4483,Jessie Kee
+The Mansions,Rent,25000.0,7,8,7000,Scott Lee
+The Mansions,Rent,17000.0,5,6,4300,Carol Yong
+The Mansions,Rent,610.0,Room,Room,100,Eason Wong
+The Mansions,Rent,610.0,Room,Room,135,Eason Wong
+Desa Sri Hartamas,Sale,1990000.0,5,5,2200,Al-Hana Ahmad
+Desa Sri Hartamas,Sale,1750000.0,4,3,2200,Al-Hana Ahmad
+Desa Sri Hartamas,Sale,1980000.0,4,4,2200,Zack Ng
+Desa Sri Hartamas,Sale,3600000.0,6,6,4800,Rasyadan Hussin
+Desa Sri Hartamas,Sale,4500000.0,Studio,Studio,12000,Debbie Eng
+Desa Setapak,Sale,425000.0,3,3,1100,Bernice Wong
+Desa Setapak,Sale,400000.0,3,3,1100,Josephine Pea LS
+Desa Setapak,Sale,440000.0,3,2,1100,Bernice Wong
+Desa Setapak,Sale,630000.0,5,3,1550,Bernice Wong
+Desa Setapak,Sale,420000.0,3,3,1100,Bernice Wong
+Desa Setapak,Sale,500000.0,2,2,1000,David Chung
+Desa Setapak,Sale,630000.0,5,3,1400,Ben Ng
+Desa Setapak,Sale,420000.0,4,3,700,Ben Ng
+Desa Setapak,Sale,420000.0,3,3,800,Ben Ng
+Desa Setapak,Sale,399000.0,4,3,1000,Sheron Khor
+Desa Setapak,Sale,430000.0,3,3,1000,Mandy Khoo
+Desa Setapak,Sale,630000.0,5,3,1500,GEE Lee
+Desa Setapak,Sale,589000.0,3,2,1572,Desmond Theng
+Desa Setapak,Sale,630000.0,5,3,1400,Ben Ng
+Desa Setapak,Sale,450000.0,3,3,1200,May Goh
+Desa Setapak,Sale,670000.0,4,3,1300,Bernice Wong
+Desa Setapak,Sale,630000.0,5,3,1500,GEE Lee
+Desa Setapak,Sale,430000.0,3,3,1000,May Goh
+Desa Setapak,Sale,1400.0,4,2,1100,Bernice Wong
+Desa Setapak,Sale,630000.0,5,3,1550,Bernice Wong
+Desa Setapak,Sale,420000.0,3,3,1100,Bernice Wong
+Desa Setapak,Sale,380000.0,3,2,1100,Bernice Wong
+Desa Setapak,Sale,670000.0,4,3,1300,Bernice Wong
+Desa Setapak,Sale,380000.0,3,2,1100,Bernice Wong
+Desa Setapak,Sale,670000.0,4,3,1300,Bernice Wong
+Desa Setapak,Sale,630000.0,5,3,1550,Bernice Wong
+Desa Setapak,Sale,440000.0,3,2,1200,Bernice Wong
+Desa Setapak,Sale,420000.0,3,3,1100,Bernice Wong
+Desa Setapak,Sale,499000.0,3,2,1200,Aw Qi Fan
+Desa Setapak,Sale,630000.0,5,3,1550,Peter Chuah
+Desa Setapak,Sale,490000.0,3,2,1200,Khairul Zainuddin
+Desa Setapak,Sale,400000.0,3,2,1100,Ketty Ching
+Desa Setapak,Sale,670000.0,3,3,1200,Zheng Hong Tan
+Desa Setapak,Sale,500000.0,2,2,1000,Zheng Hong Tan
+Desa Setapak,Sale,490000.0,3,2,1200,Azli Ibrahim
+Desa Setapak,Sale,420000.0,3,3,800,Ben Ng
+Desa Setapak,Sale,568000.0,4,3,1600,Kim Loh
+Desa Setapak,Sale,440000.0,3,2,630,Ben Ng
+Desa Setapak,Sale,460000.0,3,3,800,Ben Ng
+Desa Setapak,Sale,430000.0,3,3,1036,Lucas Low
+Desa Setapak,Sale,670000.0,4,3,2000,Lucas Low
+Desa Setapak,Sale,580000.0,5,3,1056,Lucas Low
+Desa Setapak,Sale,419000.0,3,2,1100,Eeson .
+Desa Setapak,Sale,380000.0,2,2,1000,Kak Yong Fara
+Desa Setapak,Sale,568000.0,4,2,1600,Kim Loh
+Desa Setapak,Sale,630000.0,5,3,1500,GEE Lee
+Desa Setapak,Sale,550000.0,4,2,1600,Kim Loh
+Desa Setapak,Sale,390000.0,3,2,880,Joe Tan
+Desa Setapak,Sale,365000.0,3,3,1100,Bernice Wong
+Desa Setapak,Sale,430000.0,3,3,2310,Lawrence Low
+Desa Setapak,Sale,430000.0,3,3,1000,Mandy Khoo
+Desa Setapak,Sale,630000.0,5,3,1550,Peter Chuah
+Desa Setapak,Sale,440000.0,3,2,1100,Ben Ng
+Desa Setapak,Sale,460000.0,3,3,1200,Ben Ng
+Desa Setapak,Sale,420000.0,4,3,700,Ben Ng
+Desa Setapak,Sale,435000.0,3,3,1400,YP Tan
+Desa Setapak,Sale,435000.0,3,3,600,Joey Ng
+Desa Setapak,Sale,410000.0,4,3,1200,Wesley Chan
+Desa Setapak,Sale,365000.0,3,2,1100,Bernice Wong
+Desa Setapak,Sale,420000.0,3,3,900,Welson Moo
+Desa Setapak,Sale,400000.0,2,1,854,Muhammad .
+Desa Setapak,Sale,850000.0,5,3,2100,Malcolm Chua
+Desa Setapak,Sale,670000.0,3,3,1200,Zheng Hong Tan
+Desa Setapak,Sale,399000.0,4,3,1000,Sheron Khor
+Desa Setapak,Sale,630000.0,5,3,1400,Ben Ng
+Desa Setapak,Sale,378000.0,3,2,1000,Kellie Tan
+Desa Setapak,Sale,365000.0,3,3,1100,Bernice Wong
+Desa Setapak,Sale,420000.0,3,3,1100,Bernice Wong
+Desa Setapak,Sale,390000.0,3,2,550,Joe Tan
+Desa Setapak,Sale,390000.0,3,2,862,Eiden Yeong
+Desa Setapak,Sale,380000.0,3,2,770,King Wha
+Desa Setapak,Sale,390000.0,3,2,1000,Zheng Hong Tan
+Desa Setapak,Sale,420000.0,3,3,1000,Mandy Khoo
+Desa Setapak,Sale,580000.0,4,3,1600,Kim Loh
+Desa Setapak,Sale,420000.0,4,3,700,Ben Ng
+Desa Setapak,Sale,420000.0,3,3,800,Ben Ng
+Desa Setapak,Sale,365000.0,3,3,1100,Bernice Wong
+Desa Setapak,Sale,420000.0,3,3,1200,Jagger Moo
+Desa Setapak,Sale,630000.0,5,3,1500,Jagger Moo
+Desa Setapak,Sale,380000.0,3,2,1200,Brandon Chin
+Desa Setapak,Sale,365000.0,3,3,1200,Brandon Chin
+Desa Setapak,Sale,630000.0,5,3,1550,Bernice Wong
+Desa Setapak,Sale,440000.0,3,2,1100,Bernice Wong
+Desa Setapak,Sale,425000.0,3,3,1100,Bernice Wong
+Desa Setapak,Sale,420000.0,3,2,1000,David Chung
+Desa Setapak,Sale,390000.0,3,2,1000,David Chung
+Desa Setapak,Sale,365000.0,3,3,1100,Bernice Wong
+Desa Setapak,Sale,388000.0,3,2,990,Benson Chong
+Desa Setapak,Sale,380000.0,3,2,770,King Wha
+Desa Setapak,Sale,435000.0,4,4,3228,Grace Tan
+Desa Setapak,Sale,390000.0,3,2,880,Aaron Ong
+Desa Setapak,Sale,365000.0,3,2,660,Brandon Chin
+Desa Setapak,Sale,490000.0,3,2,1200,Dzuhairy Hussin
+Desa Setapak,Sale,440000.0,3,2,630,Ben Ng
+Desa Setapak,Sale,460000.0,3,3,800,Ben Ng
+Desa Setapak,Sale,420000.0,3,2,1000,Zheng Hong Tan
+Desa Setapak,Sale,630000.0,5,3,1500,Welson Moo
+Desa Setapak,Sale,400000.0,2,1,854,Norhuda Ab Rahman
+Desa Setapak,Sale,490000.0,3,2,1200,Arif Mustapha
+Desa Setapak,Sale,420000.0,3,3,1100,GEE Lee
+Desa Setapak,Sale,365000.0,3,2,1100,Bernice Wong
+Desa Setapak,Sale,380000.0,3,2,770,King Wha
+Desa Setapak,Sale,490000.0,3,2,1200,Siti Adilah Aziz
+Desa Setapak,Sale,380000.0,2,2,1000,Azmi Othman
+Desa Setapak,Sale,399000.0,4,3,1000,Mike Yap
+Desa Setapak,Sale,388000.0,3,2,1000,Mike Yap
+Desa Setapak,Sale,420000.0,3,2,1000,Stephanie .
+Desa Setapak,Sale,490000.0,3,2,1200,Cik Maya Abdul
+Desa Setapak,Sale,380000.0,3,2,588,Almon Yeap
+Desa Setapak,Sale,400000.0,3,2,1000,Libby Tan
+Desa Setapak,Sale,365000.0,3,3,1100,Carmen Chin
+Desa Setapak,Sale,380000.0,3,2,770,King Wha
+Desa Setapak,Sale,490000.0,3,2,1200,Cik Maya Abdul
+Desa Setapak,Sale,490000.0,3,2,1200,Fatin Hanani
+Desa Setapak,Sale,370000.0,3,2,1200,Brandon Chin
+Desa Setapak,Sale,490000.0,3,2,1200,Nazli Ambak
+Desa Setapak,Sale,499000.0,3,2,1200,Iena Aziz
+Desa Setapak,Sale,490000.0,3,2,1200,Afifi Sedzali
+Desa Setapak,Sale,400000.0,3,2,1000,William Yeoh
+Desa Setapak,Sale,425000.0,3,3,1100,Carmen Chin
+Desa Setapak,Sale,390000.0,3,3,1200,Brandon Chin
+Desa Setapak,Sale,380000.0,3,2,770,King Wha
+Desa Setapak,Sale,450000.0,3,2,900,Welson Moo
+Desa Setapak,Sale,420000.0,3,2,900,Welson Moo
+Desa Setapak,Sale,400000.0,3,3,588,Alex Haw
+Desa Setapak,Sale,380000.0,3,2,770,King Wha
+Desa Setapak,Sale,490000.0,3,2,1200,Zulhilmi .
+Desa Setapak,Sale,500000.0,3,2,1200,Iena Aziz
+Desa Setapak,Sale,500000.0,3,2,1200,Ahmad Ikhwan Arif
+Desa Setapak,Sale,530000.0,5,3,1326,Anas Ashaari
+Desa Setapak,Sale,400000.0,3,2,1200,William Wong
+Desa Setapak,Sale,530000.0,5,3,1326,Azrul Ismail
+Desa Setapak,Rent,1250.0,3,2,1000,Sheron Khor
+Desa Setapak,Rent,1250.0,3,2,1000,Alvin Ng
+Desa Setapak,Rent,1300.0,3,2,1000,Jacqie Goh
+Desa Setapak,Rent,1400.0,3,2,820,Lily Wong
+Desa Setapak,Rent,1350.0,3,2,800,Eliz Chan
+Desa Setapak,Rent,1200.0,3,2,1200,Brandon Chin
+Desa Setapak,Rent,1500.0,3,2,880,Sek Mou Foo
+Desa Setapak,Rent,1300.0,3,2,1000,Tey Beng Keat
+Desa Setapak,Rent,1250.0,3,2,1000,Alvin Ng
+Desa Setapak,Rent,1300.0,3,2,880,Natalie Chin
+Desa Setapak,Rent,1399.0,3,2,1030,Lucas Low
+Desa Setapak,Rent,1200.0,3,2,1000,Kelson How Kai Sheng
+Desa Setapak,Rent,1250.0,3,2,1000,Alvin Ng
+Desa Setapak,Rent,1200.0,3,2,1200,Sean Hui
+Desa Setapak,Rent,1350.0,3,2,770,Sephine Kang
+Reed,Sale,1620000.0,5,6,3214,Geneive Hii
+Reed,Sale,1690000.0,5,6,3200,Cady Koh
+Reed,Sale,1650000.0,5,6,3200,Cady Koh
+Reed,Sale,1780000.0,5,6,3200,Cady Koh
+Reed,Sale,1700000.0,5,6,3200,Cady Koh
+Reed,Sale,1600000.0,5,6,3216,Cady Koh
+Reed,Sale,1630000.0,5,6,3216,Cady Koh
+Reed,Sale,1680000.0,5,6,3200,Cady Koh
+Reed,Sale,1420000.0,5,6,3200,Edmund Lee
+Reed,Sale,1580000.0,5,6,3200,Edmund Lee
+Reed,Sale,1620000.0,5,6,3200,Edmund Lee
+Reed,Sale,2000000.0,5,6,3200,Edmund Lee
+Reed,Sale,2000000.0,5,6,3500,Geneive Hii
+Reed,Sale,1690000.0,5,6,3214,Geneive Hii
+Reed,Sale,1500000.0,5,6,3214,Geneive Hii
+Reed,Sale,1500000.0,5,6,3100,Winston Chong
+Reed,Sale,1799000.0,5,6,3300,Jit Tan
+Reed,Sale,1620000.0,5,6,3200,Edmund Lee
+Reed,Sale,1450000.0,5,6,3200,Edmund Lee
+Reed,Sale,1690000.0,5,6,3214,Geneive Hii
+Reed,Sale,1630000.0,5,6,3900,Jeremy .
+Reed,Sale,1620000.0,5,6,3214,Geneive Hii
+Reed,Sale,1690000.0,5,6,3214,Geneive Hii
+Reed,Sale,2000000.0,5,6,3500,Geneive Hii
+Reed,Sale,1620000.0,5,6,3200,Edmund Lee
+Reed,Sale,1450000.0,5,6,3200,Edmund Lee
+Reed,Sale,1460000.0,5,6,3216,Gary Ong
+Reed,Sale,1690000.0,5,6,3214,Geneive Hii
+Reed,Sale,1620000.0,5,6,3214,Geneive Hii
+Reed,Sale,1500000.0,5,6,3214,Geneive Hii
+Reed,Sale,1620000.0,5,6,3214,Geneive Hii
+Reed,Sale,1690000.0,5,6,3200,Chris Chong
+Reed,Sale,1450000.0,5,6,3200,Edmund Lee
+Reed,Sale,1480000.0,5,6,3216,Gary Ong
+Reed,Sale,1450000.0,5,6,3214,Geneive Hii
+Reed,Sale,2048888.0,5,6,3900,Jeremy .
+Reed,Sale,2038888.0,4,4,3950,Kendriic Chong
+Reed,Sale,2160000.0,4,4,3502,Kendriic Chong
+Reed,Sale,1500000.0,5,6,3200,Edmund Lee
+Reed,Sale,1800000.0,5,6,3200,Alan Chin
+Reed,Sale,1420000.0,5,6,3216,Geneive Hii
+Reed,Sale,1690000.0,5,6,3200,Edmund Lee
+Reed,Sale,2000000.0,5,6,3600,Edmund Lee
+Reed,Sale,1420000.0,5,6,3214,Geneive Hii
+Reed,Sale,1500000.0,5,6,3214,Geneive Hii
+Reed,Sale,2000000.0,5,6,3500,Geneive Hii
+Reed,Sale,1690000.0,5,6,3214,Geneive Hii
+Reed,Sale,1750000.0,5,6,3200,Edmund Lee
+Reed,Sale,1600000.0,5,6,3200,Edmund Lee
+Reed,Sale,2000000.0,5,6,3200,YP Tan
+Reed,Sale,1600000.0,5,6,3216,YP Tan
+Reed,Sale,1800000.0,5,6,3200,YP Tan
+Reed,Sale,2000000.0,5,6,3950,YP Tan
+Reed,Sale,2000000.0,5,6,3600,YP Tan
+Reed,Sale,1710000.0,5,6,3216,YP Tan
+Reed,Sale,1750000.0,5,6,3200,Edmund Lee
+Reed,Sale,1800000.0,5,6,3216,Cady Koh
+Reed,Sale,1450000.0,5,6,4435,Edmund Lee
+Reed,Sale,1750000.0,5,6,3200,Edmund Lee
+Reed,Sale,1500000.0,5,6,3214,Geneive Hii
+Reed,Sale,2000000.0,5,6,3500,Geneive Hii
+Reed,Sale,1750000.0,5,6,3214,Geneive Hii
+Reed,Sale,1450000.0,5,6,3200,Edmund Lee
+Reed,Sale,1450000.0,5,6,3200,Edmund Lee
+Reed,Sale,1690000.0,5,6,3214,Geneive Hii
+Reed,Sale,1750000.0,5,6,3200,Edmund Lee
+Reed,Sale,1500000.0,5,6,3216,Geneive Hii
+Reed,Sale,2000000.0,5,6,3500,Geneive Hii
+Reed,Sale,1690000.0,5,6,3214,Geneive Hii
+Reed,Sale,1550000.0,5,6,3200,Edmund Lee
+Reed,Sale,1450000.0,5,6,3200,Edmund Lee
+Reed,Sale,1580000.0,5,6,3100,SC Chen
+Reed,Sale,1550000.0,5,6,3200,Edmund Lee
+Reed,Sale,1590000.0,5,6,3216,Geneive Hii
+Reed,Sale,1450000.0,5,6,3200,Edmund Lee
+Reed,Sale,2388000.0,4,5,3600,Chloe Kau
+Reed,Sale,1600000.0,5,6,3200,Edmund Lee
+Reed,Sale,1500000.0,5,6,3200,Edmund Lee
+Reed,Sale,1630000.0,5,6,3216,Geneive Hii
+Reed,Sale,1500000.0,5,6,3214,Geneive Hii
+Reed,Sale,1690000.0,5,6,3214,Geneive Hii
+Reed,Sale,2388000.0,5,6,3600,Jack Lim
+Reed,Sale,1500000.0,5,6,3200,Edmund Lee
+Reed,Sale,1600000.0,5,4,3216,Chloe Seet
+Reed,Sale,1500000.0,5,6,3214,Geneive Hii
+Reed,Sale,2200000.0,5,6,3200,Edmund Lee
+Reed,Sale,1690000.0,5,6,3214,Geneive Hii
+Reed,Rent,4200.0,4,5,3200,Jack Ong
+Reed,Rent,3800.0,5,6,3200,Cady Koh
+Reed,Rent,4500.0,5,5,3200,Alice Ho
+Reed,Rent,3699.0,4,4,3200,Jack Ong
+Reed,Rent,3800.0,5,6,3216,Rex Tan
+Reed,Rent,4000.0,5,6,3200,Rex Tan
+Reed,Rent,4000.0,5,6,3200,YP Tan
+Reed,Rent,3800.0,5,6,3216,Rynniie Lee
+Reed,Rent,3800.0,5,6,3200,Edmund Lee
+Reed,Rent,3800.0,5,5,3200,Alice Ho
+Reed,Rent,3800.0,5,6,3216,Rynniie Lee
+Reed,Rent,4000.0,5,6,3216,Rynniie Lee
+Reed,Rent,4000.0,5,6,3200,Mavis Sim
+Sunway SPK 3 Harmoni,Sale,1600000.0,3,3,2975,Navin Innasi
+Sunway SPK 3 Harmoni,Sale,1080000.0,4,3,2605,Allen .
+Sunway SPK 3 Harmoni,Sale,2100000.0,4,4,2594,Ken .
+Sunway SPK 3 Harmoni,Sale,1080000.0,4,4,2350,Asyraf .
+Sunway SPK 3 Harmoni,Sale,1499000.0,4,4,2330,Jit Tan
+Sunway SPK 3 Harmoni,Sale,1080000.0,4,3,2605,Gary Chow
+Sunway SPK 3 Harmoni,Sale,1400000.0,4,4,2336,Agnes Chee
+Sunway SPK 3 Harmoni,Sale,1450000.0,4,4,2583,Aaron Tang
+Sunway SPK 3 Harmoni,Sale,1650000.0,4,4,2580,Aaron Tang
+Sunway SPK 3 Harmoni,Sale,1200000.0,4,4,2580,Aaron Tang
+Sunway SPK 3 Harmoni,Sale,1550000.0,4,4,2580,Aaron Tang
+Sunway SPK 3 Harmoni,Sale,1350000.0,4,4,2580,Aaron Tang
+Sunway SPK 3 Harmoni,Sale,1300000.0,4,3,2583,Kent Chua
+Sunway SPK 3 Harmoni,Sale,1360000.0,4,3,2336,Kent Chua
+Sunway SPK 3 Harmoni,Sale,1250000.0,4,4,2583,Kent Chua
+Sunway SPK 3 Harmoni,Sale,1400000.0,4,4,2335,Kent Chua
+Sunway SPK 3 Harmoni,Sale,1380000.0,4,4,2583,Kent Chua
+Sunway SPK 3 Harmoni,Sale,1288888.0,4,2,1600,Sandra Chu
+Sunway SPK 3 Harmoni,Sale,1300000.0,4,4,2600,Sandra Chu
+Sunway SPK 3 Harmoni,Sale,1080000.0,4,3,2605,Brendan Phuah
+Sunway SPK 3 Harmoni,Sale,1380000.0,4,3,2583,Kenneth Wang
+Sunway SPK 3 Harmoni,Sale,1530000.0,3,4,2600,Vivian Foo
+Sunway SPK 3 Harmoni,Sale,1080000.0,4,3,2605,Brendan Phuah
+Sunway SPK 3 Harmoni,Sale,1300000.0,4,4,2580,Adrian Wong
+Sunway SPK 3 Harmoni,Sale,1800000.0,3,4,2400,Steven Lim
+Sunway SPK 3 Harmoni,Sale,1300000.0,3,2,2580,Edwin Soon
+Sunway SPK 3 Harmoni,Sale,1300000.0,4,4,2583,Kent Chua
+Sunway SPK 3 Harmoni,Sale,1080000.0,4,3,2605,Joey Low
+Sunway SPK 3 Harmoni,Sale,1300000.0,4,4,2580,Issac Tan
+Sunway SPK 3 Harmoni,Sale,1550000.0,3,4,2580,Kaneix Ong
+Sunway SPK 3 Harmoni,Sale,1080000.0,4,3,2605,Brendan Phuah
+Sunway SPK 3 Harmoni,Sale,1550000.0,3,4,2600,Vivian Foo
+Sunway SPK 3 Harmoni,Sale,1080000.0,5,4,2605,Khoo .
+Sunway SPK 3 Harmoni,Sale,1080000.0,5,4,2605,Jarvis Wong
+Sunway SPK 3 Harmoni,Sale,2100000.0,6,4,2600,Aaron Tang
+Sunway SPK 3 Harmoni,Sale,1350000.0,4,4,2583,Aaron Tang
+Sunway SPK 3 Harmoni,Sale,1250000.0,4,4,2583,Aaron Tang
+Sunway SPK 3 Harmoni,Sale,1550000.0,4,4,2583,Aaron Tang
+Sunway SPK 3 Harmoni,Sale,1600000.0,4,4,2583,Aaron Tang
+Sunway SPK 3 Harmoni,Sale,1320000.0,4,4,2583,Aaron Tang
+Sunway SPK 3 Harmoni,Sale,1450000.0,4,4,2583,Aaron Tang
+Sunway SPK 3 Harmoni,Sale,1080000.0,4,3,2605,Marcus Heh
+Sunway SPK 3 Harmoni,Sale,1080000.0,4,3,2605,Brendan Phuah
+Sunway SPK 3 Harmoni,Sale,1080000.0,4,3,2605,Yap Chun Wei
+Sunway SPK 3 Harmoni,Sale,1300000.0,4,4,2580,Elvis Kok
+Sunway SPK 3 Harmoni,Sale,1080000.0,4,4,2605,James Kuang
+Sunway SPK 3 Harmoni,Sale,1080000.0,4,3,2605,Peter Yap
+Sunway SPK 3 Harmoni,Sale,1288000.0,4,4,2580,Wind Cheang
+Sunway SPK 3 Harmoni,Sale,1288800.0,4,4,2580,Wind Cheang
+Sunway SPK 3 Harmoni,Sale,1288000.0,4,4,2580,Wind Cheang
+Sunway SPK 3 Harmoni,Sale,1600000.0,4,4,2580,Ron Yap
+Sunway SPK 3 Harmoni,Rent,3800.0,4,4,2583,Shanice Low
+Sunway SPK 3 Harmoni,Rent,3200.0,3,3,2800,Ayden Go
+Mutiara Bukit Jalil,Sale,1600000.0,6,4,2800,Cindy Lai
+Mutiara Bukit Jalil,Sale,1400000.0,6,4,2500,Cindy Lai
+Mutiara Bukit Jalil,Sale,1800000.0,5,6,5600,Sam Ong
+Mutiara Bukit Jalil,Sale,1500000.0,6,4,2800,Lorna Lim
+Mutiara Bukit Jalil,Sale,1580000.0,6,4,3500,Rex Tan
+Mutiara Bukit Jalil,Sale,1250000.0,6,4,2500,Hanif Kasmani
+Mutiara Bukit Jalil,Sale,1300000.0,6,4,3188,Zul Hasif
+Mutiara Bukit Jalil,Sale,1700000.0,5,6,5134,Topman Cheong
+Mutiara Bukit Jalil,Sale,1580000.0,6,4,3500,Connie Lee
+Mutiara Bukit Jalil,Sale,1580000.0,6,4,3500,SL Yap
+Mutiara Bukit Jalil,Sale,1360000.0,6,4,3630,Kaneix Ong
+Mutiara Bukit Jalil,Sale,588000.0,4,4,3298,Siti Nurhaliza
+Mutiara Bukit Jalil,Sale,1350000.0,6,4,3280,John Liew
+Mutiara Bukit Jalil,Sale,1100000.0,4,3,3358,Camelia Chin
+Mutiara Bukit Jalil,Sale,1580000.0,6,4,3500,SK Kumar
+Mutiara Bukit Jalil,Sale,1200000.0,6,4,2800,Lim Beng Kian .
+Mutiara Bukit Jalil,Sale,488000.0,5,6,3800,Siti Nurhaliza
+Mutiara Bukit Jalil,Sale,1300000.0,5,4,3188,Hafizee Ismail
+Mutiara Bukit Jalil,Sale,1280000.0,6,4,2600,Ahmad Nawawi Haron
+Mutiara Bukit Jalil,Sale,1300000.0,6,4,2500,Farrah Khairuddin
+Mutiara Bukit Jalil,Sale,1400000.0,5,4,2500,Daniel Chong
+Mutiara Bukit Jalil,Sale,1580000.0,6,4,3500,Jeff Yeo
+Mutiara Bukit Jalil,Sale,1300000.0,6,4,2500,Sarliza Jafar
+Mutiara Bukit Jalil,Sale,1250000.0,6,4,3688,Elcoln Leong
+Mutiara Bukit Jalil,Sale,1275000.0,5,5,2800,Ann Lim
+Mutiara Bukit Jalil,Sale,1300000.0,6,4,2600,Ann Lim
+Mutiara Bukit Jalil,Sale,1380000.0,5,6,3600,Topman Cheong
+Mutiara Bukit Jalil,Sale,1380000.0,6,6,3280,Ashly Hor
+Mutiara Bukit Jalil,Sale,1700000.0,5,6,5134,Topman Cheong
+Mutiara Bukit Jalil,Sale,1800000.0,5,6,5600,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1360000.0,6,4,3188,Ben Lee
+Mutiara Bukit Jalil,Sale,1290000.0,5,4,2500,Ben Lee
+Mutiara Bukit Jalil,Sale,399000.0,4,4,2580,Siti Nurhaliza
+Mutiara Bukit Jalil,Sale,1360000.0,6,4,3500,Mike Yan
+Mutiara Bukit Jalil,Sale,1580000.0,6,4,3500,Sum Hang Ming
+Mutiara Bukit Jalil,Sale,1299000.0,5,4,2500,SK Kumar
+Mutiara Bukit Jalil,Sale,1580000.0,5,4,3500,ML Lau
+Mutiara Bukit Jalil,Sale,1380000.0,5,6,3600,Topman Cheong
+Mutiara Bukit Jalil,Sale,1680000.0,7,5,3455,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1280000.0,7,4,2800,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1185000.0,5,4,2400,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1580000.0,5,4,3500,Evelyn Sia
+Mutiara Bukit Jalil,Sale,420000.0,4,4,2100,James Tan
+Mutiara Bukit Jalil,Sale,1360000.0,6,4,3188,Alex Goh
+Mutiara Bukit Jalil,Sale,423000.0,4,4,2860,Kayden Lim
+Mutiara Bukit Jalil,Sale,1328000.0,5,4,2800,Markus Wong
+Mutiara Bukit Jalil,Sale,1300000.0,5,4,2500,Muhd Fahmie
+Mutiara Bukit Jalil,Sale,1185000.0,5,4,2400,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1600000.0,6,4,3500,Diana .
+Mutiara Bukit Jalil,Sale,1200000.0,5,4,2500,Celine Kong
+Mutiara Bukit Jalil,Sale,1590000.0,5,6,3600,Jack Yong
+Mutiara Bukit Jalil,Sale,1580000.0,6,4,3500,Afwan Yasri
+Mutiara Bukit Jalil,Sale,1800000.0,5,6,5600,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1280000.0,7,4,2800,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1680000.0,7,5,3455,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1185000.0,5,4,2400,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1580000.0,6,4,3500,Rachael Saw
+Mutiara Bukit Jalil,Sale,1380000.0,5,6,3600,Topman Cheong
+Mutiara Bukit Jalil,Sale,1600000.0,6,4,2600,Sheng Feng
+Mutiara Bukit Jalil,Sale,1185000.0,5,4,2500,Sheng Feng
+Mutiara Bukit Jalil,Sale,1298000.0,6,4,2500,Sheng Feng
+Mutiara Bukit Jalil,Sale,1700000.0,5,6,5134,Topman Cheong
+Mutiara Bukit Jalil,Sale,1580000.0,6,4,3500,Caroline Lai
+Mutiara Bukit Jalil,Sale,1185000.0,5,4,2400,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1200000.0,5,4,2500,Azizol .
+Mutiara Bukit Jalil,Sale,1350000.0,5,4,2500,Habib Rehmen
+Mutiara Bukit Jalil,Sale,1185000.0,5,4,2400,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1600000.0,5,5,3620,John Liew
+Mutiara Bukit Jalil,Sale,498888.0,4,4,2880,Siti Nurhaliza
+Mutiara Bukit Jalil,Sale,1185000.0,5,4,2400,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1580000.0,6,4,3500,Sasha Goh
+Mutiara Bukit Jalil,Sale,1360000.0,6,4,3500,Kevin Yan
+Mutiara Bukit Jalil,Sale,1680000.0,7,5,3445,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1185000.0,5,4,2400,Benjamin Lai
+Mutiara Bukit Jalil,Sale,1190000.0,5,4,2400,Ben Lee
+Mutiara Bukit Jalil,Sale,1580000.0,5,4,3500,YP Tan
+Mutiara Bukit Jalil,Sale,1580000.0,5,4,3500,Raymond Lim
+Mutiara Bukit Jalil,Sale,1360000.0,6,4,3500,Stephy Lau
+Mutiara Bukit Jalil,Rent,4500.0,5,4,2800,Lim Beng Kian .
+Kensington Park,Sale,2400000.0,5,4,3000,Catherine Yap
+Kensington Park,Sale,2000000.0,5,4,2767,Catherine Yap
+Kensington Park,Sale,2500000.0,5,4,2829,Veon Sin
+Kensington Park,Sale,2500000.0,5,5,3000,Sonia .
+Kensington Park,Sale,1539000.0,5,4,2500,Vincent Loon
+Kensington Park,Sale,1950000.0,5,4,2447,Jeffrey Yap
+Kensington Park,Sale,1990000.0,5,4,3000,Azli Ibrahim
+Kensington Park,Sale,2000000.0,5,4,2470,Johnny Khor
+Kensington Park,Sale,2100000.0,5,4,2767,Melvin Siew
+Kensington Park,Sale,1539000.0,5,4,2447,James TanCP
+Kensington Park,Sale,2100000.0,5,4,2767,Melvin Siew
+Kensington Park,Sale,2300000.0,5,4,2470,Shaiful Jikan
+Kensington Park,Sale,2100000.0,5,4,2767,Melvin Siew
+Kensington Park,Sale,2100000.0,5,4,2767,Melvin Siew
+Kensington Park,Rent,4600.0,6,4,2212,Melvin Siew
+Lagenda Mas Villa,Sale,890000.0,4,3,1300,Tiffany Meng
+Lagenda Mas Villa,Sale,470000.0,3,2,1400,Felix Wong
+Lagenda Mas Villa,Sale,399000.0,3,2,1470,Candy Soon
+Lagenda Mas Villa,Sale,1850000.0,5,4,2850,Yvonne Kho
+Lagenda Mas Villa,Sale,828000.0,3,3,2488,Jessica Lew
+Lagenda Mas Villa,Rent,2000.0,3,3,2488,Jessica Lew
+Taman Mutiara Barat,Sale,930000.0,4,3,2000,Fred Chai Meng Foong
+Taman Mutiara Barat,Sale,750000.0,4,3,2000,Tony Chang
+Taman Mutiara Barat,Sale,900000.0,4,3,2000,Fred Chai Meng Foong
+Taman Mutiara Barat,Sale,900000.0,4,3,2000,Kevin Yai
+Taman Mutiara Barat,Sale,960000.0,3,2,2000,Tony Chang
+Taman Mutiara Barat,Sale,980000.0,3,2,2000,Grace Choong
+Taman Mutiara Barat,Sale,930000.0,4,3,2000,Kevin Yai
+Taman Mutiara Barat,Sale,750000.0,4,4,1851,Kent Wong
+Taman Mutiara Barat,Sale,880000.0,10,3,2000,Jassey Saw
+Taman Mutiara Barat,Sale,1100000.0,4,3,2000,Iris Yong
+Taman Mutiara Barat,Sale,2000000.0,6,5,4000,Jimmy Kan
+Taman Mutiara Barat,Sale,1100000.0,3,3,2000,Fred Chai Meng Foong
+Taman Mutiara Barat,Sale,1100000.0,4,3,2000,Kent Wong
+Taman Mutiara Barat,Sale,1100000.0,4,3,2000,Mohd Amir Anandh Abdullah
+Taman Mutiara Barat,Sale,1200000.0,4,3,2800,Aivan Ng
+Taman Mutiara Barat,Sale,1100000.0,4,3,2000,Tony Chang
+Taman Mutiara Barat,Sale,1100000.0,3,3,2000,Christopher Saw
+Taman Mutiara Barat,Sale,950000.0,4,3,2000,Tony Chang
+Taman Mutiara Barat,Sale,930000.0,4,3,2000,Tony Chang
+Taman Mutiara Barat,Sale,960000.0,4,3,2000,Kevin Yai
+Taman Mutiara Barat,Sale,900000.0,4,3,2100,Kevin Yai
+Taman Mutiara Barat,Sale,1790000.0,5,4,3000,Fred Chai Meng Foong
+Taman Mutiara Barat,Sale,2000000.0,6,5,4000,Jimmy Kan
+Taman Mutiara Barat,Sale,928000.0,4,3,2000,Kevin Yai
+Taman Mutiara Barat,Sale,900000.0,4,3,2200,Kevin Yai
+Taman Mutiara Barat,Sale,838000.0,4,3,2000,Kevin Yai
+Taman Mutiara Barat,Sale,950000.0,4,3,2000,Tony Chang
+Taman Mutiara Barat,Sale,799999.0,4,4,1650,Joly Liew
+Taman Mutiara Barat,Sale,1998000.0,6,5,4000,Kevin Yai
+Taman Mutiara Barat,Sale,900000.0,4,3,2200,Wong Chun Ming
+Taman Mutiara Barat,Sale,880000.0,10,3,2000,Jassey Saw
+Taman Mutiara Barat,Sale,970000.0,3,2,2000,Joly Liew
+Taman Mutiara Barat,Sale,900000.0,4,3,2000,Kevin Yai
+Taman Mutiara Barat,Sale,960000.0,4,4,2000,Kevin Yai
+Taman Mutiara Barat,Sale,2000000.0,6,5,4000,Jimmy Kan
+Taman Mutiara Barat,Sale,2450000.0,4,3,3000,Gerald Ng
+Taman Mutiara Barat,Sale,929000.0,4,3,2000,Yvonne Kho
+Taman Mutiara Barat,Rent,3000.0,4,3,2000,Vernice Ng
+Taman Mutiara Barat,Rent,3000.0,4,3,3000,Vernice Ng
+Taman Mutiara Barat,Rent,600.0,Room,Room,450,Vince Yong
+Taman Mutiara Barat,Rent,3000.0,4,3,2000,Vernice Ng
+Taman Desa Aman,Sale,940000.0,4,4,2500,Fred Chai Meng Foong
+Taman Desa Aman,Sale,2650000.0,7,6,3200,Vincent Yong
+Taman Desa Aman,Sale,800000.0,5,3,2000,Tony Chang
+Taman Desa Aman,Sale,1699800.0,6,6,3500,Kevin Yai
+Taman Desa Aman,Sale,1700000.0,6,5,3500,Kevin Yai
+Taman Desa Aman,Sale,1650000.0,6,5,3400,Vincent Tan
+Taman Desa Aman,Sale,1700000.0,6,6,3500,Iris Yong
+Taman Desa Aman,Sale,1180000.0,3,3,3500,Felix Wong
+Taman Desa Aman,Sale,1680000.0,6,5,3165,CS Lim
+Taman Desa Aman,Sale,935000.0,4,4,1540,Evelyn Lim
+Taman Desa Aman,Sale,950000.0,4,3,2300,Nicole Low
+Taman Desa Aman,Sale,699000.0,4,3,1500,Stanley Yap
+Taman Desa Aman,Sale,1200000.0,4,3,2000,Tony Chang
+Taman Desa Aman,Sale,1250000.0,4,3,3000,Kelvin Chooi
+Taman Desa Aman,Sale,938000.0,4,4,2000,Kevin Yai
+Taman Desa Aman,Sale,1700000.0,6,5,2500,Iris Yong
+Taman Desa Aman,Sale,699000.0,4,3,1500,Stanley Yap
+Taman Desa Aman,Sale,1698000.0,6,6,3500,Kevin Yai
+Taman Desa Aman,Sale,1690000.0,6,5,3165,YP Tan
+Taman Desa Aman,Sale,1690000.0,6,5,3046,Chris Chong
+Taman Desa Aman,Sale,2648000.0,7,6,3200,Rony Yeo
+Taman Desa Aman,Sale,1655000.0,6,5,2400,Kris Tan
+Taman Desa Aman,Sale,1750000.0,6,5,3046,Mico Law
+Taman Desa Aman,Sale,1700000.0,6,5,2400,Leon Lim
+Taman Desa Aman,Sale,699000.0,4,3,1500,Stanley Yap
+Taman Desa Aman,Sale,1200000.0,4,3,2000,Yvonne Kho
+Taman Desa Aman,Sale,1200000.0,4,3,2000,Kent Wong
+Taman Desa Aman,Sale,1180000.0,3,3,2700,Ken Lew
+Taman Desa Aman,Sale,1655000.0,6,5,2400,Ken Lew
+Taman Desa Aman,Sale,699000.0,4,3,1500,Stanley Yap
+Taman Desa Aman,Sale,800000.0,4,4,2500,Fred Chai Meng Foong
+Taman Desa Aman,Sale,950000.0,4,3,2000,Nick Teo
+Taman Desa Aman,Sale,950000.0,4,3,1650,Aaron Ong
+Taman Desa Aman,Sale,938000.0,4,4,2000,Kevin Yai
+Taman Desa Aman,Sale,1690000.0,6,5,3046,Chris Chong
+Taman Desa Aman,Sale,699000.0,4,3,1500,Stanley Yap
+Taman Desa Aman,Sale,1680000.0,6,5,3500,Kelvin Chooi
+Taman Desa Aman,Sale,699000.0,4,3,1500,Stanley Yap
+Taman Desa Aman,Sale,950000.0,4,3,1650,Almon Yeap
+Taman Desa Aman,Sale,800000.0,4,3,1650,Kris Tan
+Taman Desa Aman,Sale,800000.0,5,2,2500,Joly Liew
+Taman Desa Aman,Sale,2650000.0,7,6,3200,Rony Yeo
+Taman Desa Aman,Sale,699000.0,4,3,1500,Stanley Yap
+Taman Desa Aman,Sale,800000.0,4,4,2000,Kevin Yai
+Taman Desa Aman,Rent,6500.0,7,6,3200,TRON WAN
+Taman Desa Aman,Rent,6000.0,7,6,3200,Sherley Goh
+Taman Desa Aman,Rent,6500.0,7,6,4000,Tony Chang
+Taman Desa Aman,Rent,6500.0,7,6,3200,Joey Wong
+Taman Desa Aman,Rent,6980.0,7,6,3200,Rony Yeo
+Taman Desa Aman,Rent,6500.0,7,6,3200,Ivan Lee CR
+Taman Desa Aman,Rent,6499.0,7,6,3200,Karl .
+Taman Desa Aman,Rent,6500.0,7,6,4000,Fred Chai Meng Foong
+Taman Desa Aman,Rent,6500.0,7,6,3200,Cassey Yong
+Taman Desa Aman,Rent,7000.0,7,6,3200,Haw .
+Taman Desa Aman,Rent,6500.0,7,6,3500,Hadwin Lee
+Taman Desa Aman,Rent,6000.0,7,6,3200,Hugo Gooi
+Taman Desa Aman,Rent,7000.0,7,6,3200,Rony Yeo
+Taman Desa Aman,Rent,7000.0,7,6,3200,Jay Yong
+Damai Budi,Sale,1175000.0,4,3,3300,Aimi Zamzuri
+Damai Budi,Sale,800000.0,4,3,1881,Dzulkarnain Zainal Ahbiddin
+Damai Budi,Sale,830000.0,4,3,1800,Esharani .
+Damai Budi,Sale,799000.0,4,3,2500,Kevin Yai
+Damai Budi,Sale,1200000.0,4,3,3300,Kenneth Low
+Damai Budi,Sale,790000.0,4,3,1881,Ken Liew
+Damai Budi,Sale,730000.0,4,3,1650,Hanif Kasmani
+Damai Budi,Sale,1200000.0,4,3,3300,Hanif Kasmani
+Damai Budi,Sale,710000.0,4,3,2000,Jamie Leong
+Damai Budi,Sale,799000.0,4,3,1800,Stacy Young
+Damai Budi,Sale,1200000.0,4,3,3300,Stacy Young
+Damai Budi,Sale,695000.0,4,3,1650,Mohd Rafiee
+Damai Budi,Sale,1200000.0,4,3,3300,Fred Chai Meng Foong
+Damai Budi,Sale,1200000.0,4,3,3300,Fred Chai Meng Foong
+Damai Budi,Sale,1180000.0,4,3,3300,Michael Chong
+Damai Budi,Sale,1175000.0,4,3,3300,Za'emah Binti Mohammed
+Damai Budi,Sale,710000.0,4,3,2300,Brian Cheah
+Damai Budi,Sale,1200000.0,4,3,3200,Muhammad Hakimi Ismail
+Damai Budi,Sale,1175000.0,4,3,3300,Sarliza Jafar
+Damai Budi,Sale,690000.0,4,3,1650,Amir Waliyuddin
+Damai Budi,Sale,690000.0,4,3,1650,Syafiq Razak
+Damai Budi,Sale,799000.0,4,3,2000,Sean Loo
+Damai Budi,Sale,790000.0,4,3,1800,Nicholas Yap
+Damai Budi,Sale,820000.0,4,3,2300,Edmund Tang
+Damai Budi,Sale,1200000.0,4,3,3300,Izzat Ibrahim
+Damai Budi,Sale,690000.0,5,3,1650,Ahmad Fikri Amer Hamzah
+Damai Budi,Sale,1200000.0,4,3,3300,Chris Lin
+Damai Budi,Sale,980000.0,5,4,3300,Chris Lin
+Damai Budi,Sale,790000.0,4,3,1797,Azharhartanah .
+Damai Budi,Sale,800000.0,3,2,2000,Vincent Yong
+Damai Budi,Sale,1200000.0,4,3,3300,Kenneth Low
+Damai Budi,Sale,820000.0,4,3,2700,Nicole Low
+Damai Budi,Sale,1200000.0,4,3,3300,Khairul Nizam
+Damai Budi,Sale,1200000.0,4,3,3300,Evelyn Sia
+Damai Budi,Sale,1200000.0,4,3,2800,AMAD ASYRAF
+Damai Budi,Sale,1200000.0,4,3,3300,Nurahya Anuar
+Damai Budi,Sale,1300000.0,4,3,3300,Jimmy Kan
+Damai Budi,Sale,690000.0,5,3,1650,NoorisHaris .
+Damai Budi,Sale,790000.0,4,3,1797,Kelvin Goh
+Damai Budi,Sale,1300000.0,4,3,2000,Vernice Ng
+Damai Budi,Sale,830000.0,4,3,2200,Michael Chong
+Damai Budi,Sale,1200000.0,4,3,1440,Jenny E
+Damai Budi,Sale,1500000.0,4,3,2000,Syafiq Mahful
+Damai Budi,Sale,2000000.0,4,3,1800,Abdul Mun'im Abdul Rahman
+Damai Budi,Sale,690000.0,4,3,1650,Za'emah Binti Mohammed
+Damai Budi,Sale,800000.0,4,3,1800,Dlynie Ooi
+Damai Budi,Sale,1200000.0,4,3,3300,Azharhartanah .
+Damai Budi,Sale,690000.0,4,3,1650,Afifi Mohd Noor
+Damai Budi,Sale,690000.0,5,3,2000,Sarliza Jafar
+Damai Budi,Sale,1300000.0,4,3,3300,Jimmy Kan
+Damai Budi,Sale,690000.0,5,3,1650,Syed Shah
+Damai Budi,Sale,1200000.0,4,3,3300,HjLim .
+Damai Budi,Sale,1200000.0,4,3,3300,Saiful Bahri Abdul Manan
+Damai Budi,Sale,1300000.0,4,3,3300,Jimmy Kan
+Damai Budi,Sale,828000.0,4,3,1800,FT Lim
+Damai Budi,Sale,790000.0,4,3,1797,Azharhartanah .
+Damai Budi,Sale,1200000.0,4,3,3300,Azharhartanah .
+Damai Budi,Sale,700000.0,4,3,1890,Zam Asyraf
+Damai Budi,Sale,760000.0,4,3,1800,Vincent Tan
+KiPark Sri Utara,Sale,1700000.0,7,6,3336,Farhan Rahman
+KiPark Sri Utara,Sale,1550000.0,5,5,3060,Kim Meng Lew
+KiPark Sri Utara,Sale,1550000.0,5,4,3500,Muhd Fahmie
+KiPark Sri Utara,Sale,1550000.0,5,5,3500,James .
+KiPark Sri Utara,Sale,1670000.0,5,5,3750,Lutfi .
+KiPark Sri Utara,Sale,1430000.0,6,5,3750,Asma Hashim
+KiPark Sri Utara,Sale,1600000.0,5,5,3750,Ammar Razif
+KiPark Sri Utara,Sale,1430000.0,5,5,3750,Fauzi Abdullah
+KiPark Sri Utara,Sale,1550000.0,5,5,3500,Nasrul Afiq Hamzah
+KiPark Sri Utara,Sale,1430000.0,5,5,3750,Sarliza Jafar
+KiPark Sri Utara,Sale,1650000.0,6,5,4000,Casey Cheah
+KiPark Sri Utara,Sale,1550000.0,5,5,3500,Alex Haw
+KiPark Sri Utara,Sale,1430000.0,5,5,3750,Azie Halim
+KiPark Sri Utara,Sale,1430000.0,5,5,3750,Umar Abdul Aziz
+KiPark Sri Utara,Sale,1430000.0,5,5,3750,Hairil Basir
+KiPark Sri Utara,Sale,1550000.0,5,5,3500,Kenny Tay
+KiPark Sri Utara,Sale,3000000.0,5,6,5479,Jason Tang
+KiPark Sri Utara,Sale,1430000.0,5,6,3000,Kenny Tay
+KiPark Sri Utara,Sale,1650000.0,5,5,3750,Zila Mohd Nor
+KiPark Sri Utara,Sale,1670000.0,5,5,3750,Cik Maya Abdul
+KiPark Sri Utara,Sale,1550000.0,5,5,3500,James .
+KiPark Sri Utara,Sale,1670000.0,5,5,3750,Nadia Rahim
+KiPark Sri Utara,Sale,2988888.0,8,6,7300,Chee Leng
+KiPark Sri Utara,Sale,1550000.0,5,4,3500,Raymond Tan
+KiPark Sri Utara,Sale,1550000.0,5,5,3500,Peggy Chong
+KiPark Sri Utara,Sale,1550000.0,5,5,3500,James .
+KiPark Sri Utara,Sale,1550000.0,5,5,3500,Kevin Chen
+KiPark Sri Utara,Sale,1550000.0,5,5,3500,Elvis Kok
+KiPark Sri Utara,Sale,1700000.0,6,5,3060,Alex Haw
+KiPark Sri Utara,Sale,1700000.0,6,5,3060,Alex Haw
+KiPark Sri Utara,Rent,3500.0,5,5,3750,Zila Mohd Nor
+KiPark Sri Utara,Rent,3550.0,5,5,3750,JUMIDAH (JUE)
+Taman Tiara Titiwangsa,Sale,1500000.0,,,6017,Zawana BT Zaidi Ana
+Taman Tiara Titiwangsa,Sale,1700000.0,5,3,2800,Khairul Safuan
+Taman Tiara Titiwangsa,Sale,3750000.0,9,6,7320,Muhammad .
+Taman Tiara Titiwangsa,Sale,730000.0,3,3,1324,Jessica Yong
+Taman Tiara Titiwangsa,Sale,1300000.0,,,6684,Zawana BT Zaidi Ana
+Taman Tiara Titiwangsa,Sale,3150000.0,,,8875,Mohd Rasydan
+Taman Tiara Titiwangsa,Sale,578000.0,3,2,1044,Jessica Yong
+Taman Tiara Titiwangsa,Sale,691000.0,3,2,1194,Jessica Yong
+Taman Tiara Titiwangsa,Sale,752000.0,3,2,1324,Jessica Yong
+Taman Tiara Titiwangsa,Sale,1375000.0,5,5,2755,Jessica Yong
+Taman Tiara Titiwangsa,Sale,1260000.0,5,4,2561,Jessica Yong
+Taman Tiara Titiwangsa,Sale,1980000.0,6,5,3756,Jessica Yong
+Taman Tiara Titiwangsa,Sale,1700000.0,5,3,3600,BURHANUDDIN Mat sakam
+Taman Tiara Titiwangsa,Sale,11800000.0,9,8,10000,Jamie Chen
+Taman Dato Senu,Sale,190000.0,2,1,670,Nor Rimi Johari
+Taman Dato Senu,Sale,450000.0,3,2,1200,Ben Lim
+Taman Dato Senu,Sale,410000.0,3,2,588,Teng Kee Min
+Taman Dato Senu,Sale,270000.0,3,2,650,Khoo .
+Taman Dato Senu,Sale,333000.0,3,2,1440,Khoo .
+Taman Dato Senu,Sale,248000.0,2,2,650,Khoo .
+Taman Dato Senu,Sale,550000.0,3,2,2100,Ken Loo
+Taman Dato Senu,Sale,340000.0,3,2,750,Appni Lizar
+Taman Dato Senu,Sale,190000.0,2,1,670,Nadia Rahim
+Taman Dato Senu,Sale,250000.0,2,1,543,Najibah Sahari
+Taman Dato Senu,Sale,550000.0,3,2,2100,Ken Loo
+Taman Dato Senu,Sale,759000.0,6,4,2000,C. Y. Chin
+Taman Dato Senu,Sale,248000.0,2,1,574,Emily .
+Taman Dato Senu,Sale,420000.0,3,2,1000,Muhammad .
+Taman Dato Senu,Sale,210000.0,2,1,574,Ramlah Binti Awang
+Taman Dato Senu,Sale,185000.0,3,1,678,Firdaussazwan Mustafa
+Taman Dato Senu,Sale,230000.0,2,1,543,Hanif Hanz
+Taman Dato Senu,Sale,388000.0,3,2,1700,Rubaa Letchumanan
+Taman Dato Senu,Sale,230000.0,2,1,543,Ainun Duyal
+Taman Dato Senu,Sale,230000.0,2,1,543,Aini Rafiqah
+Taman Dato Senu,Sale,230000.0,2,1,543,mohd zamri mohd duyalmi
+Taman Dato Senu,Rent,1380.0,3,3,1000,Amelia Har
+Meadow,Sale,1030000.0,4,5,2512,Sandy Loo
+Meadow,Sale,1100000.0,5,4,2512,Edmund Lee
+Meadow,Sale,1030000.0,5,4,2512,Edmund Lee
+Meadow,Sale,1100000.0,5,4,2512,Edmund Lee
+Meadow,Sale,1030000.0,5,4,2512,Edmund Lee
+Meadow,Sale,1100000.0,5,4,2512,Edmund Lee
+Meadow,Rent,3300.0,5,5,2512,Daniel Chong
+Meadow,Rent,3000.0,4,4,2600,Rynniie Lee
+Meadow,Rent,3000.0,4,4,2515,Mavis Sim
+Meadow,Rent,4000.0,4,4,2512,Hugo Gooi
+Suria Homes @ Taman Sri Segambut,Sale,1650000.0,5,6,4410,Nicholas Yap
+Suria Homes @ Taman Sri Segambut,Sale,1630000.0,5,6,4410,Kim Meng Lew
+Suria Homes @ Taman Sri Segambut,Sale,1680000.0,5,6,4410,Tracy Lee
+Suria Homes @ Taman Sri Segambut,Sale,1649000.0,5,6,4410,Winnie Tai
+Suria Homes @ Taman Sri Segambut,Sale,1650000.0,5,6,4410,Khairul Zainuddin
+Suria Homes @ Taman Sri Segambut,Sale,1650000.0,5,6,4410,Adibah Salim
+Suria Homes @ Taman Sri Segambut,Sale,1650000.0,5,6,4410,Afiq Hazwan
+Suria Homes @ Taman Sri Segambut,Sale,1650000.0,5,6,4410,Ramlah Binti Awang
+Suria Homes @ Taman Sri Segambut,Sale,1650000.0,5,6,4410,Wani Hussin
+Suria Homes @ Taman Sri Segambut,Sale,1630000.0,5,6,4410,YP Tan
+Suria Homes @ Taman Sri Segambut,Sale,1500000.0,5,6,4410,Yusri Noh
+Suria Homes @ Taman Sri Segambut,Sale,1650000.0,5,6,4410,Kevin Chen
+Suria Homes @ Taman Sri Segambut,Sale,1630000.0,5,6,4410,Melvin Loke
+Suria Homes @ Taman Sri Segambut,Sale,1650000.0,5,6,4410,NUZULHAKIMI .
+Suria Homes @ Taman Sri Segambut,Sale,1650000.0,5,6,4410,Cik Maya Abdul
+Suria Homes @ Taman Sri Segambut,Sale,1650000.0,5,6,4410,Casey Loo
+Suria Homes @ Taman Sri Segambut,Sale,1680000.0,5,6,4410,nicholas wong
+Suria Homes @ Taman Sri Segambut,Rent,5000.0,5,6,4410,Roman Yap
+Taman Damai Indah,Sale,600000.0,3,3,1700,Jonathan Kuek
+Taman Damai Indah,Sale,650000.0,5,3,2000,Jonathan Kuek
+Taman Damai Indah,Sale,499000.0,3,3,1300,Sicky Chow
+Taman Damai Indah,Sale,650000.0,4,3,1900,Jimmy Kan
+Taman Damai Indah,Sale,650000.0,4,3,1900,Jimmy Kan
+Taman Damai Indah,Sale,620000.0,3,3,1900,Michael Choong
+Taman Damai Indah,Sale,650000.0,4,3,1900,Jimmy Kan
+Taman Damai Indah,Sale,550000.0,4,3,1400,Hei Kar Jun
+Taman Damai Indah,Sale,690000.0,5,3,2000,Jeffrey Soh
+Taman Damai Indah,Sale,650000.0,3,3,1200,Sam Yap
+Taman Damai Indah,Sale,650000.0,4,3,1900,Jimmy Kan
+Taman Damai Indah,Sale,650000.0,4,3,1900,Jimmy Kan
+Taman Damai Indah,Sale,650000.0,5,3,2000,Evelyn Sia
+Taman Damai Indah,Sale,600000.0,3,3,1700,Evelyn Sia
+Taman Segambut Damai,Sale,488000.0,3,2,770,Kim Meng Lew
+Taman Segambut Damai,Rent,2400.0,3,2,1000,Gabrielle Liew
+Taman Segambut Damai,Rent,2400.0,3,2,1800,Ryan Teoh
+Taman Segambut Damai,Rent,1400.0,3,2,800,Melvin Loke
+Taman Segambut Damai,Rent,1700.0,2,2,1200,Helen Chong
+Taman Segambut Damai,Rent,1400.0,3,2,800,Kemp Lee
+Fadasons Villa,Sale,358000.0,3,1,1100,Bernice Wong
+Fadasons Villa,Sale,1299000.0,5,4,2800,Tracy Lee
+Fadasons Villa,Sale,1350000.0,5,4,3000,Suki Tan
+Fadasons Villa,Sale,1400000.0,5,4,1540,Edmond Loke
+Fadasons Villa,Sale,2000000.0,6,4,3125,Mandy Liew
+Fadasons Villa,Sale,1200000.0,6,4,2800,Mandy Liew
+Fadasons Villa,Sale,1299000.0,5,4,2800,Suki Tan
+Fadasons Villa,Sale,1299000.0,5,4,2800,Adan Soh
+Fadasons Villa,Sale,1350000.0,6,4,1400,Ben Tan
+Fadasons Villa,Sale,1580000.0,5,3,2420,Jim Lee
+Fadasons Villa,Sale,1350000.0,5,4,2500,Hendry Goh
+Fadasons Villa,Sale,1500000.0,4,3,1650,nicholas wong
+Fadasons Villa,Sale,1600000.0,4,3,2940,Coyee Wong
+Fadasons Villa,Sale,1350000.0,6,4,1400,Ben Tan
+Fadasons Villa,Sale,1200000.0,6,4,2275,Hendry Goh
+Fadasons Villa,Sale,1299000.0,5,4,2800,Jercy Tan
+Fadasons Villa,Rent,2000.0,4,3,2100,Ivy Chong
+Sinar Samudra Residence,Sale,1250000.0,5,4,2457,Bernice Wong
+Sinar Samudra Residence,Sale,1100000.0,5,4,3000,Nick Yow
+Taman Cantik,Sale,770000.0,4,3,1650,Aames Chow
+East 57,Sale,,4,5,2829,Sime Darby Property Berhad
