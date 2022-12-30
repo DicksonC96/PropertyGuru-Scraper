@@ -149,7 +149,7 @@ def main():
 
 if __name__ == "__main__":
 
-    PLOC_LISTING = './ploc/{}-{}-{}-listing.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
+    PLOC_LISTING = './ploc/{}-{}-{}-ploc.csv'.format(TYPE,STATE,date.today().strftime("%b%Y"))
 
     # Initialize URL
     HEADER = 'https://www.propertyguru.com.my'
