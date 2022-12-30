@@ -1,0 +1,43 @@
+name: Ploc Updater
+
+on:
+  push:
+    paths:
+      - '.github/workflows/ploc-updater.yml'
+      - 'property-detail-scraper.py'
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '0 8 6 * *'
+
+jobs:
+  script:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Data scraping and export
+      id: scrape
+      run: |
+        python -u property-detail-scraper.py
+    - name: Commit & push data updates
+      run: |
+        git config --local user.name github-actions
+        git config --local user.email "action@github.com"
+        git pull
+        git add ploc/*.csv
+        if [[ $(git diff-index --cached HEAD) ]]; then
+          git commit -m "Monthly ploc update"
+          git tag -a $(date "+v%Y%m%d%H%M%S") -m "Monthly ploc update"
+          git push origin main --follow-tags
+        fi
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
