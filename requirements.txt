@@ -2,3 +2,4 @@ bs4
 cloudscraper
 numpy
 pandas
+re
