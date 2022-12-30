@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 import os
 import re
-import requests_cache
+#import requests_cache
 
 # Default Query parameter
 MARKET = 'residential'
