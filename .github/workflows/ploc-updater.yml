@@ -13,7 +13,6 @@ on:
 jobs:
   script:
     runs-on: ubuntu-latest
-    continue-on-error: true
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.10
