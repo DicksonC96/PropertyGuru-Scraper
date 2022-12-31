@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 import os
 import re
-#import requests_cache
+import requests_cache
 
 # Default Query parameter
 MARKET = 'residential'
@@ -49,6 +49,7 @@ def BSPrep(URL):
             while trial < 50:
                 scraper = cloudscraper.create_scraper()
                 print('Loading '+URL)
+                requests_cache.install_cache(expire_after=86400)
                 s = scraper.get(URL)
                 soup = BeautifulSoup(s.content, 'html.parser')
                 if "captcha" in soup.text:
@@ -68,7 +69,7 @@ def BSPrep(URL):
             exitcode = 0
             return soup
         except:
-                print('Connection reset, retrying in 1 mins...', flush=True)
+                print('Connection reset, retrying in 1 min...', flush=True)
                 time.sleep(60)
         
 def Pagination(soup):
@@ -115,7 +116,6 @@ def main():
     print('Job initiated with query on {} in {}.'.format(TYPE, STATE))
     print('\nLoading '+HEADER+KEY+QUERY+' ...\n')
 
-    #requests_cache.install_cache(expire_after=86400)
     soup = BSPrep(HEADER+KEY+QUERY)
     pages = Pagination(soup)
     print(str(pages)+' page will be scrapped.\n')
