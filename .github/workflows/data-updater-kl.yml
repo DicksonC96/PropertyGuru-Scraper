@@ -4,12 +4,12 @@ name: Data Updater KL
 on:
   push:
     paths:
-      - '.github/workflows/data-updater-kl.yml'
+#      - '.github/workflows/data-updater-kl.yml'
       - 'data-scraper-v2alpha.py'
   pull_request:
     branches: [ main ]
-  schedule:
-    - cron: '0 8 1 * *'
+#  schedule:
+#    - cron: '0 8 1 * *'
 
 jobs:
   script:
