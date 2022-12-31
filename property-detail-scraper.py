@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 import os
 import re
-import requests_cache
+#import requests_cache
 
 # Default Query parameter
 MARKET = 'residential'
@@ -49,7 +49,7 @@ def BSPrep(URL):
             while trial < 50:
                 scraper = cloudscraper.create_scraper()
                 print('Loading '+URL)
-                requests_cache.install_cache(expire_after=86400)
+                #requests_cache.install_cache(expire_after=86400)
                 s = scraper.get(URL)
                 soup = BeautifulSoup(s.content, 'html.parser')
                 if "captcha" in soup.text:
