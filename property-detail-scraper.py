@@ -11,7 +11,7 @@ import requests_cache
 # Default Query parameter
 MARKET = 'residential'
 TYPE = 'condo'
-STATE = 'kl'
+STATE = 'all'
 
 ### CODE STARTS HERE ###
 
