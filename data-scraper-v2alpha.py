@@ -1,12 +1,15 @@
 from bs4 import BeautifulSoup
 import time
-from datetime import date
+from datetime import date, datetime, timedelta
 import cloudscraper
 import numpy as np
 import pandas as pd
 import os
 import hashlib
 import argparse
+import re
+import httpx
+import cfscrape
 
 # Default Query parameter
 MARKET = 'residential'
@@ -48,6 +51,7 @@ def BSPrep(URL):
             trial = 0
             while trial < 10:
                 scraper = cloudscraper.create_scraper()
+                #client = httpx.Client(http2=True)
                 print('Loading '+URL)
                 s = scraper.get(URL)
                 soup = BeautifulSoup(s.content, 'html.parser')
@@ -95,10 +99,10 @@ def LinkScraper(soup):
     return(links)
 
 def InfoExtract(pname, soup, key):
-    page_listing = []
     i = -1 if 'sale' in key else 0
     type = 'Sale' if 'sale' in key else 'Rent'
     for property in soup.find_all(itemtype="https://schema.org/Place"):
+        listid = property["data-listing-id"]
         try:
             bed = property.find('span', class_="bed").text.strip()
             bath = property.find('span', class_="bath").text.strip()
@@ -126,19 +130,25 @@ def InfoExtract(pname, soup, key):
             author = property.find('span', class_='name').text
         except AttributeError:
             author = np.nan
-        page_listing.append([pname, type, price, bed, bath, sqft, author])
+        posted = property.find("i", class_="pgicon pgicon-clock-o").text
+        if posted[-1] == "h":
+            listtime = str(datetime.now()-timedelta(hours=int(posted[0:-1])))
+        elif posted[-1] == "d":
+            listtime = str(datetime.now()-timedelta(days=int(posted[0:-1])))
+        page_listing = [listid, pname, type, price, bed, bath, sqft, author, listtime]
     return page_listing
 
 def PropScrapper(pname, plink, key):
     prop_listing = []
     soup = BSPrep(plink.replace('/condo/', key))
+    pid = re.search(r'\d+$', plink).group(0)
     title = soup.find('h1', class_='title search-title text-transform-none')
     total = title['title'].split(' ')[0]
-    prop_listing += InfoExtract(pname, soup, key)
+    prop_listing.append(InfoExtract(pname, soup, key)+pid)
     if total != 'No' and int(total) > 20:
         for page in range(2, int(total)//20+2):
             soup = BSPrep(plink.replace('/condo/', key)+'/'+str(page))
-            prop_listing += InfoExtract(pname, soup, key)
+            prop_listing.append(InfoExtract(pname, soup, key)+pid)
     return prop_listing
 
 def md5hash(datafile, hashfile):
@@ -217,7 +227,7 @@ def main():
             data += rent
         
         # Result into DataFrame and Analysis
-        df = pd.DataFrame(data, columns=['PropertyName','Type','Price','Bedrooms','Bathrooms','Sqft','Author'])
+        df = pd.DataFrame(data, columns=['ListID','PropertyName','Type','Price','Bedrooms','Bathrooms','Sqft','Author','ListDate','PropertyID'])
 
         # Check if data directory exists
         if not os.path.isdir(LIST_DIR):
