@@ -8,8 +8,8 @@ import os
 import hashlib
 import argparse
 import re
-import httpx
-import cfscrape
+#import httpx
+#import cfscrape
 
 # Default Query parameter
 MARKET = 'residential'
