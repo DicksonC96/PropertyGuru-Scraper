@@ -4,12 +4,12 @@ name: Data Updater PLS KDH KTN TRG PHG
 on:
   push:
     paths:
-      - '.github/workflows/data-updater-plskdhktntrgphg.yml'
+#      - '.github/workflows/data-updater-plskdhktntrgphg.yml'
       - 'data-scraper-v2alpha.py'
   pull_request:
     branches: [ main ]
-  schedule:
-    - cron: '0 8 1 * *'
+#  schedule:
+#    - cron: '0 8 1 * *'
 
 jobs:
   script:
