@@ -3,12 +3,12 @@ name: Ploc Updater
 on:
   push:
     paths:
-      - '.github/workflows/ploc-updater.yml'
+#      - '.github/workflows/ploc-updater.yml'
       - 'property-detail-scraper.py'
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: '0 8 6 * *'
+#    - cron: '0 8 6 * *'
 
 jobs:
   script:
